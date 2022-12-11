@@ -2,4 +2,5 @@ collections:
   discover-manjusri:
     output: true
     order:
+      - Our School.md
       - A Story on Manjusri Bodhisattva.md
