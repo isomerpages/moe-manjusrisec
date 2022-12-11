@@ -1,4 +1,5 @@
 collections:
   discover-manjusri:
     output: true
-    order: []
+    order:
+      - A Story on Manjusri Bodhisattva.md
