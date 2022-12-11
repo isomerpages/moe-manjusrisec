@@ -1,6 +1,6 @@
 title: Title
 url: https://manjusrisec.moe.edu.sg
-favicon: /images/favicon-isomer.ico
+favicon: /images/faveicon.png
 colors:
   primary-color: "#6031b6"
   secondary-color: "#4372d6"
@@ -51,7 +51,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.dieez2cz1v0q1.amplifyapp.com
 prod: https://master.dieez2cz1v0q1.amplifyapp.com
-shareicon: /images/isomer-logo.svg
+shareicon: /images/logo.png
 is_government: false
 facebook-pixel: ""
 google_analytics: ""
