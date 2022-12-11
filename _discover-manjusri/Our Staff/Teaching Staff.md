@@ -91,8 +91,8 @@ third_nav_title: Our Staff
 
 ##### Flexi-Adjunct Teachers	
 
-| Name                                        |  Email                             |
-|---------------------------------------------|------------------------------------|
+| Name              |  Email                        |
+|---------|---------------------------|
 | Mdm Cheong Siew Yie                         |  cheong_siew_yie@moe.edu.sg        |
 | Mr Teo Huay Meng, Joseph                    |  joseph_teo_huay_meng@moe.edu.sg   |
 | Mr Mohamed Imran Bin Mustaffa               |  mohamed_imran_mustaffa@moe.edu.sg |
