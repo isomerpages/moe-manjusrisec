@@ -2,6 +2,7 @@ collections:
   discover-manjusri:
     output: true
     order:
+      - Our Staff/Executive Committee.md
       - Our Staff/.keep
       - A Story on Manjusri Bodhisattva.md
       - Our School.md
