@@ -5,7 +5,7 @@ description: ""
 ---
 # Our School
 
-| <span style = "color: #B42025; text-align: center"> <b>School Vision</b> </span>      | School Mission      | School Values |
+| <span style = "color: #B42025; text-align: center"> <b>School Vision</b> </span>      |    <span style = "color: #B42025; text-align: center"> <b>School Mission</b> </span>   | <span style = "color: #B42025; text-align: center"> <b>School Values</b> </span> |
 |:-----------:|:-----------:|:--------------:|
 | A Vibrant Learning Community distinguished by Wisdom, Conduct, Benevolence and Aspiration | Nurturing Manjusrians as Passionate Learners and Compassionate Leaders who are future-ready and anchored in values |       Respect <br>Integrity<br>Care<br>Excellence        |
 
