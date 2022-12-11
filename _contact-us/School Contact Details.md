@@ -21,4 +21,4 @@ Singapore 408940
 
 View location map at <a href="http://www.onemap.sg/?SearchVal=408940&LW:Y&wO5d:IfYIR_J,IhqhI_f,Iaqbf_c,Ihacc_R,c" target="_blank">onemap.sg</a>
 
-<a href="http://www.onemap.sg/?SearchVal=408940&LW:Y&wO5d:IfYIR_J,IhqhI_f,Iaqbf_c,Ihacc_R,c" target = "_blank"> <img src="/images/Contact%20us/mjrmap.jpg" style="width:50%"></a>
+<a href="http://www.onemap.sg/?SearchVal=408940&LW:Y&wO5d:IfYIR_J,IhqhI_f,Iaqbf_c,Ihacc_R,c" target = "_blank"> <img src="/images/Contact%20us/mjrmap.jpg"></a>
