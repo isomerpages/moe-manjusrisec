@@ -6,4 +6,4 @@ third_nav_title: Our Staff
 ---
 # Executive Committee
 
-School Leader	
+<span style = "color: #B42025"> <b>School Leader</b> </span>
