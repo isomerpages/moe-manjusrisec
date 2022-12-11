@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Title
+title: Manjusri Secondary School
 description: An Isomer site of the Singapore Government
 image: /images/logo.png
 permalink: /
@@ -25,3 +25,4 @@ sections:
       button: Button text
       url: /faq/
 ---
+
