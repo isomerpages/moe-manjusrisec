@@ -76,3 +76,26 @@ third_nav_title: Our Staff
 | 5A    | Ms Natasha Loh Tzi Wui                           | loh_tzi_wui_natasha@moe.edu.sg             |
 
 
+##### Other Teachers	
+
+| Name                          | Email                                |
+|-------------------------------|--------------------------------------|
+| Mr Chan Ze Wei                | chan_ze_wei@moe.edu.sg               |
+| Mrs Cheng-Ling Ai Keow        | ling_ai_keow@moe.edu.sg              |
+| Mr Lee Beng Huat              | lee_beng_huat@moe.edu.sg             |
+| Mdm Pan Ping                  | pan_ping@moe.edu.sg                  |
+| Ms Tan Ai Hua                 | tan_ai_hua@moe.edu.sg                |
+| Ms Wong Sook Fong Shirley     | wong_sook_fong@moe.edu.sg            |
+| Mr Tan Poh Pin                | tan_poh_pin@moe.edu.sg               |
+| Dr Muhammad Mubarak Bin Habib | muhammad_mubarak_habib_md@moe.edu.sg |
+
+##### Flexi-Adjunct Teachers	
+
+| Name                                        |  Email                             |
+|---------------------------------------------|------------------------------------|
+| Mdm Cheong Siew Yie                         |  cheong_siew_yie@moe.edu.sg        |
+| Mr Teo Huay Meng, Joseph                    |  joseph_teo_huay_meng@moe.edu.sg   |
+| Mr Mohamed Imran Bin Mustaffa               |  mohamed_imran_mustaffa@moe.edu.sg |
+| Mrs Yong-Liow Chai Leng<br>(Senior Teacher) |  liow_chai_leng@moe.edu.sg         |
+| Mrs Fang Chunhua, Helen                     |  fang_chunhua_helen@moe.edu.sg     |
+| Ms Chan Wan Yi Mildred                      |  chan_wan_yi_mildred@moe.edu.sg    |
