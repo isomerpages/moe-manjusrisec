@@ -19,3 +19,4 @@ description: ""
 |  ![](/images/Discover%20Manjusri/Our%20school/aspiration.png)    |  **Aspiration** refers to the strong desire to achieve something high or great. Buddhists observe the Four Aspiration, namely better conduct, self-improvement, pursuit of truth and preservation of all life.   |
 
 
+<iframe width="644" height="362" src="https://www.youtube.com/embed/Im1Rk2epegM" title="MJR Corporate Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
