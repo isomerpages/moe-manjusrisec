@@ -16,5 +16,5 @@ third_nav_title: Departments
 
 |   |   |   |
 |:-----:|:-----:|:-----:|
-|  ![](/images/Passionate%20Learners/Mathematics/01%20ICT%20Lessons%20in%20Stat%20Poster%20Design.jpg)  ICT Lessons in Statistical Poster Design |  ![](/images/Passionate%20Learners/Mathematics/02%20Math%20Trail%201.jpg)  Outdoor Math Trail 1	  |    ![](/images/Passionate%20Learners/Mathematics/03%20%20Math%20Trail%202.jpg)  Outdoor Math Trail 2   |
+|  ![](/images/Passionate%20Learners/Mathematics/01%20ICT%20Lessons%20in%20Stat%20Poster%20Design.jpg)  ICT Lessons in Statistical Poster Design |  <img src="/images/Passionate%20Learners/Mathematics/02%20Math%20Trail%201.jpg" style="width:65%">  Outdoor Math Trail 1	  |   <img src="/images/Passionate%20Learners/Mathematics/03%20%20Math%20Trail%202.jpg" style="width:65%">  Outdoor Math Trail 2   |
 |  ![](/images/Passionate%20Learners/Mathematics/math1.png)  Outdoor Trigonometry Lesson	   |  ![](/images/Passionate%20Learners/Mathematics/math2.png) Integrative Project Group     |     ![](/images/Passionate%20Learners/Mathematics/math3.png) Integrative Project with the CPA Department    |
