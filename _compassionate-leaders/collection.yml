@@ -2,9 +2,9 @@ collections:
   compassionate-leaders:
     output: true
     order:
-      - Character Education/Sexuality Education.md
       - Character Education/.keep
       - Character Education/CCE Lessons.md
       - Character Education/Mindfulness Programme.md
       - Character Education/Education and Career Guidance.md
       - Character Education/Cyber Wellness Programme.md
+      - Character Education/Sexuality Education.md
