@@ -29,5 +29,5 @@ With the revised EL syllabus, the English classroom becomes a dynamic platform f
 Our _READ FOR LIFE PROGRAMME_ aims to promote the love for reading and cultivate good reading habits among the students. The _TEENS TAKE OVER_ initiative provides a platform for students to share their views and opinions about the books they read. Reading Ambassadors lead the way in giving value to the student’s voice. They share with their peers books that appeal to teens like themselves and invite comments that are shared in the EL classroom. Students also put up post-it notes on the _BOOK BUZZ CORNER_ and engage in discussions of articles from magazines specially curated for the various levels and streams. To equip them in their roles, Reading Ambassadors go through a special training session which includes Learning Journeys to the national libraries.
 
 |   |   |   |
-|:-:|:-:|---|
+|:----:|:----:|:---:|
 |  ![](/images/Passionate%20Learners/English/Book%20Treats%20for%20Teens.jpg)  Book Treats for Teens |    ![](/images/Passionate%20Learners/English/Teen%20Reads.jpg) Teen Reads |  ![](/images/Passionate%20Learners/English/World%20Book%20Day%20-%20Star%20Selections.jpg) World Book Day - Star Selections  |
