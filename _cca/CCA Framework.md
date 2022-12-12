@@ -47,5 +47,4 @@ _Example: How does your child want to pursue this development? What are the poss
 
 _Example: Is your child able to cope? How can you help to support him/her in the learning pursuits?_
 
-### [LEAPS 2.0 Domains  
-](https://manjusrisec.moe.edu.sg/qql/slot/u165/docs/pdf/cca/cca_framework/LEAPS%202%200%20Domains.pdf)
+### <a href="/files/LEAPS%202%200%20Domains.pdf" target="_blank">LEAPS 2.0 Domains </a>
