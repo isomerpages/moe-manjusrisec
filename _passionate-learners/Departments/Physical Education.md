@@ -8,13 +8,13 @@ third_nav_title: Departments
 
 ### What is PE @ MJR?
 
-The PE department develops students in four-domains – Personal Fitness, Cognitive, Skills and Values. Students enjoy movements, discover interest and develop a range of skills through participation in various sports. The authentic setting of PE provides avenue for social and emotional interaction and character development.
+<p style="text-align: justify;">The PE department develops students in four-domains – Personal Fitness, Cognitive, Skills and Values. Students enjoy movements, discover interest and develop a range of skills through participation in various sports. The authentic setting of PE provides avenue for social and emotional interaction and character development.</p>
 
 ### Our Programmes
 
 **Road Run**
 
-MJR Road Run promotes physical fitness and healthy lifestyle amongst the students and teachers.
+<p style="text-align: justify;">MJR Road Run promotes physical fitness and healthy lifestyle amongst the students and teachers.</p>
 
 
 |   |   |   |
@@ -27,7 +27,7 @@ MJR Road Run promotes physical fitness and healthy lifestyle amongst the student
 
 **Olympics @ MJR**
 
-Olympics @MJR creates opportunities for students to develop relationship and belongings with the class and teachers in addition to the promotion of active healthy lifestyle.
+<p style="text-align: justify;">Olympics @MJR creates opportunities for students to develop relationship and belongings with the class and teachers in addition to the promotion of active healthy lifestyle.</p>
 
 |   |   |   |
 |-----|----|------|
