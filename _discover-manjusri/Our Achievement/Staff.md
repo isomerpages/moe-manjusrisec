@@ -142,11 +142,62 @@ third_nav_title: Our Achievement
 |  MrsTan Yeoh Siew Seng  |     30 years     |
 
 
+**Others**
+
+Mdm Tay Hwee Ping, HOD Mathematics, was conferred the Long Service Medal National Day Award.
+
+Mr Ng Boon Chong, Subject Head Design & Technology, was conferred the LEAP Award (飞跃教师 奖) by Singapore Hokkien Huay Kuan.
+
+Ms Norazlin Binte Normin came in 9 th position in MOE Olive Charity 10 Km Run Women Closed Category on 20 Sep 14.
+
+
 ## 2013
 
 
+| Award                 |                  |
+|:-------------:|:----------------:|
+| **MOE Long Service Awards**           | **Years In Service** |
+|       Mdm Rose Binte Ibrahim      |     10 years     |
+|      Mr Han Ah Teck, Michael      |     10 years     |
+|         Mr Ting Kok Thiam         |     15 years     |
+| Mdm Sharifah Nazihah W M Sulaiman |     20 years     |
+|   Mr Abdul Wahid Bin Mohd Eunos   |     20 years     |
+|        Mdm Kalsom Binte Ali       |     30 years     |
 
+
+**Others**
+
+Mdm Ong Poh Hong received the STAR award under the Excellent Service Award (EXSA) 2013.
+
+Mr Azman Bin Kassim received the Inter-Racial and Religious Confidence Circles (IRCC) service award on 28 Sep 13.
+
+The following teachers have received tribute from students who won the “I Love My Teacher 2013” competition. They are:
+
+*   Mdm Cheah Lay Tin (tribute written by Winston Ng, 4F)
+*   Mrs Cheng Ai Keow (tribute written by Clement Teo, 4H)
+*   Ms Siti Sarah Binte Mamat (tribute written by Nur Azzah Bte Ramlan, 4B)
+
+The following teachers received recognition from Academy of Singapore Teachers for their contributions to Professional Development
+
+*   Mrs Irene Su (ST Geography)
+*   Mrs Tan Yeoh Siew Seng (ST Chemistry)
+*   Ms Tan Ai Hua (HOD Student Development)
 
 
 
 ## 2012
+
+
+|           Award          |                  |
+|:------------------------:|:----------------:|
+| **MOE Long Service Awards**  | **Years In Service** |
+| Mrs Yong- Liow Chai Leng |     30 years     |
+|   Mrs Poh-Ng Chooi Choo  |     25 years     |
+|     Mr Lee Beng Huat     |     20 years     |
+|      Mdm Tan Yi Hui      |     15 years     |
+|     Mdm Yong Tann Lee    |     15 years     |
+|  Mdm Elna Shirin Him Pon |     10 years     |
+|    Mr Kang Ching Choon   |     10 years     |
+|   Mr Mohamad Hafiz Khan  |     10 years     |
+|     Mdm Neo Chai Meng    |     10 years     |
+|  Mr Suhaimi Bin Mohamed  |     10 years     |
