@@ -44,17 +44,47 @@ The C&T department consists of 3 subject units, namely:
 
 
 
+#### General Music Programmes (GMP)
 
+All lower secondary students are empowered through vocal, cajon and guitar instruction to form acoustic bands. Outstanding groups have opportunities to perform on public platforms. Students engage with a wide range of musical practices to develop global awareness anchored in Singapore’s cultural heritage.
+
+|   |   |   |
+|:----:|:----:|:---:|
+|![](/images/Passionate%20Learners/Craft%20and%20Technology%20(C&T)/Cajon%20Classes.jpg) Cajon classes  |  ![](/images/Passionate%20Learners/Craft%20and%20Technology%20(C&T)/Guitar%20Classes%201.jpg) Singing Singapore songs   |![](/images/Passionate%20Learners/Craft%20and%20Technology%20(C&T)/Arts%20Fiesta%20Performance.jpg) Arts Fiesta Performance (Cajon)  |
+| ![](/images/Passionate%20Learners/Craft%20and%20Technology%20(C&T)/Class%20Performance.jpg) Class Performance |  ![](/images/Passionate%20Learners/Craft%20and%20Technology%20(C&T)/Arts%20Fiesta%20Performance%202.jpg)  Arts Fiesta Performance (Guitar)  |  ![](/images/Passionate%20Learners/Craft%20and%20Technology%20(C&T)/Guitar%20Classes%202.jpg) Music Composing  |
+
+
+#### **Design and Technology (D&T)**
+
+#### **What is Design and Technology (D&T) @MJR?**
+
+The design thinking process is central to the learning experiences in D&T@MJR.  Students develop a way of design thinking through sketching to generate and to develop design solutions for real-world contexts.  Students explore and experiment ideas through mock-ups as they seek a practical and appropriate design solution for the identified user.  Students make prototype as a cognitive and hand-ons endeavour.  Through designing and making, students develop 21st century competencies and designerly dispositions, namely, embracing uncertainties and complexities in real-world contexts, be cognizant of and resolve ill-defined problems, and relentless drive to seek out how things work.  
+
+#### **Design and Technology (D&T) Programmes**
+
+In alignment with our School Applied Learning Programme, Smart Home and Assistive Technologies, Lower Sec students conceptualize and create design solutions for the elderly and less fortunate via a series of structured design-and-make projects. Upper Sec Students extend their learning at the tertiary level as they participate in design courses in post-sec institutions and embark on learning journey to design museums. These learning experiences prepare students for the undertaking of a coursework task in the National GCE examination.
 
 
 |   |   |   |
 |:----:|:----:|:---:|
-|   |   |   |
+| ![](/images/Passionate%20Learners/Craft%20and%20Technology%20(C&T)/dnt1.png) Product Analysis 	 |  ![](/images/Passionate%20Learners/Craft%20and%20Technology%20(C&T)/dnt2.png)   Mechanism Exploration  |  ![](/images/Passionate%20Learners/Craft%20and%20Technology%20(C&T)/dnt3.png)  Product Presentation   |
+|   ![](/images/Passionate%20Learners/Craft%20and%20Technology%20(C&T)/dnt4.png)  Electronics Exploration |  ![](/images/Passionate%20Learners/Craft%20and%20Technology%20(C&T)/dnt5.png) Learning Journey to Nanyang Polytechnics   |  ![](/images/Passionate%20Learners/Craft%20and%20Technology%20(C&T)/dnt6.png)   D&T Awards Presentation |
+
+#### **Nutrition & Food Science (NFS)**  
+
+#### **What is Nutrition & Food Science (NFS) @MJR?**
+
+Every child is envisioned to be a discerning consumer and cultivates good dietary habit. Nutrition and Food Science unit offers students valuable nutrition, health and consumer education by providing an interesting curriculum, most aligned to the real-world.  
+
+#### **Nutrition & Food Science (NFS) Programmes**
+
+Lower Sec students learn to design and plan “My Healthy GAPS Diet” with an ultimate aim of a better gut health to combat the increasing trend of psychological and learning challenges such as ADHD, hyperactivity, and poor attention span. Upper Sec students learn to think critically about issues on food, health and nutrition, approach problems with creative solutions and make decisions based on sound judgment and logical reasoning through debating on nutrition controversies and completion of a coursework task in the GCE examination.
+
 
 |   |   |   |
 |:----:|:----:|:---:|
-|   |   |   |
+| ![](/images/Passionate%20Learners/Craft%20and%20Technology%20(C&T)/nfs1.png) Food modification to include good gut ingredients	 | ![](/images/Passionate%20Learners/Craft%20and%20Technology%20(C&T)/nfs2.png) Food selection and preparation using wholegrains	  |  ![](/images/Passionate%20Learners/Craft%20and%20Technology%20(C&T)/nfs3.png)  Nutritious Food Selection for CNY Hamper Distribution |
+|  ![](/images/Passionate%20Learners/Craft%20and%20Technology%20(C&T)/nfs4.png)  Debate on Nutritional Controversies 	 | ![](/images/Passionate%20Learners/Craft%20and%20Technology%20(C&T)/nfs5.png)  Plating techniques and Food Photography Skills	 |  ![](/images/Passionate%20Learners/Craft%20and%20Technology%20(C&T)/nfs6.png)  Food preparation   |
 
-|   |   |   |
-|:----:|:----:|:---:|
-|   |   |   |
+
+
