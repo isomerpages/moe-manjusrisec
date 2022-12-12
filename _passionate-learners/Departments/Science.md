@@ -25,7 +25,7 @@ The Science department takes pride in igniting curiosity and inquiry to develop 
 
 |   |   |
 |:-----:|:----:|
-|  ![](/images/Passionate%20Learners/Science/Pineapple%20Jelly%20-%20Biology%20Alternative%20Assessment.png) Pineapple Jelly (Biology Alternative Assessment)  |  ![](/images/Passionate%20Learners/Science/Physics%20Alternative%20Assesment.jpg)   Balloon-Powered Vehicle (Physics Alternative Assessment)
+|  ![](/images/Passionate%20Learners/Science/Pineapple%20Jelly%20-%20Biology%20Alternative%20Assessment.png) Pineapple Jelly (Biology Alternative Assessment)  |  <img src="/images/Passionate%20Learners/Science/Physics%20Alternative%20Assesment.jpg" style="width:85%">   Balloon-Powered Vehicle (Physics Alternative Assessment)
  |
 
 
