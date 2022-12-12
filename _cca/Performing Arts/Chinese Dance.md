@@ -37,8 +37,8 @@ It is an honour for our dancers to showcase their gracefulness in the annual sch
 
 |   |   |   |
 |---|---|---|
-|  ![](/images/Cca/Chinese%20dance/chinese_dance01.png)  Dancers performing a Spring Rain Dance  |  ![](/images/Cca/Chinese%20dance/chinese_dance02.png)   |  ![](/images/Cca/Chinese%20dance/chinese_dance03.png)     |
-|  ![](/images/Cca/Chinese%20dance/chinese_dance04.png)     |  ![](/images/Cca/Chinese%20dance/chinese_dance05.png)     |  ![](/images/Cca/Chinese%20dance/chinese_dance06.png)   |
+|  ![](/images/Cca/Chinese%20dance/chinese_dance01.png)  Dancers performing a Spring Rain Dance  |  ![](/images/Cca/Chinese%20dance/chinese_dance02.png)  Dance performance at La Salle for Anniversary   |  ![](/images/Cca/Chinese%20dance/chinese_dance03.png) Elegance    |
+|  ![](/images/Cca/Chinese%20dance/chinese_dance04.png)Dancers performing a Malay traditional dance     |  ![](/images/Cca/Chinese%20dance/chinese_dance05.png) Dancers striking a final pose!    |  ![](/images/Cca/Chinese%20dance/chinese_dance06.png)  Dancers performing a contemporary dance  |
 
 **Open House**
 
