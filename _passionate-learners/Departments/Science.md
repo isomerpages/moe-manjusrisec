@@ -50,5 +50,5 @@ In the area of Physical Sciences, we engage our students in two key platforms, n
 
 |   |   |
 |:-----:|:----:|
-|  ![](/images/Passionate%20Learners/Science/Green%20Wave%202019.jpg)   Green Wave |  ![](/images/Passionate%20Learners/Science/LJ%20to%20NUS%20Anatomy%20Museum.jpg)  NUS Anatomy Museum  |
+|  ![](/images/Passionate%20Learners/Science/Green%20Wave%202019.jpg)   Green Wave |  <img src="/images/Passionate%20Learners/Science/LJ%20to%20NUS%20Anatomy%20Museum.jpg" style="width:55%">  NUS Anatomy Museum  |
 | ![](/images/Passionate%20Learners/Science/LJ%20to%20Sungei%20Buloh%20Wetland%20Reserve.jpg) Sec 1 Learning Journey to Sungei Buloh Wetland Reserve 	 | ![](/images/Passionate%20Learners/Science/Environmental%20Education.jpg) Exhibition on Biodiversity Conservation  |
