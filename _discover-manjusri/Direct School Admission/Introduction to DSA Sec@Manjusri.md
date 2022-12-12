@@ -10,12 +10,12 @@ third_nav_title: Direct School Admission
 
 <p style="text-align: justify;">Manjusri Secondary School admits students through the Direct School Admission – Secondary Schools exercise (DSA-Sec). Our DSA-Sec selection criteria is premised on the applicants’ aptitude and interests in either: </p>
 
-1.  **[Science and Technology](https://manjusrisec.moe.edu.sg/passionate-learners/applied-learning-programme);**
-2.  **[Chinese Dance](https://manjusrisec.moe.edu.sg/cca/performing-arts);**
-3.  [**Chinese Orchestra**](https://manjusrisec.moe.edu.sg/cca/performing-arts)
-4.  **[Choir;](https://manjusrisec.moe.edu.sg/cca/performing-arts)**
-5.  **[Concert Band;](https://manjusrisec.moe.edu.sg/cca/performing-arts) or**
-6.  **[Wushu](https://manjusrisec.moe.edu.sg/cca/sports)** 
+1.  **<a href="https://manjusrisec.moe.edu.sg/passionate-learners/applied-learning-programme" target="_blank">Science and Technology</a>;**
+2.  **<a href="https://manjusrisec.moe.edu.sg/cca/performing-arts" target="_blank">Chinese Dance</a>;**
+3.  <a href="https://manjusrisec.moe.edu.sg/cca/performing-arts" target="_blank"><b>Chinese Orchestra</b></a>
+4.  **<a href="https://manjusrisec.moe.edu.sg/cca/performing-arts" target="_blank">Choir;</a>**
+5.  **<a href="https://manjusrisec.moe.edu.sg/cca/performing-arts" target="_blank">Concert Band;</a> or**
+6.  **<a href="https://manjusrisec.moe.edu.sg/cca/sports" target="_blank">Wushu</a>** 
 
 <p style="text-align: justify;">For more information in the DSA-Sec talent area, please click on the respective above link.</p>
 
