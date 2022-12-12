@@ -65,10 +65,14 @@ Once every two years, our dancers will gear up for the inaugural Singapore Youth
 
 **SYF Arts Celebration**
 
+Our dancers performed at Esplanade in celebration of the Biannual Singapore Youth Festival Arts Presentation.
+
+
+
 |   |   |   |
 |---|---|---|
-|   |   |   |
-|   |   |   |
+|  ![](/images/Cca/Chinese%20dance/SYF%20Celebrate1.jpg) |   ![](/images/Cca/Chinese%20dance/SYF%20Celebrate2.jpg)  |   ![](/images/Cca/Chinese%20dance/SYF%20Celebrate3.jpg) |
+
 
 
 **MJR Jams**
