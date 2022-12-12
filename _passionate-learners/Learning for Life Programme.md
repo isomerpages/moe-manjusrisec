@@ -28,7 +28,7 @@ description: ""
 **2\. Arts/ Photography Enrichment**
 
 
-The Arts/Photography enrichment develops students' artistic sense in capturing aspects of their life. It also exposes students to basic photography principles and develops creativity in fundamental photography.
+<p style="text-align: justify;">The Arts/Photography enrichment develops students' artistic sense in capturing aspects of their life. It also exposes students to basic photography principles and develops creativity in fundamental photography.</p>
 
 
 |   |   |   |
@@ -41,7 +41,7 @@ The Arts/Photography enrichment develops students' artistic sense in capturing a
 **3\. Morning Jams @ MJR**
 
 
-Morning Jams @ MJR is a platform for students to showcase their talents in singing, music making and dance in performance. This allows students to perform in front of their peers in an informal setting to build up on their confidence.
+<p style="text-align: justify;">Morning Jams @ MJR is a platform for students to showcase their talents in singing, music making and dance in performance. This allows students to perform in front of their peers in an informal setting to build up on their confidence.</p>
 
 
 |   |   |   |
@@ -52,7 +52,7 @@ Morning Jams @ MJR is a platform for students to showcase their talents in singi
 
 **4\. Live @ MJR**
 
-Live @ MJR is a platform for the students to be exposed to various art forms through interactive assembly programmes.
+<p style="text-align: justify;">Live @ MJR is a platform for the students to be exposed to various art forms through interactive assembly programmes.</p>
 
 |   |   |   |
 |:------:|:---:|:----:|
