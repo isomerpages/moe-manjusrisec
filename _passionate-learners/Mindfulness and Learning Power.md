@@ -19,3 +19,10 @@ Our Mindfulness and Learning Power Framework\* guides us in designing teaching
 *   develop teachers to bring mindful awareness into the classrooms and intentionally integrate learning power strategies in their lessons.
 
 <center><b>*Mindfulness and Learning Power Framework</b></center>
+
+|             Focus Areas             | Attitudes of mindfulness &<br>Learning Power dispositions         |
+|:--------:|---------------------|
+|  **1. Mindful Learning Environment**    |                                         Noticing<br>Managing Distraction<br>Awareness & Attention                                          |
+|  **2. Positive Relationships**          |             Kindness    Collaboration<br>Interdependence    Trust & Connection<br>  Empathy & Listening    Being non-judgemental           |
+| **3. Engagement**                       |                    Gratitude   Absorption<br>       Perseverance   Motivation to Learn<br>  Sense of Wonder & Curiosity                    |
+| **4. Culture of Thinking and Learning** |   Practise a growth mindset<br>   Planning   Capitalising<br>    Revising   Questioning<br>Making Links   Meta Learning<br>Reflectiveness  |
