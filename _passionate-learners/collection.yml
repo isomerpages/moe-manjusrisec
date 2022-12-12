@@ -2,7 +2,7 @@ collections:
   passionate-learners:
     output: true
     order:
-      - Reading for Literacy Programme.md
       - Mindfulness and Learning Power.md
       - Applied Learning Programme.md
       - Learning for Life Programme.md
+      - Reading for Literacy Programme.md
