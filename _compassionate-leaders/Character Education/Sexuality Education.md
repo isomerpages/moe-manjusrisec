@@ -106,3 +106,17 @@ _**eTeens**_ **Programme** :
 |----------------|----------------|-------------------|
 | Mass Talk by HPB appointed vendor | Awareness of the different STIs and HIV/AIDS<br><br>Modes of transmission<br><br>Modes of protection, specifically on how the condom is used<br><br>Consequences and impact of STIs/HIV<br> | Term 3 <br>Week 1 |
 | Classroom-based Lesson            | Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making<br>                                                               | Term 3 <br>Week 2 |
+
+
+
+**Information for Parents**
+
+<p style="text-align: justify;">10. Parents may opt their children out of the Sexuality Education lessons, <i>eTeens</i> and/or supplementary sexuality education programmes by MOE-approved external providers.</p>
+
+<p style="text-align: justify;">11. Parents who wish to opt their children out of the <b>Sexuality Education lessons</b> need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable <a href="/files/Annex%20A_SEd_Opt%20Out%20Form.pdf" target="_blank">here</a>. The completed form is to be submitted by 25/01/2022.</p>
+
+<p style="text-align: justify;">12. Parents who wish to opt their children out of the <b><i>eTeens</i> programme</b> need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable <a href="/Annex%20B_ETeens_Opt%20Out%20Form.pdf" target="_blank">here</a>.  The completed form is to be submitted by 25/01/2022.</p>
+
+<p style="text-align: justify;">13. Parents can contact the school at 6842 4558 or email us at manjusri_ss@moe.edu.sg for discussion or to seek clarification about the school’s sexuality education programme.</p>
+
+<p style="text-align: justify;">14. Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.</p>
