@@ -39,8 +39,8 @@ Monday & Wednesday 3pm-6pm
 
 |   |   |   |
 |:---:|:---:|:---:|
-|   |   |   |
-|   |   |   |
+|  ![](/images/Cca/Buddhist%20Interact%20Club/1_1_Dharma%20session.jpg)  Dharma Session 	 |  ![](/images/Cca/Buddhist%20Interact%20Club/1-2_Meditation.jpeg)   Meditation   |  ![](/images/Cca/Buddhist%20Interact%20Club/1-3_Mindfulness%20Course%20by%20Mr%20Ong%20Pee%20Eng.jpeg)  Mindfulness Course by Mr Ong Pee Eng   |
+|  ![](/images/Cca/Buddhist%20Interact%20Club/1-4_Online%20Mindfulness%20Course%20by%20Brahm%20Centre.jpeg)  Online Mindfulness Course by Brahm Centre |    ![](/images/Cca/Buddhist%20Interact%20Club/1-5_Architecture%20of%20Buddhist%20Temples.jpg) Architecture of Buddhist Temples  |  ![](/images/Cca/Buddhist%20Interact%20Club/1-6_Drawing%20by%20Hong%20Jun%20Kiat.jpeg)  Drawing by Hong Jun Kiat  |
 
 
 **Competitions/Performance**
