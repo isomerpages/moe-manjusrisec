@@ -2,6 +2,7 @@ collections:
   discover-manjusri:
     output: true
     order:
+      - Our Achievement/Students.md
       - Our Achievement/.keep
       - A Story on Manjusri Bodhisattva.md
       - Our School.md
