@@ -2,10 +2,6 @@ collections:
   discover-manjusri:
     output: true
     order:
-      - Our History, Crest & Songs/.keep
-      - Our History, Crest & Songs/Our History.md
-      - Our History, Crest & Songs/Our Crest.md
-      - Our History, Crest & Songs/Our Song.md
       - A Story on Manjusri Bodhisattva.md
       - Our School.md
       - Our Staff/.keep
@@ -13,3 +9,7 @@ collections:
       - Our Staff/Teaching Staff.md
       - Our Staff/Non Teaching Staff.md
       - Our Principal's Message.md
+      - Our History, Crest & Songs/.keep
+      - Our History, Crest & Songs/Our History.md
+      - Our History, Crest & Songs/Our Crest.md
+      - Our History, Crest & Songs/Our Song.md
