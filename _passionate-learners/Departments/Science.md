@@ -37,7 +37,7 @@ In the area of Physical Sciences, we engage our students in two key platforms, n
 
 |   |   |
 |-----|----|
-|  ![](/images/Passionate%20Learners/Science/science1.png)  Students trying it out themselves |  ![](/images/Passionate%20Learners/Science/science2.png)   Students appreciating the experimental setups  |
+|  ![](/images/Passionate%20Learners/Science/science1.png)  Students trying it out themselves | <img src="/images/Passionate%20Learners/Science/science2.png" style="width:80%">   Students appreciating the experimental setups  |
 
 
 **Life Sciences & Environmental Education**
