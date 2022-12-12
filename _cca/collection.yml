@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - CCA Framework.md
       - Performing Arts/Chinese Dance.md
       - Performing Arts/.keep
       - Clubs and Societies/.keep
