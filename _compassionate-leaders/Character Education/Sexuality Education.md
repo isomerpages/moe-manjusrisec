@@ -47,3 +47,20 @@ b\.    Character and Citizenship Education (CCE)
 <p style="text-align: justify;">7. Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age. </p>
 
 **At MANJUSRI Secondary School, the following lessons from the Sexuality Education Programme will be taught in <u>2022:</u>**
+
+
+<center><b>Secondary 1</b></center>
+
+
+
+
+<center><b>Secondary 2</b></center>
+
+
+
+<center><b>Secondary 3</b></center>
+
+
+
+
+<center><b>Secondary 4</b></center>
