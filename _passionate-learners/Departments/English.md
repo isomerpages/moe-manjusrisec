@@ -8,13 +8,13 @@ third_nav_title: Departments
 
 ### What is English @ MJR?
 
-At Manjusri Secondary School, we aim to develop our students to be effective communicators by equipping them with the necessary language skills and competencies of the 21st century. Our students keep abreast of current affairs and global issues through a myriad of activities that are conducted both in and out of the classroom. Through participation in these activities, our students develop critical thinking and become discerning users of information, a life skill that puts them in good stead for the future.
+<p style="text-align: justify;">At Manjusri Secondary School, we aim to develop our students to be effective communicators by equipping them with the necessary language skills and competencies of the 21st century. Our students keep abreast of current affairs and global issues through a myriad of activities that are conducted both in and out of the classroom. Through participation in these activities, our students develop critical thinking and become discerning users of information, a life skill that puts them in good stead for the future.</p>
 
 ### Our Programmes  
 
 **EL 2020**
 
-With the revised EL syllabus, the English classroom becomes a dynamic platform for language learning. Teachers and students explore authentic tasks using rich texts and multi-modal materials. Selected themes anchor the learning that provides a study of language in use in real contexts.
+<p style="text-align: justify;">With the revised EL syllabus, the English classroom becomes a dynamic platform for language learning. Teachers and students explore authentic tasks using rich texts and multi-modal materials. Selected themes anchor the learning that provides a study of language in use in real contexts.</p>
 
 
 |   |   |
@@ -35,7 +35,7 @@ Our _READ FOR LIFE PROGRAMME_ aims to promote the love for reading and cultiva
 
 **EL Week**
 
-One week in Semester 2 is dedicated to activities that aim to heighten student awareness and appreciation of the English language. During _EL WEEK_, lessons come alive through language games, quizzes and book-based enactments in class and on stage. Students learn that language is the key to unimaginable worlds of wonder.
+<p style="text-align: justify;">One week in Semester 2 is dedicated to activities that aim to heighten student awareness and appreciation of the English language. During <i>EL WEEK</i>, lessons come alive through language games, quizzes and book-based enactments in class and on stage. Students learn that language is the key to unimaginable worlds of wonder.</p>
 
 |   |   |   |
 |:-----:|:----:|:----:|
@@ -44,6 +44,6 @@ One week in Semester 2 is dedicated to activities that aim to heighten student a
 
 **The Media Resource Library (MRL)** 
 
-Our school values the role of the MRL in supporting the reading habit. Together with our library provider, the MRL organises regular theme-based and subject-based book displays. We are especially proud of _THE PRINCIPAL’S SELECTION_ – a collection of books contributed by the Principal to spark the joy of reading. 
+<p style="text-align: justify;">Our school values the role of the MRL in supporting the reading habit. Together with our library provider, the MRL organises regular theme-based and subject-based book displays. We are especially proud of <i>THE PRINCIPAL’S SELECTION</i> – a collection of books contributed by the Principal to spark the joy of reading. </p>
 
-Our school also recognises the need to engage students in reading using current ICT tools. Laptops and iPads are available for students to use in the library should they choose to extend their reading and research online.
+<p style="text-align: justify;">Our school also recognises the need to engage students in reading using current ICT tools. Laptops and iPads are available for students to use in the library should they choose to extend their reading and research online.</p>
