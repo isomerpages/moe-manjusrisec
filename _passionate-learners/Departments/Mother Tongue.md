@@ -17,3 +17,19 @@ third_nav_title: Departments
 ### Our Programmes
 
 **母语周活动**
+
+
+|   |   |   |
+|:----:|:-----:|:------:|
+| ![](/images/Passionate%20Learners/Mother%20Tongue/mt1.png) |  ![](/images/Passionate%20Learners/Mother%20Tongue/mt1.png)  |  ![](/images/Passionate%20Learners/Mother%20Tongue/mt1.png)  |
+|  ![](/images/Passionate%20Learners/Mother%20Tongue/mt1.png)  |  ![](/images/Passionate%20Learners/Mother%20Tongue/mt1.png)  |  ![](/images/Passionate%20Learners/Mother%20Tongue/mt1.png)  |
+
+
+
+**Aktiviti-aktiviti**
+
+
+|   |   |   |
+|:----:|:-----:|:------:|
+| ![](/images/Passionate%20Learners/Mother%20Tongue/mt1.png) |  ![](/images/Passionate%20Learners/Mother%20Tongue/mt1.png)  |  ![](/images/Passionate%20Learners/Mother%20Tongue/mt1.png)  |
+|  ![](/images/Passionate%20Learners/Mother%20Tongue/mt1.png)  |  ![](/images/Passionate%20Learners/Mother%20Tongue/mt1.png)  |  ![](/images/Passionate%20Learners/Mother%20Tongue/mt1.png)  |
