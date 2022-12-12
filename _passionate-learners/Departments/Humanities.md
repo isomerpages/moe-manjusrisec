@@ -29,7 +29,10 @@ third_nav_title: Departments
 
 **Humanities**
 
-
+|   |   |   |
+|-------|------|------|
+| ![](/images/Passionate%20Learners/Humanities/01%20Lower%20Sec%20GI%20Water.jpg) Lower Sec Geographical Investigation of Water    |  ![](/images/Passionate%20Learners/Humanities/02%20Upp%20Sec%20GI-Gardens%20by%20the%20Bay.jpg)  Upper Sec Geographical Investigation of Tourism at Gardens by the Bay  |  ![](/images/Passionate%20Learners/Humanities/03%20Geylang%20Police.jpeg)   Social Studies Learning Journey to Geylang Neighbourhood Police Centre |
+| ![](/images/Passionate%20Learners/Humanities/04%20CPF1.jpg) Social Studies Central Provident Fund School Exhibition   | ![](/images/Passionate%20Learners/Humanities/05%20Get%20Real%20Get%20Reel.jpeg)  Social Studies participation in ‘Get Real, Get Reel’ Dialogue   |   ![](/images/Passionate%20Learners/Humanities/06%20History%20Card%20Game2.jpeg)  History Gamification: Learning with the use of Card Games  |
 
 **Principles of Accounts**
 
