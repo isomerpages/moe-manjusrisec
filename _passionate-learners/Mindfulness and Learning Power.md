@@ -3,7 +3,6 @@ title: Mindfulness and Learning Power
 permalink: /passionate-learners/mindfulness-and-learning-power/
 description: ""
 ---
-
 <img src="/images/Passionate%20Learners/Mindfulness%20and%20Learning%20Power/MLP%20Logo.jpg" style="width:40%">
 
 <center><b>Vision:</b> Nurturing Positive Learning Dispositions Mindfully</center>
@@ -19,4 +18,4 @@ Our Mindfulness and Learning Power Framework\* guides us in designing teaching
 *   provide students with opportunities to exercise these desired learning dispositions and
 *   develop teachers to bring mindful awareness into the classrooms and intentionally integrate learning power strategies in their lessons.
 
-<center>*Mindfulness and Learning Power Framework</center>
+<center><b>*Mindfulness and Learning Power Framework</b></center>
