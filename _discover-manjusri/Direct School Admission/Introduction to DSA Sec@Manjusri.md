@@ -6,9 +6,9 @@ third_nav_title: Direct School Admission
 ---
 # Introduction to DSA-Sec@Manjusri
 
-Direct School Admission (DSA) scheme provides students with the opportunity to seek admission to a secondary school, based on a diverse range of specific academic and non-academic achievements and talents that they can demonstrate beyond the Primary School Leaving Examination (PSLE). Primary 6 (P6) students who do not participate in the DSA-Sec will continue to seek admission based on their PSLE results through the Secondary 1 (S1) Posting.  
+<p style="text-align: justify;">Direct School Admission (DSA) scheme provides students with the opportunity to seek admission to a secondary school, based on a diverse range of specific academic and non-academic achievements and talents that they can demonstrate beyond the Primary School Leaving Examination (PSLE). Primary 6 (P6) students who do not participate in the DSA-Sec will continue to seek admission based on their PSLE results through the Secondary 1 (S1) Posting.  </p>
 
-Manjusri Secondary School admits students through the Direct School Admission – Secondary Schools exercise (DSA-Sec). Our DSA-Sec selection criteria is premised on the applicants’ aptitude and interests in either: 
+<p style="text-align: justify;">Manjusri Secondary School admits students through the Direct School Admission – Secondary Schools exercise (DSA-Sec). Our DSA-Sec selection criteria is premised on the applicants’ aptitude and interests in either: </p>
 
 1.  **[Science and Technology](https://manjusrisec.moe.edu.sg/passionate-learners/applied-learning-programme);**
 2.  **[Chinese Dance](https://manjusrisec.moe.edu.sg/cca/performing-arts);**
