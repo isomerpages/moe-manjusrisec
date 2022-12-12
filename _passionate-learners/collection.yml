@@ -2,6 +2,7 @@ collections:
   passionate-learners:
     output: true
     order:
+      - Full Subject Based Banding.md
       - Mindfulness and Learning Power.md
       - Applied Learning Programme.md
       - Learning for Life Programme.md
