@@ -98,3 +98,11 @@ _**eTeens**_ **Programme** :
 8. <i>eTeens</i> is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, for Secondary 3 students to provide them with accurate information on STIs, HIV and protection from a health perspective. <i>eTeens</i> is conducted in two segments – a mass talk segment and a classroom-based programme.
 
 9.  Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the <i>eTeens</i> programme is that students are empowered to make wise, informed and sensible decisions.
+
+
+**At Manjusri Secondary School, the _eTeens_ programme will be implemented as follows in 2022:**
+
+| Topics/Lessons          | Programme Learning Objectives            | Time Period       |
+|----------------|----------------|-------------------|
+| Mass Talk by HPB appointed vendor | <br>Awareness of the different STIs and HIV/AIDS<br><br>Modes of transmission<br><br>Modes of protection, specifically on how the condom is used<br><br>Consequences and impact of STIs/HIV<br> | Term 3 <br>Week 1 |
+| Classroom-based Lesson            | <br>Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making<br>                                                               | Term 3 <br>Week 2 |
