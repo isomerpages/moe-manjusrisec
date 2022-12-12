@@ -91,3 +91,10 @@ b\.    Character and Citizenship Education (CCE)
 
 
 _\*CCE2021 Secondary 5 lessons will be implemented in 2023. Secondary 5 students in 2022 will use CCE2021 Secondary 4 Lesson 1, “Levelling the Ground” from the unit, “Respectful Relationship and Safety”._
+
+
+_**eTeens**_ **Programme** :
+
+8. <i>eTeens</i> is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, for Secondary 3 students to provide them with accurate information on STIs, HIV and protection from a health perspective. <i>eTeens</i> is conducted in two segments – a mass talk segment and a classroom-based programme.
+
+9.  Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the <i>eTeens</i> programme is that students are empowered to make wise, informed and sensible decisions.
