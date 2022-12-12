@@ -23,3 +23,28 @@ description: ""
 |:----:|:---:|:-----:|
 | <img src="/images/Passionate%20Learners/Learning%20for%20Life%20Programme/Drama1.jpg" style="width:70%"> |   ![](/images/Passionate%20Learners/Learning%20for%20Life%20Programme/Drama2.jpg)   | ![](/images/Passionate%20Learners/Learning%20for%20Life%20Programme/Drama3.jpg)  |
 | <img src="/images/Passionate%20Learners/Learning%20for%20Life%20Programme/Drama4.jpg" style="width:70%">  | ![](/images/Passionate%20Learners/Learning%20for%20Life%20Programme/Drama5.jpg)  |  ![](/images/Passionate%20Learners/Learning%20for%20Life%20Programme/Drama6.jpg) |
+
+
+**2\. Arts/ Photography Enrichment**
+
+
+The Arts/Photography enrichment develops students' artistic sense in capturing aspects of their life. It also exposes students to basic photography principles and develops creativity in fundamental photography.
+
+
+|   |   |   |
+|:----:|:---:|:---:|
+|  ![](/images/Passionate%20Learners/Learning%20for%20Life%20Programme/Photo%201.jpg) |  ![](/images/Passionate%20Learners/Learning%20for%20Life%20Programme/Photo%202.jpg) |  ![](/images/Passionate%20Learners/Learning%20for%20Life%20Programme/Photo%203.jpg) |
+| ![](/images/Passionate%20Learners/Learning%20for%20Life%20Programme/Photo%204.jpg)  |![](/images/Passionate%20Learners/Learning%20for%20Life%20Programme/Photo%205.jpg)  |  ![](/images/Passionate%20Learners/Learning%20for%20Life%20Programme/Photo%206.jpg) |
+| ![](/images/Passionate%20Learners/Learning%20for%20Life%20Programme/Art1.jpg)  | ![](/images/Passionate%20Learners/Learning%20for%20Life%20Programme/Art2.jpg)  | ![](/images/Passionate%20Learners/Learning%20for%20Life%20Programme/Art3.jpg)  |
+
+
+**3\. Morning Jams @ MJR**
+
+
+Morning Jams @ MJR is a platform for students to showcase their talents in singing, music making and dance in performance. This allows students to perform in front of their peers in an informal setting to build up on their confidence.
+
+
+|   |   |   |
+|:----:|:---:|:-----:|
+|  ![](/images/Passionate%20Learners/Learning%20for%20Life%20Programme/JAMS%201.jpg) | ![](/images/Passionate%20Learners/Learning%20for%20Life%20Programme/JAMS%202.jpg)  |  ![](/images/Passionate%20Learners/Learning%20for%20Life%20Programme/Violin.jpg) |
+|   ![](/images/Passionate%20Learners/Learning%20for%20Life%20Programme/Clapper.jpg)   | ![](/images/Passionate%20Learners/Learning%20for%20Life%20Programme/Wushu.jpg)  | ![](/images/Passionate%20Learners/Learning%20for%20Life%20Programme/Precision%20Drill.jpg)  |
