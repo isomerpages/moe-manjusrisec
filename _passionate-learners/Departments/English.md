@@ -19,7 +19,7 @@ third_nav_title: Departments
 
 |   |   |
 |:-:|:-:|
-|  ![](/images/Passionate%20Learners/English/Hosting%20Overseas%20Students.jpg) Hosting Overseas Students  |   ![](/images/Passionate%20Learners/English/Language%20Collaboration.jpg)  Language Collaboration |
+|  ![](/images/Passionate%20Learners/English/Hosting%20Overseas%20Students.jpg) Hosting Overseas Students  |   <img src="/images/Passionate%20Learners/English/Language%20Collaboration.jpg" style="width:70%">  Language Collaboration |
 
 
 **Read For Life Programme** 
