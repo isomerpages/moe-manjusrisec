@@ -20,7 +20,7 @@ Our Applied Learning Programme hinges upon the central idea of **Motivating Lea
 
 This exemplifies the values-driven education our school undertakes to promote a keen interest in nation building in creating a more **vibrant, exciting** and **advanced society** for generations to come.
 
-Our Programmes  
+##### Our Programmes  
 
 The programme design focuses on nurturing a culture of experimentation, scientific inquiry and curiosity via the usage of Smart and assistive technologies to solve real world problems. Students will work in groups of 4 – 5 to acquire relevant skills in basic programming and functionality of selected sensors. 
 
@@ -31,8 +31,6 @@ The programme design focuses on nurturing a culture of experimentation, scien
 *   **Empower** students to adopt active citizenry and contribute towards a vibrant, exciting and advanced society.
 
 
-#### Progressive Level Outcomes
+##### Progressive Level Outcomes
 
 <a href="/images/Passionate%20Learners/Applied%20Learning%20Programme/Progressive%20Level%20Outcomes.jpg" target = "_blank"> <img src="/images/Passionate%20Learners/Applied%20Learning%20Programme/Progressive%20Level%20Outcomes.jpg"></a>
-
-
