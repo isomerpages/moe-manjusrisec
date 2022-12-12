@@ -2,5 +2,6 @@ collections:
   compassionate-leaders:
     output: true
     order:
+      - Character Education/Mindfulness Programme.md
       - Character Education/CCE Lessons.md
       - Character Education/.keep
