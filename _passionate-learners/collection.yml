@@ -1,4 +1,5 @@
 collections:
   passionate-learners:
     output: true
-    order: []
+    order:
+      - Mindfulness and Learning Power.md
