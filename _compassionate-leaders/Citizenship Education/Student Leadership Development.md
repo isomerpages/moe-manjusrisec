@@ -47,6 +47,6 @@ The Prefectorial Board forms the apex of the student leadership structure in Man
 
 |   |   |   |
 |:----:|:----:|:---:|
-|   ![](/images/Compassionate%20Leaders/_MG_8085.jpg)    |   ![](/images/Compassionate%20Leaders/IMG20190405122139.jpg)    |  ![](/images/Compassionate%20Leaders/IMG20190405122513.jpg)      |
+|    ![](/images/Compassionate%20Leaders/_MG_8085.jpg)   |     ![](/images/Compassionate%20Leaders/IMG20190405122139.jpg)    |  ![](/images/Compassionate%20Leaders/IMG20190405122513.jpg)      |
 
 ![](/images/Compassionate%20Leaders/leader1.png)
