@@ -31,10 +31,9 @@ Our Mindfulness and Learning Power Framework\* guides us in designing teaching
 	
 |   |   |
 |:----:|:---:|
-|  ![](/images/Passionate%20Learners/Mindfulness%20and%20Learning%20Power/Sorting%20Beans%20%20Absorption.jpg) 	<span style = "color:#0000ff"> <i>Sorting Beans & Absorption</i> </span> |  ![](/images/Passionate%20Learners/Mindfulness%20and%20Learning%20Power/Empathy%20%20Listening.jpg) <span style = "color:#0000ff"> <i>Empathy & Listening 
-</i> </span>  |
-|  ![](/images/Passionate%20Learners/Mindfulness%20and%20Learning%20Power/Sport%20Stacking%20%20Learning%20to%20Learn.jpg) <span style = "color:#0000ff"> <i>Sport Stacking & Learning to Learn	</i> </span>   | ![](/images/Passionate%20Learners/Mindfulness%20and%20Learning%20Power/Study%20Skills%20Workshop.jpg) <span style = "color:#0000ff"> <i>Study Skills Workshop
-</i> </span> |
+|  ![](/images/Passionate%20Learners/Mindfulness%20and%20Learning%20Power/Sorting%20Beans%20%20Absorption.jpg) 	<span style = "color:#0000ff"><i>Sorting Beans & Absorption</i></span> |  ![](/images/Passionate%20Learners/Mindfulness%20and%20Learning%20Power/Empathy%20%20Listening.jpg) <span style = "color:#0000ff"> <i>Empathy & Listening</i></span>  |
+|  ![](/images/Passionate%20Learners/Mindfulness%20and%20Learning%20Power/Sport%20Stacking%20%20Learning%20to%20Learn.jpg) <span style = "color:#0000ff"><i>Sport Stacking & Learning to Learn</i></span>   | ![](/images/Passionate%20Learners/Mindfulness%20and%20Learning%20Power/Study%20Skills%20Workshop.jpg) <span style = "color:#0000ff"> <i>Study Skills Workshop
+</i></span> |
 
 
 <p style="text-align: justify;">Our programme will also involve our parents to provide resources so they can play a role to support their child in strengthening the adoption of learning dispositions beyond the classrooms.</p>
