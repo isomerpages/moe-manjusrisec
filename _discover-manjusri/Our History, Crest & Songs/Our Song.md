@@ -12,20 +12,4 @@ third_nav_title: Our History, Crest & Songs
 
 ### English Translation
 
-<center>Bodhissatva Manjusri, the Light of Wisdom
-	<br><br>
-Glowing in our hearts and illuminating our minds.
-	
-Free us from greed, anger and ignorance as we strive for exemplary conduct.
-
-Forward we move with our heads held high.
-
-With great loving kindness and compassion, we help all sentient beings
-
-With wisdom, we overcome all delusions.
-
-While we wait for the Lion to stand and roar.
-
-The Truth of the Dharma, <br>
-The teachings of the Buddha, <br>
-Forever shining far and bright.</center>
+<center>Bodhissatva Manjusri, the Light of Wisdom<br><br>Glowing in our hearts and illuminating our minds.<br><br>Free us from greed, anger and ignorance as we strive for exemplary conduct.<br><br>Forward we move with our heads held high.<br><br>With great loving kindness and compassion, we help all sentient beings<br><br>With wisdom, we overcome all delusions.<br><br>While we wait for the Lion to stand and roar.<br><br>The Truth of the Dharma, <br>The teachings of the Buddha, <br>Forever shining far and bright.</center>
