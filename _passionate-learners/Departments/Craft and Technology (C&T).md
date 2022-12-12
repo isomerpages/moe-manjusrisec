@@ -46,7 +46,7 @@ The C&T department consists of 3 subject units, namely:
 
 #### General Music Programmes (GMP)
 
-All lower secondary students are empowered through vocal, cajon and guitar instruction to form acoustic bands. Outstanding groups have opportunities to perform on public platforms. Students engage with a wide range of musical practices to develop global awareness anchored in Singapore’s cultural heritage.
+<p style="text-align: justify;">All lower secondary students are empowered through vocal, cajon and guitar instruction to form acoustic bands. Outstanding groups have opportunities to perform on public platforms. Students engage with a wide range of musical practices to develop global awareness anchored in Singapore’s cultural heritage.</p> 
 
 |   |   |   |
 |:----:|:----:|:---:|
@@ -58,11 +58,11 @@ All lower secondary students are empowered through vocal, cajon and guitar instr
 
 #### **What is Design and Technology (D&T) @MJR?**
 
-The design thinking process is central to the learning experiences in D&T@MJR.  Students develop a way of design thinking through sketching to generate and to develop design solutions for real-world contexts.  Students explore and experiment ideas through mock-ups as they seek a practical and appropriate design solution for the identified user.  Students make prototype as a cognitive and hand-ons endeavour.  Through designing and making, students develop 21st century competencies and designerly dispositions, namely, embracing uncertainties and complexities in real-world contexts, be cognizant of and resolve ill-defined problems, and relentless drive to seek out how things work.  
+<p style="text-align: justify;">The design thinking process is central to the learning experiences in D&T@MJR.  Students develop a way of design thinking through sketching to generate and to develop design solutions for real-world contexts.  Students explore and experiment ideas through mock-ups as they seek a practical and appropriate design solution for the identified user.  Students make prototype as a cognitive and hand-ons endeavour.  Through designing and making, students develop 21st century competencies and designerly dispositions, namely, embracing uncertainties and complexities in real-world contexts, be cognizant of and resolve ill-defined problems, and relentless drive to seek out how things work.  </p> 
 
 #### **Design and Technology (D&T) Programmes**
 
-In alignment with our School Applied Learning Programme, Smart Home and Assistive Technologies, Lower Sec students conceptualize and create design solutions for the elderly and less fortunate via a series of structured design-and-make projects. Upper Sec Students extend their learning at the tertiary level as they participate in design courses in post-sec institutions and embark on learning journey to design museums. These learning experiences prepare students for the undertaking of a coursework task in the National GCE examination.
+<p style="text-align: justify;">In alignment with our School Applied Learning Programme, Smart Home and Assistive Technologies, Lower Sec students conceptualize and create design solutions for the elderly and less fortunate via a series of structured design-and-make projects. Upper Sec Students extend their learning at the tertiary level as they participate in design courses in post-sec institutions and embark on learning journey to design museums. These learning experiences prepare students for the undertaking of a coursework task in the National GCE examination.</p> 
 
 
 |   |   |   |
@@ -74,11 +74,11 @@ In alignment with our School Applied Learning Programme, Smart Home and Assistiv
 
 #### **What is Nutrition & Food Science (NFS) @MJR?**
 
-Every child is envisioned to be a discerning consumer and cultivates good dietary habit. Nutrition and Food Science unit offers students valuable nutrition, health and consumer education by providing an interesting curriculum, most aligned to the real-world.  
+<p style="text-align: justify;">Every child is envisioned to be a discerning consumer and cultivates good dietary habit. Nutrition and Food Science unit offers students valuable nutrition, health and consumer education by providing an interesting curriculum, most aligned to the real-world.  </p> 
 
 #### **Nutrition & Food Science (NFS) Programmes**
 
-Lower Sec students learn to design and plan “My Healthy GAPS Diet” with an ultimate aim of a better gut health to combat the increasing trend of psychological and learning challenges such as ADHD, hyperactivity, and poor attention span. Upper Sec students learn to think critically about issues on food, health and nutrition, approach problems with creative solutions and make decisions based on sound judgment and logical reasoning through debating on nutrition controversies and completion of a coursework task in the GCE examination.
+<p style="text-align: justify;">Lower Sec students learn to design and plan “My Healthy GAPS Diet” with an ultimate aim of a better gut health to combat the increasing trend of psychological and learning challenges such as ADHD, hyperactivity, and poor attention span. Upper Sec students learn to think critically about issues on food, health and nutrition, approach problems with creative solutions and make decisions based on sound judgment and logical reasoning through debating on nutrition controversies and completion of a coursework task in the GCE examination.</p> 
 
 
 |   |   |   |
