@@ -83,7 +83,7 @@ The C&T department consists of 3 subject units, namely:
 
 |   |   |   |
 |:----:|:----:|:---:|
-| ![](/images/Passionate%20Learners/Craft%20and%20Technology%20(C&T)/nfs1.png) Food modification to include good gut ingredients	 | ![](/images/Passionate%20Learners/Craft%20and%20Technology%20(C&T)/nfs2.png) Food selection and preparation using wholegrains	  |  ![](/images/Passionate%20Learners/Craft%20and%20Technology%20(C&T)/nfs3.png)  Nutritious Food Selection for CNY Hamper Distribution |
+| ![](/images/Passionate%20Learners/Craft%20and%20Technology%20(C&T)/nfs1.png) Food modification to include good gut ingredients	 | ![](/images/Passionate%20Learners/Craft%20and%20Technology%20(C&T)/nfs2.png) Food selection and preparation using wholegrains	  |  <img src="/images/Passionate%20Learners/Craft%20and%20Technology%20(C&T)/nfs3.png" style="width:70%"> Nutritious Food Selection for CNY Hamper Distribution |
 |  ![](/images/Passionate%20Learners/Craft%20and%20Technology%20(C&T)/nfs4.png)  Debate on Nutritional Controversies 	 | ![](/images/Passionate%20Learners/Craft%20and%20Technology%20(C&T)/nfs5.png)  Plating techniques and Food Photography Skills	 |  ![](/images/Passionate%20Learners/Craft%20and%20Technology%20(C&T)/nfs6.png)  Food preparation   |
 
 
