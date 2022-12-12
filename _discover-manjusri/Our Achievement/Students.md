@@ -140,7 +140,61 @@ third_nav_title: Our Achievement
 # 2013
 
 
+**Academic**
 
+| Department |       Event    | Achievements            |
+|:----------:|:-----------:|-------------------|
+|   Science  |           International Biology Olympiad           | 1 Honorable Mention, 6 Certificates of Merit |
+|            |         35 th C.B. Paul Memorial Quiz 2013         |         1 Merit Award, 1 Silver Award        |
+|            |                Young Engineers Award               |   1 Gold Award, 6 Silver, 82 Bronze Awards   |
+|    Maths   |            2012 Singapore Maths Olympiad           |     1 Silver, 1 Bronze and 5 Merit Awards    |
+|            |         Australian Mathematics Competition         |         2 Distinctions and 19 credits        |
+|            |       Singapore and ASEAN Schs Maths Olympiad      |   3 Bronze, 2 Gold and 1 3 rd place trophy   |
+|     D&T    |           Design & Technology Awards 2013          |          1 Creative Aesthetics Award         |
+|     CL     | 5 th National Sec Sch Chinese News Production 2013 |                1 Bronze Award                |
+
+**Non-Academic**
+
+|        Groups        |     Event    |     Achievements             |
+|:-------------:|:--------------:|:---------------:|
+|     Table Tennis     | National Interschool Table Tennis Individual Championship: |  Under 15 : 3 rd<br>Under 17 : Top 8 |
+|         Band         |                                                            |      Certificate of Achievement      |
+| Choir<br>CO<br>Dance |                                                            |      Certificate of Distinction      |
+|         NPCC         |                    Best Unit Competition                   |                 Gold                 |
+|          NCC         |                    Best Unit Competition                   |                 Gold                 |
+|        Scouts        |                  Frank Cooper Sands Award                  |                 Gold                 |
+|      Girl Guides     |                   Puan Noor Aishah Award                   |                 Gold                 |
+|  Basketball “B” Boys |          Inter-school Basketball Championship 2013         |                 3 rd                 |
+| Basketball “B” Girls |          Inter-school Basketball Championship 2013         |                 4 th                 |
+|  Student Leadership  |              National Youth Achievement Award              |            87 Bronze Award           |
+|                      |       Singapore Kindness Movement : Friends of Singa       | 8 students received the Merit Award  |
+
+**Niche - Wushu**
+
+| Award | Achievement |
+|:---:|:---:|
+| National Wushu Competition | Overall 5 th  position |
+
+|  Division  |       |         Medal      | Position |
+|:----------:|:-----------:|:------------:|:--------:|
+| B Division |               |                  |          |
+|   B Girls  |       Ho YingJie / 4G       |         2 nd  International Spear         |   1 st   |
+|   B Girls  |   Valerie Tan Yi Jia / 3D   |        2 nd  International Cudgel         |   3 rd   |
+|   B Girls  |       Lee Yin Cai / 4H      |        1 st  Internationa Nanquan         |   2 nd   |
+|   B Girls  |       Lee Yin Cai / 4H      |        1 st  International Nan Gun        | 3 rd     |
+|   B Girls  | Lee Yin Cai  / 4H           |        1 st  International Nan Dao        |   3 rd   |
+|   B Girls  | Tan Lin Ling Priscilla / 4G |  1 st  International 42-Style Taijiquan   |   5 th   |
+|   B Girls  | Ho YingJie / 4G             |       1 st  International Broadsword      |   5 th   |
+|   B Girls  | Tan Lin Ling Priscilla / 4G | 1 st  International 42-Style Taiji Sword  |   6 th   |
+|   B Girls  |     Lim Jia Yi Coco / 3G    |   1 st  International 42-Style Taijiquan  |   6 th   |
+|   B Girls  |   Valerie Tan Yi Jia / 3D   |      2 nd  International Broadsword       |   6 th   |
+|   B Girls  |                             |              Group JI TI DAO              |   4 th   |
+|   B Boys   |                             |        1 st  International Cudgel         |   6 th   |
+| B Boys     |                             |        2 nd  International Cudgel         |   5 th   |
+| B Boys     |                             |         2 nd  International Spear         |   5 th   |
+| B Boys     |                             |       1 st  International Broadsword      |   5 th   |
+| B Boys     |                             |         2 nd  International Sword         |   5 th   |
+| B Boys     |                             |       1 st  International Chang Quan      |   6 th   |
 
 
 
