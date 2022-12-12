@@ -50,7 +50,7 @@ The C&T department consists of 3 subject units, namely:
 
 |   |   |   |
 |:----:|:----:|:---:|
-|![](/images/Passionate%20Learners/Craft%20and%20Technology%20(C&T)/Cajon%20Classes.jpg) Cajon classes  |  ![](/images/Passionate%20Learners/Craft%20and%20Technology%20(C&T)/Guitar%20Classes%201.jpg) Singing Singapore songs   |![](/images/Passionate%20Learners/Craft%20and%20Technology%20(C&T)/Arts%20Fiesta%20Performance.jpg) Arts Fiesta Performance (Cajon)  |
+|![](/images/Passionate%20Learners/Craft%20and%20Technology%20(C&T)/Cajon%20Classes.jpg) Cajon classes  |  ![](/images/Passionate%20Learners/Craft%20and%20Technology%20(C&T)/Guitar%20Classes%201.jpg) Singing Singapore songs   |<img src="/images/Passionate%20Learners/Craft%20and%20Technology%20(C&T)/Arts%20Fiesta%20Performance.jpg" style="width:50%"> Arts Fiesta Performance (Cajon)  |
 | ![](/images/Passionate%20Learners/Craft%20and%20Technology%20(C&T)/Class%20Performance.jpg) Class Performance |  ![](/images/Passionate%20Learners/Craft%20and%20Technology%20(C&T)/Arts%20Fiesta%20Performance%202.jpg)  Arts Fiesta Performance (Guitar)  |  ![](/images/Passionate%20Learners/Craft%20and%20Technology%20(C&T)/Guitar%20Classes%202.jpg) Music Composing  |
 
 
