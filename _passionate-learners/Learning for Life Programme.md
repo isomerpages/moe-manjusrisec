@@ -21,8 +21,5 @@ description: ""
 
 |   |   |   |
 |:----:|:---:|:-----:|
-| ![](/images/Passionate%20Learners/Learning%20for%20Life%20Programme/Drama1.jpg) |   ![](/images/Passionate%20Learners/Learning%20for%20Life%20Programme/Drama2.jpg)   | ![](/images/Passionate%20Learners/Learning%20for%20Life%20Programme/Drama3.jpg)  |
-| ![](/images/Passionate%20Learners/Learning%20for%20Life%20Programme/Drama4.jpg)  | ![](/images/Passionate%20Learners/Learning%20for%20Life%20Programme/Drama5.jpg)  |  ![](/images/Passionate%20Learners/Learning%20for%20Life%20Programme/Drama6.jpg) |
-
-
-
+| <img src="/images/Passionate%20Learners/Learning%20for%20Life%20Programme/Drama1.jpg" style="width:70%"> |   ![](/images/Passionate%20Learners/Learning%20for%20Life%20Programme/Drama2.jpg)   | ![](/images/Passionate%20Learners/Learning%20for%20Life%20Programme/Drama3.jpg)  |
+| <img src="/images/Passionate%20Learners/Learning%20for%20Life%20Programme/Drama4.jpg" style="width:70%">  | ![](/images/Passionate%20Learners/Learning%20for%20Life%20Programme/Drama5.jpg)  |  ![](/images/Passionate%20Learners/Learning%20for%20Life%20Programme/Drama6.jpg) |
