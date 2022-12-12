@@ -25,7 +25,7 @@ The Science department takes pride in igniting curiosity and inquiry to develop 
 
 |   |   |
 |-----|----|
-|  ![](/images/Passionate%20Learners/Science/Pineapple%20Jelly%20-%20Biology%20Alternative%20Assessment.png) Pineapple Jelly (Biology Alternative Assessment)  |  <img src="/images/Passionate%20Learners/Science/Physics%20Alternative%20Assesment.jpg" style="width:85%">   Balloon-Powered Vehicle (Physics Alternative Assessment)
+|  ![](/images/Passionate%20Learners/Science/Pineapple%20Jelly%20-%20Biology%20Alternative%20Assessment.png) Pineapple Jelly (Biology Alternative Assessment)  |  <img src="/images/Passionate%20Learners/Science/Physics%20Alternative%20Assesment.jpg" style="width:75%">   Balloon-Powered Vehicle (Physics Alternative Assessment)
  |
 
 
@@ -37,7 +37,7 @@ In the area of Physical Sciences, we engage our students in two key platforms, n
 
 |   |   |
 |-----|----|
-|  ![](/images/Passionate%20Learners/Science/science1.png)  Students trying it out themselves | <img src="/images/Passionate%20Learners/Science/science2.png" style="width:80%">   Students appreciating the experimental setups  |
+|  ![](/images/Passionate%20Learners/Science/science1.png)  Students trying it out themselves | <img src="/images/Passionate%20Learners/Science/science2.png" style="width:70%">   Students appreciating the experimental setups  |
 
 
 **Life Sciences & Environmental Education**
