@@ -31,3 +31,19 @@ Our _READ FOR LIFE PROGRAMME_ aims to promote the love for reading and cultiva
 |   |   |   |
 |:----:|:----:|:---:|
 |  ![](/images/Passionate%20Learners/English/Book%20Treats%20for%20Teens.jpg)  Book Treats for Teens |    ![](/images/Passionate%20Learners/English/Teen%20Reads.jpg) Teen Reads | <img src="/images/Passionate%20Learners/English/World%20Book%20Day%20-%20Star%20Selections.jpg" style="width:50%"> World Book Day - Star Selections  |
+
+
+**EL Week**
+
+One week in Semester 2 is dedicated to activities that aim to heighten student awareness and appreciation of the English language. During _EL WEEK_, lessons come alive through language games, quizzes and book-based enactments in class and on stage. Students learn that language is the key to unimaginable worlds of wonder.
+
+|   |   |   |
+|:-----:|:----:|:----:|
+|  ![](/images/Passionate%20Learners/English/Interpret%20&%20Dramatise.jpg)  Interpret & Dramatise | ![](/images/Passionate%20Learners/English/Language%20Trail.jpg) Language Trail |  ![](/images/Passionate%20Learners/English/Meet%20the%20Author.jpg)   Meet the Author  |
+
+
+**The Media Resource Library (MRL)** 
+
+Our school values the role of the MRL in supporting the reading habit. Together with our library provider, the MRL organises regular theme-based and subject-based book displays. We are especially proud of _THE PRINCIPAL’S SELECTION_ – a collection of books contributed by the Principal to spark the joy of reading. 
+
+Our school also recognises the need to engage students in reading using current ICT tools. Laptops and iPads are available for students to use in the library should they choose to extend their reading and research online.
