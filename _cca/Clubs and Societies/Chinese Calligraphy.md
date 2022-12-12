@@ -33,7 +33,21 @@ Wednesday 3.00 – 5.00 pm
 
 **Chinese Calligraphy Competition**
 
+
+|   |   |   |
+|:---:|:---:|:---:|
+| ![](/images/Cca/Chinese%20Calligraphy/achievement%201.jpg)  | ![](/images/Cca/Chinese%20Calligraphy/achievement%202.jpg)   | ![](/images/Cca/Chinese%20Calligraphy/achievement%203.jpg)   |
+
+
 **Sec 1 Orientation**
+
+|   |   |   |
+|:---:|:---:|:---:|
+|  ![](/images/Cca/Chinese%20Calligraphy/orientation%20%201.jpg) |  ![](/images/Cca/Chinese%20Calligraphy/orientation%202.jpg)  |   ![](/images/Cca/Chinese%20Calligraphy/orientation%20%203.jpg) |
 
 
 **Our Work**
+
+|   |   |   |
+|:---:|:---:|:---:|
+|   |   |   |
