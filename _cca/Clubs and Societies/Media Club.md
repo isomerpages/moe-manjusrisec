@@ -31,7 +31,10 @@ Monday and Wednesday – 3pm–6pm
 ### Our Student Leaders
 
 
-
+| Name                             | Position         |
+|:-----------:|:-------------------:|
+|          Goh Chiew Hong          |    Chairperson   |
+| Muhammad Anaqy Bin Mohamed Zaidi | Vice-Chairperson |
 
 ### Our Programmes
 
