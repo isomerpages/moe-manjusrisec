@@ -2,6 +2,7 @@ collections:
   discover-manjusri:
     output: true
     order:
+      - Direct School Admission/Introduction to DSA Sec@Manjusri.md
       - Direct School Admission/.keep
       - A Story on Manjusri Bodhisattva.md
       - Our School.md
