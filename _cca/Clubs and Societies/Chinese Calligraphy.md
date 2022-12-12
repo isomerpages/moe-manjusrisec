@@ -50,4 +50,4 @@ Wednesday 3.00 – 5.00 pm
 
 |   |   |   |
 |:---:|:---:|:---:|
-|   |   |   |
+|  ![](/images/Cca/Chinese%20Calligraphy/our%20work%20%201.png) |   ![](/images/Cca/Chinese%20Calligraphy/our%20work%20%202.png)   |   ![](/images/Cca/Chinese%20Calligraphy/our%20work%203.jpg)   |
