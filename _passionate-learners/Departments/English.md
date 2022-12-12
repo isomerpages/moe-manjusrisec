@@ -30,4 +30,4 @@ Our _READ FOR LIFE PROGRAMME_ aims to promote the love for reading and cultiva
 
 |   |   |   |
 |:----:|:----:|:---:|
-|  ![](/images/Passionate%20Learners/English/Book%20Treats%20for%20Teens.jpg)  Book Treats for Teens |    ![](/images/Passionate%20Learners/English/Teen%20Reads.jpg) Teen Reads |  ![](/images/Passionate%20Learners/English/World%20Book%20Day%20-%20Star%20Selections.jpg) World Book Day - Star Selections  |
+|  ![](/images/Passionate%20Learners/English/Book%20Treats%20for%20Teens.jpg)  Book Treats for Teens |    ![](/images/Passionate%20Learners/English/Teen%20Reads.jpg) Teen Reads | <img src="/images/Passionate%20Learners/English/World%20Book%20Day%20-%20Star%20Selections.jpg" style="width:50%"> World Book Day - Star Selections  |
