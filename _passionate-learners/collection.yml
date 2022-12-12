@@ -2,5 +2,6 @@ collections:
   passionate-learners:
     output: true
     order:
+      - Learning for Life Programme.md
       - Mindfulness and Learning Power.md
       - Applied Learning Programme.md
