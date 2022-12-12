@@ -23,6 +23,6 @@ Our Mindfulness and Learning Power Framework\* guides us in designing teaching
 |             Focus Areas             | Attitudes of mindfulness &<br>Learning Power dispositions         |
 |:--------:|---------------------|
 |  **1. Mindful Learning Environment**    |                                         Noticing<br>Managing Distraction<br>Awareness & Attention                                          |
-|  **2. Positive Relationships**          |             Kindness    Collaboration<br>Interdependence    Trust & Connection<br>  Empathy & Listening    Being non-judgemental           |
-| **3. Engagement**                       |                    Gratitude   Absorption<br>       Perseverance   Motivation to Learn<br>  Sense of Wonder & Curiosity                    |
-| **4. Culture of Thinking and Learning** |   Practise a growth mindset<br>   Planning   Capitalising<br>    Revising   Questioning<br>Making Links   Meta Learning<br>Reflectiveness  |
+|  **2. Positive Relationships**          |             Kindness    &nbsp; &nbsp; Collaboration<br>Interdependence  &nbsp; &nbsp;   Trust & Connection<br>  Empathy & Listening   &nbsp; &nbsp;  Being non-judgemental           |
+| **3. Engagement**                       |                    Gratitude &nbsp; &nbsp;   Absorption<br>       Perseverance &nbsp; &nbsp;   Motivation to Learn<br>  Sense of Wonder & Curiosity                    |
+| **4. Culture of Thinking and Learning** |   Practise a growth mindset<br>   Planning &nbsp; &nbsp;  Capitalising<br>    Revising  &nbsp; &nbsp;  Questioning<br>Making Links  &nbsp; &nbsp;  Meta Learning<br>Reflectiveness  |
