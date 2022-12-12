@@ -93,7 +93,19 @@ third_nav_title: Our Achievement
 
 **Non-Academic**
 
-
+| Award | Achievement |
+| --- | --- |
+| NPCC Best Unit Competition | Silver |
+| NCC Best Unit Competition | Gold |
+| Scouts Frank Cooper Sands Award | Gold |
+| Girl Guides Puan Noor Aishah Award | Silver |
+| Kaki Bukit Community Centre Basketball Tournament | 2 nd  position |
+| C Div Basketball Tournament (East Zone) | 3 rd  Runners Up |
+| 36 th  National Chinese Calligraphy Competition | Merit Award  |
+| Our People, Our Music Concert | Participation by Choir and Chinese Orchestra |
+| National Youth Business Challenge |  **Prefectorial Board**  \- Bronze Medal & Most Dedicated Team Award **Buddhist Interact Club**   \- Bronze Medal **Cabin Club**   \-  Gold Medal & 3 rd |
+| National Youth Achievement Award | 180 Bronze and 1 Silver |
+| Singapore Kindness Movement Friend of Singa Award | Certification of Merit |
 
 # 2013
 
