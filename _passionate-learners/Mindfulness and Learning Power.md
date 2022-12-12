@@ -37,7 +37,7 @@ Our Mindfulness and Learning Power Framework\* guides us in designing teaching
 </i> </span> |
 
 
-Our programme will also involve our parents to provide resources so they can play a role to support their child in strengthening the adoption of learning dispositions beyond the classrooms.
+<p style="text-align: justify;">Our programme will also involve our parents to provide resources so they can play a role to support their child in strengthening the adoption of learning dispositions beyond the classrooms.</p>
 
 #### <span style = "color:#0000ff"> <b><i>Links for Parents</i></b> </span>
 
