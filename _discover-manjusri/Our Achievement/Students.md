@@ -103,7 +103,7 @@ third_nav_title: Our Achievement
 | C Div Basketball Tournament (East Zone) | 3 rd  Runners Up |
 | 36 th  National Chinese Calligraphy Competition | Merit Award  |
 | Our People, Our Music Concert | Participation by Choir and Chinese Orchestra |
-| National Youth Business Challenge |  **Prefectorial Board**  \- Bronze Medal & Most Dedicated Team Award **Buddhist Interact Club**   \- Bronze Medal **Cabin Club**   \-  Gold Medal & 3 rd |
+| National Youth Business Challenge |  **Prefectorial Board**  <br>\- Bronze Medal & Most Dedicated Team Award <br><br>**Buddhist Interact Club**  <br> \- Bronze Medal <br><br>**Cabin Club** <br>  \-  Gold Medal & 3 rd |
 | National Youth Achievement Award | 180 Bronze and 1 Silver |
 | Singapore Kindness Movement Friend of Singa Award | Certification of Merit |
 
