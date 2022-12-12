@@ -8,37 +8,7 @@ third_nav_title: Our History, Crest & Songs
 
 <iframe width="628" height="353" src="https://www.youtube.com/embed/PE2ULlielR8" title="Manjusri Secondary School Song" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<center>文殊师利， 智慧之光，
-
-wén shū shī lì, zhì huì zhī guāng,
-
-  闪耀在青年学生的胸膛。
-
-shăn yào zài qīng nían xué shēng dè xīong tăng
-
-远离贪嗔痴， 树立道德风范， 
-
-yuán lĭ tān chēn chī, shù lì dào dé fēng fàn,
-
-指引学生向前方。
-
-zhí yĭn xué shēng xiàng qián fāng.
-
-启大慈悲， 普度众生，
-
-qĭ dà cí bēi, pŭ dù zhòng shēng
-
-  挥智慧剑， 破除迷障。
-
-huī zhì huī jìan, pò chú mí zhàng.
-
-只等待雄狮奋起， 吼声震荡，
-
-zhí dĕng dài xíong shī fèn qĭ, hóu shēng zhèn dàng,
-
-  佛陀真理放光芒。
-
-fó tuó zhēn lĭ fàng guāng máng. </center>
+<center>文殊师利， 智慧之光，<br>wén shū shī lì, zhì huì zhī guāng,<br>  闪耀在青年学生的胸膛。<br>shăn yào zài qīng nían xué shēng dè xīong tăng<br>远离贪嗔痴， 树立道德风范， <br>yuán lĭ tān chēn chī, shù lì dào dé fēng fàn,<br>指引学生向前方。<br>zhí yĭn xué shēng xiàng qián fāng.<br>启大慈悲， 普度众生，<br>qĭ dà cí bēi, pŭ dù zhòng shēng<br>  挥智慧剑， 破除迷障。<br>huī zhì huī jìan, pò chú mí zhàng.<br>只等待雄狮奋起， 吼声震荡，<br>zhí dĕng dài xíong shī fèn qĭ, hóu shēng zhèn dàng,<br>  佛陀真理放光芒。<br>fó tuó zhēn lĭ fàng guāng máng. </center>
 
 ### English Translation
 
