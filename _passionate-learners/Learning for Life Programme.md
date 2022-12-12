@@ -48,3 +48,12 @@ Morning Jams @ MJR is a platform for students to showcase their talents in singi
 |:----:|:---:|:-----:|
 |  ![](/images/Passionate%20Learners/Learning%20for%20Life%20Programme/JAMS%201.jpg) | ![](/images/Passionate%20Learners/Learning%20for%20Life%20Programme/JAMS%202.jpg)  |  ![](/images/Passionate%20Learners/Learning%20for%20Life%20Programme/Violin.jpg) |
 |   ![](/images/Passionate%20Learners/Learning%20for%20Life%20Programme/Clapper.jpg)   | ![](/images/Passionate%20Learners/Learning%20for%20Life%20Programme/Wushu.jpg)  | ![](/images/Passionate%20Learners/Learning%20for%20Life%20Programme/Precision%20Drill.jpg)  |
+
+
+**4\. Live @ MJR**
+
+Live @ MJR is a platform for the students to be exposed to various art forms through interactive assembly programmes.
+
+|   |   |   |
+|:------:|:---:|:----:|
+|  ![](/images/Passionate%20Learners/Learning%20for%20Life%20Programme/Music%20Ensemble%20by%20Melting%20Pot%20Culture.jpg) Music Ensemble by Melting Pot Culture  |  ![](/images/Passionate%20Learners/Learning%20for%20Life%20Programme/Students%20participation.jpg)   Student participation   | ![](/images/Passionate%20Learners/Learning%20for%20Life%20Programme/Doodle%20Champs%20Programme.jpg)  Doodle Champs Assembly   |
