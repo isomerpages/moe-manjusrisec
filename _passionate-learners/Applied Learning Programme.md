@@ -46,18 +46,28 @@ Manjusri Secondary School admits students through the Direct School Admission â€
 
 <b><u>Secondary 1 - Introduction to Smart Technologies & Microcontrollers</u></b>
 
-
+|   |   |   |
+|---|-----|------|
+| ![](/images/Passionate%20Learners/Applied%20Learning%20Programme/alp_new1.png) Developing computational thinking through Potato Pirate Card game | ![](/images/Passionate%20Learners/Applied%20Learning%20Programme/alp_new2.png) Discovering microcontroller (Microbits) connections and coding 	  | ![](/images/Passionate%20Learners/Applied%20Learning%20Programme/alp_new3.png)  Appreciating the needs of the elderly or less-abled |
 
 
 <b><u>Secondary 2 - Design Thinking In Smart City
 </u></b>
 
+|   |   |   |
+|-----|-----|------|
+|![](/images/Passionate%20Learners/Applied%20Learning%20Programme/alp_new4.png)  Sharing the smart assistive technologies to the peers	  |  ![](/images/Passionate%20Learners/Applied%20Learning%20Programme/alp_new5.png)  Showcasing innovative smart assistive technologies to school  | ![](/images/Passionate%20Learners/Applied%20Learning%20Programme/alp_new6.png) Exploring STEM applications in the design of the F1 car     |
 
 
 
 <b><u>Secondary 3 and Beyond - Talent Development
 </u></b>
 
+|   |   |   |
+|---|---|---|
+| ![](/images/Passionate%20Learners/Applied%20Learning%20Programme/alp_new7.png)  STEM application in monitoring production processes at Infineon Technologies |  ![](/images/Passionate%20Learners/Applied%20Learning%20Programme/alp_new8.png) Smart gadgets design during Advanced Elective Module in Singapore Polytechnics   |  ![](/images/Passionate%20Learners/Applied%20Learning%20Programme/alp_new9.png)   Job shadowing programme with engineers at Rohde & Schwarz Asia  |
 
 
 
+
+##### Our Industrial Partners
