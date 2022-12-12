@@ -20,5 +20,5 @@ third_nav_title: Citizenship Education
 
 |   |   |   |
 |:----:|:----:|:------:|
-| ![](/images/Compassionate%20Leaders/2018%20ND.jpg) | ![](/images/Compassionate%20Leaders/2019%20ND.jpg)  | ![](/images/Compassionate%20Leaders/2019%20RHD.jpg)  |
-| ![](/images/Compassionate%20Leaders/2019%20NSman.jpg)  |   |   |
+| <img src="/images/Compassionate%20Leaders/2018%20ND.jpg" style="width:70%"> | <img src="/images/Compassionate%20Leaders/2019%20ND.jpg" style="width:80%">  | ![](/images/Compassionate%20Leaders/2019%20RHD.jpg)  |
+| <img src="/images/Compassionate%20Leaders/2019%20NSman.jpg" style="width:60%">  |   |   |
