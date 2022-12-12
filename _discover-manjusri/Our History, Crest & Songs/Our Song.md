@@ -43,9 +43,9 @@ fó tuó zhēn lĭ fàng guāng máng. </center>
 ### English Translation
 
 <center>Bodhissatva Manjusri, the Light of Wisdom
-
+	
 Glowing in our hearts and illuminating our minds.
-
+	
 Free us from greed, anger and ignorance as we strive for exemplary conduct.
 
 Forward we move with our heads held high.
