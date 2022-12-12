@@ -199,3 +199,68 @@ third_nav_title: Our Achievement
 
 
 # 2012
+
+**Academic**
+
+|    Department   |    Event       |    Achievements             |
+|:------------:|:---------:|:--------:|
+|          Science         |                      Young Engineers Award (YEA)                     |           19 Bronze awards           |
+|                          |                 34 th C.B. Paul Memorial Science Quiz                |    Li Meng Yu (4F) - Bronze medal    |
+|                          |                2 nd Singapore Biomedical Olympiad 2012               | Mo Mo Khaing Zin (4F) - Bronze medal |
+|                          |                        Green Architecture 2012                       |        Merit Award for 2 teams       |
+|            CL            |      4 th National Secondary School Chinese News Production 2012     | Silver Award                         |
+|                          |                        IQ Superman Competition                       |               1 awardee              |
+|           Malay          |                   Malay Essay Writing Contest 2011                   |           1 Gold, 4 Silvers          |
+| Principles of Accounting |                       2012 Accounting Carnival                       |             1 st position            |
+|      Art Department      | Anti-Drug Art Competition organised by CNB Preventive Education Unit |          Commendation Award          |
+|                          |                    Trees for Life Art Competition                    |              3 rd prize              |
+
+
+**Non-Academic**
+
+|      Groups          |     Event       |    Achievements       |
+|:---------:|:----------:|:--------------:|
+|        Cabin Club        |                                   National Youth Business Challenge 2012                                   | Silver Award & Most Earth Friendly Sales Award |
+|  Buddhist Interact Club  |                                   National Youth Business Challenge 2012                                   | Silver Award & Most Earth Friendly Sales Award |
+| Chinese Calligraphy Club |                                  National Chinese Calligraphy Competition                                  | 1 Merit Award                                  |
+|                          |                       Singapore, Hong Kong and Macau Calligraphy Exchange Exhibition                       |                      2 COP                     |
+|           NPCC           | SPF-NPCC Award: Pinnacle award presented to top cadets selected by HQ NPCC across all Singapore NPCC Units | 3 Awardees                                     |
+|                          |                                            Best Unit Competition                                           |                      Gold                      |
+|            NCC           |                                            Best Unit Competition                                           |                      Gold                      |
+|                          |                                     NCC Street Soccer Competition 2011                                     |      East District Champion- Overall 4 th      |
+|                          |                             NCC Kayaking Proficiency Personal Skill Star Award                             |      10 cadets awarded the One Star Award      |
+|          Scouts          |                                             Frank Cooper Sands                                             |                      Gold                      |
+|        Girl Guides       |                                              Puan Noor Aishah                                              |                      Gold                      |
+|                          |                             Percussion Competition for World Thinking Day 2012                             |                 2 nd  Runner Up                |
+|     Chinese Orchestra    |                                      2011 NUS Instrumental Examination                                     |           11 Distinctions, 26 Merits           |
+|      Basketball Boys     |                                      MDIS 3-on-3 Basketball Tournament                                     |            1 st  and 2 nd  Runner up           |
+|   Basketball “B” Girls   |                                           East Zone Championships                                          |                      3 rd                      |
+|  Table Tennis “B” Girls  |                              East Zone Inter-School Table Tennis Championships                             |                 1 st  Runner up                |
+|         Football         |                             Yishun Junior College 7-a-side Football Tournament                             |             1 st  and 4 th  placing            |
+|      Student Leaders     |                          Goh  Chok  Tong NextGen Outstanding Student Leader Award                          |                   3 Awardees                   |
+|                          |                                  South East Youth Community Leaders Award                                  |                 3 Merit Awards                 |
+| Wushu                    |                                         National Wushu Competition                                         |                  Overall 4 th                  |
+|                          |                                              **B Division Girls**                                             |                                                |
+|                          |                                           2 nd  Int'l Chang Quan                                           |                      1 st                      |
+|                          |                                           2 nd  Int'l Broadsword                                           |                      1 st                      |
+|                          |                                             2 nd  Int'l Cudgel                                             |                      1 st                      |
+|                          |                                             2 nd  Int'l Cudgel                                             |                      3 rd                      |
+|                          |                                           1 st  Int'l Broadsword                                           |                      4 th                      |
+|                          |                                              2 nd  Int'l Spear                                             |                      3 rd                      |
+|                          |                                              2 nd  Int'l Spear                                             |                      4 th                      |
+|                          |                                       1 st  Int'l 42-Style Taijiquan                                       |                      4 th                      |
+|                          |                                      1 st  Int'l 42-Style Taiji Sword                                      |                      2 nd                      |
+|                          |                                                Group Quanshu                                               |                      2 nd                      |
+|                          |                                              **C Division Girls**                                              |                                                |
+|                          |                                                4-Duan Cudgel                                               |                      4 th                      |
+|                          |                                       1 st  Int'l 42-Style Taijiquan                                       |                      3 rd                      |
+|                          |                                            32-Style Taiji Sword                                            |                      2 nd                      |
+|                          |                                            32-Style Taiji Sword                                            |                      4 th                      |
+|                          |                                       1 st  Int'l 42-Style Taijiquan                                       |                      4 th                      |
+|       Table Tennis       |                                         4 th  ASEAN Schools Games                                          |                      2 COP                     |
+|                          |                                     National Inter-School Table Tennis                                     |                  Championship                  |
+|                          |                                              B Division Girls                                              |                 2 nd  Runner Up                |
+|                          |                                                  Under 14                                                  |                      3 rd                      |
+|                          |                                                  Under 17                                                  |                  1 st  & 2 nd                  |
+
+
