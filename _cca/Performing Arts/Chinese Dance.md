@@ -18,7 +18,12 @@ Wednesday: 3.00pm - 6.00pm @ AVA
 
 ### Other Teachers
 
-
+| Teachers-in-Charge        | Email Address                         |
+|:--------:|:----------------------:|
+|         Ms Ng Imei        |           ng_imei@moe.edu.sg          |
+|   Ms Melcia Leong Hui Lin |     hui_lin_melcia_leong@moe.edu.sg   |
+|    Ms Madeleine Cheong    | cheong_wai_heng_madeleine@moe.edu.sg  |
+| Ms Mary Rose P Gonsalvez  |   mary_rose_p_gonsalvez@moe.edu.sg    |
 
 ### Our Student Leaders
 
