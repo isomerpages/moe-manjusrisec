@@ -17,8 +17,8 @@ third_nav_title: Direct School Admission
 5.  **[Concert Band;](https://manjusrisec.moe.edu.sg/cca/performing-arts) or**
 6.  **[Wushu](https://manjusrisec.moe.edu.sg/cca/sports)** 
 
-For more information in the DSA-Sec talent area, please click on the respective above link.
+<p style="text-align: justify;">For more information in the DSA-Sec talent area, please click on the respective above link.</p>
 
-Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be opened from 5 May 2022, 11am to 1 Jun 2022, 3pm.
+<p style="text-align: justify;">Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be opened from 5 May 2022, 11am to 1 Jun 2022, 3pm.</p>
 
 For more details, please refer to MOE website – <a href="https://www.moe.gov.sg/dsa-sec" target="_blank">https://www.moe.gov.sg/dsa-sec</a>
