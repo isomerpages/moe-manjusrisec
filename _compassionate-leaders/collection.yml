@@ -2,6 +2,7 @@ collections:
   compassionate-leaders:
     output: true
     order:
+      - Character Education/Cyber Wellness Programme.md
       - Character Education/.keep
       - Character Education/CCE Lessons.md
       - Character Education/Mindfulness Programme.md
