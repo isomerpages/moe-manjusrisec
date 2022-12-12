@@ -89,13 +89,57 @@ third_nav_title: Our Achievement
 
 ## 2015
 
-
+|    Award                |                      |
+|:------------:|:------------:|
+|          **National Day Award**         |                      |
+|         Mr Azman Bin Kassim         | The Efficiency Medal |
+|       **CCA Model Teacher Award**       |                      |
+|          Mr Lee Zhong Shun          |        Scouts        |
+|       **MOE Long Service Awards**       |   **Years In Service**   |
+|         Mr Andy Kwek Baozhi         |        5 years       |
+|        Mr Ho Teng Kui Gabriel       |        5 years       |
+|      Ms Jurana Bte Abdul Rahim      | 5 years              |
+| Mr Kalaisselvan S/O Poniah Ponrajah | 5 years              |
+|           Ms Kwek Hui Ying          | 5 years              |
+|        Ms Lee Jia Min Cheryl        | 5 years              |
+|       Ms Mary Rose P Gonsalvez      | 5 years              |
+|      Ms Nur Liyana Binte Amrun      | 5 years              |
+|     Ms Siti Zulaiha Binte Zainol    | 5 years              |
+|        Mr Sulaiman Bin Zainal       | 5 years              |
+|       Mr Lim Wan Seng, Daniel       |       10 years       |
+|       Mr Poh Leong Aik, Lionel      |       10 years       |
+|           Mdm Sim Mui Keow          | 10 years             |
+|     Ms Salina Binte Abdul Majid     |       10 years       |
+|       Ms Yap Wei Ling, Evelynn      | 10 years             |
+|           Mr Chue Seck Woo          |       15 years       |
+|           Mr Tan Hong Yak           |       15 years       |
+|           Mr Gui Eng Hong           |       20 years       |
+|           Mr Tan Keng Wee           |       20 years       |
+|        Mdm Rozita Bte Husain        |       35 years       |
+|            Mdm Teo Irene            |       35 years       |
 
 
 ## 2014
 
 
-
+|          Award          |                  |
+|:-----------------:|:----------------:|
+| **MOE Long Service Awards** | **Years In Service** |
+|     MrNg Boon Chong     |     10 years     |
+|       MissNg Imei       |     10 years     |
+|      MdmOng Mui Mui     |     10 years     |
+|      MrRaymond Khaw     |     10 years     |
+|      MdmTan Tok Eng     |     10 years     |
+|   MrTay Tse Min Daniel  |     10 years     |
+|   MdmErnieyanty Hasan   |     15 years     |
+|   MrsKwok-Lim Yin Yin   |     15 years     |
+|     MissLim Lin Lin     |     15 years     |
+|       MrsGrace Ong      |     15 years     |
+|    MrSurjono B Sapaat   |     20 years     |
+|     MrsTeo Hwee Ping    |     25 years     |
+|    MrAzman Bin Kassim   |     30 years     |
+|      MrTan Poh Pin      |     30 years     |
+|  MrsTan Yeoh Siew Seng  |     30 years     |
 
 
 ## 2013
