@@ -107,7 +107,15 @@ third_nav_title: Our Achievement
 | National Youth Achievement Award | 180 Bronze and 1 Silver |
 | Singapore Kindness Movement Friend of Singa Award | Certification of Merit |
 
+**Niche - Wushu**
+
+| Award                               | Achievement    |
+|:--------------:|:--------------:|
+| National Wushu Championship C Girls | 4 th  position |
+
+
 # 2013
+
 
 
 
