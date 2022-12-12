@@ -43,7 +43,7 @@ fó tuó zhēn lĭ fàng guāng máng. </center>
 ### English Translation
 
 <center>Bodhissatva Manjusri, the Light of Wisdom
-	
+	<br><br>
 Glowing in our hearts and illuminating our minds.
 	
 Free us from greed, anger and ignorance as we strive for exemplary conduct.
@@ -56,8 +56,6 @@ With wisdom, we overcome all delusions.
 
 While we wait for the Lion to stand and roar.
 
-The Truth of the Dharma, 
-
-The teachings of the Buddha, 
-
+The Truth of the Dharma, <br>
+The teachings of the Buddha, <br>
 Forever shining far and bright.</center>
