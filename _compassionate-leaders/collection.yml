@@ -2,12 +2,12 @@ collections:
   compassionate-leaders:
     output: true
     order:
-      - Citizenship Education/.keep
-      - Citizenship Education/Student Leadership Development.md
-      - Citizenship Education/National Education.md
       - Character Education/.keep
       - Character Education/CCE Lessons.md
       - Character Education/Mindfulness Programme.md
       - Character Education/Education and Career Guidance.md
       - Character Education/Cyber Wellness Programme.md
       - Character Education/Sexuality Education.md
+      - Citizenship Education/.keep
+      - Citizenship Education/Student Leadership Development.md
+      - Citizenship Education/National Education.md
