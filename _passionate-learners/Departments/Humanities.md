@@ -37,5 +37,14 @@ third_nav_title: Departments
 **Principles of Accounts**
 
 
+<img src="/images/Passionate%20Learners/Humanities/01%20Amazing%20Race.jpg"
+     style="width:30%">
+
+<center>POA participation in the Amazing Race</center>
 
 **Elements of Business Skills**
+
+
+|   |   |  
+|:-----:|:-----:|
+|    ![](/images/Passionate%20Learners/Humanities/01%20LJ%20to%20Changi%20Airport.jpg)   EBS Learning Journey to Changi Airport  |    ![](/images/Passionate%20Learners/Humanities/02%20Work%20attachment.jpeg)   EBS Work Attachment at Oriental Mandarin Hotel  |  
