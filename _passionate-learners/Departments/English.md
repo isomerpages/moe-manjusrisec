@@ -39,7 +39,7 @@ Our _READ FOR LIFE PROGRAMME_ aims to promote the love for reading and cultiva
 
 |   |   |   |
 |:-----:|:----:|:----:|
-|  ![](/images/Passionate%20Learners/English/Interpret%20&%20Dramatise.jpg)  Interpret & Dramatise | ![](/images/Passionate%20Learners/English/Language%20Trail.jpg) Language Trail |  ![](/images/Passionate%20Learners/English/Meet%20the%20Author.jpg)   Meet the Author  |
+|  ![](/images/Passionate%20Learners/English/Interpret%20&%20Dramatise.jpg)  Interpret & Dramatise | <img src="/images/Passionate%20Learners/English/Language%20Trail.jpg" style="width:60%"> Language Trail |  <img src="/images/Passionate%20Learners/English/Meet%20the%20Author.jpg" style="width:60%">   Meet the Author  |
 
 
 **The Media Resource Library (MRL)** 
