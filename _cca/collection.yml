@@ -2,4 +2,5 @@ collections:
   cca:
     output: true
     order:
+      - Clubs and Societies/Buddhist Interact Club.md
       - Clubs and Societies/.keep
