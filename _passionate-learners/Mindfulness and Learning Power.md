@@ -27,4 +27,9 @@ Our Mindfulness and Learning Power Framework\* guides us in designing teaching
 | **3. Engagement**                       |                    Gratitude &nbsp; &nbsp;   Absorption<br>       Perseverance &nbsp; &nbsp;   Motivation to Learn<br>  Sense of Wonder & Curiosity                    |
 | **4. Culture of Thinking and Learning** |   Practise a growth mindset<br>   Planning &nbsp; &nbsp;  Capitalising<br>    Revising  &nbsp; &nbsp;  Questioning<br>Making Links  &nbsp; &nbsp;  Meta Learning<br>Reflectiveness  |
 
-<center><u>Our Learning Experiences<br>MJR SPARKS - How Are We Learning Mindfully?</u></center
+<center><b><u>Our Learning Experiences<br>MJR SPARKS - How Are We Learning Mindfully?</u></b></center>
+	
+|   |   |
+|:----:|:---:|
+|  ![](/images/Passionate%20Learners/Mindfulness%20and%20Learning%20Power/Sorting%20Beans%20%20Absorption.jpg) |  ![](/images/Passionate%20Learners/Mindfulness%20and%20Learning%20Power/Empathy%20%20Listening.jpg) |
+|  ![](/images/Passionate%20Learners/Mindfulness%20and%20Learning%20Power/Sport%20Stacking%20%20Learning%20to%20Learn.jpg) | ![](/images/Passionate%20Learners/Mindfulness%20and%20Learning%20Power/Study%20Skills%20Workshop.jpg)  |
