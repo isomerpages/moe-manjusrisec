@@ -67,8 +67,8 @@ The C&T department consists of 3 subject units, namely:
 
 |   |   |   |
 |:----:|:----:|:---:|
-| ![](/images/Passionate%20Learners/Craft%20and%20Technology%20(C&T)/dnt1.png) Product Analysis 	 |  ![](/images/Passionate%20Learners/Craft%20and%20Technology%20(C&T)/dnt2.png)   Mechanism Exploration  |  ![](/images/Passionate%20Learners/Craft%20and%20Technology%20(C&T)/dnt3.png)  Product Presentation   |
-|   ![](/images/Passionate%20Learners/Craft%20and%20Technology%20(C&T)/dnt4.png)  Electronics Exploration |  ![](/images/Passionate%20Learners/Craft%20and%20Technology%20(C&T)/dnt5.png) Learning Journey to Nanyang Polytechnics   |  ![](/images/Passionate%20Learners/Craft%20and%20Technology%20(C&T)/dnt6.png)   D&T Awards Presentation |
+| ![](/images/Passionate%20Learners/Craft%20and%20Technology%20(C&T)/dnt1.png) Product Analysis 	 | <img src="/images/Passionate%20Learners/Craft%20and%20Technology%20(C&T)/dnt2.png" style="width:75%">   Mechanism Exploration  |  ![](/images/Passionate%20Learners/Craft%20and%20Technology%20(C&T)/dnt3.png)  Product Presentation   |
+|   ![](/images/Passionate%20Learners/Craft%20and%20Technology%20(C&T)/dnt4.png)  Electronics Exploration | <img src="/images/Passionate%20Learners/Craft%20and%20Technology%20(C&T)/dnt5.png" style="width:75%">  Learning Journey to Nanyang Polytechnics   |  ![](/images/Passionate%20Learners/Craft%20and%20Technology%20(C&T)/dnt6.png)   D&T Awards Presentation |
 
 #### **Nutrition & Food Science (NFS)**  
 
