@@ -42,4 +42,22 @@ Manjusri Secondary School admits students through the Direct School Admission �
 
 ![](/images/Passionate%20Learners/Applied%20Learning%20Programme/ALP_yea.png)
 
-Young Engineer Award (YEA) is a programme jointly developed  by Singapore Polytechnic (SP) and Science Centre, Singapore. This programme is specially designed for secondary school students, with an aim to help them enhance their understanding of science and engineering. Click <a href="https://www.sp.edu.sg/engineering-cluster/eee/secondary-school-students/young-engineer-award" target="_blank"><b>here</b></a> for more info.
+<p style="text-align: justify;">Young Engineer Award (YEA) is a programme jointly developed  by Singapore Polytechnic (SP) and Science Centre, Singapore. This programme is specially designed for secondary school students, with an aim to help them enhance their understanding of science and engineering. Click <a href="https://www.sp.edu.sg/engineering-cluster/eee/secondary-school-students/young-engineer-award" target="_blank"><b>here</b></a> for more info.</p>
+
+<b><u>Secondary 1 - Introduction to Smart Technologies & Microcontrollers</u></b>
+
+
+
+
+<b><u>Secondary 2 - Design Thinking In Smart City
+</u></b>
+
+
+
+
+<b><u>Secondary 3 and Beyond - Talent Development
+</u></b>
+
+
+
+
