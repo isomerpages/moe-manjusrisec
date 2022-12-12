@@ -31,5 +31,21 @@ Our Mindfulness and Learning Power Framework\* guides us in designing teaching
 	
 |   |   |
 |:----:|:---:|
-|  ![](/images/Passionate%20Learners/Mindfulness%20and%20Learning%20Power/Sorting%20Beans%20%20Absorption.jpg) |  ![](/images/Passionate%20Learners/Mindfulness%20and%20Learning%20Power/Empathy%20%20Listening.jpg) |
-|  ![](/images/Passionate%20Learners/Mindfulness%20and%20Learning%20Power/Sport%20Stacking%20%20Learning%20to%20Learn.jpg) | ![](/images/Passionate%20Learners/Mindfulness%20and%20Learning%20Power/Study%20Skills%20Workshop.jpg)  |
+|  ![](/images/Passionate%20Learners/Mindfulness%20and%20Learning%20Power/Sorting%20Beans%20%20Absorption.jpg) 	<span style = "color:#0000ff"> <i>Sorting Beans & Absorption</i> </span> |  ![](/images/Passionate%20Learners/Mindfulness%20and%20Learning%20Power/Empathy%20%20Listening.jpg) <span style = "color:#0000ff"> <i>Empathy & Listening 
+</i> </span>  |
+|  ![](/images/Passionate%20Learners/Mindfulness%20and%20Learning%20Power/Sport%20Stacking%20%20Learning%20to%20Learn.jpg) <span style = "color:#0000ff"> <i>Sport Stacking & Learning to Learn	</i> </span>   | ![](/images/Passionate%20Learners/Mindfulness%20and%20Learning%20Power/Study%20Skills%20Workshop.jpg) <span style = "color:#0000ff"> <i>Study Skills Workshop
+</i> </span> |
+
+
+Our programme will also involve our parents to provide resources so they can play a role to support their child in strengthening the adoption of learning dispositions beyond the classrooms.
+
+#### <span style = "color:#0000ff"> <b><i>Links for Parents</i></b> </span>
+
+*   The Smiling Mind    
+<a href="https://www.smilingmind.com.au/at-home" target="_blank">https://www.smilingmind.com.au/at-home</a>
+
+*   Five Ways to Stop Getting Distracted 
+<a href="https://www.youtube.com/watch?v=KZGVgz9b2fw" target="_blank">https://www.youtube.com/watch?v=KZGVgz9b2fw</a>
+
+*   Introduction to Learning Power
+ <a href="https://www.youtube.com/watch?v=5QNGPZEYyUU" target="_blank">https://www.youtube.com/watch?v=5QNGPZEYyUU</a>
