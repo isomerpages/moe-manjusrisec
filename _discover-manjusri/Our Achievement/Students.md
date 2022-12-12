@@ -78,6 +78,21 @@ third_nav_title: Our Achievement
 
 # 2014
 
+**Academic**
+
+| Department |    Event            |     Achievements          |
+|:----------:|:---------:|:------------------:|
+|     D&T    |                                                            D&T Awards 2014                                                            | 2  Creative Aesthetic Awards, 1   Creative Innovation Award |
+|   Science  |                                               International  Biomedical  (IBC)  Olympiad                                              |                   1 Bronze, 1 Merit, 5 COP                  |
+|            |                                                         Young Engineers’ Award                                                        |         3 Gold Awards, 78 Silver, 100 Bronze awards         |
+|            |                                                    A\*STAR Research Exposure Program                                                   |                          1 awardee                          |
+|     POA    |                                                      National Accounting Carnival                                                     |                      Consolation Prize                      |
+|            | FUN trail organized by Ngee Ann Polytechnic in collaboration with Asian Civilisation Museum & NIE Financial Literacy Hub for teachers |                        1 st Runner Up                       |
+|     CL     |                                               2 nd Mini Fiction Writing Competition 2014                                              |                         Merit Award                         |
+|            |                                     6 th National Sec Schools Chinese News Production Competition                                     |        Gold Award of lower Sec category (1 st prize)        |
+
+**Non-Academic**
+
 
 
 # 2013
