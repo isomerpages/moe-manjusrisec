@@ -21,8 +21,8 @@ third_nav_title: Departments
 
 |   |   |   |
 |:----:|:-----:|:------:|
-| ![](/images/Passionate%20Learners/Mother%20Tongue/mt1.png) |  ![](/images/Passionate%20Learners/Mother%20Tongue/mt1.png)  |  ![](/images/Passionate%20Learners/Mother%20Tongue/mt1.png)  |
-|  ![](/images/Passionate%20Learners/Mother%20Tongue/mt1.png)  |  ![](/images/Passionate%20Learners/Mother%20Tongue/mt1.png)  |  ![](/images/Passionate%20Learners/Mother%20Tongue/mt1.png)  |
+| ![](/images/Passionate%20Learners/Mother%20Tongue/mt1.png) |  ![](/images/Passionate%20Learners/Mother%20Tongue/mt2.png)  |  ![](/images/Passionate%20Learners/Mother%20Tongue/mt3.png)  |
+|  ![](/images/Passionate%20Learners/Mother%20Tongue/mt4.png)  |  ![](/images/Passionate%20Learners/Mother%20Tongue/mt5.png)  |  ![](/images/Passionate%20Learners/Mother%20Tongue/mt6.png)  |
 
 
 
@@ -31,5 +31,5 @@ third_nav_title: Departments
 
 |   |   |   |
 |:----:|:-----:|:------:|
-| ![](/images/Passionate%20Learners/Mother%20Tongue/mt1.png) |  ![](/images/Passionate%20Learners/Mother%20Tongue/mt1.png)  |  ![](/images/Passionate%20Learners/Mother%20Tongue/mt1.png)  |
-|  ![](/images/Passionate%20Learners/Mother%20Tongue/mt1.png)  |  ![](/images/Passionate%20Learners/Mother%20Tongue/mt1.png)  |  ![](/images/Passionate%20Learners/Mother%20Tongue/mt1.png)  |
+| ![](/images/Passionate%20Learners/Mother%20Tongue/mt7.png) |  ![](/images/Passionate%20Learners/Mother%20Tongue/mt8.png)  |  ![](/images/Passionate%20Learners/Mother%20Tongue/mt9.png)  |
+|  ![](/images/Passionate%20Learners/Mother%20Tongue/mt10.png)  |     |   |
