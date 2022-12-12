@@ -73,12 +73,10 @@ Our dancers performed at Esplanade in celebration of the Biannual Singapore Yout
 |---|---|---|
 |  ![](/images/Cca/Chinese%20dance/SYF%20Celebrate1.jpg) |   ![](/images/Cca/Chinese%20dance/SYF%20Celebrate2.jpg)  |   ![](/images/Cca/Chinese%20dance/SYF%20Celebrate3.jpg) |
 
-
+<iframe width="328" height="183" src="https://www.youtube.com/embed/-JehWxoDMWU" title="SYF performance" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **MJR Jams**
 
+In addition to the traditional Chinese Dances, our Dancers are also provided with opportunities to develop their potential, exercise their creativity and pursue their interest in various genres of dances, such as modern and hip-hop dances. Dancers get to choreograph and perform at school platforms such as MJR Jams, Open House and Teachers’ Day Celebration.
 
-|   |   |   |
-|---|---|---|
-|   |   |   |
-|   |   |   |
+<iframe width="340" height="189" src="https://www.youtube.com/embed/mqVFmtrrkzc" title="MJR Jams Trim" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
