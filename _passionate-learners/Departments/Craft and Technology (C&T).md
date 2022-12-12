@@ -87,4 +87,4 @@ Lower Sec students learn to design and plan “My Healthy GAPS Diet” with an u
 |  ![](/images/Passionate%20Learners/Craft%20and%20Technology%20(C&T)/nfs4.png)  Debate on Nutritional Controversies 	 | ![](/images/Passionate%20Learners/Craft%20and%20Technology%20(C&T)/nfs5.png)  Plating techniques and Food Photography Skills	 |  ![](/images/Passionate%20Learners/Craft%20and%20Technology%20(C&T)/nfs6.png)  Food preparation   |
 
 
-
+<a href="https://sites.google.com/manjusrisec.com/aesthetics-showcase/home" target = "_blank"> <img src="/images/Passionate%20Learners/Craft%20and%20Technology%20(C&T)/CNT-on-MJRwebsite.png"></a>
