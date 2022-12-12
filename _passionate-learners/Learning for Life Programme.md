@@ -17,3 +17,12 @@ description: ""
 **1\. Drama Enrichment**
 
 <p style="text-align: justify;">The Drama Enrichment develops students’ understanding and appreciation of the Literary Arts through process drama and elements of drama and performance. Students will adapt and devise, improvise and dramatise Literary texts and build on their speech and articulation, enunciation and pronunciation at the same time. More importantly, the programme will help students build their confidence while raising their appreciation for the Literary Arts.</p>
+
+
+|   |   |   |
+|:----:|:---:|:-----:|
+| ![](/images/Passionate%20Learners/Learning%20for%20Life%20Programme/Drama1.jpg) |   ![](/images/Passionate%20Learners/Learning%20for%20Life%20Programme/Drama2.jpg)   | ![](/images/Passionate%20Learners/Learning%20for%20Life%20Programme/Drama3.jpg)  |
+| ![](/images/Passionate%20Learners/Learning%20for%20Life%20Programme/Drama4.jpg)  | ![](/images/Passionate%20Learners/Learning%20for%20Life%20Programme/Drama5.jpg)  |  ![](/images/Passionate%20Learners/Learning%20for%20Life%20Programme/Drama6.jpg) |
+
+
+
