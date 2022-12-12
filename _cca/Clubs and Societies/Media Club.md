@@ -39,6 +39,16 @@ Monday and Wednesday – 3pm–6pm
 ### Our Programmes
 
 
-
-
 **Activities and Events**
+
+
+|   |   |   |
+|:---:|:---:|:---:|
+|   |   |   |
+|   |   |   |
+|   |   |   |
+
+
+|   |   |   |
+|:---:|:---:|:---:|
+|   |   |   |
