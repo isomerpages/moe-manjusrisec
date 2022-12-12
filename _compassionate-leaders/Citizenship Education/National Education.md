@@ -19,6 +19,6 @@ third_nav_title: Citizenship Education
 <p style="text-align: justify;">Our students also attend learning journeys such as the Bicentennial Experience. Selected students also participate in the Singapore Model Cabinet and student conferences where they delve deeper into discussions about Singapore with students from other schools, widening their exposure to a greater variety of viewpoints.</p>
 
 |   |   |   |
-|:-:|:-:|---|
-|   |   |   |
-|   |   |   |
+|:----:|:----:|:------:|
+| ![](/images/Compassionate%20Leaders/2018%20ND.jpg) | ![](/images/Compassionate%20Leaders/2019%20ND.jpg)  | ![](/images/Compassionate%20Leaders/2019%20RHD.jpg)  |
+| ![](/images/Compassionate%20Leaders/2019%20NSman.jpg)  |   |   |
