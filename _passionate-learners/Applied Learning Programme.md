@@ -67,7 +67,10 @@ Manjusri Secondary School admits students through the Direct School Admission â€
 |---|---|---|
 | ![](/images/Passionate%20Learners/Applied%20Learning%20Programme/alp_new7.png)  STEM application in monitoring production processes at Infineon Technologies |  ![](/images/Passionate%20Learners/Applied%20Learning%20Programme/alp_new8.png) Smart gadgets design during Advanced Elective Module in Singapore Polytechnics   |  ![](/images/Passionate%20Learners/Applied%20Learning%20Programme/alp_new9.png)   Job shadowing programme with engineers at Rohde & Schwarz Asia  |
 
-
-
-
 ##### Our Industrial Partners
+
+
+|   |   |
+|:-----:|:------:|
+| ![](/images/Passionate%20Learners/Applied%20Learning%20Programme/Infineon%20Technologies.png) Infineon Technologies is a global leader in the development of semiconductor solutions paving the way for sustainable and green energy solutions tomorrow, today. | ![](/images/Passionate%20Learners/Applied%20Learning%20Programme/Rohde&Schwarz.png) Rohde & Schwarz Asia is an independent company featured among the world market leaders in its established business fields, extensive sales and service network. |
+
