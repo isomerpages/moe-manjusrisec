@@ -44,11 +44,11 @@ Monday and Wednesday – 3pm–6pm
 
 |   |   |   |
 |:---:|:---:|:---:|
-|   |   |   |
-|   |   |   |
-|   |   |   |
+| ![](/images/Cca/Media%20Club/Discussion%20with%20CCAs%20teachers.jpg)  | ![](/images/Cca/Media%20Club/Media%201.jpg)  | ![](/images/Cca/Media%20Club/Media%202.jpg)  |
+| ![](/images/Cca/Media%20Club/Media%203.jpg)  |  ![](/images/Cca/Media%20Club/Media%204.jpg)   |  ![](/images/Cca/Media%20Club/Media%205.jpg) |
+|  ![](/images/Cca/Media%20Club/Media%206.jpg) | ![](/images/Cca/Media%20Club/Media%20Club%20managing%20equipment.jpg)  |   |
 
 
 |   |   |   |
 |:---:|:---:|:---:|
-|   |   |   |
+| ![](/images/Cca/Media%20Club/Media%20Club%20training.jpeg)  | ![](/images/Cca/Media%20Club/student%20posing.jpg)  | ![](/images/Cca/Media%20Club/Media%20Club%20during%20CCA%20Orientation.jpeg)  |
