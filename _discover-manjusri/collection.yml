@@ -2,6 +2,7 @@ collections:
   discover-manjusri:
     output: true
     order:
+      - Our History, Crest & Songs/Our Song.md
       - Our History, Crest & Songs/.keep
       - Our History, Crest & Songs/Our History.md
       - Our History, Crest & Songs/Our Crest.md
