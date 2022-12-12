@@ -27,7 +27,7 @@ Wednesday: 3.00pm - 6.00pm @ AVA
 
 ### Our Student Leaders
 
-
+![](/images/Cca/Chinese%20dance/Student%20Leaders%202021-2022.jpg)
 
 ### Our Programmes
 
