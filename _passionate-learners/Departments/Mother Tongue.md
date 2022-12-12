@@ -21,8 +21,8 @@ third_nav_title: Departments
 
 |   |   |   |
 |:----:|:-----:|:------:|
-| ![](/images/Passionate%20Learners/Mother%20Tongue/mt1.png) |  ![](/images/Passionate%20Learners/Mother%20Tongue/mt2.png)  |  ![](/images/Passionate%20Learners/Mother%20Tongue/mt3.png)  |
-|  ![](/images/Passionate%20Learners/Mother%20Tongue/mt4.png)  |  ![](/images/Passionate%20Learners/Mother%20Tongue/mt5.png)  |  ![](/images/Passionate%20Learners/Mother%20Tongue/mt6.png)  |
+| ![](/images/Passionate%20Learners/Mother%20Tongue/mt1.png)  品茗课程：导师讲解	 |  ![](/images/Passionate%20Learners/Mother%20Tongue/mt2.png) 品茗课程：动手沏茶	 |  ![](/images/Passionate%20Learners/Mother%20Tongue/mt3.png) 扯铃 |
+|  ![](/images/Passionate%20Learners/Mother%20Tongue/mt4.png) 字谜	 |  ![](/images/Passionate%20Learners/Mother%20Tongue/mt5.png) 看图猜成语	 |  ![](/images/Passionate%20Learners/Mother%20Tongue/mt6.png) 虎豹别墅之旅 |
 
 
 
@@ -31,5 +31,5 @@ third_nav_title: Departments
 
 |   |   |   |
 |:----:|:-----:|:------:|
-| ![](/images/Passionate%20Learners/Mother%20Tongue/mt7.png) |  ![](/images/Passionate%20Learners/Mother%20Tongue/mt8.png)  |  ![](/images/Passionate%20Learners/Mother%20Tongue/mt9.png)  |
-|  ![](/images/Passionate%20Learners/Mother%20Tongue/mt10.png)  |     |   |
+| ![](/images/Passionate%20Learners/Mother%20Tongue/mt7.png)  Bengkel Melukis Batik	  |  ![](/images/Passionate%20Learners/Mother%20Tongue/mt8.png) Menganyam Ketupat	 |  ![](/images/Passionate%20Learners/Mother%20Tongue/mt9.png)  Peraduan Papan Cerita  |
+|  ![](/images/Passionate%20Learners/Mother%20Tongue/mt10.png)   Sambutan Hari Raya	  |     |   |
