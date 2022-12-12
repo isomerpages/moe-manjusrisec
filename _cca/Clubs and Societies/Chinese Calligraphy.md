@@ -36,7 +36,7 @@ Wednesday 3.00 – 5.00 pm
 
 |   |   |   |
 |:---:|:---:|:---:|
-| ![](/images/Cca/Chinese%20Calligraphy/achievement%201.jpg)  | ![](/images/Cca/Chinese%20Calligraphy/achievement%202.jpg)   | ![](/images/Cca/Chinese%20Calligraphy/achievement%203.jpg)   |
+| ![](/images/Cca/Chinese%20Calligraphy/achievement%201.jpg)  | <img src="/images/Cca/Chinese%20Calligraphy/achievement%202.jpg" style="width:55%">   | ![](/images/Cca/Chinese%20Calligraphy/achievement%203.jpg)   |
 
 
 **Sec 1 Orientation**
