@@ -37,10 +37,14 @@ The C&T department consists of 3 subject units, namely:
 <p style="text-align: justify;">Students get to view art works in authentic contexts and are informed of the various pathways they can embark on if they would like to carry on pursuing art education after the National GCE examinations.</p> 
 
 
-
 |   |   |   |
 |:----:|:----:|:---:|
-|   |   |   |
+|  ![](/images/Passionate%20Learners/Craft%20and%20Technology%20(C&T)/art1.png) Portrait Drawing   | ![](/images/Passionate%20Learners/Craft%20and%20Technology%20(C&T)/art2.png) VIA Merchandise Design  | ![](/images/Passionate%20Learners/Craft%20and%20Technology%20(C&T)/art3.png)  Learning Journey to National Gallery Singapore |
+|  ![](/images/Passionate%20Learners/Craft%20and%20Technology%20(C&T)/art4.png)  Portrait Drawing	 |   ![](/images/Passionate%20Learners/Craft%20and%20Technology%20(C&T)/art5.png)  NAFA Open House	 |   ![](/images/Passionate%20Learners/Craft%20and%20Technology%20(C&T)/art6.png)  Artists at Work  |
+
+
+
+
 
 
 |   |   |   |
