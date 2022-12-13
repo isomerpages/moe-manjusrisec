@@ -6,7 +6,7 @@ third_nav_title: Uniformed Groups
 ---
 # Scouts
 
-The Manjusri Red Fox Scout Group was founded in 1983 and seeks to nurture scouts who uphold the motto of ‘Be Prepared’ at all times.
+<p style="text-align: justify;">The Manjusri Red Fox Scout Group was founded in 1983 and seeks to nurture scouts who uphold the motto of ‘Be Prepared’ at all times.</p>
 
 ### Training Schedule
 
@@ -32,16 +32,28 @@ Every Monday and Wednesday 3.00pm - 6.00pm
 
 **Founders’ Day**
 
-Founders’ Day commemorates the founding of the Scouting Movement. On this day, scouts observe a flag ceremony, reflect on the values of scouting and reaffirm the Scout Promise.
+<p style="text-align: justify;">Founders’ Day commemorates the founding of the Scouting Movement. On this day, scouts observe a flag ceremony, reflect on the values of scouting and reaffirm the Scout Promise.</p>
 
-
+|   |   |   |
+|:-:|:-:|:-:|
+|   |   |   |
+|   |   |   |
 
 
 
 **National Patrol Camp**
 
-The National Patrol Camp is a gathering of all Singapore Scouts Groups to celebrate camaraderie and engage in healthy competition. Scouts undergo challenges that test their scouting skills and at the end of the camp, their efforts are rewarded and their friendship with each other is renewed.
+<p style="text-align: justify;">The National Patrol Camp is a gathering of all Singapore Scouts Groups to celebrate camaraderie and engage in healthy competition. Scouts undergo challenges that test their scouting skills and at the end of the camp, their efforts are rewarded and their friendship with each other is renewed.</p>
 
-
+|   |   |   |
+|:-:|:-:|:-:|
+|   |   |   |
+|   |   |   |
 
 **Outdoor Activities**
+
+
+|   |   |   |
+|:-:|:-:|:-:|
+|   |   |   |
+|   |   |   |
