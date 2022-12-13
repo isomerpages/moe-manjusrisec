@@ -28,3 +28,9 @@ description: ""
 *   Manjusri Secondary School 2023 (1E) Booklist
 
 <p style="text-align: justify;">Please note: students should be attired in their Manjusri school uniform (full/half-uniform/PE attire) if they are coming to school to purchase textbooks or uniform.</p>
+
+
+| School Bookshop |                |
+|-----------------|-----------------------------|
+| Operator:       | Pacific Bookstores Pte Ltd                                                                                                                                                                                              |
+| Opening Hours:  | Monday to Friday (8.00am to 3.30pm), <br><br>Closed during school holidays, eve of PH and PH<br><br>Website: www.pacificbookstores.com <br><br>Hotline: +65 65592269 [Monday to Friday: 9.00am to 5.30pm, closed weekends & PH] |
