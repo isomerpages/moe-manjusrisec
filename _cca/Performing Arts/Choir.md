@@ -51,8 +51,8 @@ Choir members in action during our biennial Choir Concert.
 
 |   |   |   |
 |:---:|:---:|:---:|
-|   |   |   |
-|   |   |   |
+| ![](/images/Cca/Choir/DSC_0798.jpg)  Concert 1 |  ![](/images/Cca/Choir/MJR%20Student%20Leaders-0245.jpg) Concert 2  | ![](/images/Cca/Choir/DSC_0584.jpg)  Concert 3   |
+|  ![](/images/Cca/Choir/choir.jpg) Concert 4   | ![](/images/Cca/Choir/Conductor%20Picture.jpg)   Ms Michelle Poh <br>Choral Instructor|   |
 
 **Our People Our Music Mega Concert**
 
