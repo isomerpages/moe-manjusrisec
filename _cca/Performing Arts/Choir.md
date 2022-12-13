@@ -60,7 +60,7 @@ Choir took part in Our People Our Music Mega Concert, in conjunction with the op
 
 |   |   | 
 |:---:|:---:|
-|   |   |  
+|  ![](/images/Cca/Choir/choir06.png) OPOM 1  | ![](/images/Cca/Choir/choir07.png) OPOM 2    |  
 
 
 
