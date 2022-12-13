@@ -52,5 +52,5 @@ Girls: Every Wednesday 3pm – 6pm and Friday 1pm-4pm
  
  |   |   |   |
 |:--------------:|:-------------:|:----------:|
-|  ![](/images/Cca/Table%20Tennis/Physical%20Training%201.jpg) |   ![](/images/Cca/Table%20Tennis/Physical%20Training%202.jpg)  |   ![](/images/Cca/Table%20Tennis/Physical%20Training%203.jpg)  |
-|  ![](/images/Cca/Table%20Tennis/Skills%20Training%201.jpg) |    ![](/images/Cca/Table%20Tennis/Skills%20Training%202.jpg)    |  ![](/images/Cca/Table%20Tennis/Skills%20Training%203.jpg)   |
+| <img src="/images/Cca/Table%20Tennis/Physical%20Training%201.jpg" style="width:75%"> |   ![](/images/Cca/Table%20Tennis/Physical%20Training%202.jpg)  |   ![](/images/Cca/Table%20Tennis/Physical%20Training%203.jpg)  |
+|  <img src="/images/Cca/Table%20Tennis/Skills%20Training%201.jpg" style="width:60%"> |    ![](/images/Cca/Table%20Tennis/Skills%20Training%202.jpg)    |  ![](/images/Cca/Table%20Tennis/Skills%20Training%203.jpg)   |
