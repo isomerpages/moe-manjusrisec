@@ -20,12 +20,24 @@ Every Monday and Wednesday
 ### Our Teachers
 
 
-
+| Teachers-in-charge           | Email Address         |
+|:----------------:|:---------:|
+|  Ms Nur Atiqah Binti Abdul Fattah |   nur_atiqah_abdul_fattah@moe.edu.sg |
+|          Ms Wan Shi Ting          |        shi_ting_wan@moe.edu.sg       |
+|  Ms Amira Begum d/o Abdul Naseer  |  amira_begum_abdul_naseer@moe.edu.sg |
+|      Mdm Tee Beng Lian Serene     |       tee_beng_lian@moe.edu.sg       |
 
 ### Our Student Leaders
 
 
-
+| Name          | Position              |
+|:----------------:|:---------:|
+|                                                                Nur Umairah Binte Mohamad Razim                                                                 |        Company Leader       |
+|                                                                    Noor Nabila Binte Gazali                                                                    |   Assistant Company Leader  |
+|                                                                       Lim En Xin Shireen                                                                       |      Quarter Mistress       |
+|                                                           Reva Putriani Nurazizah Binte Mohamed Khermi                                                         | Assistant Quarter Mistress  |
+| Nerissa Tan Lui Rong (Sunflower)<br>Yeo Ga Yan (Yang Jia Yuan) (Jasmine)<br>Seah You En (Morning Glory)Aniqah Shafyrah Binte Zainal (Hibiscus)                 |        Patrol Leaders       |
+| Ong Yanzhi (Sunflower)<br>Geraldine See Yu Tong (Jasmine)<br>Nur Istifar Binte Abdullah (Morning Glory)<br><br>Qistina Yushini Puteri Shaiful Hermi (Hibiscus) |        Patrol Seconds       |
 
 ### Our Programmes
 
