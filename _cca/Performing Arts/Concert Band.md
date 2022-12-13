@@ -84,5 +84,5 @@ Our Concert Band.
 
 |   |   |   |
 |:---:|:---:|:---:|
-|   ![](/images/Cca/Concert%20Band/band06.png)  Clarinettists! |    ![](/images/Cca/Concert%20Band/band07.png)  Flute Girls! |   ![](/images/Cca/Concert%20Band/band08.png)  Saxophonists!  |
-|    ![](/images/Cca/Concert%20Band/band09.png)  Trombone Girls!  |  ![](/images/Cca/Concert%20Band/band10.png) Trumpet Section!  |   ![](/images/Cca/Concert%20Band/band11.png) Cool Leaders!  |
+|  <img src="/images/Cca/Concert%20Band/band06.png" style="width:80%">  Clarinettists! |    ![](/images/Cca/Concert%20Band/band07.png)  Flute Girls! |   <img src="/images/Cca/Concert%20Band/band08.png" style="width:80%">  Saxophonists!  |
+|   <img src="/images/Cca/Concert%20Band/band09.png" style="width:80%">  Trombone Girls!  |  ![](/images/Cca/Concert%20Band/band10.png) Trumpet Section!  |   <img src="/images/Cca/Concert%20Band/band11.png" style="width:80%"> Cool Leaders!  |
