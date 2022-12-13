@@ -86,5 +86,5 @@ Our CO students are also provided with opportunities to develop their potential 
 
 |   |   |   |
 |:---:|:---:|:---:|
-|   |   |   |
-|   |   |   |
+|  ![](/images/Cca/Chinese%20Orchestra/School%20performances%201.jpg) School performance 1	 |   ![](/images/Cca/Chinese%20Orchestra/School%20Performances%202.jpg) School performance 2	  |  ![](/images/Cca/Chinese%20Orchestra/School%20Performances%203.jpg) School performance 3	   |
+|    ![](/images/Cca/Chinese%20Orchestra/School%20Performances%204.jpg) School performance 4	 |   ![](/images/Cca/Chinese%20Orchestra/School%20Performances%205.jpg) School performance 5	 |  ![](/images/Cca/Chinese%20Orchestra/School%20Performances%206.jpg) School performance 6	  |
