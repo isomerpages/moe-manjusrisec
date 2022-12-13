@@ -2,7 +2,6 @@ collections:
   cca:
     output: true
     order:
-      - Uniformed Groups/.keep
       - Clubs and Societies/.keep
       - Clubs and Societies/Buddhist Interact Club.md
       - Clubs and Societies/Chinese Calligraphy.md
@@ -18,4 +17,5 @@ collections:
       - Sports/Football (Boys).md
       - Sports/Table Tennis.md
       - Sports/Wushu.md
+      - Uniformed Groups/.keep
       - CCA Framework.md
