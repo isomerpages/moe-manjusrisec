@@ -74,8 +74,8 @@ Wednesday 3-5pm (Self-Practice)
 
 |   |   |   |
 |:---:|:---:|:---:|
-|   ![](/images/Cca/Concert%20Band/band01.png) Band in Action! |    ![](/images/Cca/Concert%20Band/band02.png)  Group Photo outside RP!|   ![](/images/Cca/Concert%20Band/band03.png) Pre-SIBF Concert!  |
-|    ![](/images/Cca/Concert%20Band/band04.png)  Rehearsing before actual SIBF! |  ![](/images/Cca/Concert%20Band/band05.png) SIBF 2014 |   |
+|   <img src="/images/Cca/Concert%20Band/band01.png" style="width:85%">  Band in Action! |    ![](/images/Cca/Concert%20Band/band02.png)  Group Photo outside RP!|   ![](/images/Cca/Concert%20Band/band03.png) Pre-SIBF Concert!  |
+|   <img src="/images/Cca/Concert%20Band/band04.png" style="width:85%">  Rehearsing before actual SIBF! |  ![](/images/Cca/Concert%20Band/band05.png) SIBF 2014 |   |
 
 
 **Band Sectional Photos**
