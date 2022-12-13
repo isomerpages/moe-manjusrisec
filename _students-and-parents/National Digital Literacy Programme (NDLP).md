@@ -104,7 +104,6 @@ Student who encounters technical difficulties could seek help at MJR Helpdesk. A
 
 **Resources for Student, Parent and Guardian**
 
-<a href="" target="_blank"></a>
 |    |      |
 |-------------------|----------------|
 | Personal Learning Device (PLD)      | <a href="/files/Ndlp/Parent%20Handbook%20I%20on%20Learning%20with%20a%20PLD.pdf" target="_blank">Parent Handbook (I) on Learning with a PLD</a><br><a href="" target="_blank">Parent Handbook (II) on Learning with a PLD</a><br><a href="/files/Ndlp/Student%20Device%20Information%20Kit%20student%20and%20parent.pdf" target="_blank">Student Device Information Kit (student & parent)</a><br><a href="" target="_blank">Lenovo Chromebook 500e User Guide</a>                              |
