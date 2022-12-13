@@ -31,3 +31,8 @@ Monday and Wednesday 2.30pm – 5.30pm
 
 ### Our Activities
 
+
+|   |   |   |
+|---|---|---|
+| ![](/images/Cca/Badminton%20(Boys)/Training%201.jpg) Training 1	 |   ![](/images/Cca/Badminton%20(Boys)/Training%202.jpg) Training 2	 |  ![](/images/Cca/Badminton%20(Boys)/Our%20School%20Team.jpeg) School Team
+   |
