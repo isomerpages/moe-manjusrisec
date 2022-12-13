@@ -60,7 +60,7 @@ Outdoor trainings at NPCC Camp Resilience in Pulau Ubin.
 |   |   |   |
 |:---:|:---:|:---:|
 | ![](/images/Cca/NPCC/Time%20for%20some%20outdoor%20cooking.jpg) Time for some outdoor cooking	 | ![](/images/Cca/NPCC/Ferry%20ride%20to%20Pulau%20Ubin.jpg)   Ferry Ride to Pulau Ubin  | ![](/images/Cca/NPCC/Rock%20Climbing.jpg)   Rock Climbing  |
-| ![](/images/Cca/NPCC/New%20friendships%20forged%20with%20cadets%20from%20other%20schools.jpg) New friendships forged with cadets from other schools |  ![](/images/Cca/NPCC/Ready%20to%20climb.jpg) Ready to climb! |   |
+| ![](/images/Cca/NPCC/New%20friendships%20forged%20with%20cadets%20from%20other%20schools.jpg) New friendships forged with cadets from other schools |  <img src="/images/Cca/NPCC/Ready%20to%20climb.jpg"  style="width:50%"> Ready to climb! |   |
 
 
 **Camp Craft Training**
