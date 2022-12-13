@@ -10,7 +10,7 @@ description: ""
 |:--------------:|:---------:|---------|
 | Travel Declaration<br>(use Parent Gateway app) | <a href="https://form.gov.sg/#!/5d01dc550816b400111ce980" target="_blank">Student Password Reset and Account Unlock</a> | <a href="https://workspace.google.com/dashboard" target="_blank">Student Icon Login</a> |
 
-<a href="" target="_blank"></a>
+
 
 |            |    Useful Links        |                     |
 |:-----------------:|:---------------:|-------------------|
@@ -30,4 +30,4 @@ description: ""
     
 *   [2020 JAE Booklet](https://manjusrisec.moe.edu.sg/qql/slot/u165/docs/students_parents/Useful%20Links%20n%20Resources/2020%20JAE%20booklet.pdf)
 *   [SLS Student Login Guide](https://manjusrisec.moe.edu.sg/qql/slot/u165/docs/students_parents/Useful%20Links%20n%20Resources/SLS%20Student%20Login%20guide.pdf)
-*   [Approved Calculator List](https://www.seab.gov.sg/home/examinations/approved-calculators)
+*   <a href="https://www.seab.gov.sg/home/examinations/approved-calculators" target="_blank">Approved Calculator List</a>
