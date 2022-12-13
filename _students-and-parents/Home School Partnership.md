@@ -13,7 +13,7 @@ Manjusri Secondary School is committed to build a positive partnership with pare
 - School General Office: 6842 4558  
 - School Email: manjusri\_ss@moe.edu.sg  
 - Specific Teacher’s Email that can be found at:  
- [https://manjusrisec.moe.edu.sg/discover-manjusri/our-staff](https://manjusrisec.moe.edu.sg/discover-manjusri/our-staff)  
+<a href="/discover-manjusri/our-staff/executive-committee/" target="_blank">https://manjusrisec.moe.edu.sg/discover-manjusri/our-staff</a>
   
  You may also check with your child’s/ward’s teacher on the best way to contact him/her.    
    
