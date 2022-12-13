@@ -35,6 +35,11 @@ Friday: 1-3pm
 Captain : FU CHUANZHI 3F   
 Vice-Captain : NG SHI QI 3F
 
+|      Team     |   Boys Team   |                  |       Girls Team      |               |
+|:-------------:|:-------------:|:----------------:|:---------------------:|:-------------:|
+|    Division   |     B Div     |       C Div      |         B Div         |     C Div     |
+| Wushu Leaders | Young Chan 3G | Ling Zhe Xian 2G | Cadence Goh Kar En 3E | Tan Ya Hui 2F |
+
 
 ### Our Programmes
 
@@ -42,14 +47,29 @@ Vice-Captain : NG SHI QI 3F
 
 The Wushu Team welcomed the Secondary One students with an exciting performance.
 
+|   |   |   |
+|:-:|:-:|:-:|
+|   |   |   |
+|   |   |   |
+
+
 **Performance @ Chinese New Year Celebration**
 
 
 The Wushu team put up a spectacular performance at this year’s Chinese New Year Celebration.
 
+|   |   |   |
+|:-:|:-:|:-:|
+|   |   |   |
+|   |   |   |
 
 
 **National School Games (NSG) Wushu Championships**
 
 An unforgettable experience of sweat, tears and joy at the National Wushu Competition.
 
+
+|   |   |   |
+|:-:|:-:|:-:|
+|   |   |   |
+|   |   |   |
