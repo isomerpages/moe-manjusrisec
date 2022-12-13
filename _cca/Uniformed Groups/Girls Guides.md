@@ -36,8 +36,8 @@ Every Monday and Wednesday
 |                                                                    Noor Nabila Binte Gazali                                                                    |   Assistant Company Leader  |
 |                                                                       Lim En Xin Shireen                                                                       |      Quarter Mistress       |
 |                                                           Reva Putriani Nurazizah Binte Mohamed Khermi                                                         | Assistant Quarter Mistress  |
-| Nerissa Tan Lui Rong (Sunflower)<br>Yeo Ga Yan (Yang Jia Yuan) (Jasmine)<br>Seah You En (Morning Glory)Aniqah Shafyrah Binte Zainal (Hibiscus)                 |        Patrol Leaders       |
-| Ong Yanzhi (Sunflower)<br>Geraldine See Yu Tong (Jasmine)<br>Nur Istifar Binte Abdullah (Morning Glory)<br><br>Qistina Yushini Puteri Shaiful Hermi (Hibiscus) |        Patrol Seconds       |
+| Nerissa Tan Lui Rong (Sunflower)<br><br>Yeo Ga Yan (Yang Jia Yuan) (Jasmine)<br><br>Seah You En (Morning Glory)<br><br>Aniqah Shafyrah Binte Zainal (Hibiscus)                 |        Patrol Leaders       |
+| Ong Yanzhi (Sunflower)<br><br>Geraldine See Yu Tong (Jasmine)<br><br>Nur Istifar Binte Abdullah (Morning Glory)<br><br>Qistina Yushini Puteri Shaiful Hermi (Hibiscus) |        Patrol Seconds       |
 
 ### Our Programmes
 
@@ -47,8 +47,8 @@ Every Monday and Wednesday
 
 |   |   |   |
 |---|---|---|
-|   |   |   |
-|   |   |   |
+|  ![](/images/Cca/Girls%20Guides/Girl%20Guides.jpg)  Guides pitching their tents for our Annual Manjusri Girl Guides Camp | ![](/images/Cca/Girls%20Guides/gg2.jpg) Green Canvas tents pitched by our Manjusri Guides  | ![](/images/Cca/Girls%20Guides/gg3.jpg) Our Sec 1 Guide trying her hand at Axemanship during Guides Camp  |
+|  ![](/images/Cca/Girls%20Guides/gg4.png) Our Guides cooking lunch under the kitchen shelter they constructed for camp |   ![](/images/Cca/Girls%20Guides/gg5.png) Our Guides taking turns to serve food to each other during camp|  ![](/images/Cca/Girls%20Guides/gg6.png) Our Guides eating lunch they cooked during field cooking  |
 
 **World Thinking Day**
 
