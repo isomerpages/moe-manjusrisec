@@ -33,12 +33,26 @@ Every Monday and Wednesday
 
 <p style="text-align: justify;">This camp sought to allow our girls to step out of their comfort zones to learn skills such as tent-pitching, outdoor cooking, field cooking. They will also engage in activities to build values such as resilience and teamwork.</p>
 
+|   |   |   |
+|---|---|---|
+|   |   |   |
+|   |   |   |
 
 **World Thinking Day**
 
 <p style="text-align: justify;">Our Guides also participated in the WAGGGS annual World Thinking Day where they engaged in activities to build awareness and values to be more proactive about world issues such as sustainability.</p>
 
+|   |   |   |
+|---|---|---|
+|   |   |   |
+|   |   |   |
 
 **East Division Day**
 
 <p style="text-align: justify;">East Division Day is a day where Girl Guides from the East Division schools come together to showcase their skills and to take part in friendly competitions in areas such as Gadget Making, Art and Cooking.</p>
+
+
+|   |   |   |
+|---|---|---|
+|   |   |   |
+|   |   |   |
