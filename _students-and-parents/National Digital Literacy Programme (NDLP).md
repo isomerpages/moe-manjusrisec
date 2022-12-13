@@ -45,8 +45,6 @@ This enables teachers to manage the students’ use of the PLD during lesson tim
 *   Mobile Device Management Service   
 This facilitates the updating and management of the PLDs, protects PLDs from malicious software, and protects students from objectionable internet content.  
 
-   
-
 *   Usage Management Service   
 This enables the school and/or parents to better supervise and set helpful limits for students’ use of PLDs after school.
 
