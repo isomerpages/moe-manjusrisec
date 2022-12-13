@@ -12,8 +12,7 @@ The band consists of passionate, dedicated budding musicians who love expressing
 
 ### Training Schedule
 
-Monday and Thursday 3-6pm (Combined)
-
+Monday and Thursday 3-6pm (Combined)    
 Wednesday 3-5pm (Self-Practice)
 
 ### Our Teachers
