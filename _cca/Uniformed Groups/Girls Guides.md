@@ -47,7 +47,7 @@ Every Monday and Wednesday
 
 |   |   |   |
 |---|---|---|
-|  ![](/images/Cca/Girls%20Guides/Girl%20Guides.jpg)  Guides pitching their tents for our Annual Manjusri Girl Guides Camp | ![](/images/Cca/Girls%20Guides/gg2.jpg) Green Canvas tents pitched by our Manjusri Guides  | <img src="/images/Cca/Girls%20Guides/gg3.jpg" style="width:50%"> Our Sec 1 Guide trying her hand at Axemanship during Guides Camp  |
+|  ![](/images/Cca/Girls%20Guides/Girl%20Guides.jpg)  Guides pitching their tents for our Annual Manjusri Girl Guides Camp | ![](/images/Cca/Girls%20Guides/gg2.jpg) Green Canvas tents pitched by our Manjusri Guides  | <img src="/images/Cca/Girls%20Guides/gg3.jpg" style="width:65%"> Our Sec 1 Guide trying her hand at Axemanship during Guides Camp  |
 |  ![](/images/Cca/Girls%20Guides/gg4.png) Our Guides cooking lunch under the kitchen shelter they constructed for camp |   ![](/images/Cca/Girls%20Guides/gg5.png) Our Guides taking turns to serve food to each other during camp|  ![](/images/Cca/Girls%20Guides/gg6.png) Our Guides eating lunch they cooked during field cooking  |
 
 **World Thinking Day**
