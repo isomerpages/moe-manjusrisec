@@ -109,8 +109,8 @@ Student who encounters technical difficulties could seek help at MJR Helpdesk. A
 |-------------------|----------------|
 | Personal Learning Device (PLD)      | <a href="/files/Ndlp/Parent%20Handbook%20I%20on%20Learning%20with%20a%20PLD.pdf" target="_blank">Parent Handbook (I) on Learning with a PLD</a><br><a href="" target="_blank">Parent Handbook (II) on Learning with a PLD</a><br><a href="/files/Ndlp/Student%20Device%20Information%20Kit%20student%20and%20parent.pdf" target="_blank">Student Device Information Kit (student & parent)</a><br><a href="" target="_blank">Lenovo Chromebook 500e User Guide</a>                              |
 | Device Management Application (DMA) | Chrome OS:<br><a href="/files/Ndlp/DMA%20Parent%20Guide%20v2%20-%20Option%20A%20Chrome%20OS.pdf" target="_blank">DMA Parent Guide v2.0 - Option A (Chrome OS)</a><br><a href="/files/Ndlp/DMA%20Parent%20Guide%20v2%20-%20Option%20B%20Chrome%20OS.pdf" target="_blank">DMA Parent Guide v2.0 - Option B (Chrome OS)</a><br> iPad:<br><a href="/files/Ndlp/DMA%20Parent%20Guide%20v2%20-%20Option%20A%20iPad%20OS.pdf" target="_blank">DMA Parent Guide v2.0 - Option A (iPad OS)</a><br><a href="/files/Ndlp/DMA%20Parent%20Guide%20v2%20-%20Option%20B%20iPad%20OS.pdf" target="_blank">DMA Parent Guide v2.0 - Option B (iPad OS)</a> |
-| Student ICON                        | Student iCON Onboarding Instructions                                                                                                                                                                             |
-| Student Zoom                | Student Zoom Onboarding Guide           |
-| Password reset and account unlock   | fill in this form    |
-| PLD Repair Process         | PLD Repair Process         |
-| Lost of PLD Work Process            | Lost of PLD Work Process            |
+| Student ICON                        | <a href="/files/Ndlp/Student%20iCON%20Onboarding%20Instructions.pdf" target="_blank">Student iCON Onboarding Instructions</a>          |
+| Student Zoom                | <a href="/files/Ndlp/Student%20Zoom%20Onboarding%20Guide.pdf" target="_blank">Student Zoom Onboarding Guide</a>           |
+| Password reset and account unlock   | <a href="" target="_blank">fill in this form</a>    |
+| PLD Repair Process         | <a href="/files/Ndlp/PLD%20Repair%20Process.pdf" target="_blank">PLD Repair Process</a>         |
+| Lost of PLD Work Process            | <a href="/files/Ndlp/Lost%20of%20PLD%20Work%20Process.pdf" target="_blank">Lost of PLD Work Process</a>            |
