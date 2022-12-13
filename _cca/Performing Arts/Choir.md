@@ -6,7 +6,7 @@ third_nav_title: Performing Arts
 ---
 # Choir
 
-The main aim of Choir is to develop a lifelong love for singing and to create lasting friendships among members. The CCA develops sound choral techniques and music literacy in each member via breathing techniques, voice projection, scale-singing and harmonic blending with part-singing. In addition to vocal training, we aim to instil perseverance among our members and creativity in expression.
+<p style="text-align: justify;">The main aim of Choir is to develop a lifelong love for singing and to create lasting friendships among members. The CCA develops sound choral techniques and music literacy in each member via breathing techniques, voice projection, scale-singing and harmonic blending with part-singing. In addition to vocal training, we aim to instil perseverance among our members and creativity in expression.</p>
 
 ### Training Schedule  
 
@@ -47,7 +47,7 @@ Every Monday and Wednesday
 
 **Choir Concert**
 
-Choir members in action during our biennial Choir Concert.
+<p style="text-align: justify;">Choir members in action during our biennial Choir Concert.</p>
 
 |   |   |   |
 |:---:|:---:|:---:|
@@ -56,7 +56,7 @@ Choir members in action during our biennial Choir Concert.
 
 **Our People Our Music Mega Concert**
 
-Choir took part in Our People Our Music Mega Concert, in conjunction with the opening of the National Stadium.
+<p style="text-align: justify;">Choir took part in Our People Our Music Mega Concert, in conjunction with the opening of the National Stadium.</p>
 
 |   |   | 
 |:---:|:---:|
