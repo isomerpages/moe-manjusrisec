@@ -4,22 +4,22 @@ permalink: /students-and-parents/textbooks-n-uniforms/
 description: ""
 ---
 *   Manjusri Secondary School 2023 (5NAT) Booklist  
-<a href="" target="_blank"></a>
-*   [Manjusri Secondary School 2023 (4NT) Booklist](https://manjusrisec.moe.edu.sg/qql/slot/u165/docs/students_parents/Textbooks%20and%20Uniform/S4%20NT.pdf)  
+
+*   <a href="/files/Textbooks%20&%20Uniforms/S4%20NT.pdf" target="_blank">Manjusri Secondary School 2023 (4NT) Booklist</a>
     
-*   [Manjusri Secondary School 2023 (4NA) Booklist](https://manjusrisec.moe.edu.sg/qql/slot/u165/docs/students_parents/Textbooks%20and%20Uniform/S4%20NA.pdf)  
+*   <a href="/files/Textbooks%20&%20Uniforms/S4%20NA.pdf" target="_blank">Manjusri Secondary School 2023 (4NA) Booklist</a>
     
-*   [Manjusri Secondary School 2023 (4E) Booklist](https://manjusrisec.moe.edu.sg/qql/slot/u165/docs/students_parents/Textbooks%20and%20Uniform/S4%20EXP.pdf)
-*   [Manjusri Secondary School 2023 (3NT) Booklist](https://manjusrisec.moe.edu.sg/qql/slot/u165/docs/students_parents/Textbooks%20and%20Uniform/S3%20NT.pdf)  
+*   <a href="/files/Textbooks%20&%20Uniforms/S4%20EXP.pdf" target="_blank">Manjusri Secondary School 2023 (4E) Booklist</a>
+*   <a href="/files/Textbooks%20&%20Uniforms/S3%20NT.pdf" target="_blank">Manjusri Secondary School 2023 (3NT) Booklist</a>
     
-*   [Manjusri Secondary School 2023 (3NA) Booklist](https://manjusrisec.moe.edu.sg/qql/slot/u165/docs/students_parents/Textbooks%20and%20Uniform/S3%20NA.pdf)  
+*   <a href="/files/Textbooks%20&%20Uniforms/S3%20NA.pdf" target="_blank">Manjusri Secondary School 2023 (3NA) Booklist</a>
     
-*   [Manjusri Secondary School 2023 (3E) Booklist](https://manjusrisec.moe.edu.sg/qql/slot/u165/docs/students_parents/Textbooks%20and%20Uniform/S3%20EXP.pdf)
-*   [Manjusri Secondary School 2023 (2NT) Booklist](https://manjusrisec.moe.edu.sg/qql/slot/u165/docs/students_parents/Textbooks%20and%20Uniform/S2%20NT.pdf)  
+*   <a href="/files/Textbooks%20&%20Uniforms/S3%20EXP.pdf" target="_blank">Manjusri Secondary School 2023 (3E) Booklist</a>
+*   <a href="/files/Textbooks%20&%20Uniforms/S2%20NT.pdf" target="_blank">Manjusri Secondary School 2023 (2NT) Booklist</a>
     
-*   [Manjusri Secondary School 2023 (2NA) Booklist](https://manjusrisec.moe.edu.sg/qql/slot/u165/docs/students_parents/Textbooks%20and%20Uniform/S2%20NA.pdf)  
+*   <a href="/files/Textbooks%20&%20Uniforms/S2%20NA.pdf" target="_blank">Manjusri Secondary School 2023 (2NA) Booklist</a>
     
-*   [Manjusri Secondary School 2023 (2E) Booklist](https://manjusrisec.moe.edu.sg/qql/slot/u165/docs/students_parents/Textbooks%20and%20Uniform/S2%20EXP.pdf)  
+*   <a href="/files/Textbooks%20&%20Uniforms/S2%20EXP.pdf" target="_blank">Manjusri Secondary School 2023 (2E) Booklist</a>
     
 *   Manjusri Secondary School 2023 (1NT) Booklist  
     
