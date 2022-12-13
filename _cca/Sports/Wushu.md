@@ -49,8 +49,8 @@ The Wushu Team welcomed the Secondary One students with an exciting performance.
 
 |   |   |   |
 |:-:|:-:|:-:|
-|   |   |   |
-|   |   |   |
+| ![](/images/Cca/Wushu/wushu01.png)  |   ![](/images/Cca/Wushu/wushu02.png)   |   ![](/images/Cca/Wushu/wushu03.png)   |
+|  ![](/images/Cca/Wushu/wushu04.png)    |     |    |
 
 
 **Performance @ Chinese New Year Celebration**
@@ -60,8 +60,8 @@ The Wushu team put up a spectacular performance at this year’s Chinese New Yea
 
 |   |   |   |
 |:-:|:-:|:-:|
-|   |   |   |
-|   |   |   |
+|  ![](/images/Cca/Wushu/wushu05.png)    |   ![](/images/Cca/Wushu/wushu06.png)   |  ![](/images/Cca/Wushu/wushu07.png)    |
+|   ![](/images/Cca/Wushu/wushu08.png)   |  ![](/images/Cca/Wushu/wushu09.png)    | ![](/images/Cca/Wushu/Taji%20Performance.jpg)  |
 
 
 **National School Games (NSG) Wushu Championships**
