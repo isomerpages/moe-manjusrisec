@@ -26,8 +26,8 @@ description: ""
 
 *   [Income Family Micro-Insurance Scheme (IFMIS)](https://manjusrisec.moe.edu.sg/qql/slot/u165/docs/students_parents/Useful%20Links%20n%20Resources/Income%20IFMIS%20Brochure%20Final%202020.pdf)  
     
-*   [GROUP PERSONAL ACCIDENT INSURANCE FOR STUDENTS](https://manjusrisec.moe.edu.sg/qql/slot/u165/docs/students_parents/Useful%20Links%20n%20Resources/GPA%20Product%20Fact%20Sheet%202022.pdf)  
+*   <a href="" target="_blank">GROUP PERSONAL ACCIDENT INSURANCE FOR STUDENTS</a>(https://manjusrisec.moe.edu.sg/qql/slot/u165/docs/students_parents/Useful%20Links%20n%20Resources/GPA%20Product%20Fact%20Sheet%202022.pdf)  
     
-*   [2020 JAE Booklet](https://manjusrisec.moe.edu.sg/qql/slot/u165/docs/students_parents/Useful%20Links%20n%20Resources/2020%20JAE%20booklet.pdf)
-*   [SLS Student Login Guide](https://manjusrisec.moe.edu.sg/qql/slot/u165/docs/students_parents/Useful%20Links%20n%20Resources/SLS%20Student%20Login%20guide.pdf)
+*   <a href="" target="_blank">2020 JAE Booklet</a>(https://manjusrisec.moe.edu.sg/qql/slot/u165/docs/students_parents/Useful%20Links%20n%20Resources/2020%20JAE%20booklet.pdf)
+*   <a href="" target="_blank">SLS Student Login Guide</a>(https://manjusrisec.moe.edu.sg/qql/slot/u165/docs/students_parents/Useful%20Links%20n%20Resources/SLS%20Student%20Login%20guide.pdf)
 *   <a href="https://www.seab.gov.sg/home/examinations/approved-calculators" target="_blank">Approved Calculator List</a>
