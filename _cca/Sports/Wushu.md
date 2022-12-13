@@ -60,7 +60,7 @@ The Wushu team put up a spectacular performance at this year’s Chinese New Yea
 
 |   |   |   |
 |:-:|:-:|:-:|
-|  ![](/images/Cca/Wushu/wushu05.png)  Taiji performance	   |   ![](/images/Cca/Wushu/wushu06.png)  Individual performance	  |  ![](/images/Cca/Wushu/wushu07.png)   Individual performance	  |
+|  ![](/images/Cca/Wushu/wushu05.png) Taiji performance	   |   ![](/images/Cca/Wushu/wushu06.png)  Individual performance	  |  ![](/images/Cca/Wushu/wushu07.png)   Individual performance	  |
 |   ![](/images/Cca/Wushu/wushu08.png) B Division Boys 	  |  ![](/images/Cca/Wushu/wushu09.png)   Grand Finale 	 | ![](/images/Cca/Wushu/Taji%20Performance.jpg)  Taiji performance	 |
 
 
@@ -71,5 +71,5 @@ An unforgettable experience of sweat, tears and joy at the National Wushu Compet
 
 |   |   |   |
 |:-:|:-:|:-:|
-|   |   |   |
-|   |   |   |
+| ![](/images/Cca/Wushu/wushu_game1.jpg)  |    ![](/images/Cca/Wushu/wushu_game2.jpg)  |  ![](/images/Cca/Wushu/wushu_game3.jpg)   |
+|   ![](/images/Cca/Wushu/wushu_game4.jpg)  |   ![](/images/Cca/Wushu/wushu_game5.jpg)  |   |
