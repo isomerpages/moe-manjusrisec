@@ -74,8 +74,8 @@ Wednesday 3-5pm (Self-Practice)
 
 |   |   |   |
 |:---:|:---:|:---:|
-|   |   |   |
-|   |   |   |
+|   ![](/images/Cca/Concert%20Band/band01.png) Band in Action! |    ![](/images/Cca/Concert%20Band/band02.png)  Group Photo outside RP!|   ![](/images/Cca/Concert%20Band/band03.png) Pre-SIBF Concert!  |
+|    ![](/images/Cca/Concert%20Band/band04.png)  Rehearsing before actual SIBF! |  ![](/images/Cca/Concert%20Band/band05.png) SIBF 2014 |   |
 
 
 **Band Sectional Photos**
@@ -84,5 +84,5 @@ Our Concert Band.
 
 |   |   |   |
 |:---:|:---:|:---:|
-|   |   |   |
-|   |   |   |
+|   ![](/images/Cca/Concert%20Band/band06.png)  Clarinettists! |    ![](/images/Cca/Concert%20Band/band07.png)  Flute Girls! |   ![](/images/Cca/Concert%20Band/band08.png)  Saxophonists!  |
+|    ![](/images/Cca/Concert%20Band/band09.png)  Trombone Girls!  |  ![](/images/Cca/Concert%20Band/band10.png) Trumpet Section!  |   ![](/images/Cca/Concert%20Band/band11.png) Cool Leaders!  |
