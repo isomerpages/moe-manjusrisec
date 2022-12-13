@@ -3,6 +3,9 @@ title: National Digital Literacy Programme (NDLP)
 permalink: /students-and-parents/national-digital-literacy-programme-ndlp/
 description: ""
 ---
+# broken link: https://www.asiapac.com.sg/pld/lenovo
+
+
 **Background**    
   
 <p style="text-align: justify;">MOE launched the National Digital Literacy Programme (NDLP) in March 2020 to help students strengthen their digital literacies. Through the NDLP, all secondary school students will own a school-prescribed Personal Learning Device (PLD). The use of the personal learning device for teaching and learning aims to  </p>
@@ -95,3 +98,17 @@ Student who encounters technical difficulties could seek help at MJR Helpdesk. A
 | Lenovo Helpdesk       | **Helpdesk number:** 800 852 8100<br><br>(After selecting your preferred language, please press “2” for standard warranty customer)<br><br>**WhatsApp support:**<br><br>6703 6821<br><br>**Online Shopping Portal**<br><a href="https://www.asiapac.com.sg/pld/lenovo" target="_blank">https://www.asiapac.com.sg/pld/lenovo</a>                                                                                                             | **Mon – Fri:** 9:00 –18:00<br>**Sat:** 9:00 –15:00<br>**Sun and Public Holidays:** closed                                     |
 |  Acer Service Centre  |                                                                                          29 International Business Park Singapore 609923 (1.1km from Jurong East MRT)<br><br>Service Centre Number: 6895 6278<br>Service Centre Email: acercare.sg@acer.com<br>                                                                                          | **Mon, Tue, Thu, Fri:**<br>0845 - 1715<br><br>**Wed :** 0845 - 1945<br><br>**Sat :** 0900 - 1200<br><br>**Sun and Public Holiday:**<br>Closed |
 |     Acer Helpdesk     |                                                                                                        Help Desk Number: 6895 6278<br>Help Desk Email: [acercare.sg@acer.com](mailto:acercare.sg@acer.com)<br><br>**Online Shopping Portal** <br><a href="https://secured.acer.com.sg/pld" target="_blank">https://secured.acer.com.sg/pld</a>                                                                                                        | **Mon, Tue, Thu, Fri :**<br>0845 – 1715<br><br>**Wed :** 0845 – 1945<br><br>**Sat:** 0900 – 1200<br><br>**Sun and Public Holiday:**<br>Closed         |
+
+
+**Resources for Student, Parent and Guardian**
+
+
+|    |      |
+|-------------------|----------------|
+| Personal Learning Device (PLD)      | Parent Handbook (I) on Learning with a PLD<br>Parent Handbook (II) on Learning with a PLD<br>Student Device Information Kit (student & parent)<br>Lenovo Chromebook 500e User Guide                              |
+| Device Management Application (DMA) | Chrome OS:<br>DMA Parent Guide v2.0 - Option A (Chrome OS)<br>DMA Parent Guide v2.0 - Option B (Chrome OS)<br> iPad:<br>DMA Parent Guide v2.0 - Option A (iPad OS)<br>DMA Parent Guide v2.0 - Option B (iPad OS) |
+| Student ICON                        | Student iCON Onboarding Instructions                                                                                                                                                                             |
+| Student Zoom                | Student Zoom Onboarding Guide           |
+| Password reset and account unlock   | fill in this form    |
+| PLD Repair Process         | PLD Repair Process         |
+| Lost of PLD Work Process            | Lost of PLD Work Process                                                                                                                                                                                         |
