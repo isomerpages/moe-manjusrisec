@@ -3,3 +3,46 @@ title: Home Based Learning (HBL)
 permalink: /students-and-parents/home-based-learning-hbl/
 description: ""
 ---
+# Home-Based Learning (HBL)
+
+1\. Home-Based Learning (HBL) Timetable
+
+2\. Password reset
+
+    Manjusrisec Gmail : [Self reset guide](https://manjusrisec.moe.edu.sg/qql/slot/u165/images/pages/students_parents/HBL/Gmail%20Password%20Reset%20Using%20Mobile%20Phone.jpg) or [here](https://form.gov.sg/#!/5d01dc550816b400111ce980).
+
+    SLS : FTs, Subject Teachers or [here](https://form.gov.sg/#!/5d01dc550816b400111ce980).  
+
+    IAMS (Windows Login) : [here](https://form.gov.sg/#!/5d01dc550816b400111ce980).
+
+  
+
+3. [Guide](https://manjusrisec.moe.edu.sg/qql/slot/u165/docs/students_parents/HBL/2.2.%20Use%20Google%20Meet%20for%20HBL%20(student).pdf) for using Google Meet during HBL
+
+  
+
+4. [Parents Kit](https://manjusrisec.moe.edu.sg/qql/slot/u165/docs/students_parents/HBL/Parent%20Kit%20-%20Supporting%20your%20child%20during%20Full%20HBL.pdf): Supporting your child during HBL
+
+  
+
+5\. SLS Support for Home-Based Learning   
+<u>School Operating Hours</u>   
+During school operating hours, students should contact the School-based Helpline for SLS access matters.    
+School-based Helpline:    68424558   
+Mondays - Fridays:          8:00 am - 4:00 pm
+
+  
+
+For other matters, students can email the SLS Helpdesk at helpdesk@sls.ufinity.com. When emailing the SLS Helpdesk, students should include your full name, name of school and form class.
+
+  
+<u>Non-School Operating Hours</u>   
+Students can contact the SLS Helpdesk outside the school operating hours.
+
+SLS Helpdesk:           67026513   
+Mondays - Fridays:    4:00 pm - 9:00 pm   
+Saturdays:                 9:00 am - 9:00 pm   
+ \*Closed on Sundays & Public Holidays
+
+
+Alternatively, students can email the SLS Helpdesk at helpdesk@sls.ufinity.com. When emailing the SLS Helpdesk, students should include your full name, name of school and form class.
