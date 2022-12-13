@@ -60,7 +60,7 @@ Friday: 2.00pm - 5.00pm @ CO Room & Classrooms
 
 **Singapore Youth Arts Presentation**
 
-Once every two years, our members will gear up for the inaugural Singapore Youth Festival Arts Presentation.
+<p style="text-align: justify;">Once every two years, our members will gear up for the inaugural Singapore Youth Festival Arts Presentation.</p>
 
 
 |   |   |   |
@@ -71,7 +71,7 @@ Once every two years, our members will gear up for the inaugural Singapore Youth
 
 **CO Music Exchange**
 
-Manjusri Chinese Orchestra hosted CO Music Exchange Programme together with participating schools’ CO from Changkat Changi Sec, Chua Chu Kang Sec, Greendale Sec and Victoria School.
+<p style="text-align: justify;">Manjusri Chinese Orchestra hosted CO Music Exchange Programme together with participating schools’ CO from Changkat Changi Sec, Chua Chu Kang Sec, Greendale Sec and Victoria School.</p>
 
 |   |   |   |
 |:---:|:---:|:---:|
@@ -81,7 +81,7 @@ Manjusri Chinese Orchestra hosted CO Music Exchange Programme together with part
 
 ##### Chinese Orchestra
 
-Our CO students are also provided with opportunities to develop their potential and areas of interest perform at school platforms such as Arts Fiesta, MJR Jams, Open House and Chinese New Year Celebration.
+<p style="text-align: justify;">Our CO students are also provided with opportunities to develop their potential and areas of interest perform at school platforms such as Arts Fiesta, MJR Jams, Open House and Chinese New Year Celebration.</p>
 
 
 |   |   |   |
