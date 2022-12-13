@@ -9,3 +9,12 @@ description: ""
 
 <a href="" target="_blank"></a>
 
+|            |    Useful Links        |                     |
+|:-----------------:|:---------------:|-------------------|
+|                            MOE - Ministry of Education                            |  Library System (Spydus) |  MOE Sports and Recreation Club  |
+|                                Parents in Education                               |        School Bag        |    AsknLearn e-learning portal   |
+|                        Ace-Learning Math e-Learning Portal                        |           OPAC           |      Channel NewsAsia (live)     |
+|                               Haze Situation Update                               |       ITE Education      |        Ministry of Health        |
+|                                        NAFA                                       |   Polytechnic Education  | Preparation for National Service |
+|                     Singapore Examination and Assessment Board                    | Vigilance against dengue |      Student Learning Space      |
+| Group Personal Accident Insurance Plan for Students – Online Submission of Claims |  CPA Learning Resources  |           SLS Helpdesk           |
