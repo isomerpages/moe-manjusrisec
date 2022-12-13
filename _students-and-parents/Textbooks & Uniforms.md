@@ -32,5 +32,5 @@ description: ""
 
 | School Bookshop |                |
 |-----------------|-----------------------------|
-| Operator:       | Pacific Bookstores Pte Ltd                                                                                                                                                                                              |
+| Operator:       |   <a href="http://www.pacificbookstores.com" target="_blank"><b>Pacific Bookstores Pte Ltd</b></a>             |
 | Opening Hours:  | Monday to Friday (8.00am to 3.30pm), <br><br>Closed during school holidays, eve of PH and PH<br><br>Website: www.pacificbookstores.com <br><br>Hotline: +65 65592269 [Monday to Friday: 9.00am to 5.30pm, closed weekends & PH] |
