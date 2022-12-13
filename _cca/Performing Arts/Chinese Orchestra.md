@@ -33,27 +33,58 @@ Friday: 2.00pm - 5.00pm @ CO Room & Classrooms
 
 **Executive Committee**
 
-
+| Name                    | Position                    |
+|:------------------------:|:-----------------------:|
+|      Boh Duang Zen      |         Chairperson         |
+|        Estia Goh        |       Vice-Chairperson      |
+|       Zhang Mingke      |         Score Master        |
+| Sum Jia En<br>Ong Zi Zi |    Assistant Score Master   |
+|       Darrion Bay       | Quarter Master (Instrument) |
+|   Lau Rong Ting Tricia  |  Quarter Master (Costume)   |
+| Regin Toh               |  Assistant Quarter Master   |
 
 **Sectional Leaders**
 
-
+| Name                                                       | Position             |
+|:------------------------:|:-----------------------:|
+| Samatha Ng Boon Hian (SL)<br>Liew Xuan Yin, Germaine (ASL) |         Er Hu        |
+|            Balerie Lim Xin En<br>Estia Goh (ASL)           |    Yan Qing / Pipa   |
+| Chia Xin Rong (SL)<br>Joel Kwa Jun Hienn (ASL)             | Zhong Ruan / Liu Qin |
+|           Ng Qi Fang Gina(SL)<br>Jovan Soo (ASL)           |         Dizi         |
+|             Woo Jia Jun(SL)<br>Tay Jia De (ASL)            |     Sheng / Suona    |
+|            Adeline Seet(SL)<br>Tan Rui Han (ASL)           |     Cello / Bass     |
+|          See Jian Liang(SL)<br>See Jian Hong (ASL)         |      Percussion      |
+|     Tan Ying Xi Chloe (Head)<br>Eileen Tim (Asst Head)     |       Logistics      |
 
 ### Our Programmes
-
-
 
 **Singapore Youth Arts Presentation**
 
 Once every two years, our members will gear up for the inaugural Singapore Youth Festival Arts Presentation.
 
 
+|   |   |   |
+|:---:|:---:|:---:|
+| ![](/images/Cca/Chinese%20Orchestra/SYF%201.jpg) SYF1  | ![](/images/Cca/Chinese%20Orchestra/SYF%202.jpg) SYF2 | ![](/images/Cca/Chinese%20Orchestra/SYF3.jpg) SYF3  |
+|  ![](/images/Cca/Chinese%20Orchestra/SYF4.jpg) SYF4 |![](/images/Cca/Chinese%20Orchestra/SYF%205.jpg)  SYF5  | ![](/images/Cca/Chinese%20Orchestra/SYF6.jpg) SYF6  |
+
 
 **CO Music Exchange**
 
 Manjusri Chinese Orchestra hosted CO Music Exchange Programme together with participating schools’ CO from Changkat Changi Sec, Chua Chu Kang Sec, Greendale Sec and Victoria School.
 
+|   |   |   |
+|:---:|:---:|:---:|
+|   |   |   |
+|   |   |   |
+
 
 ##### Chinese Orchestra
 
 Our CO students are also provided with opportunities to develop their potential and areas of interest perform at school platforms such as Arts Fiesta, MJR Jams, Open House and Chinese New Year Celebration.
+
+
+|   |   |   |
+|:---:|:---:|:---:|
+|   |   |   |
+|   |   |   |
