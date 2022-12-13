@@ -19,13 +19,11 @@ Manjusrisec Gmail :  <a href="/images/Students%20and%20Parents/Gmail%20Password
 SLS : FTs, Subject Teachers or <a href="https://form.gov.sg/#!/5d01dc550816b400111ce980" target="_blank">here</a>.    
 IAMS (Windows Login) : <a href="https://form.gov.sg/#!/5d01dc550816b400111ce980" target="_blank">here</a>.
 
-  
 
-3. [Guide](https://manjusrisec.moe.edu.sg/qql/slot/u165/docs/students_parents/HBL/2.2.%20Use%20Google%20Meet%20for%20HBL%20(student).pdf) for using Google Meet during HBL
 
-  
+3.   <a href="/files/Hbl/Use%20Google%20Meet%20for%20HBL%20(student).pdf" target="_blank">Guide</a> for using Google Meet during HBL
 
-4. [Parents Kit](https://manjusrisec.moe.edu.sg/qql/slot/u165/docs/students_parents/HBL/Parent%20Kit%20-%20Supporting%20your%20child%20during%20Full%20HBL.pdf): Supporting your child during HBL
+4. <a href="/files/Hbl/Parent%20Kit%20-%20Supporting%20your%20child%20during%20Full%20HBL.pdf" target="_blank">Parents Kit</a>: Supporting your child during HBL
 
   
 
