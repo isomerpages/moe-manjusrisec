@@ -2,10 +2,10 @@ collections:
   cca:
     output: true
     order:
-      - Performing Arts/.keep
-      - Performing Arts/Chinese Dance.md
       - Clubs and Societies/.keep
       - Clubs and Societies/Buddhist Interact Club.md
       - Clubs and Societies/Chinese Calligraphy.md
       - Clubs and Societies/Media Club.md
+      - Performing Arts/.keep
+      - Performing Arts/Chinese Dance.md
       - CCA Framework.md
