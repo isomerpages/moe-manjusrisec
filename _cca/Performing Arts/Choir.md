@@ -69,6 +69,6 @@ Choir took part in Our People Our Music Mega Concert, in conjunction with the op
 
 |   |   |   |
 |:---:|:---:|:---:|
-|   |   |   |
-|   |   |   |
-|   |   |   |
+|    ![](/images/Cca/Choir/choir08.png) SYF 1	  |     ![](/images/Cca/Choir/choir09.png)SYF 2	 |    ![](/images/Cca/Choir/choir10.png)  SYF 3	|
+|    ![](/images/Cca/Choir/choir11.png) SYF 4	 |   ![](/images/Cca/Choir/Recording1.jpg) Recording 1 	  |  ![](/images/Cca/Choir/Recording2.jpg) Recording 2 	  |
+|  ![](/images/Cca/Choir/Recording3.jpg) Recording 3 	  |   ![](/images/Cca/Choir/Recording4.jpg) Recording 4 	 |   |
