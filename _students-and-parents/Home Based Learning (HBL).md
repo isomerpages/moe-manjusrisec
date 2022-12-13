@@ -14,12 +14,9 @@ description: ""
 |   Sec 3 |  <a href="/files/Hbl/2022%20Sem%202%20BL%20Timetable_v3%20-%20Sec%203.pdf" target="_blank">Timetable</a> |
 | Sec 4/5 |  <a href="/files/Hbl/2022%20Sem%202%20BL%20Timetable_v3%20-%20Sec%204.pdf" target="_blank">Timetable</a> |
 
-2\. Password reset
-
-Manjusrisec Gmail :  <a href="/images/Students%20and%20Parents/Gmail%20Password%20Reset%20Using%20Mobile%20Phone.jpg" target="_blank">Self reset guide</a> or <a href="https://form.gov.sg/#!/5d01dc550816b400111ce980" target="_blank">here</a>.
-
-SLS : FTs, Subject Teachers or <a href="https://form.gov.sg/#!/5d01dc550816b400111ce980" target="_blank">here</a>.  
-
+2\. Password reset   
+Manjusrisec Gmail :  <a href="/images/Students%20and%20Parents/Gmail%20Password%20Reset%20Using%20Mobile%20Phone.jpg" target="_blank">Self reset guide</a> or <a href="https://form.gov.sg/#!/5d01dc550816b400111ce980" target="_blank">here</a>.    
+SLS : FTs, Subject Teachers or <a href="https://form.gov.sg/#!/5d01dc550816b400111ce980" target="_blank">here</a>.    
 IAMS (Windows Login) : <a href="https://form.gov.sg/#!/5d01dc550816b400111ce980" target="_blank">here</a>.
 
   
