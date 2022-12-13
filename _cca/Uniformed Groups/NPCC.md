@@ -37,7 +37,10 @@ Monday and Wednesday 3.00pm - 6.00pm
 
 **Unit Cadet Leaders**
 
-
+|   |   |   |
+|:---:|:---:|:---:|
+|   |   |   |
+|   |   |   |
 
 ### Our Programmes
 
@@ -45,13 +48,20 @@ Monday and Wednesday 3.00pm - 6.00pm
 
 Outdoor trainings at NPCC Camp Resilience in Pulau Ubin.
 
+|   |   |   |
+|:---:|:---:|:---:|
+|   |   |   |
+|   |   |   |
 
 
 **Camp Craft Training**
 
 Training for Inter-Unit Camp Craft Competition.
 
-
+|   |   |   |
+|:---:|:---:|:---:|
+|   |   |   |
+|   |   |   |
 
 
 **Visits to Police Establishments**
