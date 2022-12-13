@@ -37,10 +37,7 @@ Monday and Wednesday 3.00pm - 6.00pm
 
 **Unit Cadet Leaders**
 
-|   |   |   |
-|:---:|:---:|:---:|
-|   |   |   |
-|   |   |   |
+
 
 ### Our Programmes
 
@@ -65,3 +62,9 @@ Training for Inter-Unit Camp Craft Competition.
 
 
 **Visits to Police Establishments**
+
+
+|   |   |   |
+|:---:|:---:|:---:|
+|   |   |   |
+|   |   |   |
