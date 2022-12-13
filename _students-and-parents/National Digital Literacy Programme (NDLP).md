@@ -5,6 +5,8 @@ description: ""
 ---
 # broken link: https://www.asiapac.com.sg/pld/lenovo
 
+# pdf > 5MB: Lenovo Chromebook 500e User Guide, Parent Handbook (II) on Learning with a PLD
+
 
 **Background**    
   
@@ -106,9 +108,9 @@ Student who encounters technical difficulties could seek help at MJR Helpdesk. A
 |    |      |
 |-------------------|----------------|
 | Personal Learning Device (PLD)      | <a href="/files/Ndlp/Parent%20Handbook%20I%20on%20Learning%20with%20a%20PLD.pdf" target="_blank">Parent Handbook (I) on Learning with a PLD</a><br><a href="" target="_blank">Parent Handbook (II) on Learning with a PLD</a><br><a href="/files/Ndlp/Student%20Device%20Information%20Kit%20student%20and%20parent.pdf" target="_blank">Student Device Information Kit (student & parent)</a><br><a href="" target="_blank">Lenovo Chromebook 500e User Guide</a>                              |
-| Device Management Application (DMA) | Chrome OS:<br>DMA Parent Guide v2.0 - Option A (Chrome OS)<br>DMA Parent Guide v2.0 - Option B (Chrome OS)<br> iPad:<br>DMA Parent Guide v2.0 - Option A (iPad OS)<br>DMA Parent Guide v2.0 - Option B (iPad OS) |
+| Device Management Application (DMA) | Chrome OS:<br><a href="" target="_blank">DMA Parent Guide v2.0 - Option A (Chrome OS)</a><br><a href="" target="_blank">DMA Parent Guide v2.0 - Option B (Chrome OS)</a><br> iPad:<br><a href="" target="_blank">DMA Parent Guide v2.0 - Option A (iPad OS)</a><br><a href="" target="_blank">DMA Parent Guide v2.0 - Option B (iPad OS)</a> |
 | Student ICON                        | Student iCON Onboarding Instructions                                                                                                                                                                             |
 | Student Zoom                | Student Zoom Onboarding Guide           |
 | Password reset and account unlock   | fill in this form    |
 | PLD Repair Process         | PLD Repair Process         |
-| Lost of PLD Work Process            | Lost of PLD Work Process                                                                                                                                                                                         |
+| Lost of PLD Work Process            | Lost of PLD Work Process            |
