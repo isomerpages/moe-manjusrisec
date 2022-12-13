@@ -56,7 +56,7 @@ Every Monday and Wednesday
 
 |   |   |   |
 |---|---|---|
-| ![](/images/Cca/Girls%20Guides/GG%20World1.jpeg) The Guides doing preparatory work |   ![](/images/Cca/Girls%20Guides/GG%20World2.jpeg) Virtual World Thinking Day	  |  ![](/images/Cca/Girls%20Guides/GG%20World6.jpeg)  Patrol Sunflower |
+| <img src="/images/Cca/Girls%20Guides/GG%20World1.jpeg" style="width:50%"> The Guides doing preparatory work |   ![](/images/Cca/Girls%20Guides/GG%20World2.jpeg) Virtual World Thinking Day	  |  ![](/images/Cca/Girls%20Guides/GG%20World6.jpeg)  Patrol Sunflower |
 |  ![](/images/Cca/Girls%20Guides/GG%20World3.jpeg) Patrol Morning Glory |  ![](/images/Cca/Girls%20Guides/GG%20World4.jpeg) Jasmine Patrol	 |   ![](/images/Cca/Girls%20Guides/GG%20World5.jpeg)  Patrol Hibiscus  |
 
 **East Division Day**
