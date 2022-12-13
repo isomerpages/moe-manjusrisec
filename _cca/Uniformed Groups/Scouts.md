@@ -47,8 +47,8 @@ Every Monday and Wednesday 3.00pm - 6.00pm
 
 |   |   |   |
 |:-:|:-:|:-:|
-|   |   |   |
-|   |   |   |
+|    ![](/images/Cca/Scouts/scouts05.png) National Patrol Camp	 |  ![](/images/Cca/Scouts/scouts06.png)  Uniform Inspection	 |   ![](/images/Cca/Scouts/scouts07.png) Living Quarters  |
+|    ![](/images/Cca/Scouts/scouts08.png)  Pioneering |    ![](/images/Cca/Scouts/scouts09.png)  Bonding	  |   |
 
 **Outdoor Activities**
 
