@@ -20,7 +20,13 @@ Friday: 2.00pm - 5.00pm @ CO Room & Classrooms
 ### Our Teachers
 
 
-
+| Teachers-in-Charge          | Email Address             |
+|:------------------------:|:-----------------------:|
+|        Mdm Lee Li Yun       |   lee_li_yun@moe.edu.sg   |
+|       Ms Goh Pei Shan       |  goh_pei_shan@moe.edu.sg  |
+|       Mrs Ng Phooi Yee      | mah_phooi_yee@moe.edu.sg  |
+|  Mrs Tan-Chen Lingzhi Wendy |  chen_lingzhi@moe.edu.sg  |
+|      Mdm Yong Tann Lee      | yong_tann_lee@moe.edu.sg  |
 
 
 ### Our Student Leaders
