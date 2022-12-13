@@ -65,8 +65,8 @@ Wednesday 3-5pm (Self-Practice)
 
 |   |   |   |
 |:---:|:---:|:---:|
-|   ![](/images/Cca/Concert%20Band/2019%20SYF%20Band.jpg) SYF band  | ![](/images/Cca/Concert%20Band/Band%20A%20practicing%20for%202021%20SYF.jpg) Band A practicing for SYF    |   ![](/images/Cca/Concert%20Band/Band%20B%20practicing%20for%202021%20SYF.jpg) Band B practicing for SYF   |
-|  ![](/images/Cca/Concert%20Band/Upclose%20of%20Band%20training%20for%20SYF.jpg) Up close of Band training for SYF	 | ![](/images/Cca/Concert%20Band/SYF%202021%20performance.jpeg) SYF performance  |   |
+|   ![](/images/Cca/Concert%20Band/2019%20SYF%20Band.jpg) SYF band  | <img src="/images/Cca/Concert%20Band/Band%20A%20practicing%20for%202021%20SYF.jpg" style="width:65%"> Band A practicing for SYF    |   ![](/images/Cca/Concert%20Band/Band%20B%20practicing%20for%202021%20SYF.jpg) Band B practicing for SYF   |
+|  ![](/images/Cca/Concert%20Band/Upclose%20of%20Band%20training%20for%20SYF.jpg) Up close of Band training for SYF	 | <img src="/images/Cca/Concert%20Band/SYF%202021%20performance.jpeg" style="width:80%">  SYF performance  |   |
 
 **Singapore International Band Festival**
 
