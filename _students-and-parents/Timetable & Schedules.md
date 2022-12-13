@@ -5,8 +5,6 @@ description: ""
 ---
 # Timetable & Schedules
 
-<a href="/files/Timetable%20&%20Schedules/" target="_blank"></a>
-
 **School Timetables**  
 
 *   <a href="/files/Timetable%20&%20Schedules/2022%20Sec%203%20Ext%20Cur%20T4W8_class.pdf" target="_blank">2022 Sec 3 Extended T4W8 Timetable</a>
