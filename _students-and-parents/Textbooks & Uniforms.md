@@ -4,7 +4,7 @@ permalink: /students-and-parents/textbooks-n-uniforms/
 description: ""
 ---
 *   Manjusri Secondary School 2023 (5NAT) Booklist  
-    
+<a href="" target="_blank"></a>
 *   [Manjusri Secondary School 2023 (4NT) Booklist](https://manjusrisec.moe.edu.sg/qql/slot/u165/docs/students_parents/Textbooks%20and%20Uniform/S4%20NT.pdf)  
     
 *   [Manjusri Secondary School 2023 (4NA) Booklist](https://manjusrisec.moe.edu.sg/qql/slot/u165/docs/students_parents/Textbooks%20and%20Uniform/S4%20NA.pdf)  
