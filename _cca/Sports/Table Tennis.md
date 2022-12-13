@@ -44,7 +44,7 @@ Girls: Every Wednesday 3pm – 6pm and Friday 1pm-4pm
 
 |   |   |   |
 |:--------------:|:-------------:|:----------:|
-|   |   |   |
+|  ![](/images/Cca/Table%20Tennis/EZ%20Inter-School%20TT%20Championship%20BOYS.jpg) | ![](/images/Cca/Table%20Tennis/EZ%20Inter-School%20TT%20Championship%20GIRLS.jpg)  | ![](/images/Cca/Table%20Tennis/National%20School%20Game%20BOYS.jpg)  |
 
  **Training**
  
@@ -52,4 +52,5 @@ Girls: Every Wednesday 3pm – 6pm and Friday 1pm-4pm
  
  |   |   |   |
 |:--------------:|:-------------:|:----------:|
-|   |   |   |
+|  ![](/images/Cca/Table%20Tennis/Physical%20Training%201.jpg) |   ![](/images/Cca/Table%20Tennis/Physical%20Training%202.jpg)  |   ![](/images/Cca/Table%20Tennis/Physical%20Training%203.jpg)  |
+|  ![](/images/Cca/Table%20Tennis/Skills%20Training%201.jpg) |    ![](/images/Cca/Table%20Tennis/Skills%20Training%202.jpg)    |  ![](/images/Cca/Table%20Tennis/Skills%20Training%203.jpg)   |
