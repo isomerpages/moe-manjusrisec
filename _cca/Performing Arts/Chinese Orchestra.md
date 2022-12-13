@@ -75,8 +75,8 @@ Manjusri Chinese Orchestra hosted CO Music Exchange Programme together with part
 
 |   |   |   |
 |:---:|:---:|:---:|
-|   |   |   |
-|   |   |   |
+| ![](/images/Cca/Chinese%20Orchestra/co05.png) ME1  |   ![](/images/Cca/Chinese%20Orchestra/co06.png) ME2 |  ![](/images/Cca/Chinese%20Orchestra/co07.png) ME3  |
+|   ![](/images/Cca/Chinese%20Orchestra/co08.png) ME4 |   |   |
 
 
 ##### Chinese Orchestra
