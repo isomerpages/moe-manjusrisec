@@ -49,7 +49,7 @@ The cadets undergo regimentation and discipline to prepare them for the assessme
 
 |   |   |   |
 |:---:|:---:|:---:|
-|   |   |   |
+|   ![](/images/Cca/NCC%20(land)/FSD.jpeg) MJR Free-style Drill |  <img src="/images/Cca/NCC%20(land)/MJR%20Jam.jpeg" style="width:70%"> Practising hard to put up a good performance for MJR JAM |  ![](/images/Cca/NCC%20(land)/PDS.jpeg)  MJR Precision Drill Squad  |
 
 
 **Other Highlights**
