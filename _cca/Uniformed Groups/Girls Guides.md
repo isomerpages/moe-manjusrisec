@@ -66,5 +66,5 @@ Every Monday and Wednesday
 
 |   |   |   |
 |---|---|---|
-|   |   |   |
-|   |   |   |
+|  ![](/images/Cca/Girls%20Guides/gg12.png)  Our Guides taking part in mixed media art competition at East Division Day  |  ![](/images/Cca/Girls%20Guides/gg13.png)  Manjusri Girl Guides at East Division Day |  ![](/images/Cca/Girls%20Guides/gg14.png) Our Guides receiving third place for Recycled Toy Making Competition |
+|  ![](/images/Cca/Girls%20Guides/gg15.png) Our Guides receiving third place at the Cheerleading Competition | ![](/images/Cca/Girls%20Guides/gg16.png) Our Guides receiving first place for Mini Gadget Competition |  ![](/images/Cca/Girls%20Guides/gg17.png) Our Guides at East Division Day Cheerleading Competition  |
