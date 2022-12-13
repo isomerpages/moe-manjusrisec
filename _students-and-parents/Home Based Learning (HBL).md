@@ -16,11 +16,11 @@ description: ""
 
 2\. Password reset
 
-    Manjusrisec Gmail : [Self reset guide](https://manjusrisec.moe.edu.sg/qql/slot/u165/images/pages/students_parents/HBL/Gmail%20Password%20Reset%20Using%20Mobile%20Phone.jpg) or [here](https://form.gov.sg/#!/5d01dc550816b400111ce980).
+Manjusrisec Gmail :  <a href="/images/Students%20and%20Parents/Gmail%20Password%20Reset%20Using%20Mobile%20Phone.jpg" target="_blank">Self reset guide</a> or <a href="https://form.gov.sg/#!/5d01dc550816b400111ce980" target="_blank">here</a>.
 
-    SLS : FTs, Subject Teachers or [here](https://form.gov.sg/#!/5d01dc550816b400111ce980).  
+SLS : FTs, Subject Teachers or <a href="https://form.gov.sg/#!/5d01dc550816b400111ce980" target="_blank">here</a>.  
 
-    IAMS (Windows Login) : [here](https://form.gov.sg/#!/5d01dc550816b400111ce980).
+IAMS (Windows Login) : <a href="https://form.gov.sg/#!/5d01dc550816b400111ce980" target="_blank">here</a>.
 
   
 
