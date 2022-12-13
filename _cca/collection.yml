@@ -2,8 +2,6 @@ collections:
   cca:
     output: true
     order:
-      - Sports/Badminton (Boys).md
-      - Sports/.keep
       - Clubs and Societies/.keep
       - Clubs and Societies/Buddhist Interact Club.md
       - Clubs and Societies/Chinese Calligraphy.md
@@ -13,4 +11,6 @@ collections:
       - Performing Arts/Chinese Orchestra.md
       - Performing Arts/Choir.md
       - Performing Arts/Concert Band.md
+      - Sports/.keep
+      - Sports/Badminton (Boys).md
       - CCA Framework.md
