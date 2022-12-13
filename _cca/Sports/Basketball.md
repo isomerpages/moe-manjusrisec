@@ -6,7 +6,7 @@ third_nav_title: Sports
 ---
 # Basketball
 
-We believe in striving for excellence in every match and we aspire to instil this value in our students. To boost the passion in the sport for our students, we had organized several friendly matches with other schools. We train tirelessly and passionately. United we Stand!  
+<p style="text-align: justify;">We believe in striving for excellence in every match and we aspire to instil this value in our students. To boost the passion in the sport for our students, we had organized several friendly matches with other schools. We train tirelessly and passionately. United we Stand!  </p>
 
 ### Training Sechedule  
 
@@ -38,8 +38,8 @@ Boy’s training days: Tuesday & Thursday (3 – 6pm)
 
 |   |   |   |
 |:---:|:---:|:---:|
-|   |   |   |
-|   |   |   |
+|  ![](/images/Cca/Basketball/bball_boys01.png)   East Zone 1 |   ![](/images/Cca/Basketball/bball_boys02.png)   East Zone 2  |   ![](/images/Cca/Basketball/bball_boys04.png)    East Zone 4 |
+|  ![](/images/Cca/Basketball/Basketball%20Girls.jpg)  Basketball Girls	 | ![](/images/Cca/Basketball/Our%20new%20leaders.jpg)  Our New Leaders	   | ![](/images/Cca/Basketball/Together%20we%20will%20achieve%20our%20goals.jpg)  Together, we achieve our goals  |
 
 
 ### Activities
