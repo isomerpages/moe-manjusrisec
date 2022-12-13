@@ -38,8 +38,8 @@ Boy’s training days: Tuesday & Thursday (3 – 6pm)
 
 |   |   |   |
 |:---:|:---:|:---:|
-|  <img src="/images/Cca/Basketball/bball_boys01.png" style="width:60%">    East Zone 1 |   ![](/images/Cca/Basketball/bball_boys02.png)   East Zone 2  |   ![](/images/Cca/Basketball/bball_boys04.png)    East Zone 4 |
-|  <img src="/images/Cca/Basketball/Basketball%20Girls.jpg" style="width:60%">  Basketball Girls	 | ![](/images/Cca/Basketball/Our%20new%20leaders.jpg)  Our New Leaders	   | ![](/images/Cca/Basketball/Together%20we%20will%20achieve%20our%20goals.jpg)  Together, we achieve our goals  |
+|  <img src="/images/Cca/Basketball/bball_boys01.png" style="width:50%">    East Zone 1 |   ![](/images/Cca/Basketball/bball_boys02.png)   East Zone 2  |   ![](/images/Cca/Basketball/bball_boys04.png)    East Zone 4 |
+|  <img src="/images/Cca/Basketball/Basketball%20Girls.jpg" style="width:50%">  Basketball Girls	 | ![](/images/Cca/Basketball/Our%20new%20leaders.jpg)  Our New Leaders	   | ![](/images/Cca/Basketball/Together%20we%20will%20achieve%20our%20goals.jpg)  Together, we achieve our goals  |
 
 
 ### Activities
@@ -47,5 +47,5 @@ Boy’s training days: Tuesday & Thursday (3 – 6pm)
 
 |   |   |   |
 |:---:|:---:|:---:|
-|  ![](/images/Cca/Basketball/bball_boys06.png)  Sports Festival 1 |  ![](/images/Cca/Basketball/bball_girls01.png)  Ruby during training |   <img src="/images/Cca/Basketball/bball_girls02.png" style="width:40%">  Team Bonding @ Aloha Loyang   |
-|   ![](/images/Cca/Basketball/bball_girls03.png)   Happy faces	 |    ![](/images/Cca/Basketball/bball_girls05.png)   Ready to Shoot  |  <img src="/images/Cca/Basketball/Training.jpeg" style="width:40%">  Training  |
+|  ![](/images/Cca/Basketball/bball_boys06.png)  Sports Festival 1 |  ![](/images/Cca/Basketball/bball_girls01.png)  Ruby during training |   <img src="/images/Cca/Basketball/bball_girls02.png" style="width:35%">  Team Bonding @ Aloha Loyang   |
+|   ![](/images/Cca/Basketball/bball_girls03.png)   Happy faces	 |    ![](/images/Cca/Basketball/bball_girls05.png)   Ready to Shoot  |  <img src="/images/Cca/Basketball/Training.jpeg" style="width:28%">  Training  |
