@@ -69,7 +69,7 @@ Training for Inter-Unit Camp Craft Competition.
 
 |   |   |   |
 |:---:|:---:|:---:|
-| ![](/images/Cca/NPCC/npcc05.png) A successful team is a group of many hands but of one mind – Bill Bethel	 |  ![](/images/Cca/NPCC/npcc06.png) TEAM – Together Everyone Achieve More	 | ![](/images/Cca/NPCC/Tent%20Pitching.jpg) Tent Pitching |
+| ![](/images/Cca/NPCC/npcc05.png) A successful team is a group of many hands but of one mind – Bill Bethel	 | <img src="/images/Cca/NPCC/npcc06.png"  style="width:60%"> TEAM – Together Everyone Achieve More	 | ![](/images/Cca/NPCC/Tent%20Pitching.jpg) Tent Pitching |
 | ![](/images/Cca/NPCC/Starting%20the%20campcraft%20process.jpg) Starting the campcraft process	 |  ![](/images/Cca/NPCC/Representing%20Manjusri%20Secondary%20in%20Campcraft%20competition.jpg) Representing Manjusri Secondary in Campcraft competition	 |   |
 
 
