@@ -49,8 +49,8 @@ The Wushu Team welcomed the Secondary One students with an exciting performance.
 
 |   |   |   |
 |:-:|:-:|:-:|
-| ![](/images/Cca/Wushu/wushu01.png)  |   ![](/images/Cca/Wushu/wushu02.png)   |   ![](/images/Cca/Wushu/wushu03.png)   |
-|  ![](/images/Cca/Wushu/wushu04.png)    |     |    |
+| ![](/images/Cca/Wushu/wushu01.png) Wushu audition |   ![](/images/Cca/Wushu/wushu02.png) Wushu audition  |   ![](/images/Cca/Wushu/wushu03.png)  Sec One students |
+|  ![](/images/Cca/Wushu/wushu04.png)  Sec One students  |     |    |
 
 
 **Performance @ Chinese New Year Celebration**
