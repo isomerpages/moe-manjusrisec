@@ -105,7 +105,7 @@ Student who encounters technical difficulties could seek help at MJR Helpdesk. A
 <a href="" target="_blank"></a>
 |    |      |
 |-------------------|----------------|
-| Personal Learning Device (PLD)      | <a href="/files/Ndlp/Parent%20Handbook%20I%20on%20Learning%20with%20a%20PLD.pdf" target="_blank">Parent Handbook (I) on Learning with a PLD</a><br><a href="" target="_blank">Parent Handbook (II) on Learning with a PLD</a><br>Student Device Information Kit (student & parent)<br>Lenovo Chromebook 500e User Guide                              |
+| Personal Learning Device (PLD)      | <a href="/files/Ndlp/Parent%20Handbook%20I%20on%20Learning%20with%20a%20PLD.pdf" target="_blank">Parent Handbook (I) on Learning with a PLD</a><br><a href="" target="_blank">Parent Handbook (II) on Learning with a PLD</a><br><a href="/files/Ndlp/Student%20Device%20Information%20Kit%20student%20and%20parent.pdf" target="_blank">Student Device Information Kit (student & parent)</a><br><a href="" target="_blank">Lenovo Chromebook 500e User Guide</a>                              |
 | Device Management Application (DMA) | Chrome OS:<br>DMA Parent Guide v2.0 - Option A (Chrome OS)<br>DMA Parent Guide v2.0 - Option B (Chrome OS)<br> iPad:<br>DMA Parent Guide v2.0 - Option A (iPad OS)<br>DMA Parent Guide v2.0 - Option B (iPad OS) |
 | Student ICON                        | Student iCON Onboarding Instructions                                                                                                                                                                             |
 | Student Zoom                | Student Zoom Onboarding Guide           |
