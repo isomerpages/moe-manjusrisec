@@ -7,6 +7,13 @@ description: ""
 
 1\. Home-Based Learning (HBL) Timetable
 
+|  Level  | Timetable |
+|:-------:|:---------:|
+|  Sec 1  | <a href="/files/Hbl/2022%20Sem%202%20BL%20Timetable_v3%20-%20Sec%201.pdf" target="_blank">Timetable</a>  |
+|   Sec 2 |  <a href="/files/Hbl/2022%20Sem%202%20BL%20Timetable_v3%20-%20Sec%202.pdf" target="_blank">Timetable</a> |
+|   Sec 3 |  <a href="/files/Hbl/2022%20Sem%202%20BL%20Timetable_v3%20-%20Sec%203.pdf" target="_blank">Timetable</a> |
+| Sec 4/5 |  <a href="/files/Hbl/2022%20Sem%202%20BL%20Timetable_v3%20-%20Sec%204.pdf" target="_blank">Timetable</a> |
+
 2\. Password reset
 
     Manjusrisec Gmail : [Self reset guide](https://manjusrisec.moe.edu.sg/qql/slot/u165/images/pages/students_parents/HBL/Gmail%20Password%20Reset%20Using%20Mobile%20Phone.jpg) or [here](https://form.gov.sg/#!/5d01dc550816b400111ce980).
