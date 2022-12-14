@@ -15,7 +15,7 @@ Top school performers (<u>not</u> listed in any order of merit) for this year w
 
 |   |   |   |
 |:---:|:---:|:---:|
-|   |   |   |
+| ![](/images/News/NA%20top%20performers1.jpg)  |   ![](/images/News/NA%20top%20performers2.jpg)  |  ![](/images/News/NT%20top%20performers3.jpg)   |
 
 
 The school wishes all our graduates the best in their journey along their future educational pathway.
