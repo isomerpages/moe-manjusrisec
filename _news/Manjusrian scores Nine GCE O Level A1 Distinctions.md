@@ -7,8 +7,8 @@ description: ""
 
 
 <figure>
-	<a href="/images/Jewel%20outing/032-Ee-Leng-Elaine-Seah-250x250.jpg" target = "_blank"> <img src="/images/Jewel%20outing/032-Ee-Leng-Elaine-Seah-250x250.jpg"
-     style="width:50%"></a>
+	<img src="/images/News/MJR%2001.jpg"
+     style="width:80%">
 <figcaption>
 	Liu Wancheng shown as 2<sup>nd</sup> student i.e. 3<sup>rd</sup> person from left in picture
 	</figcaption>
