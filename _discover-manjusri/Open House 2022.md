@@ -42,6 +42,7 @@ Time : 9am - 3pm (23-25 Nov)
 | Applied Learning Programme	 <iframe width="299" height="166" src="https://www.youtube.com/embed/BvQ6G1gzydU" title="Applied Learning Programme" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> | Learning for Life Programme <iframe width="298" height="167" src="https://www.youtube.com/embed/B3SIJzblSwo" title="Learning for Life Programme" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  |
 |  Reading for Literacy Programme 	<iframe width="295" height="165" src="https://www.youtube.com/embed/-E5rRFZD7YE" title="RLP E Open House Day" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> | Mindfulness and Learning Power Programme  <iframe width="300" height="166" src="https://www.youtube.com/embed/MjvxX_HVyQA" title="Mindfulness and Learning Power Programme 05" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> |
 
+Find out more about our School Programmes under the <a href="/passionate-learners/mindfulness-and-learning-power" target="_blank">Passionate Learner</a> tab on our school website.
 
 
 |   |   |
