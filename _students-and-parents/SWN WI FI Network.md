@@ -43,6 +43,7 @@ Log-in using your IAMS account. (Remember to check on the box to accept the term
 
 <img src="/images/Students%20and%20Parents/Swn%20wifi/swn9.png" style="width:40%">
 
-**Note**: You cannot log-in to more than one device using the same account at the same time. When you log-in to a second device, the first device will automatically be logout.
 
-To reset their IAMS password, please approach your form teachers to raise a request to ICT Department. Your IAMS password will expire every 90 days.
+<p style="text-align: justify;"><b>Note</b>: You cannot log-in to more than one device using the same account at the same time. When you log-in to a second device, the first device will automatically be logout.</p>
+
+<p style="text-align: justify;">To reset their IAMS password, please approach your form teachers to raise a request to ICT Department. Your IAMS password will expire every 90 days.</p>
