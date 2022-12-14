@@ -111,8 +111,7 @@ Examples of counselling case are as follow:
 * Bully
 
 
-**Parenting Tips**
-------------------
+### **Parenting Tips**
 
 Here is what our students need: Love, Limits, and Letting go.
 
