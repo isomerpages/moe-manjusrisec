@@ -11,5 +11,5 @@ Here are some snapshots and a snippet of Manjusrians during the recording at Nee
 
 |   |   |   |
 |---|---|---|
-| ![](/images/Spotlight/Choir%20ndp/MJR%20Choir%201.jpg)  | ![](/images/Spotlight/Choir%20ndp/MJR%20Choir%202.jpg)   | ![](/images/Spotlight/Choir%20ndp/MJR%20Choir%203.jpg)   |
-|  ![](/images/Spotlight/Choir%20ndp/MJR%20Choir%204.jpg)  | ![](/images/Spotlight/Choir%20ndp/MJR%20Choir%205.jpg)   | ![](/images/Spotlight/Choir%20ndp/MJR%20Choir%206.jpg)   |
+| ![](/images/Spotlight/Choir%20ndp/MJR%20Choir%201.jpg)  |  <img src="/images/Spotlight/Choir%20ndp/MJR%20Choir%202.jpg" style="width:55%">   | ![](/images/Spotlight/Choir%20ndp/MJR%20Choir%203.jpg)   |
+|  ![](/images/Spotlight/Choir%20ndp/MJR%20Choir%204.jpg)  |<img src="/images/Spotlight/Choir%20ndp/MJR%20Choir%205.jpg" style="width:55%">   | ![](/images/Spotlight/Choir%20ndp/MJR%20Choir%206.jpg)   |
