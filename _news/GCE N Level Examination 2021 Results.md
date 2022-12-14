@@ -15,5 +15,5 @@ _\* GCE O level subjects taken by Normal stream candidates have not been include
 2021 top school N level performers (<u>not</u> listed in any order of merit) were:
 
 | Normal (Academic) course                                                                                                  | Normal (Technical) course                                                         |
-|---------|-----------------------|
+|:---------:|:--------------------:|
 | Eio Wei Lun<br>Wong Jie Kun Derrick<br>Wee Zhen Yi<br>Sim Yue Ying Corliss<br>Fong Jian Han Famous<br>Toh Jun Hsian Wayne | Ho Zhe Ming<br>Zhang Mingke<br>Ooi Yong Heng<br>Muhammad Syafiq bin Mohamed Zamri |
