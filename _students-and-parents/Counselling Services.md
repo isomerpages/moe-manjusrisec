@@ -50,4 +50,4 @@ Please email her at [Woo\_WAI\_YENG@schools.gov.sg](mailto:Woo_WAI_YENG@schools
 
 Alternatively, you can book an appointment at <a href="https://tinyurl.com/ecgmanjusri" target="_blank">https://tinyurl.com/ecgmanjusri</a> or scan the QR code below.
 
-
+<img src="/images/Students%20and%20Parents/Counselling%20Services/QR_CODE_ECG.png" style="width:25%">
