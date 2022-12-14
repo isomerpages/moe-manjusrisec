@@ -36,8 +36,11 @@ sections:
       button: Click here to read more
       url: /spotlight/secondary-1-camp/
   - infobar:
-      title: Infobar Title
-      subtitle: Infobar Subtitle
-      description: Infobar description
-      button: Button Text
+      title: Singapore Youth Festival 2022 Art Exhibition
+      subtitle: Spotlight
+      description: Manjusri is proud to share that a series of 10 artworks done by our
+        Secondary Two (2021) students, is selected to be presented as part of
+        Project 2050 at the...
+      button: Click here to read more.
+      url: /spotlight/singapore-youth-festival-2022-art-exhibition
 ---
