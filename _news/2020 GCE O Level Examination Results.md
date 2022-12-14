@@ -16,9 +16,10 @@ description: ""
 
 <center><b>Our Top Performing Students from the Graduating Class of 2020</b></center>
 
-
+|   |   |
+|:---:|:---:|
+|   |   |
 
 <center><i> (Masks were removed momentarily for the taking of these pictures)</i></center>
 
 The school wishes our graduates the best in their future endeavours and further studies.  We hope that all Manjusrians will take inspiration from the efforts of their seniors.
-
