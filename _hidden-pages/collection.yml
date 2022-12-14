@@ -2,8 +2,8 @@ collections:
   hidden-pages:
     output: true
     order:
-      - Contact Us/.keep
       - School Calendar.md
+      - Contact Us/.keep
       - privacy.md
       - terms-of-use.md
       - faq.md
