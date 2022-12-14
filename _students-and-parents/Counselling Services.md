@@ -48,4 +48,6 @@ Students who would like to explore more about subject choices, ask about post-s
 
 Please email her at [Woo\_WAI\_YENG@schools.gov.sg](mailto:Woo_WAI_YENG@schools.gov.sg) and indicate your name, class and school in the email.
 
-Alternatively, you can book an appointment at [https://tinyurl.com/ecgmanjusri](https://tinyurl.com/ecgmanjusri)[](https://tinyurl.com/yasmjhs5) or scan the QR code below.
+Alternatively, you can book an appointment at <a href="https://tinyurl.com/ecgmanjusri" target="_blank">https://tinyurl.com/ecgmanjusri</a> or scan the QR code below.
+
+
