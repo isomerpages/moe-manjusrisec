@@ -18,7 +18,7 @@ description: ""
 
 |   |   |
 |:---:|:---:|
-|   |   |
+| ![](/images/News/O%20Level%20a1.png)  |  ![](/images/News/O%20Level%20b1.png)   |
 
 <center><i> (Masks were removed momentarily for the taking of these pictures)</i></center>
 
