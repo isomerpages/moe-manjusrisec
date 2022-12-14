@@ -71,18 +71,12 @@ Time : 9am - 3pm (23-25 Nov)
 |   Table Tennis	 <iframe width="307" height="171" src="https://www.youtube.com/embed/25X0P360jk4" title="Table Tennis" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> |  Wushu <iframe width="307" height="172" src="https://www.youtube.com/embed/5GglBt4AvA8" title="Wushu" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  |
 
 
+**Clubs and Societies**
 
 |   |   |
 |:---:|:---:|
-|   |   |
-|   |   |
+|  Buddhist Interact Club	<iframe width="313" height="174" src="https://www.youtube.com/embed/RU3w-ea4x7I" title="Buddhist Interact Club" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> | Chinese Calligrphy Club  <iframe width="313" height="172" src="https://www.youtube.com/embed/CN8FpFi918w" title="Chinese Calligraphy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> |
+|   Media Club	 <iframe width="309" height="172" src="https://www.youtube.com/embed/FWdqznlwy9M" title="Media Club" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> |   |
 
 
 
-
-
-
-|   |   |
-|:---:|:---:|
-|   |   |
-|   |   |
