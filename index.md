@@ -19,10 +19,12 @@ sections:
           description: Page A is important too
           url: /privacy/
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+      button: School Calendar
+      url: /hidden-pages/school-calendar/
+  - infobar:
+      button: Links
+      url: /hidden-pages/links/
+  - infobar:
+      button: Contact Us
+      url: /contact-us/location-map-n-travel-information/
 ---
-
