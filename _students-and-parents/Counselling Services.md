@@ -51,3 +51,16 @@ Please email her at [Woo\_WAI\_YENG@schools.gov.sg](mailto:Woo_WAI_YENG@schools
 Alternatively, you can book an appointment at <a href="https://tinyurl.com/ecgmanjusri" target="_blank">https://tinyurl.com/ecgmanjusri</a> or scan the QR code below.
 
 <img src="/images/Students%20and%20Parents/Counselling%20Services/QR_CODE_ECG.png" style="width:25%">
+
+#### **24hrs Contact Numbers**  
+
+Some useful 24hrs contact numbers provided by REACH (a mental healthcare service set up to work closely with schools) to help students with emotional, social and/or behavioural issues are as follows:
+
+SOS : 1800 2214444
+
+SAMH : 1800 2837019
+
+
+|   |   |   |
+|:---:|:----:|:---:|
+| ![](/images/Students%20and%20Parents/Counselling%20Services/counselling05.png)  | ![](/images/Students%20and%20Parents/Counselling%20Services/counselling06.png)   |   ![](/images/Students%20and%20Parents/Counselling%20Services/counselling07.png)  |
