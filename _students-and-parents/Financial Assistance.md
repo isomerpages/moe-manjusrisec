@@ -23,4 +23,4 @@ The benefits of MOE FAS include the following:
 | Transport Subsidy | $204 transport credit per annum for students taking public transport |
 
 
-Students who wish to apply for the scheme can obtain the <a href="/files/2023%20MOE%20FAS%20Application%20Form.pdf" target="_blank">Application Form</a> from General Office and submit the application form together with the relevant documents to their Form Teachers.
+<p style="text-align: justify;">Students who wish to apply for the scheme can obtain the <a href="/files/2023%20MOE%20FAS%20Application%20Form.pdf" target="_blank">Application Form</a> from General Office and submit the application form together with the relevant documents to their Form Teachers.</p>
