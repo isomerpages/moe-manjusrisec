@@ -56,4 +56,11 @@ sections:
         year. "
       button: " Click here to read more."
       url: /spotlight/manjusri-sec-40th-anniversary-awards-presentation
+  - infobar:
+      title: Post-PSLE 2022 School Visit
+      subtitle: news
+      description: Families may visit Manjusri Sec after the release of PSLE results
+        on Wed 23 November.
+      button: Click here to read more
+      url: /news/post-psle-2022-school-visit/
 ---
