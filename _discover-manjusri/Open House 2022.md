@@ -51,8 +51,8 @@ Time : 9am - 3pm (23-25 Nov)
 
 |   |   |
 |:---:|:---:|
-|   |   |
-|   |   |
+| Band <iframe width="311" height="174" src="https://www.youtube.com/embed/KC3r7X3iIUc" title="Band" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> | Chinese Dance <iframe width="311" height="174" src="https://www.youtube.com/embed/M4frRBrV6dk" title="Chinese Dance" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> |
+|  Chinese Orchestra <iframe width="316" height="175" src="https://www.youtube.com/embed/XBEEMl62xCw" title="Chinese Orchestra" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> | Choir  <iframe width="309" height="173" src="https://www.youtube.com/embed/DEZy8HXManM" title="Choir" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> |
 
 
 
