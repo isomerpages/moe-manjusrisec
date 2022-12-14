@@ -9,5 +9,5 @@ description: ""
 
 Please refer to these links for a step-by-step guide.   
 <a href="/files/Parent%20Gateway/PG%20-%20User%20Guide%20for%20Parents.pdf" target="_blank">User Guide for Parents</a>   
-<a href="/files/Parent%20Gateway/Parent%20Gateway/PG%20-%20Registering%20for%20SingPass.pdf" target="_blank">Registering for SingPass</a>   
+<a href="/files/Parent%20Gateway/PG%20-%20Registering%20for%20SingPass.pdf" target="_blank">Registering for SingPass</a>   
 <a href="/files/Parent%20Gateway/PG%20FAQs%20for%20Parents.pdf" target="_blank">FAQs for Parents</a>
