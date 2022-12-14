@@ -22,3 +22,5 @@ description: ""
 | Sec 2 N(A)                               |                                                                                                                                                         |
 | Sec 3 N(A)                               |                                                                                                                                                         |
 | Sec 4 N(A) – for promotion to sec 5 N(A) | • EL≤ 5<br>• EL+Maths+B3 ≤ 19 (EL-Maths-B3 refer to the aggregate score of English Language, Mathematics and best 3 subjects at the ‘N’ Level examinations) |
+
+<p style="text-align: justify;">*All subjects used in the computation of the ELMAB3 or ELB3/MAB3 aggregate must be graded at least an ‘N’ level grade 5, i.e. there is no change from the established practices of computing the aggregate.</p>
