@@ -20,7 +20,7 @@ We offer DSA in the following areas:
 
 You may find more information at:  
 
-<a href="/discover-manjusri/direct-school-admission" target="_blank">https://manjusrisec.moe.edu.sg/discover-manjusri/direct-school-admission</a>  
+<a href="/discover-manjusri/direct-school-admission/introduction-to-dsa-sec-at-manjusri/" target="_blank">https://manjusrisec.moe.edu.sg/discover-manjusri/direct-school-admission</a>  
 
 And apply at the following link by 1 June 2022, 3pm:
 
