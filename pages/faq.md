@@ -14,7 +14,7 @@ permalink: /faq/
 
 **Where do I buy school uniforms?**
 
-[https://manjusrisec.moe.edu.sg/students-and-parents/textbooks-and-uniforms](https://manjusrisec.moe.edu.sg/students-and-parents/textbooks-and-uniforms)  
+[https://manjusrisec.moe.edu.sg/students-n-parents/textbooks-and-uniforms](/students-and-parents/textbooks-and-uniforms)  
 
 **When are the school terms/ school holidays?**
 
