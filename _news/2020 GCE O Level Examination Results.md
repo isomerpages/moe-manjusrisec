@@ -15,3 +15,10 @@ description: ""
 | Chen Zhuoxuan<br>Chen Hongyu<br>Kwok Toi Yan Curtis<br>Lee Hin Hoi | Lim Hong Ying<br>Nguyen Thao Hoa<br>Tay Xin Yi<br>Zhao Jiarui |  <br>Celia Ning Sze Nya<br>Muhammad Adlan |
 
 <center><b>Our Top Performing Students from the Graduating Class of 2020</b></center>
+
+
+
+<center><i> (Masks were removed momentarily for the taking of these pictures)</i></center>
+
+The school wishes our graduates the best in their future endeavours and further studies.  We hope that all Manjusrians will take inspiration from the efforts of their seniors.
+
