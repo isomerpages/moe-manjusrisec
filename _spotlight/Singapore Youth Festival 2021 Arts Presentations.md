@@ -17,5 +17,5 @@ Our Choir had also participated but performances by all school choirs for this c
 
 |   |   |   |
 |---|---|---|
-| ![](/images/Spotlight/syf1.png)  |  ![](/images/Spotlight/syf2.png)    |  ![](/images/Spotlight/syf3.png)    |
+| <img src="/images/Spotlight/syf1.png" style="width:75%">  Chinese Orchestra	 |  <img src="/images/Spotlight/syf2.png" style="width:80%"> Chinese Dance 	   |  ![](/images/Spotlight/syf3.png) Band   |
 
