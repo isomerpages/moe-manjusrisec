@@ -43,4 +43,17 @@ sections:
         Project 2050 at the...
       button: Click here to read more.
       url: /spotlight/singapore-youth-festival-2022-art-exhibition
+  - infobar:
+      title: MJR School's Choir take part in 2022 National Day Parade
+      subtitle: Spotlight
+      button: Click here to read more
+      url: /spotlight/manjusri-secondary-schools-choir-takes-part-in-2022-national-day-parade
+  - infobar:
+      title: Manjusri Sec 40th Anniversary Awards Presentation
+      subtitle: Spotlight
+      description: "The school held its 40th Anniversary Awards Presentation on 8
+        April 2022 to affirm the achievements of our students over the past
+        year. "
+      button: " Click here to read more."
+      url: /spotlight/manjusri-sec-40th-anniversary-awards-presentation
 ---
