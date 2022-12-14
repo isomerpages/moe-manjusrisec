@@ -29,7 +29,7 @@ permalink: /faq/
 
 *   Nets payment can be made at any SAM Stations (kiosks).  
     
-*   Pay via SAM e-Station at [www.mysam.sg](http://www.mysam.sg/) or via SAM mobile app.  
+*   Pay via SAM e-Station at <a href="/http://www.mysam.sg/" target="_blank">www.mysam.sg</a> or via SAM mobile app.  
     
 *   For cheque payment, either post the cheques or call into our General Office. Please make cheques payable to ‘Manjusri Secondary School’.  
     
