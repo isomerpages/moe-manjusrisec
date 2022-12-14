@@ -2,6 +2,7 @@ collections:
   hidden-pages:
     output: true
     order:
+      - Links.md
       - School Calendar.md
       - Contact Us/.keep
       - Contact Us/Location Map & Travel Information.md
