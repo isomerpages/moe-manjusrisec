@@ -74,3 +74,57 @@ Through the counselling process, we will seek to discover, assess and understand
 |   |   |
 |---|----|
 | Counsellors are NOT here to:<br><br>• Analyse and interpret the student's situation<br>• Solve problems<br>• Tell students what to do<br>• Make students dependent on them<br>• Give a pep talk<br><br>Counsellors are here to:<br><br>• Explore difficulties<br>• Clarify Conflicting issues<br>• Discover alternative ways to manage situations<br>• Allow students to decide course of action that will help<br>• Help students help themselves<br>Click here to see Manjusrians' Experience in Counselling  |   ![](/images/Students%20and%20Parents/Counselling%20Services/counselling08.png)   |
+
+
+### **Responsive Services**
+
+The school counsellors responsive services are as follows:
+
+*   Counsellors provide individual and small-group counselling to Students, and where appropriate, consult with relevant school personnel regarding students being counselled.
+    
+*   Work with families of Students being counselled, and conduct home visits.
+    
+*   Refer Students and their families to community resources for specialized assistance.
+    
+*   Provide regular feedback, within the boundaries of confidentiality to the school administration and teachers concerned on the work done with the Students being counselled.
+    
+*   Provide educational and career counselling to Students.
+
+*   Counsellors also conduct Talkshops, Workshops and Parents’ consultation and talks.
+
+
+#### Presenting Issues
+
+Examples of counselling case are as follow:
+
+* Emotional & Behavioural Difficulties (EBD)
+* Anger Issues
+* Grief / Loss
+* Relationship Issues: Peers ,Boy-Girl, Family, Teachers
+* School Refusal
+* Truancy
+* Abuse: Emotional, Physical, Sexual
+* Anxiety Disorder
+* Depression
+* Obsessive Compulsive Behaviour
+* Anti-Social Behaviour
+* Bully
+
+
+**Parenting Tips**
+------------------
+
+Here is what our students need: Love, Limits, and Letting go.
+
+Many students experience the negative effects of excessive parental attention.Parents coddle teenagers and this may stifle their self-esteem and natural talents. As a result, students may grow up with a lack of confidence to face pressures in the real world.
+
+An example of how parents can allow their children to develop decision-making skills is in the selection of subjects at the end of Secondary 2. Here is what we can practise.
+
+Parents can encourage their Kid to do their own subject selection. Parents may want to ask their kids to seek clarification from their teachers and school counsellors. Be there to discuss the option and let them know that the choice they make should serve their needs. Tell them that secondary school is the time for them to continue to learn to pick themselves up when things go wrong, learn from the experience, and move on. As a parent, we can tell them that at their age, they need to take these opportunities to learn, grow, change and at the same time be mindful of the dangers and distractions in today’s world. Hence the need for **LIMITS** . Tell them how much you believe in them and **LOVE** them, and prove it by practising the art of **LETTING GO** . This does not mean going away; it means responding to their needs appropriately, respectfully and non-intrusively.
+
+![](/images/Students%20and%20Parents/Counselling%20Services/counselling09.png)
+
+Click here for a list of Recommended Books.
+
+**Useful Contacts**
+
