@@ -2,6 +2,14 @@
 title: FAQ
 permalink: /faq/
 ---
+# links broken: When are the school terms/ school holidays?, School fees matters, Financial Assistance Scheme and Bursaries
+
+
+
+
+
+
+
 ##### **General:**
 
 **How do I get to MJR ?**
@@ -49,11 +57,11 @@ permalink: /faq/
 
 **Where can I find out more about Direct School Admission (DSA) to Manjusri Secondary School?**
 
-[https://manjusrisec.moe.edu.sg/discover-manjusri/direct-school-admission](https://manjusrisec.moe.edu.sg/discover-manjusri/direct-school-admission)  
+[https://manjusrisec.moe.edu.sg/discover-manjusri/direct-school-admission/introduction-to-dsa-sec-at-manjusri/](/discover-manjusri/direct-school-admission/introduction-to-dsa-sec-at-manjusri/)  
   
 
 ##### **CCA:**
 
 **Where can I find out more about CCAs and related CCA matters in Manjusri Secondary School?**
 
-[https://manjusrisec.moe.edu.sg/cca/clubs-and-societies](https://manjusrisec.moe.edu.sg/cca/clubs-and-societies)
+[https://manjusrisec.moe.edu.sg/cca/clubs-and-societies/buddhist-interact-club/](/cca/clubs-and-societies/buddhist-interact-club/)
