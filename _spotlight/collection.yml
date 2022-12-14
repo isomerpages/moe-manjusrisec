@@ -2,8 +2,6 @@ collections:
   spotlight:
     output: true
     order:
-      - Manjusri Sec 40th Anniversary Awards Presentation.md
-      - National Day Award 2021.md
       - Secondary 1 Camp.md
       - MJR is featured on SYFgoesOnline! 2021.md
       - Goh Chok Tong NextGen Outstanding Student Leader Award.md
@@ -15,3 +13,5 @@ collections:
       - Virtual Run 2021.md
       - SYF 2021 Arts Presentation Performances 'Live'!.md
       - Singapore Youth Festival 2021 Arts Presentations.md
+      - National Day Award 2021.md
+      - Manjusri Sec 40th Anniversary Awards Presentation.md
