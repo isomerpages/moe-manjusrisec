@@ -6,7 +6,7 @@ permalink: /faq/
 
 **How do I get to MJR ?**
 
-[https://manjusrisec.moe.edu.sg/hidden-pages/contact-us](https://manjusrisec.moe.edu.sg/hidden-pages/contact-us)
+[https://manjusrisec.moe.edu.sg/contact-us/location-map-n-travel-information/](/contact-us/location-map-n-travel-information/)
 
 **How do I contact MJR?**
 
