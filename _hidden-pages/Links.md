@@ -3,7 +3,7 @@ title: Links
 permalink: /hidden-pages/links/
 description: ""
 ---
-# PaC@Gov, School Cockpit, MOE Intranet, Academy of Singapore Teachers, School Bag, 
+# PaC@Gov, School Cockpit, MOE Intranet, Academy of Singapore Teachers, School Bag, FiGi RAS Portal, 
 
 
 
@@ -18,5 +18,5 @@ description: ""
 <a href="" target="_blank"></a> 
 |                      |   School Links              |                  |
 |:---------------:|:-----------:|:------------:|
-|     <a href="" target="_blank"></a>  AsknLearn e-learning portal     |  <a href="" target="_blank"></a>  FiGi RAS Portal <br>(for staff only - access from school) |                  SC Mobile                 |
-|  <a href="http://www.ace-learning.com/" target="_blank">Ace-Learning Math e-Learning Portal</a>  |     <a href="" target="_blank"></a>    Parents Gateway Portal <br>(for staff only)        | <a href="" target="_blank"></a> Manjusri Admin Website<br>(for staff only) |
+|     <a href="http://lms.asknlearn.com/MANJUSRI_SS/logon_new.aspx" target="_blank">AsknLearn e-learning portal </a>      |  <a href="http://n7307sadmw01460/ras" target="_blank">FiGi RAS Portal</a>   <br>(for staff only - access from school) |          <a href="https://scmobile.moe.edu.sg/" target="_blank">SC Mobile</a>                          |
+|  <a href="http://www.ace-learning.com/" target="_blank">Ace-Learning Math e-Learning Portal</a>  |     <a href="https://pg.moe.edu.sg/" target="_blank">Parents Gateway Portal </a>    <br>(for staff only)        | <a href="https://sites.google.com/a/moe.edu.sg/mjr-ictadmin/" target="_blank">Manjusri Admin Website</a> <br>(for staff only) |
