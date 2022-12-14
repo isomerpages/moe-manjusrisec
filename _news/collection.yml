@@ -2,6 +2,7 @@ collections:
   news:
     output: true
     order:
+      - Mid Year GCE O Level MTL Exam 2021 Results.md
       - Change of MJR Vice Principal (2022).md
       - Retirement of Long Serving Head of Department.md
       - Release of the 2021 Singapore Cambridge GCE N(A) & N(T) Level
