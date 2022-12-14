@@ -17,3 +17,13 @@ _\* GCE O level subjects taken by Normal stream candidates have not been include
 | Normal (Academic) course                                                                                                  | Normal (Technical) course                                                         |
 |:---------:|:--------------------:|
 | Eio Wei Lun<br>Wong Jie Kun Derrick<br>Wee Zhen Yi<br>Sim Yue Ying Corliss<br>Fong Jian Han Famous<br>Toh Jun Hsian Wayne | Ho Zhe Ming<br>Zhang Mingke<br>Ooi Yong Heng<br>Muhammad Syafiq bin Mohamed Zamri |
+
+
+<img src="/images/News/Top%20NA.jpg" style="width:70%">
+
+<center>Top performing N(A) candidates</center>
+
+
+<img src="/images/News/Top%20NT.png" style="width:70%">
+
+<center>Top performing N(T) candidates</center>
