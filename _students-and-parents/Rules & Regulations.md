@@ -61,3 +61,10 @@ description: ""
 
 <p style="text-align: justify;">Any student who violates the school rules and regulations will be subject to disciplinary action in accordance to the severity of the offence.</p>
 
+
+
+<center><b>Category A – Minor</b></center>
+
+| Offences           | Consequences      |
+|:----------------:|:--------:|
+| Late coming<br>Improper attire and grooming<br>Loitering<br>Leaving class without permission<br>Eating in the classroom<br>Littering<br>Not bringing books for lessons<br>Failure to hand in assignments<br>Failure to perform class duties<br>Bringing food and sugary drinks out of the canteen<br>Failure to return utensils after eating in canteen<br>Charging of mobile phones/ electronic gadgets<br>Infringement in use of mobile phones / electronic gadgets<br><br><br><br><br><br><br><br><br><br><br><br> | <br><br>Counselling<br>Verbal / Written Warning<br>Learning Reflection Class<br>Corrective Work Order<br>Retention of Items - parents may be required to collect mobile phones retained.<br>The school reserves the right to ban students from possessing and using mobile phones for recalcitrant offenders.<br>And any other consequences which the school deems appropriate. |
