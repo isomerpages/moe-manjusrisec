@@ -3,7 +3,7 @@ title: Links
 permalink: /hidden-pages/links/
 description: ""
 ---
-# PaC@Gov, School Cockpit, MOE Intranet, Academy of Singapore Teachers, School Bag, FiGi RAS Portal, SSOE Portal , Education & Career Guidance, 
+# PaC@Gov, School Cockpit, MOE Intranet, Academy of Singapore Teachers, School Bag, FiGi RAS Portal, SSOE Portal , Education & Career Guidance, Polytechnic Education
 
 
 
@@ -21,11 +21,10 @@ description: ""
 |     <a href="http://lms.asknlearn.com/MANJUSRI_SS/logon_new.aspx" target="_blank">AsknLearn e-learning portal </a>      |  <a href="http://n7307sadmw01460/ras" target="_blank">FiGi RAS Portal</a>   <br>(for staff only - access from school) |          <a href="https://scmobile.moe.edu.sg/" target="_blank">SC Mobile</a>                          |
 |  <a href="http://www.ace-learning.com/" target="_blank">Ace-Learning Math e-Learning Portal</a>  |     <a href="https://pg.moe.edu.sg/" target="_blank">Parents Gateway Portal </a>    <br>(for staff only)        | <a href="https://sites.google.com/a/moe.edu.sg/mjr-ictadmin/" target="_blank">Manjusri Admin Website</a> <br>(for staff only) |
 
-<a href="" target="_blank"></a> 
 
 |              |   Useful Links             |          |
 |:---------------:|:-----------:|:------------:|
 |    <a href="https://www.channelnewsasia.com/tv/live">Channel NewsAsia (live)  </a>     |             <a href="https://www.moh.gov.sg/" target="_blank">Ministry of Health </a>                       |  <a href="https://www.seab.gov.sg/" target="_blank">Singapore Examination and Assessment Board  </a>         |
 | <a href="https://beta.moe.gov.sg/programmes/education-and-career-guidance/" target="_blank">Education & Career Guidance</a>  |                   <a href="https://www.nafa.edu.sg/" target="_blank">NAFA   </a>                        |              <a href="https://ssoe2.moe.edu.sg/" target="_blank">SSOE Portal </a>                   |
 |    <a href="https://www.haze.gov.sg/" target="_blank">Haze Situation Update </a>      |                 <a href="https://www.polytechnic.edu.sg/" target="_blank">Polytechnic Education</a>             |                                            |
-|          <a href="https://www.ite.edu.sg/" target="_blank">ITE Education</a>     |     <a href="https://iprep.ns.sg/" target="_blank">Preparation for National Service </a>         |                                            |
+|          <a href="https://www.ite.edu.sg/" target="_blank">ITE Education</a>     |     <a href="https://www.ns.sg/nsp/portal/site/start" target="_blank">Preparation for National Service </a>         |                                            |
