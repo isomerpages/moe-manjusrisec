@@ -64,3 +64,13 @@ SAMH : 1800 2837019
 |   |   |   |
 |:---:|:----:|:---:|
 | ![](/images/Students%20and%20Parents/Counselling%20Services/counselling05.png)  | ![](/images/Students%20and%20Parents/Counselling%20Services/counselling06.png)   |   ![](/images/Students%20and%20Parents/Counselling%20Services/counselling07.png)  |
+
+
+### How can Counselling Help?
+
+Through the counselling process, we will seek to discover, assess and understand the issues, problems and concern student are experiencing and to explore how we can address them effectively. Counselling utilize professional Knowledge and therapeutic skills as tools to achieve the counselling goals set jointly by both the student and the counsellor.
+
+
+|   |   |
+|---|----|
+| Counsellors are NOT here to:<br><br>• Analyse and interpret the student's situation<br>• Solve problems<br>• Tell students what to do<br>• Make students dependent on them<br>• Give a pep talk<br><br>Counsellors are here to:<br><br>• Explore difficulties<br>• Clarify Conflicting issues<br>• Discover alternative ways to manage situations<br>• Allow students to decide course of action that will help<br>• Help students help themselves<br>Click here to see Manjusrians' Experience in Counselling  |   ![](/images/Students%20and%20Parents/Counselling%20Services/counselling08.png)   |
