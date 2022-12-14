@@ -9,3 +9,7 @@ description: ""
 
 
 <p style="text-align: justify;">Among the top students [<i>in alphabetical order</i>] from the respective streams were:</p>
+
+| Express Course                                                     |                                                               | Normal Course                             |
+|--------------------------------------------------------------------|---------------------------------------------------------------|-------------------------------------------|
+| Chen Zhuoxuan<br>Chen Hongyu<br>Kwok Toi Yan Curtis<br>Lee Hin Hoi | Lim Hong Ying<br>Nguyen Thao Hoa<br>Tay Xin Yi<br>Zhao Jiarui |  <br>Celia Ning Sze Nya<br>Muhammad Adlan |
