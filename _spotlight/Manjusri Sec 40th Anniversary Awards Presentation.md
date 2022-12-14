@@ -14,7 +14,7 @@ description: ""
 <p style="text-align: justify;">The final act of the event was the official opening of the Oasis Room by Venerable Seck Kwang Phing.  This will serve as a dedicated venue to hold after-school support programmes for students who may require structured guidance.</p>
 
 |   |   |
-|:---:|:---:|
+|---|---|
 | ![](/images/Spotlight/40th%20anniversary/ani40a.jpg)  Dr Koh inspecting the Guard-of-Honour	 |  ![](/images/Spotlight/40th%20anniversary/ani40b.jpg)   Gift presentation by student artist to GOH  |
 |  ![](/images/Spotlight/40th%20anniversary/ani40c.jpg) Valedictorian and 2021 Most Outstanding Manjurian Liu Wancheng receiving his award     | ![](/images/Spotlight/40th%20anniversary/ani40d.jpg)  Sealing of the MJR Time Capsule which will be opened during the school’s 50th anniversary in 2032.    |
 |  ![](/images/Spotlight/40th%20anniversary/ani40e.jpg) Guests in attendance - Time Capsule Ceremony at MJR Heritage Corner   |   ![](/images/Spotlight/40th%20anniversary/ani40f.jpg)  Official opening of the Oasis Room by Venerable Seck Kwang Phing |
