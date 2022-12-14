@@ -7,13 +7,15 @@ description: ""
 
 <p style="text-align: justify;">Concurrently, our school welcomes the arrival of Mr Teo Soon Hock as our new Vice-Principal.  He joins us from Ahmad Ibrahim Sec School to support us in delivering a holistic curriculum for students so that they may be both future-ready and anchored in values.</p>
 
-![](/images/News/chang%20vp1.jpg)
+<img src="/images/News/chang%20vp1.jpg"
+     style="width:50%">
 
 <p style="text-align: justify;">Ven Seck Kwang Phing & Principal Mr Sim bidding farewell to VP Ms Heng on her final day of service at Manjusri Sec.</p>
 
 \[**_Masks were momentarily removed for the taking of photograph\]_**
 
-![](/images/News/chang%20vp2.jpg)
+<img src="/images/News/chang%20vp2.jpg"
+     style="width:50%">
 
 <p style="text-align: justify;">New VP Mr Teo (right of picture) was welcomed by Ven Seck Kwang Phing, Principal Mr Sim & VP Ms Chia on his arrival at Manjusri Sec.</p>
 
