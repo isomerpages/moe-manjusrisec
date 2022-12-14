@@ -2,4 +2,5 @@ collections:
   hidden-pages:
     output: true
     order:
+      - terms-of-use.md
       - School Calendar.md
