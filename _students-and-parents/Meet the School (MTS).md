@@ -19,8 +19,6 @@ Our School leaders, Key Personnel and Form Teachers of each class will be provid
 
 Some important information can be found at the following hyperlinks below:
 
-\*NDLP Matters - [National Digital Literacy Programme](https://manjusrisec.moe.edu.sg/students-and-parents/national-digital-literacy-programme-ndlp)  
-
- \*List of Staff contacts- [Our staff](https://manjusrisec.moe.edu.sg/discover-manjusri/our-staff)
-
- \*Streaming matters - [Promotion, Streaming and SBB matters](https://manjusrisec.moe.edu.sg/students-and-parents/promotion-streaming-n-sbb)
+\*NDLP Matters - <a href="/students-and-parents/national-digital-literacy-programme-ndlp" target="_blank">National Digital Literacy Programme</a>    
+ \*List of Staff contacts- <a href="/discover-manjusri/our-staff/executive-committee/" target="_blank">Our staff</a>   
+ \*Streaming matters - <a href="https://manjusrisec.moe.edu.sg/students-and-parents/promotion-streaming-n-sbb" target="_blank">Promotion, Streaming and SBB matters</a>
