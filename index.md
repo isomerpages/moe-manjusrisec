@@ -28,8 +28,16 @@ sections:
       button: Contact Us
       url: /contact-us/location-map-n-travel-information/
   - infobar:
+      title: Secondary 1 Camp
+      subtitle: Secondary 1 Camp
+      description: As part of the National Outdoor Adventure Education Master Plan,
+        Secondary 1 Manjusrians took part in a 3-Day Non-Residential Outdoor
+        Education Camp from 3...
+      button: Click here to read more
+      url: /spotlight/secondary-1-camp/
+  - infobar:
       title: Infobar Title
-      subtitle: Spotlight
+      subtitle: Infobar Subtitle
       description: Infobar description
       button: Button Text
 ---
