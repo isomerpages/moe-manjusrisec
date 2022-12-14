@@ -2,6 +2,7 @@ collections:
   students-and-parents:
     output: true
     order:
+      - Cyber Wellness.md
       - Home Based Learning (HBL).md
       - National Digital Literacy Programme (NDLP).md
       - Forms & Useful Links.md
