@@ -27,4 +27,9 @@ sections:
   - infobar:
       button: Contact Us
       url: /contact-us/location-map-n-travel-information/
+  - infobar:
+      title: Infobar Title
+      subtitle: Spotlight
+      description: Infobar description
+      button: Button Text
 ---
