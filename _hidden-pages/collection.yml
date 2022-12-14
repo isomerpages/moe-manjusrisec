@@ -3,9 +3,9 @@ collections:
     output: true
     order:
       - School Calendar.md
-      - Contact Us/School Contact Details.md
-      - Contact Us/Location Map & Travel Information.md
       - Contact Us/.keep
+      - Contact Us/Location Map & Travel Information.md
+      - Contact Us/School Contact Details.md
       - privacy.md
       - terms-of-use.md
       - faq.md
