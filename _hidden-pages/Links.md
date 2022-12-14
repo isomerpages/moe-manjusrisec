@@ -5,7 +5,7 @@ description: ""
 ---
 # PaC@Gov, School Cockpit, MOE Intranet, Academy of Singapore Teachers, School Bag, 
 
-<a href="" target="_blank"></a> 
+
 
 |          |             MOE Links       |                              |
 |:---------------:|:-----------:|:------------:|
@@ -15,8 +15,8 @@ description: ""
 |                    <a href="https://www.hrp.gov.sg/hrp/#/" target="_blank">HRP </a>        |                                      <a href="https://schoolibrary.moe.edu.sg/manjusrisec" target="_blank">OPAC  </a>                                                    |       <a href="http://schoolbag.sg/" target="_blank">School Bag </a>             |
 |   <a href="http://mims.moe.gov.sg/" target="_blank">MIMS</a><br>(replace IAMS 2.0)   |                                                                         <a href="http://pacgov.agd.gov.sg/ipac/portal/jsp/login/index1.jsp" target="_blank"> PaC@Gov</a>               |  <a href="https://schoolibrary.moe.edu.sg/manjusrisec/spydus" target="_blank">Library System (Spydus)</a>      |
 
-
+<a href="" target="_blank"></a> 
 |                      |   School Links              |                  |
 |:---------------:|:-----------:|:------------:|
-|     AsknLearn e-learning portal     | FiGi RAS Portal <br>(for staff only - access from school) |                  SC Mobile                 |
-| Ace-Learning Math e-Learning Portal |        Parents Gateway Portal <br>(for staff only)        | Manjusri Admin Website<br>(for staff only) |
+|     <a href="" target="_blank"></a>  AsknLearn e-learning portal     |  <a href="" target="_blank"></a>  FiGi RAS Portal <br>(for staff only - access from school) |                  SC Mobile                 |
+|  <a href="http://www.ace-learning.com/" target="_blank">Ace-Learning Math e-Learning Portal</a>  |     <a href="" target="_blank"></a>    Parents Gateway Portal <br>(for staff only)        | <a href="" target="_blank"></a> Manjusri Admin Website<br>(for staff only) |
