@@ -2,7 +2,6 @@ collections:
   spotlight:
     output: true
     order:
-      - Virtual Run 2021.md
       - Secondary 1 Camp.md
       - MJR is featured on SYFgoesOnline! 2021.md
       - Goh Chok Tong NextGen Outstanding Student Leader Award.md
@@ -11,3 +10,4 @@ collections:
       - MOE Special Awards 2020.md
       - MOE Service Excellence Award (MSEA) 2020.md
       - Manjusri Secondary School takes part in Garden of Hearts!.md
+      - Virtual Run 2021.md
