@@ -3,11 +3,11 @@ title: Secondary 1 Camp
 permalink: /spotlight/secondary-1-camp/
 description: ""
 ---
-<p style="text-align: center;">As part of the National Outdoor Adventure Education Master Plan, put in place by the Ministry of Education (MOE) to strengthen the holistic development of all our students, Secondary 1 Manjusrians took part in a 3-Day Non-Residential Outdoor Education Camp from 3 to 5 August 2022. </p>
+<p style="text-align: justify;">As part of the National Outdoor Adventure Education Master Plan, put in place by the Ministry of Education (MOE) to strengthen the holistic development of all our students, Secondary 1 Manjusrians took part in a 3-Day Non-Residential Outdoor Education Camp from 3 to 5 August 2022. </p>
 
-<p style="text-align: center;">Students were given the opportunity to learn and apply key principles of outdoor activities and develop confidence and resilience while working together to solve problems through outdoor and team building activities. </p>
+<p style="text-align: justify;">Students were given the opportunity to learn and apply key principles of outdoor activities and develop confidence and resilience while working together to solve problems through outdoor and team building activities. </p>
 
-<p style="text-align: center;">Take a look at the following photos which show students participating in kayaking, team-bonding activities and outdoor cooking!</p>
+<p style="text-align: justify;">Take a look at the following photos which show students participating in kayaking, team-bonding activities and outdoor cooking!</p>
 
 
 
