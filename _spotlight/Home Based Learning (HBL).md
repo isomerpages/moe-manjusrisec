@@ -10,4 +10,4 @@ description: ""
 <p style="text-align: justify;">Schools will remain open to assist a small group of students who do not have access to Personal Digital Learning Device or internet at home.</p>
 
 
-Please click [here]<a href="/students-and-parents/home-based-learning-hbl" target="_blank">here</a> to access the Home-Based Learning page.
+Please click <a href="/students-and-parents/home-based-learning-hbl" target="_blank">here</a> to access the Home-Based Learning page.
