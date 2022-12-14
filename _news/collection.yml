@@ -2,6 +2,7 @@ collections:
   news:
     output: true
     order:
+      - Post PSLE 2022 School Visit.md
       - 2020 N Level Course Registration Matter.md
       - GCE N Level Examination 2020 Results.md
       - Sec 1 Posting Results for Academic Year 2021.md
@@ -14,4 +15,3 @@ collections:
       - Release of the 2021 Singapore Cambridge GCE N(A) & N(T) Level
         Examination Results.md
       - Direct School Admission (DSA Sec).md
-      - Post PSLE 2022 School Visit.md
