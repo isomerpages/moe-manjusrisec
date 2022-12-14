@@ -18,3 +18,7 @@ To provide counselling support for our students with social and emotional issues
 *   Counselling rooms located conveniently for our students.
 
 
+|   |   |
+|---|---|
+|  ![](/images/Students%20and%20Parents/Counselling%20Services/counselling01.png) Counselling Room 1<br>  (ST-01-05, Level 1, Special Block) | ![](/images/Students%20and%20Parents/Counselling%20Services/counselling02.png)  Counselling Room 1 |
+|  ![](/images/Students%20and%20Parents/Counselling%20Services/counselling03.png)  Counselling Room 2<br> (CS-01-02, Level 1, CCA Block)  | ![](/images/Students%20and%20Parents/Counselling%20Services/counselling04.png) Counselling Room 2	 |
