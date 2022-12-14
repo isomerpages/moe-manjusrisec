@@ -24,3 +24,8 @@ These artworks are produced by the following students:
 
 
 Here are some snapshots of our students presenting their artworks at the on-site Exhibition.
+
+|   |   |   |
+|---|---|---|
+| ![](/images/Spotlight/SINGAPORE%20YOUTH%20FESTIVAL%202022/FullSizeRender%201.jpg)  | ![](/images/Spotlight/SINGAPORE%20YOUTH%20FESTIVAL%202022/FullSizeRender.jpg)  | ![](/images/Spotlight/SINGAPORE%20YOUTH%20FESTIVAL%202022/IMG_7984.jpg)  |
+|  ![](/images/Spotlight/SINGAPORE%20YOUTH%20FESTIVAL%202022/IMG_7990.jpg) | ![](/images/Spotlight/SINGAPORE%20YOUTH%20FESTIVAL%202022/IMG_7993.jpg)  |![](/images/Spotlight/SINGAPORE%20YOUTH%20FESTIVAL%202022/SYF%20MJR%20Project%202050%20Series_Print.jpg)   |
