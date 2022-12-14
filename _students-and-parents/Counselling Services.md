@@ -128,3 +128,150 @@ Click here for a list of Recommended Books.
 
 **Useful Contacts**
 
+| Organisation         | Telephone Numbers           | Operating Hours              |
+|----------------------|-------|---------|
+|<u><b>Addiction Helplines</b></u><br>(gaming, gambling and general addiction)<br><br>Community Addiction Management programme (CAMP)                                                                                                                                                                                                                   | All Addictions Helpline<br>6-RECOVER (67326837)<br>Gambling Helplines<br><br>1800-X-GAMBLE<br>(1800-9-426253)<br>1800-6-668-668                                                       | Mon – Fri<br>(8.30 am to 6 pm)                                                                                                                                                                                      |
+| Beyond Parental Control                                                                                                                                                                                                                                                                                                                  | 6435 5107                                                                                                                                                                             |                                                                                                                                                                                                                     |
+| Crisis Helpline<br><br>Samaritans of Singapore (SOS)                                                                                                                                                                                                                                                                                     | 1800 221 4444                                                                                                                                                                         | Daily (24-hour)                                                                                                                                                                                                     |
+| Children, Youth, Parents & Family<br><br><br>Audible Hearts<br>(Supported by HPB)<br><br>Family Service Centres<br>(National)<br><br>Parentline<br><br>Counselling and Care Centre<br><br>Shan you Counselling Centre<br><br>WINGS Counselling   Centre<br><br>Helpline for Mandarin Speakers<br><br>Care Corner 800<br>Mandarin Hotline | An anonymous online peer support network by youth for youth<br><br>1800 838 0100<br><br><br>6299 8811<br><br><br>6536 6366<br><br>6741 9293<br><br>6383 5745<br><br><br>1800 353 5800 | <br><br><br><br>Mon-Fri (9am to 5pm)<br><br><br><br><br><br>Mon-Fri (9am to 5pm)<br><br><br>Mon-Fri (9am to 5pm)<br><br>Mon-Fri (9am to 6pm)<br><br>Mon – Thur (8.30am to 5.30 pm)<br><br>Mon-Sun<br>(10am to 10pm) |
+| Learning Challenges and Special Needs<br><br>Dyslexia Association for Singapore (DAS)<br><br>Society for the promotion of ADHD Research and Knowledge (SPARK)                                                                                                                                                                            |                                                                                                                                                                                       |                                                                                                                                                                                                                     |
+| Pregnancy Crisis Service                                                                                                                                                                                                                                                                                                                 | 6339 9700                                                                                                                                                                             |                                                                                                                                                                                                                     |
+| Psychiatric Help<br><br>Child Guidance Clinic (CGC)<br><br><br><br><br>Institute of Mental Health<br>Emergency Help Line<br><br>Mount Elizabeth Behavioural Health Services<br><br>Singapore Association for Mental Health Helpline                                                                                                      | <br><br>6435 2200<br><br>6435 3878<br>Fax: 65343677<br><br>6389 2222<br><br><br>1800 738 9595<br><br><br>1800 283 7019                                                                | <br><br>Mon to Fri<br>(9am to 5pm)<br><br><br><br>Daily (24 hours)<br><br><br>Daily (24hours)<br><br><br>Mon to Fri<br>(9am to 6pm)                                                                                 |
+
+**Manjusrians' Experience in Counselling**
+
+_Below are the feedback shared by some ex- and current Manjusrians from different levels and streams on their experience in counselling (permission has been given by the students to publish their comments but names and class are not reflected due to confidentiality)_
+
+“I learn a lot from counselling. I learn to stretch and push myself and a lot of positive things.Counselling is actually not that painful experience. It helps students to express ourselves freely and easily“
+
+“When I feel stress or unhappy, I need a person to talk to but every time I can’t find a person…but I heard from other people about counselling. After counselling, I feel better and have changed my life too”
+
+“I will go counselling room if I have problems to say out my feeling… and it makes me feel better after a talk”
+
+“Counselling helps me solve certain problems that can’t be solved by myself”
+
+“A caring and unselfish counsellor who goes all the way to help me to get out of my darkness path and saved my life”
+
+“Counselling makes me feel relaxed and relieved. It is a place where I can forget everything and know myself well”
+
+“I feel relaxed because I’ve got someone to talk to and not fear other people will come to know about it”
+
+“The school counselor is very good. She helps me a lot. Look for her if you need help.
+
+“First time is kind of weird but after a few times, I find counselling to be helpful”
+
+“Counselling works for me. After counselling, I tried out what the counsellor suggested and change happened”
+
+“Counselling sometimes can be scary for me because I'm afraid of being judged after sharing my thoughts and feelings. However, after each session, I find counselling to be beneficial”
+
+“I learned how to schedule my plans and change my attitudes. Can easily speak to the counsellor about heart problems, at least we don't need to keep our problems in our hearts. Sharing our thoughts and ideas are ok and good”
+
+**Recommended Books**
+
+(Books can be borrowed from the National Libraries or purchase from major bookstores. The list will be updated whenever there are new recommendations)
+
+**For Students :**
+
+*   How to take the grrr out of anger by Elizabeth Verdick & Marjoire Lisovskis
+    
+*   Good and Mad : Transform anger using mind, body, soul and humour by Jane Middelton-Moz, Lisa Tener & Peaco Todd
+    
+*   How to control your anger before it controls you by Albert Ellis
+    
+*   Fighting the invisible tigers : a stress management guide for teens by Earl Hipp
+    
+*   Loving what is : four questions that can change your life by Byron Katie
+    
+*   Question your thinking, change the world by Byron Katie
+    
+*   Change 101 : a practical guide to creating change in life or therapy by Bill O Hanlon
+    
+*   The hidden messages in water by Masaru Emoto & translated by David A Thayne
+    
+*   The last lecture by Randy Pausch
+    
+*   Tuesdays with Morrie by Mitch Albom
+    
+*   Change your mind, change your life by Gerald G Jampolsky M.D & Diane V Cirincione
+    
+*   Making the brain body connection : a playful guide to releasing mental, physical & emotional blocks to success by Sharon Promislow
+    
+*   Stress can really get on your nerves! by Trevor Romain & Elizabeth Verdick
+    
+*   The little book of coaching by Ken Blanchard
+    
+*   Do one thing different by Bill O Hanlon
+    
+*   The language of choice theory by William Glasser
+    
+
+**For Parents :**
+
+*   Bully-proof your child by Lim Kok Kwang PhD
+    
+*   Do one thing different by Bill O Hanlon
+    
+*   Loving what is : four questions that can change your life by Byron Katie
+    
+*   Question your thinking, change the world by Byron Katie
+    
+*   Change 101 : a practical guide to creating change in life or therapy by Bill O Hanlon
+    
+*   The hidden messages in water by Masaru Emoto & translated by David A Thayne
+    
+*   Change your mind, change your life by Gerald G Jampolsky M.D & Diane V Cirincione
+    
+*   Making the brain body connection : a playful guide to releasing mental, physical & emotional blocks to success by Sharon Promislow
+    
+*   The don't sweat guide for parents : reduce stress and enjoy your kids more by the editors ofDon't Sweat Press
+    
+*   Don't sweat the small stuff for teens : simple ways to keep your cool in stressful times by Richard Carlson
+    
+*   Don't sweat the small stuff with your family : simple ways to keep daily responsibilities and household chaos from taking over your life by Richard Carlson
+    
+*   Don't sweat the small stuff at work by Richard Carlson
+    
+*   For parents and teenagers : dissolving the barrier between you and your teen by William Glasser
+    
+*   Raising a responsible child by Dr Don Dinkmeyer & Dr Gary D McKay
+    
+*   Take back your kids by William J Doterty PhD
+    
+*   Unhappy teenager : a way for teachers and parents to reach them by William Glasser
+    
+*   The language of choice theory by William Glasser
+    
+
+**For Teachers :**
+
+*   Smart Moves : why learning is not all in your head by Carla Hannaford
+    
+*   Choice Theory in classroom by William Glasser
+    
+*   Unhappy teenager : a way for teachers and parents to reach them by William Glasser
+    
+*   Don't sweat the small stuff for teens : simple ways to keep your cool in stressful times by Richard Carlson
+    
+*   Don't sweat the small stuff at work by Richard Carlson
+    
+*   Do one thing different by Bill O Hanlon
+    
+*   Loving what is : four questions that can change your life by Byron Katie
+    
+*   Question your thinking, change the world by Byron Katie
+    
+*   Change 101 : a practical guide to creating change in life or therapy by Bill O Hanlon
+    
+*   The hidden messages in water by Masaru Emoto & translated by David A Thayne
+    
+*   Change your mind, change your life by Gerald G Jampolsky M.D & Diane V Cirincione
+    
+*   Making the brain body connection : a playful guide to releasing mental, physical & emotional blocks to success by Sharon Promislow
+    
+*   The language of choice theory by William Glasser
+    
+*   The Quality School by William Glasser
+    
+*   School without failure by William Glasser
+    
+*   The Quality School Teacher by William Glasser
