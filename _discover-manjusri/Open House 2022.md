@@ -44,6 +44,10 @@ Time : 9am - 3pm (23-25 Nov)
 
 <p style="text-align: justify;">Find out more about our School Programmes under the <a href="/passionate-learners/mindfulness-and-learning-power" target="_blank">Passionate Learner</a> tab on our school website.</p>
 
+**Co-Curricular Activities**
+
+**Performing Arts**
+
 
 |   |   |
 |:---:|:---:|
