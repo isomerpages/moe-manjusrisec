@@ -12,4 +12,4 @@ The school wishes all our graduates the very best in their future educational jo
 
 _\* GCE O level subjects taken by Normal stream candidates have not been included in this figure. There are students who have sat for and passed up to three O level subjects._
 
-2021 top school N level performers (not listed in any order of merit) were:
+2021 top school N level performers (<u>not</u> listed in any order of merit) were:
