@@ -15,8 +15,17 @@ description: ""
 |                    <a href="https://www.hrp.gov.sg/hrp/#/" target="_blank">HRP </a>        |                                      <a href="https://schoolibrary.moe.edu.sg/manjusrisec" target="_blank">OPAC  </a>                                                    |       <a href="http://schoolbag.sg/" target="_blank">School Bag </a>             |
 |   <a href="http://mims.moe.gov.sg/" target="_blank">MIMS</a><br>(replace IAMS 2.0)   |                                                                         <a href="http://pacgov.agd.gov.sg/ipac/portal/jsp/login/index1.jsp" target="_blank"> PaC@Gov</a>               |  <a href="https://schoolibrary.moe.edu.sg/manjusrisec/spydus" target="_blank">Library System (Spydus)</a>      |
 
-<a href="" target="_blank"></a> 
+
 |                      |   School Links              |                  |
 |:---------------:|:-----------:|:------------:|
 |     <a href="http://lms.asknlearn.com/MANJUSRI_SS/logon_new.aspx" target="_blank">AsknLearn e-learning portal </a>      |  <a href="http://n7307sadmw01460/ras" target="_blank">FiGi RAS Portal</a>   <br>(for staff only - access from school) |          <a href="https://scmobile.moe.edu.sg/" target="_blank">SC Mobile</a>                          |
 |  <a href="http://www.ace-learning.com/" target="_blank">Ace-Learning Math e-Learning Portal</a>  |     <a href="https://pg.moe.edu.sg/" target="_blank">Parents Gateway Portal </a>    <br>(for staff only)        | <a href="https://sites.google.com/a/moe.edu.sg/mjr-ictadmin/" target="_blank">Manjusri Admin Website</a> <br>(for staff only) |
+
+<a href="" target="_blank"></a> 
+
+|              |   Useful Links             |          |
+|:---------------:|:-----------:|:------------:|
+|    <a href="https://www.channelnewsasia.com/tv/live">Channel NewsAsia (live)  </a>     |             <a href="https://www.moh.gov.sg/" target="_blank">Ministry of Health </a>                       |  <a href="https://www.seab.gov.sg/" target="_blank">Singapore Examination and Assessment Board  </a>         |
+| Education & Career Guidance |                   <a href="https://www.nafa.edu.sg/" target="_blank">NAFA   </a>                        |                 SSOE Portal                |
+|    <a href="https://www.haze.gov.sg/" target="_blank">Haze Situation Update </a>      |                 <a href="https://www.polytechnic.edu.sg/" target="_blank">Polytechnic Education</a>             |                                            |
+|          <a href="https://www.ite.edu.sg/" target="_blank">ITE Education</a>     |     <a href="https://iprep.ns.sg/" target="_blank">Preparation for National Service </a>         |                                            |
