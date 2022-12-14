@@ -25,3 +25,6 @@ You may find more information at:
 And apply at the following link by 1 June 2022, 3pm:
 
 <a href="https://www.moe.gov.sg/secondary/dsa" target="_blank">https://www.moe.gov.sg/secondary/dsa</a>
+
+
+![](/images/News/image_6483441.jpg)
