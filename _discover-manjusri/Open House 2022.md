@@ -62,13 +62,13 @@ Time : 9am - 3pm (23-25 Nov)
 |  Girl Guides	<iframe width="313" height="175" src="https://www.youtube.com/embed/cgwawCD1yY4" title="Girl Guides" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> |  Scouts <iframe width="312" height="175" src="https://www.youtube.com/embed/uIbWl1PAoio" title="Scouts" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> |
 | NCC <iframe width="308" height="172" src="https://www.youtube.com/embed/C2LI5EeVsG8" title="NCC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  |  NPCC <iframe width="309" height="171" src="https://www.youtube.com/embed/aPsQemhuGiY" title="NPCC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  |
 
-
+**Sports**
 
 |   |   |
 |:---:|:---:|
-|   |   |
-|   |   |
-
+|  Basketball (Boy)	 <iframe width="310" height="171" src="https://www.youtube.com/embed/iMcVFDLzMiQ" title="Basketball B" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> | Basketball (Girl)  <iframe width="307" height="172" src="https://www.youtube.com/embed/g-UL0JBrPe4" title="Basketball G" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  |
+|  Badmintion <iframe width="305" height="171" src="https://www.youtube.com/embed/9QOgMneBq-M" title="Badminton" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> | Football <iframe width="308" height="173" src="https://www.youtube.com/embed/2BrZ_24MN7c" title="Football" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> |
+|   Table Tennis	 <iframe width="307" height="171" src="https://www.youtube.com/embed/25X0P360jk4" title="Table Tennis" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> |  Wushu <iframe width="307" height="172" src="https://www.youtube.com/embed/5GglBt4AvA8" title="Wushu" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  |
 
 
 
