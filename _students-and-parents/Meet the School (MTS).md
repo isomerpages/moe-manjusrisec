@@ -5,9 +5,9 @@ description: ""
 ---
 ## Overview of MTS
 
-The school will be organising the Meet-the-School (MTS) sessions on Saturday 8 January 2022. Due to SMMs, these sessions will be conducted online through the Zoom platform. 
+<p style="text-align: justify;">The school will be organising the Meet-the-School (MTS) sessions on Saturday 8 January 2022. Due to SMMs, these sessions will be conducted online through the Zoom platform. </p>
 
-Our School leaders, Key Personnel and Form Teachers of each class will be providing information on school matters. The details of MTS are:
+<p style="text-align: justify;">Our School leaders, Key Personnel and Form Teachers of each class will be providing information on school matters. The details of MTS are:</p>
 
   
 **Date: 8 January 2022**  
