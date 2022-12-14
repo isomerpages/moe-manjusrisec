@@ -10,7 +10,7 @@ permalink: /faq/
 
 **How do I contact MJR?**
 
-[https://manjusrisec.moe.edu.sg/hidden-pages/contact-us](https://manjusrisec.moe.edu.sg/hidden-pages/contact-us)
+[https://manjusrisec.moe.edu.sg/contact-us/school-contact-details/](/contact-us/school-contact-details/)
 
 **Where do I buy school uniforms?**
 
