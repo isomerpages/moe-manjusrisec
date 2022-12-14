@@ -22,9 +22,9 @@ third_nav_title: Safety and Emergency
 
 
 |   |   |
-|:---:|:---:|
-|  ![](/images/Students%20and%20Parents/Safety%20and%20Emergency/Road%20safety/safe3a.jpg)  Smart phones can make you do stupid things.	 |  ![](/images/Students%20and%20Parents/Safety%20and%20Emergency/Road%20safety/safe3b.jpg) Keep your head up and your phone down while crossing the street. |
-|  ![](/images/Students%20and%20Parents/Safety%20and%20Emergency/Road%20safety/safe4.jpg)  Two students knocked down outside the school.	  |  ![](/images/Students%20and%20Parents/Safety%20and%20Emergency/Road%20safety/safe5.jpg) It pays to be a responsible road user.Use the pedestrian crossings. |
+|---|---|
+|  ![](/images/Students%20and%20Parents/Safety%20and%20Emergency/Road%20safety/safe3a.jpg)  Smart phones can make you do stupid things.	 | <img src="/images/Students%20and%20Parents/Safety%20and%20Emergency/Road%20safety/safe3b.jpg" style="width:52%"> Keep your head up and your phone down while crossing the street. |
+|  ![](/images/Students%20and%20Parents/Safety%20and%20Emergency/Road%20safety/safe4.jpg)  Two students knocked down outside the school.	  | <img src="/images/Students%20and%20Parents/Safety%20and%20Emergency/Road%20safety/safe5.jpg" style="width:60%"> It pays to be a responsible road user.Use the pedestrian crossings. |
 
 **Pedestrian Road Safety**
 
