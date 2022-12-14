@@ -3,7 +3,7 @@ title: Links
 permalink: /hidden-pages/links/
 description: ""
 ---
-# PaC@Gov, School Cockpit, MOE Intranet, Academy of Singapore Teachers, School Bag, FiGi RAS Portal, 
+# PaC@Gov, School Cockpit, MOE Intranet, Academy of Singapore Teachers, School Bag, FiGi RAS Portal, SSOE Portal , Education & Career Guidance, 
 
 
 
@@ -26,6 +26,6 @@ description: ""
 |              |   Useful Links             |          |
 |:---------------:|:-----------:|:------------:|
 |    <a href="https://www.channelnewsasia.com/tv/live">Channel NewsAsia (live)  </a>     |             <a href="https://www.moh.gov.sg/" target="_blank">Ministry of Health </a>                       |  <a href="https://www.seab.gov.sg/" target="_blank">Singapore Examination and Assessment Board  </a>         |
-| Education & Career Guidance |                   <a href="https://www.nafa.edu.sg/" target="_blank">NAFA   </a>                        |                 SSOE Portal                |
+| <a href="https://beta.moe.gov.sg/programmes/education-and-career-guidance/" target="_blank">Education & Career Guidance</a>  |                   <a href="https://www.nafa.edu.sg/" target="_blank">NAFA   </a>                        |              <a href="https://ssoe2.moe.edu.sg/" target="_blank">SSOE Portal </a>                   |
 |    <a href="https://www.haze.gov.sg/" target="_blank">Haze Situation Update </a>      |                 <a href="https://www.polytechnic.edu.sg/" target="_blank">Polytechnic Education</a>             |                                            |
 |          <a href="https://www.ite.edu.sg/" target="_blank">ITE Education</a>     |     <a href="https://iprep.ns.sg/" target="_blank">Preparation for National Service </a>         |                                            |
