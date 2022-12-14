@@ -75,3 +75,8 @@ description: ""
 | Offences           | Consequences             |
 |--------------|-------------------|
 | • Repeatedly committing minor offences<br>• Skipping classes<br>• Truancy. Absent from school without valid reason<br>• Leaving school grounds without permission<br>• Forgery<br>• Stealing<br>• Vandalism<br>• Gambling<br>• Dishonesty / cheating<br>• Misuse of Social Media<br>• Instigating, inciting others to commit offences<br>• Use of rude, insulting, abusive, vulgar language<br>• Open defiance to school authority<br>• Bullying, threatening, fighting, assaulting<br>• Gangsterism, extortion<br>• Possession of pornographic materials<br>• Possession / consumption of tobacco products or alcohol<br>• Possession of weapons, weapon replicas or weapon-like items<br>• Committing offences outside school – police case | • Compensation<br>• Involvement of Parents/ Guardian<br>• Corporal punishment (for boys only)<br>• In-school suspension<br>• Home suspension<br>• Expulsion<br>• Involvement of Police and/or<br>• Any other consequences which the school deems appropriate.|
+
+
+<center><b>ATTIRE AND GROOMING</b></center>
+
+**School Uniform, P.E. & CCA Attire**
