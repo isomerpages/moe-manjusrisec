@@ -2,7 +2,6 @@ collections:
   spotlight:
     output: true
     order:
-      - Manjusri Secondary School takes part in Garden of Hearts!.md
       - Secondary 1 Camp.md
       - MJR is featured on SYFgoesOnline! 2021.md
       - Goh Chok Tong NextGen Outstanding Student Leader Award.md
@@ -10,3 +9,4 @@ collections:
       - The Caring Teacher Awards 2020.md
       - MOE Special Awards 2020.md
       - MOE Service Excellence Award (MSEA) 2020.md
+      - Manjusri Secondary School takes part in Garden of Hearts!.md
