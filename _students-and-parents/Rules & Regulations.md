@@ -12,7 +12,7 @@ description: ""
 
 **School Assembly and Attendance**
 
-<p style="text-align: justify;">All students must stand at attention for the flag-raising ceremony and accord the occasion with dignity and respect. All students who are Singapore Citizens must sing the National Anthem and take the Pledge with the right fist placed over the heart.</p>
+<p style="text-align: justify;">All students must stand at attention for the flag-raising ceremony and accord the occasion with dignity and respect. All students who are Singapore Citizens must sing the National Anthem and take the Pledge with the right fist placed over the heart.</p>
 
 *   All students must sing the School Song with pride and respect.
 *   All students must be seated at the assembly venue by 0740 hrs for flag raising.
