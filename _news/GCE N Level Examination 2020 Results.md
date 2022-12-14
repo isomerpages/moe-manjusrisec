@@ -8,3 +8,7 @@ description: ""
 <p style="text-align: justify;">In the Normal (Technical) course, 73.3% of students achieved five or more subject passes which is also comparable to the past two years’ performance.</p>
 
 Top school performers (<u>not</u> listed in any order of merit) for this year were:
+
+| N (A) course                                                                                                                                   | N (T) course                                                             |
+|--------------------|----------------|
+| Tan Hong Wei, Daryl (4N1)<br>Young Dong Jun (4N1)<br>Tay Jia Wei (4N1)<br>Looi Feng Kai (4N2)<br>Chan Man King (4N3)<br>Bowie Lim Xin Yu (4N3) | Teo Kim Boon<br>Samuel Lee Si Han<br>Ping Jia Rong<br>Ashton Koh Jun Wei |
