@@ -80,3 +80,10 @@ Time : 9am - 3pm (23-25 Nov)
 
 
 
+Find out more about our CCAs under the <a href="/cca/clubs-and-societies/buddhist-interact-club/" target="_blank">CCA</a> tab on our school website.  
+  
+**Frequently Asked Questions**  
+  
+Want to know more about the new PSLE Scoring System and how it’s applied in the Secondary One Posting Exercise? Check out <a href="https://www.moe.gov.sg/microsites/psle-fsbb/index.html" target="_blank">MOE’s microsite</a> for more information.  
+  
+<a href="/files/E-Open%20House%20FAQs%20for%20Parents%20and%20Students.pdf" target="_blank">Other FAQs on MJR</a>
