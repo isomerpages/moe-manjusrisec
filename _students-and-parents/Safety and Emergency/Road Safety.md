@@ -19,3 +19,20 @@ third_nav_title: Safety and Emergency
 
 
 <img src="/images/Students%20and%20Parents/Safety%20and%20Emergency/Road%20safety/safe1c.jpg" style="width:25%; float:left; padding:10px">If there is no footpath, walk in a single file and keep close to the side of the road facing the traffic whenever possible.<br clear="left">
+
+
+|   |   |
+|:---:|:---:|
+|  ![](/images/Students%20and%20Parents/Safety%20and%20Emergency/Road%20safety/safe3a.jpg)  Smart phones can make you do stupid things.	 |  ![](/images/Students%20and%20Parents/Safety%20and%20Emergency/Road%20safety/safe3b.jpg) Keep your head up and your phone down while crossing the street. |
+|  ![](/images/Students%20and%20Parents/Safety%20and%20Emergency/Road%20safety/safe4.jpg)  Two students knocked down outside the school.	  |  ![](/images/Students%20and%20Parents/Safety%20and%20Emergency/Road%20safety/safe5.jpg) It pays to be a responsible road user.Use the pedestrian crossings. |
+
+**Pedestrian Road Safety**
+
+*   ALWAYS USE PEDESTRIAN CROSSINGS
+*   RAISE A HAND WHILE CROSSING to alert motorists.
+*   USE FOOTPATHS and other walkways whenever possible.
+*   DO NOT CROSS AT ROAD BENDS
+*   DO NOT CROSS IN FRONT OF A STATIONARY VEHICLE AND IN BETWEEN STATIONARY VEHICLES.
+*   ALWAYS WAIT FOR THE BUS TO STOP COMPLETELY
+*   WALK IN A SINGLE FILE if you are walking in a group, always face oncoming traffic.
+*   BE SEEN, BE SAFE - light coloured clothing when walking at night, or carry some reflective materials so that drivers can see you from a distance.
