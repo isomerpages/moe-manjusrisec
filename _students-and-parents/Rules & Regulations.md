@@ -80,3 +80,8 @@ description: ""
 <center><b>ATTIRE AND GROOMING</b></center>
 
 **School Uniform, P.E. & CCA Attire**
+
+
+|            |                     |
+|-----------|-------------------|
+| • Students must wear the prescribed school uniform. No modification to the school uniform is allowed.<br>• The school uniform must be worn neatly and smartly.<br>• The shirt/blouse/t-shirt must be fully tucked in at the waist at all times.<br>• The shorts/pants/culottes are worn at waist-level. Culottes are to be of knee length.<br>• The school P.E. t-shirt and shorts must be worn for P.E. lessons. Students must change into their school uniforms at the end of the P.E. lesson.<br>• CCA attire can only be worn during CCA time and at specified school activities.<br>• Coloured contact lens and tinted glasses are not permitted.<br>• Shoes are to be white. Students with a medical condition for their feet must seek permission to wear alternative footwear.<br>• Socks are to be white (or MJR socks) and they cover the ankle bone.<br>• Mask must be worn at all time. (Only solid coloured masks allowed) | ![](/images/Students%20and%20Parents/school_uniform.jpg)  |
