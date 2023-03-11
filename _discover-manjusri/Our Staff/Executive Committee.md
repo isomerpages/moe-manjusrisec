@@ -11,8 +11,8 @@ third_nav_title: Our Staff
 | Name              | Designation                   |
 |-------------|---------------------|
 | Mr Sim Chong Boon                    | Principal                     |
-| Mr Teo Soon Hock                     | Vice-Principal (Learning)     |
-| Ms Chia Shuen Li Eleanor             | Vice-Principal (Student Devt) |
+| Mr Teo Soon Hock                     | Vice-Principal 1  |
+| Mr Lin JunKai           | Vice-Principal 2 |
 
 
 <span style = "color: #B42025"> <b>School Executive Committee	</b> </span>
