@@ -44,5 +44,6 @@ third_nav_title: Our Staff
 | Mr Tan Kian Ann, Jacky            | Subject Head, Student Management        | tan_kian_ann@moe.edu.sg              |
 | Mr Lim Xu Yao                     | Subject Head, Humanities (Ag)           | lim_xu_yao@moe.edu.sg                |
 | Ms Goh Pei Shan                   | Subject Head, Mathematics (Ag)          | goh_pei_shan@moe.edu.sg              |
+| Ms Jurana Binte Abdul Rahim                  | Subject Head, CCE (Ag)          | jurana\_abdul\_rahim@moe.edu.sg                |
 | Ms Oh Ai Li                       | Administration Manager                  | oh_ai_li@schools.gov.sg              |
 | Mrs Wang-Lim Boon Lian            | Administration Manager                  | wang-lim_boon_lian@schools.gov.sg    |
