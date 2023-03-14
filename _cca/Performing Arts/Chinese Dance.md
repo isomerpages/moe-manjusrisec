@@ -18,12 +18,46 @@ Wednesday: 3.00pm - 6.00pm @ AVA
 
 ### **Other Teachers**
 
-| Teachers-in-Charge        | Email Address                         |
-|:--------:|:----------------------:|
-|         Ms Ng Imei        |           ng_imei@moe.edu.sg          |
-|   Ms Melcia Leong Hui Lin |     hui_lin_melcia_leong@moe.edu.sg   |
-|    Ms Madeleine Cheong    | cheong_wai_heng_madeleine@moe.edu.sg  |
-| Ms Mary Rose P Gonsalvez  |   mary_rose_p_gonsalvez@moe.edu.sg    |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-xu5m{background-color:#C00;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-a3j2{background-color:#FFF;color:#222;text-align:center;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 700px">
+<colgroup>
+<col style="width: 287px">
+<col style="width: 325px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-xu5m">Teachers-in-Charge</th>
+    <th class="tg-xu5m">Email Address</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> Ms Ng Imei</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> ng_imei@moe.edu.sg</span> </td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Ms Madeleine Cheong </span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">cheong_wai_heng_madeleine@moe.edu.sg</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Ms Natash Loh </span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">loh_tzi_wui_natasha@moe.edu.sg </span></td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> Ms Melcia Leong</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> hui_lin_melcia_leong@moe.edu.sg</span></td>
+  </tr>
+</tbody>
+</table>
+
 
 ### **Our Student Leaders**
 
