@@ -4,7 +4,7 @@ permalink: /cca/clubs-and-societies/media-club/
 description: ""
 third_nav_title: Clubs and Societies
 ---
-# Media Club
+# **Media Club**
 
 Have you wondered where the photo montages in presentations come from, how the cool effects in a video are made, or who keeps the mics and audio running during morning assembly? We are the ones creating photo montages and behind the audio and visual coverage of school events.  
 
@@ -14,19 +14,51 @@ Have you wondered where the photo montages in presentations come from, how the c
 
 <p style="text-align: justify;">As a CCA, we provide support in every way possible to ensure our participants and audience sound-pleasing, visually-stimulating, mesmerising and memorable experiences  </p>
 
-### Training Schedule
+### **Training Schedule**
 
 Monday and Wednesday – 3pm–6pm  
 
-### Our Teachers
+### **Our Teachers**
 
-| Teachers-in-Charge         | Email Address                    |
-|:-----------:|:-------------------:|
-|      Mdm Tan Hsiao Wey     |     tan_hsiao_wey@moe.edu.sg     |
-|       Mr Lim Xu Yao        |      lim_xu_yao@moe.edu.sg       |
-|   Mdm Rose Binte Ibrahim   |     rose_ibrahim@moe.edu.sg      |
-| Mdm Nur-Muna Bte Mohd Ali  | nur-muna_mohamed_ali@moe.edu.sg  |
-|      Mr Wong Chun Meng     |    wong_ching_meng@moe.edu.sg    |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-xu5m{background-color:#C00;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-a3j2{background-color:#FFF;color:#222;text-align:center;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 700px">
+<colgroup>
+<col style="width: 270px">
+<col style="width: 306px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-xu5m">Teachers-in-Charge</th>
+    <th class="tg-xu5m">Email Address</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> Mdm Tan Hsiao Wey</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">tan_hsiao_wey@moe.edu.sg </span></td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Mr Lim Xu Yao </span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">lim_xu_yao@moe.edu.sg </span></td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> Mr Daniel Tay</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">tay_tse_min_daniel@moe.edu.sg </span></td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Mr Khairul </span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> muhammad_khairul_ridhwan_bohari@moe.edu.sg</span></td>
+  </tr>
+</tbody>
+</table>
 
 ### Our Student Leaders
 
