@@ -26,7 +26,7 @@ Wednesday 3.00 – 5.00 pm
 .tg .tg-xu5m{background-color:#C00;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-a3j2{background-color:#FFF;color:#222;text-align:center;vertical-align:middle}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 500px">
+<table class="tg" style="undefined;table-layout: fixed; width: 700px">
 <colgroup>
 <col style="width: 252px">
 <col style="width: 286px">
@@ -66,7 +66,7 @@ Wednesday 3.00 – 5.00 pm
 .tg .tg-a3j2{background-color:#FFF;color:#222;text-align:center;vertical-align:middle}
 .tg .tg-lygy{background-color:#FFF;color:#222;text-align:center;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 538px">
+<table class="tg" style="undefined;table-layout: fixed; width: 700px">
 <colgroup>
 <col style="width: 252px">
 <col style="width: 286px">
