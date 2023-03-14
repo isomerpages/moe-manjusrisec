@@ -4,7 +4,7 @@ permalink: /cca/sports/football-boys/
 description: ""
 third_nav_title: Sports
 ---
-# Football (Boys)
+# **Football (Boys)**
 
 <p style="text-align: justify;">In the Football team, students learn to play better through creative drills which infuse technical skills and the element of fun. Students also improve their skills by participating in various competitions such as the futsal tournament and the Inter- school competitions which allow them to pit their skills with teams all over Singapore.</p>
 
