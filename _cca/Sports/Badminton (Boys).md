@@ -14,11 +14,41 @@ Monday and Wednesday 2.30pm – 5.30pm
 
 ### **Our Teachers**
 
-| Teachers-in-Charge      | Email Address                   |
-|:------------:|:--------------:|
-| Mr Chua Soon Huat Jason | chua_soon_huat_Jason@moe.edu.sg |
-|    Mdm Rozita Husain    |     rozita_husain@moe.edu.sg    |
-|  Mr Jacky Tan Kian Ann  |     tan_kian_ann@moe.edu.sg     |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-xu5m{background-color:#C00;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-a3j2{background-color:#FFF;color:#222;text-align:center;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 700px">
+<colgroup>
+<col style="width: 379px">
+<col style="width: 431px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-xu5m">Teachers-in-Charge</th>
+    <th class="tg-xu5m">Email Address</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Mr Chua Soon Huat Jason</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">chua_soon_huat_Jason@moe.edu.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Mr Michael Han </span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">han_ah_tech@moe.edu.sg </span></td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Mdm Rozita Husain</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">rozita_husain@moe.edu.sg</span></td>
+  </tr>
+</tbody>
+</table>
 
 ### **Our Student Leaders**
 
