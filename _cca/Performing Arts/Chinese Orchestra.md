@@ -45,16 +45,62 @@ Friday: 2.00pm - 5.00pm @ CO Room & Classrooms
 
 **Sectional Leaders**
 
-| Name                                                       | Position             |
-|:------------------------:|:-----------------------:|
-| Samatha Ng Boon Hian (SL)<br>Liew Xuan Yin, Germaine (ASL) |         Er Hu        |
-|            Balerie Lim Xin En<br>Estia Goh (ASL)           |    Yan Qing / Pipa   |
-| Chia Xin Rong (SL)<br>Joel Kwa Jun Hienn (ASL)             | Zhong Ruan / Liu Qin |
-|           Ng Qi Fang Gina(SL)<br>Jovan Soo (ASL)           |         Dizi         |
-|             Woo Jia Jun(SL)<br>Tay Jia De (ASL)            |     Sheng / Suona    |
-|            Adeline Seet(SL)<br>Tan Rui Han (ASL)           |     Cello / Bass     |
-|          See Jian Liang(SL)<br>See Jian Hong (ASL)         |      Percussion      |
-|     Tan Ying Xi Chloe (Head)<br>Eileen Tim (Asst Head)     |       Logistics      |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-xu5m{background-color:#C00;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-a3j2{background-color:#FFF;color:#222;text-align:center;vertical-align:middle}
+.tg .tg-lygy{background-color:#FFF;color:#222;text-align:center;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 700px">
+<colgroup>
+<col style="width: 322px">
+<col style="width: 366px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-xu5m">Name</th>
+    <th class="tg-xu5m">Position</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Samatha Ng Boon Hian (SL)</span><br><span style="color:#222;background-color:transparent">Liew Xuan Yin, Germaine (ASL)</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Er Hu</span></td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Balerie Lim Xin En</span><br><span style="color:#222;background-color:transparent">Estia Goh (ASL)</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Yan Qing / Pipa</span></td>
+  </tr>
+  <tr>
+    <td class="tg-lygy">Chia Xin Rong (SL)<br>Joel Kwa Jun Hienn (ASL)</td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Zhong Ruan / Liu Qin</span></td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Ng Qi Fang Gina(SL)</span><br><span style="color:#222;background-color:transparent">Jovan Soo (ASL)</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Dizi</span></td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Woo Jia Jun(SL)</span><br><span style="color:#222;background-color:transparent">Tay Jia De (ASL)</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Sheng / Suona</span></td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Adeline Seet(SL)</span><br><span style="color:#222;background-color:transparent">Tan Rui Han (ASL)</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Cello / Bass</span></td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">See Jian Liang(SL)</span><br><span style="color:#222;background-color:transparent">See Jian Hong (ASL)</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Percussion</span></td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Tan Ying Xi Chloe (Head)</span><br><span style="color:#222;background-color:transparent">Eileen Tim (Asst Head)</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Logistics</span></td>
+  </tr>
+</tbody>
+</table>
 
 ### **Our Programmes**
 
