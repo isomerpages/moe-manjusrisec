@@ -4,19 +4,19 @@ permalink: /cca/performing-arts/chinese-dance/
 description: ""
 third_nav_title: Performing Arts
 ---
-# Chinese Dance
+# **Chinese Dance**
 
 Founded in 1983, our dance group’s repertoire consists a wide variety of dances, ranging from traditional folk dances, where in some, the technically demanding water-sleeves (Shui Xiu水袖) are used, to modern contemporary Chinese dances.
 
 We are actively involved in many performances to provide platforms for our members to showcase their talents and creativity.
 
-### Training Schedule
+### **Training Schedule**
 
 Monday: 3.00pm - 6.00pm @ AVA
 
 Wednesday: 3.00pm - 6.00pm @ AVA
 
-### Other Teachers
+### **Other Teachers**
 
 | Teachers-in-Charge        | Email Address                         |
 |:--------:|:----------------------:|
@@ -25,11 +25,11 @@ Wednesday: 3.00pm - 6.00pm @ AVA
 |    Ms Madeleine Cheong    | cheong_wai_heng_madeleine@moe.edu.sg  |
 | Ms Mary Rose P Gonsalvez  |   mary_rose_p_gonsalvez@moe.edu.sg    |
 
-### Our Student Leaders
+### **Our Student Leaders**
 
 ![](/images/Cca/Chinese%20dance/Student%20Leaders%202021-2022.jpg)
 
-### Our Programmes
+### **Our Programmes**
 
 **School Anniversary**
 
