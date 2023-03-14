@@ -112,7 +112,7 @@ Boy’s training days: Tuesday & Thursday (3 – 6pm)
 |  <img src="/images/Cca/Basketball/Basketball%20Girls.jpg" style="width:50%">  Basketball Girls	 | ![](/images/Cca/Basketball/Our%20new%20leaders.jpg)  Our New Leaders	   | ![](/images/Cca/Basketball/Together%20we%20will%20achieve%20our%20goals.jpg)  Together, we achieve our goals  |
 
 
-### Activities
+### **Activities**
 
 
 |   |   |   |
