@@ -57,15 +57,46 @@ Every Monday and Wednesday
 </tbody>
 </table>
 
-### Our Student Leaders
+### **Our Student Leaders**
 
 **Executive Committee**
 
-| Name                             | Position           |
-|:------------:|:------------:|
-|       Chng Wee Kiat Joshua       |     Chairperson    |
-| Zhang Jingwen                    | Vice – Chairperson |
-|  Nurul Aleeya Binte Mohd Zahrin  | Student Conductor  |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-3lre{background-color:#FFF;color:#F00;text-align:center;vertical-align:top}
+.tg .tg-xu5m{background-color:#C00;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-a3j2{background-color:#FFF;color:#222;text-align:center;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 700px">
+<colgroup>
+<col style="width: 320px">
+<col style="width: 363px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-xu5m">Name</th>
+    <th class="tg-xu5m">Position</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Chng Wee Kiat Joshua </span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Chairperson</span></td>
+  </tr>
+  <tr>
+    <td class="tg-3lre"><span style="color:#222;background-color:transparent">Zhang Jingwen</span><br></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Vice – Chairperson</span></td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> Nurul Aleeya Binte Mohd Zahrin </span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Student Conductor </span></td>
+  </tr>
+</tbody>
+</table>
 
 **Sectional Leaders**
 
