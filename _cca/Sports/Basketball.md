@@ -13,7 +13,7 @@ third_nav_title: Sports
 Girl’s training days: Monday & Wednesday (3 – 6pm)     
 Boy’s training days: Tuesday & Thursday (3 – 6pm)
 
-### Our Teachers
+### **Our Teachers**
 
 | Teachers-in-Charge  | Email Address                      |
 |:---------------:|:----------------------------:|
@@ -22,7 +22,7 @@ Boy’s training days: Tuesday & Thursday (3 – 6pm)
 | Ms Loi Wee Kin      |        loi_wee_kin@moe.edu.sg      |
 |  Ms Chong Nget Fong |     chong_nget_fong@moe.edu.sg     |
 
-### Our Student Leaders
+### **Our Student Leaders**
 
 | Name              | Position             |
 |:---------------:|:----------------------------:|
@@ -32,7 +32,7 @@ Boy’s training days: Tuesday & Thursday (3 – 6pm)
 | Melvena Luthfiya  | Vice-Captain (Girls) |
 
 
-### Our Programmes
+### **Our Programmes**
 
 **National Schools Games Basketball Championship**
 
