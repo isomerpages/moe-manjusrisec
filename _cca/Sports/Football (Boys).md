@@ -16,12 +16,43 @@ Mondays and Wednesday 3pm-6pm
 ### **Our Teachers**
 
 
-| Teachers-in-Charge | Email Address                        |
-|:-----------------:|:---------------:|
-|  Mr Sng Peng Han   |        sng_peng_han@moe.edu.sg       |
-|     Mr Jawahir     |     mohd_jawahir_ahmat@moe.edu.sg    |
-|      Dr Mubarak    | muhammad_mubarak_habib_md@moe.edu.sg |
-|     Mr Jason Lim   |        lim_hui_zhong@moe.edu.sg      |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-2atv{background-color:#C00;border-color:inherit;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-gct1{background-color:#FFF;border-color:inherit;color:#222;text-align:center;vertical-align:top}
+.tg .tg-gktn{background-color:#FFF;border-color:inherit;color:#222;text-align:center;vertical-align:middle}
+.tg .tg-a3j2{background-color:#FFF;color:#222;text-align:center;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 700px">
+<colgroup>
+<col style="width: 405px">
+<col style="width: 461px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-2atv">Teachers-in-Charge</th>
+    <th class="tg-2atv">Email Address</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-gct1">Mr Sng Peng Han<span style="color:#222;background-color:transparent"> </span></td>
+    <td class="tg-gktn"><span style="color:#222;background-color:transparent"> sng_peng_han@moe.edu.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-gktn"><span style="color:#222;background-color:transparent">Mr Jawahir</span></td>
+    <td class="tg-gktn"><span style="color:#222;background-color:transparent">mohd_jawahir_ahmat@moe.edu.sg</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> Dr Mubarak</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">muhammad_mubarak_habib_md@moe.edu.sg</span></td>
+  </tr>
+</tbody>
+</table>
 
 ### Our Student Leaders
 
