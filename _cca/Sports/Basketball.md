@@ -15,12 +15,48 @@ Boy’s training days: Tuesday & Thursday (3 – 6pm)
 
 ### **Our Teachers**
 
-| Teachers-in-Charge  | Email Address                      |
-|:---------------:|:----------------------------:|
-|  Mr Lim Chiang Long |     lim_chiang_long@moe.edu.sg     |
-|    Ms Angeline Ng   | ng_yeou_chiann_angeline@moe.edu.sg |
-| Ms Loi Wee Kin      |        loi_wee_kin@moe.edu.sg      |
-|  Ms Chong Nget Fong |     chong_nget_fong@moe.edu.sg     |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-tlx9{background-color:#FFF;color:#333;text-align:center;vertical-align:top}
+.tg .tg-2atv{background-color:#C00;border-color:inherit;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-gktn{background-color:#FFF;border-color:inherit;color:#222;text-align:center;vertical-align:middle}
+.tg .tg-gct1{background-color:#FFF;border-color:inherit;color:#222;text-align:center;vertical-align:top}
+.tg .tg-a3j2{background-color:#FFF;color:#222;text-align:center;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 700px">
+<colgroup>
+<col style="width: 406px">
+<col style="width: 461px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-2atv">Teachers-in-Charge</th>
+    <th class="tg-2atv">Email Address</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-gktn"><span style="color:#222;background-color:transparent"> Mr Lim Chiang Long</span></td>
+    <td class="tg-gct1">lim_chiang_long@moe.edu.sg<span style="color:#222;background-color:transparent"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-gktn"><span style="color:#222;background-color:transparent">Ms Angeline Ng</span></td>
+    <td class="tg-gktn"><span style="color:#222;background-color:transparent">ng_yeou_chiann_angeline@moe.edu.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-tlx9"><span style="color:#333">Ms Loi Wee Kin</span><span style="color:#222;background-color:transparent"> </span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> loi_wee_kin@moe.edu.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Ms Amanda Tay</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">tay_kar_yen_amanda@moe.edu.sg</span></td>
+  </tr>
+</tbody>
+</table>
 
 ### **Our Student Leaders**
 
