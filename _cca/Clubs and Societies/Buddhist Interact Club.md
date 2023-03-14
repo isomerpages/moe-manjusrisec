@@ -4,17 +4,17 @@ permalink: /cca/clubs-and-societies/buddhist-interact-club/
 description: ""
 third_nav_title: Clubs and Societies
 ---
-# Buddhist Interact Club
+# **Buddhist Interact Club**
 
 
 <p style="text-align: justify;">Buddhist Interact Club aims to nurture responsible Youth leaders. Members are given opportunities to learn Buddhist values, acquire leadership and other 21 st century life skills through planning and organising events and taking part in competitions.</p>
 
-<img src="/images/Cca/Buddhist%20Interact%20Club/MJS-Buddhist.png" style= "width: 55%; margin-right:30px;" align = "right">
-### Training Schedule
+
+### **Training Schedule**
 
 Monday & Wednesday 3pm-6pm
 
-### Our Teachers
+### **Our Teachers**
 
 
 | Teachers-in-Charge     | Email Address                      |
