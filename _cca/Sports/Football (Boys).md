@@ -13,7 +13,7 @@ third_nav_title: Sports
 
 Mondays and Wednesday 3pm-6pm
 
-### Our Teachers
+### **Our Teachers**
 
 
 | Teachers-in-Charge | Email Address                        |
