@@ -95,6 +95,9 @@ Once every two years, our dancers will gear up for the inaugural Singapore Youth
 |  ![](/images/Cca/Chinese%20dance/chinese_dance11.png) Dancers performing a Tibetan dance  |  ![](/images/Cca/Chinese%20dance/chinese_dance12.png) Dancers performing Tibetan dance part 3   | ![](/images/Cca/Chinese%20dance/chinese_dance13.png)    Dancers twirling around with their fans |
 | ![](/images/Cca/Chinese%20dance/chinese_dance14.png)  Dancers performing a fan dance during SYF competition   |  ![](/images/Cca/Chinese%20dance/chinese_dance15.png) Dancers as beautiful lotus!  |  ![](/images/Cca/Chinese%20dance/chinese_dance16.png)  Dancers during SYF competition part 3 |
 
+<br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-JehWxoDMWU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 **SYF Arts Celebration**
