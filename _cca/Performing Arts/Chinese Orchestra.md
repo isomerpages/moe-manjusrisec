@@ -4,7 +4,7 @@ permalink: /cca/performing-arts/chinese-orchestra/
 description: ""
 third_nav_title: Performing Arts
 ---
-# Chinese Orchestra
+# **Chinese Orchestra**
 
 文华合奏曲绕梁，殊乐共享声飞扬   
 
@@ -17,7 +17,7 @@ Training Schedule
 Wednesday: 3.00pm - 6.00pm @ CO Room   
 Friday: 2.00pm - 5.00pm @ CO Room & Classrooms
 
-### Our Teachers
+### **Our Teachers**
 
 
 | Teachers-in-Charge          | Email Address             |
@@ -29,7 +29,7 @@ Friday: 2.00pm - 5.00pm @ CO Room & Classrooms
 |      Mdm Yong Tann Lee      | yong_tann_lee@moe.edu.sg  |
 
 
-### Our Student Leaders
+### **Our Student Leaders**
 
 **Executive Committee**
 
@@ -56,7 +56,7 @@ Friday: 2.00pm - 5.00pm @ CO Room & Classrooms
 |          See Jian Liang(SL)<br>See Jian Hong (ASL)         |      Percussion      |
 |     Tan Ying Xi Chloe (Head)<br>Eileen Tim (Asst Head)     |       Logistics      |
 
-### Our Programmes
+### **Our Programmes**
 
 **Singapore Youth Arts Presentation**
 
@@ -79,9 +79,10 @@ Friday: 2.00pm - 5.00pm @ CO Room & Classrooms
 |   ![](/images/Cca/Chinese%20Orchestra/co08.png) ME4 |   |   |
 
 
-##### Chinese Orchestra
+**School Performances**  
+  
 
-<p style="text-align: justify;">Our CO students are also provided with opportunities to develop their potential and areas of interest perform at school platforms such as Arts Fiesta, MJR Jams, Open House and Chinese New Year Celebration.</p>
+Our CO students are also provided with opportunities to develop their potential and areas of interest perform at school platforms such as Arts Fiesta, MJR Jams, Open House and Chinese New Year Celebration.
 
 
 |   |   |   |
