@@ -15,49 +15,180 @@ third_nav_title: Performing Arts
 Monday and Thursday 3-6pm (Combined)    
 Wednesday 3-5pm (Self-Practice)
 
-### Our Teachers
+### **Our Teachers**
 
-| Teachers-in-Charge              | Email Address        |
-|:------------:|:----------------------------------:|
-|          Ms Tan Shi Jia         |       tan_shi_jia@moe.edu.sg       |
-|          Ms Seah Yi Fan         |       seah_yi_fan@moe.edu.sg       |
-| Mrs Teh-Tay Hwee Cheng Angeline | tay_hwee_cheng@moe.edu.sg          |
-|           Ms Nurjannah          |    nurjannah_othman@moe.edu.sg     |
-|            Ms Ellia             | darul_ellia_zulkarnain@moe.edu.sg  |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-xu5m{background-color:#C00;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-a3j2{background-color:#FFF;color:#222;text-align:center;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 720px">
+<colgroup>
+<col style="width: 337px">
+<col style="width: 383px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-xu5m">Teachers-in-Charge</th>
+    <th class="tg-xu5m">Email Address</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Ms Tan Shi Jia</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">tan_shi_jia@moe.edu.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> Ms Seah Yi Fan</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> seah_yi_fan@moe.edu.sg </span></td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> Ms Shermaine Chew</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">chew_sue_ning_shermaine@moe.edu.sg </span></td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> Ms Nurjannah</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">nurjannah_othman@moe.edu.sg </span></td>
+  </tr>
+</tbody>
+</table>
 
-### Our Student Leaders
+
+### **Our Student Leaders**
 
 **Executive Committee**
 
 
-| Name                                                 | Position                 |
-|:------------:|:----------------------------------:|
-|                  Joshua Ang Songrui                  |        Band Major        |
-|                     Matthias Tan                     |        Drum Major        |
-|                      Tang Chloe                      |     Concert Mistress     |
-|         Muhamad Farid Abil Bin Muhamed Kiffli        |    Recruiting Officers   |
-|           Lau Yi Xuan<br> Toh Kai Jin Lucas          | Asst. Recruiting Officer |
-|                  Alyssa Toh Wan Ling                 | Librarian (Head)         |
-| Haris Nornilhakim<br> Les Jing Xiang<br> Ang Yi Lin  | Librarian (Asst)         |
-| Ng Zhi Yang                                          |      Quarter Masters     |
-|      Seet Jun Xian<br>Lim Kay En<br> Teo Hung Kai    |   Quarter Masters (Asst) |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-xu5m{background-color:#C00;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-a3j2{background-color:#FFF;color:#222;text-align:center;vertical-align:middle}
+.tg .tg-lygy{background-color:#FFF;color:#222;text-align:center;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 816px">
+<colgroup>
+<col style="width: 382px">
+<col style="width: 434px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-xu5m">Name</th>
+    <th class="tg-xu5m">Position</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Joshua Ang Songrui</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Band Major</span></td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Matthias Tan</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Drum Major</span></td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Tang Chloe</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Concert Mistress</span></td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Muhamad Farid Abil Bin Muhamed Kiffli</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Recruiting Officers</span></td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Lau Yi Xuan</span><br><span style="color:#222;background-color:transparent"> Toh Kai Jin Lucas</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Asst. Recruiting Officer</span></td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> Alyssa Toh Wan Ling</span></td>
+    <td class="tg-lygy">Librarian (Head)<span style="color:#222;background-color:transparent"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-lygy"><span style="color:#222;background-color:transparent">Haris Nornilhakim</span><br><span style="color:#222;background-color:transparent"> Les Jing Xiang</span><br><span style="color:#222;background-color:transparent"> Ang Yi Lin </span></td>
+    <td class="tg-lygy">Librarian (Asst)<span style="color:#222;background-color:transparent"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-lygy"><span style="color:#222;background-color:transparent">Ng Zhi Yang </span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> Quarter Masters</span></td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> Seet Jun Xian</span><br><span style="color:#222;background-color:transparent">Lim Kay En</span><br><span style="color:#222;background-color:transparent"> Teo Hung Kai</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> Quarter Masters (Asst)</span></td>
+  </tr>
+</tbody>
+</table>
 
 
 **Seasonal Leaders**
 
-| Name                | Position    |
-|:------------:|:----------------------------------:|
-|                      SL - Tang Chloe<br> ASL - Vanessa Lee Jia En                     |    Flute    |
-| SL - Alyssa Toh Wan Ling<br>ASL - Matthias Tan <br> ASL - Eric Pai Yao Huang          |   Clarinet  |
-| SL - Muhamad Farid Abil Bin Muhamed Kiffli<br> ASL - Yoon Kia Suan                    |  Saxophone  |
-| SL - Haris Nornilhakim <br> ASL - Eva Angelina Binte Jamal                            |     Horn    |
-|                   SL - Teo Jun Kai Jakeem<br> ASL - Ryan Tee Qing Kai                 |   Trumpet   |
-| SL - Seet Jun XianASL - Poh Jo Zhi Wayne                                              |   Trombone  |
-| Liaw Wei Tak                                                                          | Euphonium   |
-| SL - Teo Hung Kai<br> ASL - Ng Yi Jie                                                 | Tuba        |
-| SL - Lim Kay En<br> ASL - Goh Seng Iu Jackal<br> ASL - Tanisha Kaur D/O Harban Singh  | Percussion  |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-xu5m{background-color:#C00;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-a3j2{background-color:#FFF;color:#222;text-align:center;vertical-align:middle}
+.tg .tg-lygy{background-color:#FFF;color:#222;text-align:center;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 816px">
+<colgroup>
+<col style="width: 382px">
+<col style="width: 434px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-xu5m">Name</th>
+    <th class="tg-xu5m">Position</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">SL - Tang Chloe</span><br><span style="color:#222;background-color:transparent"> ASL - Vanessa Lee Jia En</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Flute</span></td>
+  </tr>
+  <tr>
+    <td class="tg-lygy">SL - Alyssa Toh Wan Ling<br>ASL - Matthias Tan <br> ASL - Eric Pai Yao Huang<br></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Clarinet</span></td>
+  </tr>
+  <tr>
+    <td class="tg-lygy"><span style="color:#222;background-color:transparent">SL - Muhamad Farid Abil Bin Muhamed Kiffli</span><br><span style="color:#222;background-color:transparent"> ASL - Yoon Kia Suan</span><br></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Saxophone</span></td>
+  </tr>
+  <tr>
+    <td class="tg-lygy">SL - Haris Nornilhakim <br> ASL - Eva Angelina Binte Jamal<br></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Horn</span></td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> SL - Teo Jun Kai Jakeem</span><br><span style="color:#222;background-color:transparent"> ASL - Ryan Tee Qing Kai</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Trumpet</span></td>
+  </tr>
+  <tr>
+    <td class="tg-lygy">SL - Seet Jun X<span style="background-color:transparent">ian</span>ASL - Poh Jo Zhi Wayne<span style="color:#222;background-color:transparent"> </span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Trombone</span></td>
+  </tr>
+  <tr>
+    <td class="tg-lygy"><span style="color:#222;background-color:transparent">Liaw Wei Tak </span></td>
+    <td class="tg-lygy">Euphonium<span style="color:#222;background-color:transparent"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-lygy"><span style="color:#222;background-color:transparent">SL - Teo Hung Kai</span><br><span style="color:#222;background-color:transparent"> ASL - Ng Yi Jie </span></td>
+    <td class="tg-lygy">Tuba<span style="color:#222;background-color:transparent"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-lygy"><span style="color:#222;background-color:transparent">SL - Lim Kay En</span><br><span style="color:#222;background-color:transparent"> ASL - Goh Seng Iu Jackal</span><br><span style="color:#222;background-color:transparent"> ASL - Tanisha Kaur D/O Harban Singh </span></td>
+    <td class="tg-lygy">Percussion<span style="color:#222;background-color:transparent"> </span></td>
+  </tr>
+</tbody>
+</table>
 
-### Our Programmes
+### **Our Programmes**
 
 **SYF Arts Presentation**
 
