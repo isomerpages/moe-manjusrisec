@@ -4,15 +4,15 @@ permalink: /cca/sports/badminton-boys/
 description: ""
 third_nav_title: Sports
 ---
-# Badminton (Boys)
+# **Badminton (Boys)**
 
 <p style="text-align: justify;">Badminton is a game of strategies, tactics and mental fitness that demonstrates speed, stamina, agility, power and delicate skills. The drills and games executed at each Badminton Training sessions also help reduce depression, anxiety and stress and improve our overall well-being. While ensuring that our players become skillfully better after every session, we also try to infiltrate fun and laughter to help relieve our players of their daily stress and anxiety. </p>
 
-### Training Schedule
+### **Training Schedule**
 
 Monday and Wednesday 2.30pm – 5.30pm  
 
-### Our Teachers
+### **Our Teachers**
 
 | Teachers-in-Charge      | Email Address                   |
 |:------------:|:--------------:|
@@ -20,7 +20,7 @@ Monday and Wednesday 2.30pm – 5.30pm
 |    Mdm Rozita Husain    |     rozita_husain@moe.edu.sg    |
 |  Mr Jacky Tan Kian Ann  |     tan_kian_ann@moe.edu.sg     |
 
-### Our Student Leaders
+### **Our Student Leaders**
 
 | Name                | Position     |
 |:------------:|:--------------:|
@@ -29,7 +29,7 @@ Monday and Wednesday 2.30pm – 5.30pm
 | BEH JUN EN<br> RACHEL ONG MIN KEE                                       |   Logistics  |
 | NG WEI XUAN<br> ISHRA BINTE BANI MUHAMAD MALAYSIA                       |   Media Rep  |
 
-### Our Activities
+### **Our Activities**
 
 
 |   |   |   |
