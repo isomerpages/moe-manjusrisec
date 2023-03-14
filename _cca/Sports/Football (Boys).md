@@ -9,7 +9,7 @@ third_nav_title: Sports
 <p style="text-align: justify;">In the Football team, students learn to play better through creative drills which infuse technical skills and the element of fun. Students also improve their skills by participating in various competitions such as the futsal tournament and the Inter- school competitions which allow them to pit their skills with teams all over Singapore.</p>
 
 
-### Training Schedule  
+### **Training Schedule**  
 
 Mondays and Wednesday 3pm-6pm
 
