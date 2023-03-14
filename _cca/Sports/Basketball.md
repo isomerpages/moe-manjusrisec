@@ -60,12 +60,46 @@ Boy’s training days: Tuesday & Thursday (3 – 6pm)
 
 ### **Our Student Leaders**
 
-| Name              | Position             |
-|:---------------:|:----------------------------:|
-|   Wong Hong Xun   |    Captain (Boys)    |
-|   Lee Zhen Kang   |  Vice-Captain (Boys) |
-|     Katelyn Ng    |   Captain (Girls)    |
-| Melvena Luthfiya  | Vice-Captain (Girls) |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-2atv{background-color:#C00;border-color:inherit;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-gktn{background-color:#FFF;border-color:inherit;color:#222;text-align:center;vertical-align:middle}
+.tg .tg-a3j2{background-color:#FFF;color:#222;text-align:center;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 867px">
+<colgroup>
+<col style="width: 406px">
+<col style="width: 461px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-2atv">Name</th>
+    <th class="tg-2atv">Position</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-gktn"><span style="color:#222;background-color:transparent">Wong Hong Xun</span></td>
+    <td class="tg-gktn"><span style="color:#222;background-color:transparent">Captain (Boys)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-gktn"><span style="color:#222;background-color:transparent">Lee Zhen Kang</span></td>
+    <td class="tg-gktn"><span style="color:#222;background-color:transparent">Vice-Captain (Boys)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Katelyn Ng</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Captain (Girls) </span></td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Melvena Luthfiya </span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Vice-Captain (Girls) </span></td>
+  </tr>
+</tbody>
+</table>
 
 
 ### **Our Programmes**
