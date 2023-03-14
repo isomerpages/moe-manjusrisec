@@ -4,14 +4,11 @@ permalink: /cca/sports/basketball/
 description: ""
 third_nav_title: Sports
 ---
-# Basketball
-
-<img src="/images/Cca/Basketball/MJS-Basketball.png" style= "width: 30%; margin-right:15px;" align = "right">
-
+# **Basketball**
 
 <p style="text-align: justify;">We believe in striving for excellence in every match and we aspire to instil this value in our students. To boost the passion in the sport for our students, we had organized several friendly matches with other schools. We train tirelessly and passionately. United we Stand!  </p>
 
-### Training Sechedule  
+### **Training Sechedule**  
 
 Girl’s training days: Monday & Wednesday (3 – 6pm)     
 Boy’s training days: Tuesday & Thursday (3 – 6pm)
