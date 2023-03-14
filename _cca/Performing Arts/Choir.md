@@ -29,7 +29,7 @@ Every Monday and Wednesday
 <table class="tg" style="undefined;table-layout: fixed; width: 700px">
 <colgroup>
 <col style="width: 320px">
-<col style="width: 364px">
+<col style="width: 360px">
 </colgroup>
 <thead>
   <tr>
@@ -100,15 +100,53 @@ Every Monday and Wednesday
 
 **Sectional Leaders**
 
-| Name                                                                     | Position                |
-|:------------:|:------------:|
-|                 David Tan Thai Keat<br>Ho Jia Hui Chloe                  |         Soprano         |
-| Zhang Jingwen<br>Athena Ng                                               |           Alto          |
-| Jovan Lee Jun Wei<br>Acelie Liew Yuxuan                                  |        Baritone         |
-|     Siew Yig Hoi<br>Wallace<br>Kellie Jiang Lixuan<br>Wee Kai Yu Natalie | Quarter Master/Mistress |
-| Wee Kai Yu Natalie                                                       | Librarian               |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-3lre{background-color:#FFF;color:#F00;text-align:center;vertical-align:top}
+.tg .tg-xu5m{background-color:#C00;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-a3j2{background-color:#FFF;color:#222;text-align:center;vertical-align:middle}
+.tg .tg-lygy{background-color:#FFF;color:#222;text-align:center;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 722px">
+<colgroup>
+<col style="width: 338px">
+<col style="width: 384px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-xu5m">Name</th>
+    <th class="tg-xu5m">Position</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">David Tan Thai Keat</span><br><span style="color:#222;background-color:transparent">Ho Jia Hui Chloe </span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Soprano</span></td>
+  </tr>
+  <tr>
+    <td class="tg-lygy">Zhang Jingwen<br>Athena Ng <br></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Alto</span></td>
+  </tr>
+  <tr>
+    <td class="tg-3lre"><span style="color:#222;background-color:transparent">Jovan Lee Jun Wei</span><br><span style="color:#222;background-color:transparent">Aceli Liew Yuxuan</span><br></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Baritone </span></td>
+  </tr>
+  <tr>
+    <td class="tg-lygy">    <span style="color:#222;background-color:transparent">Siew Yig Hoi</span><br><span style="color:#222;background-color:transparent">Wallace</span><br><span style="color:#222;background-color:transparent">Kellie Jiang Lixuan</span><br><span style="color:#222;background-color:transparent">Wee Kai Yu Natalie</span><br></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Quarter Master/Mistress</span></td>
+  </tr>
+  <tr>
+    <td class="tg-3lre"><span style="color:#222;background-color:transparent">Wee Kai Yu Natalie </span></td>
+    <td class="tg-3lre"><span style="color:#222;background-color:transparent">Librarian </span></td>
+  </tr>
+</tbody>
+</table>
 
-### Our Programmes
+### **Our Programmes**
 
 **Choir Concert**
 
