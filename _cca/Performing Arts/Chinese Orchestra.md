@@ -20,13 +20,46 @@ Friday: 2.00pm - 5.00pm @ CO Room & Classrooms
 ### **Our Teachers**
 
 
-| Teachers-in-Charge          | Email Address             |
-|:------------------------:|:-----------------------:|
-|        Mdm Lee Li Yun       |   lee_li_yun@moe.edu.sg   |
-|       Ms Goh Pei Shan       |  goh_pei_shan@moe.edu.sg  |
-|       Mrs Ng Phooi Yee      | mah_phooi_yee@moe.edu.sg  |
-|  Mrs Tan-Chen Lingzhi Wendy |  chen_lingzhi@moe.edu.sg  |
-|      Mdm Yong Tann Lee      | yong_tann_lee@moe.edu.sg  |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-xu5m{background-color:#C00;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-a3j2{background-color:#FFF;color:#222;text-align:center;vertical-align:middle}
+.tg .tg-lygy{background-color:#FFF;color:#222;text-align:center;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 684px">
+<colgroup>
+<col style="width: 320px">
+<col style="width: 364px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-xu5m">Teachers-in-Charge</th>
+    <th class="tg-xu5m">Email Address</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> Mdm Lee Li Yun</span></td>
+    <td class="tg-lygy">lee_li_yun@moe.edu.sg<span style="color:#222;background-color:transparent"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Ms Goh Pei Shan </span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">goh_pei_shan@moe.edu.sg </span></td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Mdm Yong Tann Lee </span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">yong_tann_lee@moe.edu.sg </span></td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> Mrs Angeline Tay</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">tay_hwee_cheng@moe.edu.sg </span></td>
+  </tr>
+</tbody>
+</table>
 
 
 ### **Our Student Leaders**
