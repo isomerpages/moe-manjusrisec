@@ -33,15 +33,58 @@ Friday: 2.00pm - 5.00pm @ CO Room & Classrooms
 
 **Executive Committee**
 
-| Name                    | Position                    |
-|:------------------------:|:-----------------------:|
-|      Boh Duang Zen      |         Chairperson         |
-|        Estia Goh        |       Vice-Chairperson      |
-|       Zhang Mingke      |         Score Master        |
-| Sum Jia En<br>Ong Zi Zi |    Assistant Score Master   |
-|       Darrion Bay       | Quarter Master (Instrument) |
-|   Lau Rong Ting Tricia  |  Quarter Master (Costume)   |
-| Regin Toh               |  Assistant Quarter Master   |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-3lre{background-color:#FFF;color:#F00;text-align:center;vertical-align:top}
+.tg .tg-xu5m{background-color:#C00;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-a3j2{background-color:#FFF;color:#222;text-align:center;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 700px">
+<colgroup>
+<col style="width: 322px">
+<col style="width: 365px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-xu5m">Name</th>
+    <th class="tg-xu5m">Position</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Boh Duang Zen</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Chairperson</span></td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Estia Goh</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Vice-Chairperson</span></td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Zhang Mingke</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Score Master</span></td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Sum Jia En</span><br><span style="color:#222;background-color:transparent">Ong Zi Zi</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Assistant Score Master</span></td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Darrion Bay</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Quarter Master (Instrument)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Lau Rong Ting Tricia</span><br></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Quarter Master (Costume) </span></td>
+  </tr>
+  <tr>
+    <td class="tg-3lre"><span style="color:#222;background-color:transparent">Regin Toh</span><br></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Assistant Quarter Master </span></td>
+  </tr>
+</tbody>
+</table>
 
 **Sectional Leaders**
 
