@@ -101,7 +101,7 @@ Monday & Wednesday 3pm-6pm
 </table>
 
 
-### Our Programmes
+### **Our Programmes**
 
 
 **Dharma Lessons/Talks**
