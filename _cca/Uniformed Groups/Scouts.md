@@ -4,24 +4,57 @@ permalink: /cca/uniformed-groups/scouts/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-# Scouts
+# **Scouts**
 
 <p style="text-align: justify;">The Manjusri Red Fox Scout Group was founded in 1983 and seeks to nurture scouts who uphold the motto of ‘Be Prepared’ at all times.</p>
 
-### Training Schedule
+### **Training Schedule**
 
 Every Monday and Wednesday 3.00pm - 6.00pm
 
-### Our Teachers
+### **Our Teachers**
 
-| Teachers-in-Charge  | Email Address                   |
-|:-----------------:|:--------------------------:|
-|   Mr Lee Zhong Shun |     lee_zhong_shun@moe.edu.sg   |
-| Mrs Heng Lai Khar   |   chong_lai_khar@moe.edu.sg     |
-|  Mr Shuai Dong Xing |    shuai_dongxing@moe.edu.sg    |
-|     Mr Nur Hakim    | nur_hakim_alim_salim@moe.edu.sg |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-2atv{background-color:#C00;border-color:inherit;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-a3j2{background-color:#FFF;color:#222;text-align:center;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 700px">
+<colgroup>
+<col style="width: 296px">
+<col style="width: 273px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-2atv">Teachers-in-Charge</th>
+    <th class="tg-2atv">Email Address</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> Mr Lee Zhong Shun</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> lee_zhong_shun@moe.edu.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Mr Shuai Dong Xing</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">shuai_dongxing@moe.edu.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> Mr Nabil</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">ahmad_nabil_ahmad_al-kastalani@moe.edu.sg </span></td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> Mr Nur Hakim</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">nur_hakim_alim_salim@moe.edu.sg</span></td>
+  </tr>
+</tbody>
+</table>
 
-### Our Student Leaders
+### **Our Student Leaders**
 
 |                          |                LION PATROL                |               TIGER PATROL               |               WOODPECKER PATROL              |  KINGFISHER PATROL |
 |:------------------------:|:-----------------------------------------:|:----------------------------------------:|:--------------------------------------------:|:------------------:|
