@@ -123,7 +123,7 @@ Monday and Wednesday 3.00pm - 6.00pm
 </tbody>
 </table>
 
-### Our Programmes
+### **Our Programmes**
 
 **Adventure Training Camp**
 
