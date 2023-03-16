@@ -82,7 +82,7 @@ Vice-Captain : NG SHI QI 3F
 .tg .tg-gktn{background-color:#FFF;border-color:inherit;color:#222;text-align:center;vertical-align:middle}
 .tg .tg-a3j2{background-color:#FFF;color:#222;text-align:center;vertical-align:middle}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 820px">
+<table class="tg" style="undefined;table-layout: fixed; width: 700px">
 <colgroup>
 <col style="width: 192px">
 <col style="width: 177px">
