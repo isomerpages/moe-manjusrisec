@@ -4,35 +4,97 @@ permalink: /cca/uniformed-groups/ncc-land/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-# NCC (land)
+# **NCC (land)**
 
 <p style="text-align: justify;">A National Uniformed Group, the NCC boys unit has been a pillar of strength and the epitome of discipline for the Uniformed Groups in Manjusri Secondary School. The passion of the cadets and the dedication of the officers contributed to the excellent performance of the CCA. With many opportunities provided to the students for leadership training and character development, the cadets are constantly morphing into strong leaders with discipline, enabling them to also prepare for their National Service.</p>
 
-### Training Schedule
+### **Training Schedule**
 
 Monday and Wednesday 3.00pm - 6.00pm
 
-### Our Teachers
+### **Our Teachers**
 
-| Teachers-in-charge                      | Email Adddress                              |
-|:---------:|:-----------------:|
-|              Mr Chan Ze Wei             |            chan_ze_wei@moe.edu.sg           |
-|           Mr Tse Min Daniel Tay         |        tay_tse_min_daniel@moe.edu.sg        |
-|              Mr Bryan Kang              |          kang_ching_choon@moe.edu.sg        |
-|                Ms A'mirah               |     nurul_amirah_mohd_kamal@moe.edu.sg      |
-|  Mr Muhammad Khairul Ridhwan Bin Bohari | muhammad_khairul_ridhwan_bohari@moe.edu.sg  |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-2atv{background-color:#C00;border-color:inherit;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-a3j2{background-color:#FFF;color:#222;text-align:center;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 480px">
+<colgroup>
+<col style="width: 250px">
+<col style="width: 230px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-2atv">Teachers-in-charge</th>
+    <th class="tg-2atv">Email Adddress</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> Mr Chan Ze Wei</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> chan_ze_wei@moe.edu.sg </span></td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Mr Bryan Kang </span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> kang_ching_choon@moe.edu.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> Ms A'mirah</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> nurul_amirah_mohd_kamal@moe.edu.sg</span><span style="background-color:transparent">  </span></td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Mr Victor Wong</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">wong_chun_meng@moe.edu.sg </span></td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Mr Andrew Ang </span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">ang_soon_hock_andrew@moe.edu.sg </span></td>
+  </tr>
+</tbody>
+</table>
+
+### **Our Student Leaders**
 
 
-### Our Student Leaders
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-2atv{background-color:#C00;border-color:inherit;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-a3j2{background-color:#FFF;color:#222;text-align:center;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 513px">
+<colgroup>
+<col style="width: 267px">
+<col style="width: 246px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-2atv">Name</th>
+    <th class="tg-2atv">Position</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Msg Wong Peng Jun Kieran</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Unit Sergeant Major</span></td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Msg Punnoose Gerard Danny Sungduan</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Assistant Sergeant Major</span></td>
+  </tr>
+</tbody>
+</table>
 
 
-| Name                               | Position                 |
-|:---------:|:-----------------:|
-|      Msg Wong Peng Jun Kieran      |    Unit Sergeant Major   |
-| Msg Punnoose Gerard Danny Sungduan | Assistant Sergeant Major |
-
-
-### Our Programmes
+### **Our Programmes**
 
 **School-Related Activities**  
 
