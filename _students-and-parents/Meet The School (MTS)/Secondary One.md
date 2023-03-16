@@ -8,6 +8,5 @@ third_nav_title: Meet The School (MTS)
 
 <a href="/files/Meet%20the%20school%20(mts)/02%20S1%20CCA%20Briefing.pdf" target="_blank">Sec 1 CCA Briefing</a>
 
-<a href="/files/Meet%20the%20school%20(mts)/03%20S1%20SBB%20Info.pdf" target="_blank">Sec 1 SBB Info</a>
   
 <a href="/files/Meet%20the%20school%20(mts)/04%20S1%20NDLP%20Shaing.pdf" target="_blank">Sec 1 NDLP Sharing</a>
