@@ -79,13 +79,49 @@ Monday and Wednesday 3.00pm - 6.00pm
 
 **Unit Cadet Leaders**
 
-| Name                          | Position                         |
-|:-----------------:|:----------------------------:|
-| Sergeant (NPCC) Mock Jun Yang |  (OIC) Oversee Training & Admin  |
-|   Sergeant (NPCC) Tan Ni Hui  |       (AOIC) Training Field      |
-|  Sergeant (NPCC) Merissa Koo  | (AOIC) Outreach & Administrative |
-|  Sergeant (NPCC) Germaine Tan |     (AOIC) Events Management     |
-|   Sergeant (NPCC) Evan Huang  |         (AOIC) Logistics         |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-2atv{background-color:#C00;border-color:inherit;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-a3j2{background-color:#FFF;color:#222;text-align:center;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 700px">
+<colgroup>
+<col style="width: 296px">
+<col style="width: 273px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-2atv">Name</th>
+    <th class="tg-2atv">Position</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Sergeant (NPCC) Mock Jun Yang</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">(OIC) Oversee Training &amp; Admin</span></td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Sergeant (NPCC) Tan Ni Hui</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> (AOIC) Training Field</span></td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Sergeant (NPCC) Merissa Koo</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">(AOIC) Outreach &amp; Administrative</span></td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Sergeant (NPCC) Germaine Tan</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">(AOIC) Events Management</span></td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Sergeant (NPCC) Evan Huang</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">(AOIC) Logistics</span></td>
+  </tr>
+</tbody>
+</table>
 
 ### Our Programmes
 
