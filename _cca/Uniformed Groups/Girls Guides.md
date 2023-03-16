@@ -4,7 +4,7 @@ permalink: /cca/uniformed-groups/girls-guides/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-# Girls Guides
+# **Girls Guides**
 
 <p style="text-align: justify;">The motto of Manjusri Girl Guides is “Be Prepared” as we hope our girls can be independent problem solvers who are able to think and respond promptly in everyday life situations. Manjusri Girl Guides is also part of the World Association of Girl Guides and Girl Scouts (WAGGGS) – working together to enable girls and young women to develop their fullest potential as responsible citizens of the world.</p>
 
@@ -12,20 +12,49 @@ third_nav_title: Uniformed Groups
 
 <p style="text-align: justify;">Manjusri Girl Guides has attained a Gold Award in Puan Nur Aishah Award for 2019 and 2018. The Girl Guides slogan “Once a Guide, Always a Guide”. </p>
 
-### Training Schedule  
+### **Training Schedule**  
 
 Every Monday and Wednesday   
 3.15pm – 5.45pm @ Recycling corner
 
-### Our Teachers
+### **Our Teachers**
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-2atv{background-color:#C00;border-color:inherit;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-a3j2{background-color:#FFF;color:#222;text-align:center;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 425px">
+<colgroup>
+<col style="width: 221px">
+<col style="width: 204px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-2atv">Teachers-in-charge</th>
+    <th class="tg-2atv">Email Address</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> Ms </span>Nur Atiqah Binti Abdul Fattah</td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> nur_atiqah_abdul_fattah@moe.edu.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Ms Amira Begum d/o Abdul Naseer </span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> amira_begum_abdul_naseer@moe.edu.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> Ms Lui Yi Ling, Candice</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">lui_yi_ling_candice@moe.edu.sg </span></td>
+  </tr>
+</tbody>
+</table>
 
-| Teachers-in-charge           | Email Address         |
-|:----------------:|:---------:|
-|  Ms Nur Atiqah Binti Abdul Fattah |   nur_atiqah_abdul_fattah@moe.edu.sg |
-|          Ms Wan Shi Ting          |        shi_ting_wan@moe.edu.sg       |
-|  Ms Amira Begum d/o Abdul Naseer  |  amira_begum_abdul_naseer@moe.edu.sg |
-|      Mdm Tee Beng Lian Serene     |       tee_beng_lian@moe.edu.sg       |
 
 ### Our Student Leaders
 
