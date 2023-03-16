@@ -56,19 +56,59 @@ Every Monday and Wednesday
 </table>
 
 
-### Our Student Leaders
+### **Our Student Leaders**
 
 
-| Name          | Position              |
-|:----------------:|:---------:|
-|                                                                Nur Umairah Binte Mohamad Razim                                                                 |        Company Leader       |
-|                                                                    Noor Nabila Binte Gazali                                                                    |   Assistant Company Leader  |
-|                                                                       Lim En Xin Shireen                                                                       |      Quarter Mistress       |
-|                                                           Reva Putriani Nurazizah Binte Mohamed Khermi                                                         | Assistant Quarter Mistress  |
-| Nerissa Tan Lui Rong (Sunflower)<br><br>Yeo Ga Yan (Yang Jia Yuan) (Jasmine)<br><br>Seah You En (Morning Glory)<br><br>Aniqah Shafyrah Binte Zainal (Hibiscus)                 |        Patrol Leaders       |
-| Ong Yanzhi (Sunflower)<br><br>Geraldine See Yu Tong (Jasmine)<br><br>Nur Istifar Binte Abdullah (Morning Glory)<br><br>Qistina Yushini Puteri Shaiful Hermi (Hibiscus) |        Patrol Seconds       |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-2atv{background-color:#C00;border-color:inherit;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-a3j2{background-color:#FFF;color:#222;text-align:center;vertical-align:middle}
+.tg .tg-lygy{background-color:#FFF;color:#222;text-align:center;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 700px">
+<colgroup>
+<col style="width: 250px">
+<col style="width: 231px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-2atv">Name</th>
+    <th class="tg-2atv">Position</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Nur Umairah Binte Mohamad Razim </span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Company Leader</span></td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Noor Nabila Binte Gazali</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Assistant Company Leader</span></td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Lim En Xin Shireen</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Quarter Mistress </span></td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> Reva Putriani Nurazizah Binte Mohamed Khermi</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Assistant Quarter Mistress </span></td>
+  </tr>
+  <tr>
+    <td class="tg-lygy"><span style="background-color:#FFF">Nerissa Tan Lui Rong (Sunflower)</span><br><span style="background-color:transparent">Yeo Ga Yan (Yang Jia Yuan) (Jasmine)</span><br>Seah You En (Morning Glory)<span style="background-color:transparent">Aniqah Shafyrah Binte Zainal (Hibiscus)</span></td>
+    <td class="tg-lygy">Patrol Leaders</td>
+  </tr>
+  <tr>
+    <td class="tg-lygy">Ong Yanzhi (Sunflower)<br>Geraldine See Yu Tong (Jasmine)<br>Nur Istifar Binte Abdullah (Morning Glory)<br><br>Qistina Yushini Puteri Shaiful Hermi (Hibiscus)</td>
+    <td class="tg-lygy">Patrol Seconds</td>
+  </tr>
+</tbody>
+</table>
 
-### Our Programmes
+### **Our Programmes**
 
 **Annual Girl Guides Camp**  
 
