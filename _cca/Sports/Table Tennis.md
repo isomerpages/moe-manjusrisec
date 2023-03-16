@@ -28,7 +28,7 @@ Girls: Every Wednesday 3pm – 6pm and Friday 1pm-4pm
 | Mr Ting Kok Thiam  |    ting_kok_thiam@moe.edu.sg   |
 
 
-### Our Student Leaders
+### **Our Student Leaders**
 
 |                   | Boys’ Team                | Girls’ Team     |
 |---------------|---------------------|--------------|
@@ -37,7 +37,7 @@ Girls: Every Wednesday 3pm – 6pm and Friday 1pm-4pm
 | Logistic Manager  | Thomas Jonathan Austin 3D | Chong Le Jin 3C |
 | Publicity Manager | Le Thanh Duc 3D           | Seng Bao Er 3D  |
 
-### Our Programmes
+### **Our Programmes**
 
 **National Schools Games Table Tennis Championships**
 
