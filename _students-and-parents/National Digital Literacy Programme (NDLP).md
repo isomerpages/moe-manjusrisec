@@ -6,7 +6,7 @@ description: ""
 # broken link: https://www.asiapac.com.sg/pld/lenovo
 
 # pdf > 5MB: Lenovo Chromebook 500e User Guide, Parent Handbook (II) on Learning with a PLD
-
+## **National Digital Literacy (NDLP)**
 
 **Background**    
   
