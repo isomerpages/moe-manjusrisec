@@ -43,6 +43,12 @@ third_nav_title: Meet The School (MTS)
 
 Some important information can be found at the following hyperlinks below:
 
+\*NDLP and PLD Initiative - [Parents Engagement Session Material](https://manjusrisec.moe.edu.sg/qql/slot/u165/docs/students_parents/MTS/2023%20NDLP%20Parent%20Engagement%20for%20sharing.pdf)
+
+\*NDLP Matters - [National Digital Literacy Programme](https://manjusrisec.moe.edu.sg/students-and-parents/national-digital-literacy-programme-ndlp)  
+
+ \*List of Staff contacts- [Our staff](https://manjusrisec.moe.edu.sg/discover-manjusri/our-staff)
+
 \*NDLP Matters - <a href="/students-and-parents/national-digital-literacy-programme-ndlp" target="_blank">National Digital Literacy Programme</a>    
  \*List of Staff contacts- <a href="/discover-manjusri/our-staff/executive-committee/" target="_blank">Our staff</a>   
  \*Streaming matters - <a href="https://manjusrisec.moe.edu.sg/students-and-parents/promotion-streaming-n-sbb" target="_blank">Promotion, Streaming and SBB matters</a>
