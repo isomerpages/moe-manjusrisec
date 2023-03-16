@@ -4,11 +4,9 @@ permalink: /students-and-parents/meet-the-school-mts/overview-of-mts/
 description: ""
 third_nav_title: Meet The School (MTS)
 ---
-
-
 # Link broken for Promotion, Streaming and SBB matters
 
-## Overview of MTS
+## **Overview of MTS**
 
 <p style="text-align: justify;">The school will be organising the Meet-the-School (MTS) sessions on Saturday 8 January 2022. Due to SMMs, these sessions will be conducted online through the Zoom platform. </p>
 
