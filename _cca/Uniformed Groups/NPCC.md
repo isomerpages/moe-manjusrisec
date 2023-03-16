@@ -4,15 +4,15 @@ permalink: /cca/uniformed-groups/npcc/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-# NPCC
+# **NPCC**
 
 To develop our cadets into Caring and Responsible citizens.
 
-### NPCC Vision
+### **NPCC Vision**
 
 To Mould the builders of a Safe & Secure home.
 
-### NPCC Pledge
+### **NPCC Pledge**
 
 We, the members of the National Police Cadet Corps, do here and now solemnly and sincerely pledge that :
 
@@ -24,22 +24,58 @@ We, the members of the National Police Cadet Corps, do here and now solemnly and
     
 *   We will always preserve the peace and uphold the law.  
 
-### Training Schedule
+### **Training Schedule**
 
 Monday and Wednesday 3.00pm - 6.00pm
 
-### Our Teachers
+### **Our Teachers**
 
 
-| Teachers-in-Charge   | Email Address                   |
-|:-----------------:|:----------------------------:|
-|      Ms Jurana       |   jurana_abdul_rahim@moe.edu.sg |
-|    Ms Candice Lee    | lee_shi_hua_candice@moe.edu.sg  |
-| Ms Michell Foo Siqi  | foo_siqi_michell@moe.edu.sg     |
-|     Mr Hafiz Khan    |   hafiz_emran_khan@moe.edu.sg   |
-| Ms Kok Jia En Yvonne |   jia_en_yvonne_kok@moe.edu.sg  |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-2atv{background-color:#C00;border-color:inherit;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-a3j2{background-color:#FFF;color:#222;text-align:center;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 700px">
+<colgroup>
+<col style="width: 296px">
+<col style="width: 273px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-2atv">Teachers-in-Charge</th>
+    <th class="tg-2atv">Email Address</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Ms Jurana </span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> jurana_abdul_rahim@moe.edu.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Ms Candice Lee </span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">lee_shi_hua_candice@moe.edu.sg </span></td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> Ms Erica</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">erica_reyes_rodriguez@moe.edu.sg </span></td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> Mr Hafiz Khan</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">hafiz_emran_khan@moe.edu.sg </span></td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Ms Kok Jia En Yvonne</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">jia_en_yvonne_kok@moe.edu.sg</span></td>
+  </tr>
+</tbody>
+</table>
 
-### Our Student Leaders
+### **Our Student Leaders**
 
 **Unit Cadet Leaders**
 
