@@ -4,8 +4,8 @@ permalink: /cca/sports/wushu/
 description: ""
 third_nav_title: Sports
 ---
-Wushu
------
+## **Wushu**
+
 
 Our Vision: We develop every individual to be a confident, disciplined and focused sportsman.
 
@@ -15,13 +15,13 @@ Our Mission: To develop a passion for the sport and instil self-discipline.
 
 <p style="text-align: justify;">Over the years, Manjusri’s Wushu Team has groomed several of its students to be top performers in the sport. Our philosophy has always been to recognize and develop each individual to their fullest potential; training students with little or no exposure to the sport to become National athletes and competition medalists.</p>
 
-### Training days and time
+### **Training days and time**
 
 Tuesday : 3-6pm   
 Thursday : 3-6pm   
 Friday: 1-3pm
 
-### Our Teachers
+### **Our Teachers**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -70,10 +70,52 @@ Friday: 1-3pm
 Captain : FU CHUANZHI 3F   
 Vice-Captain : NG SHI QI 3F
 
-|      Team     |   Boys Team   |                  |       Girls Team      |               |
-|:-------------:|:-------------:|:----------------:|:---------------------:|:-------------:|
-|    Division   |     B Div     |       C Div      |         B Div         |     C Div     |
-| Wushu Leaders | Young Chan 3G | Ling Zhe Xian 2G | Cadence Goh Kar En 3E | Tan Ya Hui 2F |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-4u3x{background-color:#C00;border-color:inherit;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-xu5m{background-color:#C00;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-jjue{background-color:#C00;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-gktn{background-color:#FFF;border-color:inherit;color:#222;text-align:center;vertical-align:middle}
+.tg .tg-a3j2{background-color:#FFF;color:#222;text-align:center;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 820px">
+<colgroup>
+<col style="width: 192px">
+<col style="width: 177px">
+<col style="width: 150px">
+<col style="width: 160px">
+<col style="width: 141px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-4u3x"><span style="color:#FFF;background-color:#C00">Team</span></th>
+    <th class="tg-4u3x"><span style="color:#FFF;background-color:#C00">Boys Team</span></th>
+    <th class="tg-xu5m"></th>
+    <th class="tg-jjue"><span style="color:#FFF;background-color:#C00">Girls Team</span></th>
+    <th class="tg-xu5m"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-gktn"><span style="color:#222;background-color:transparent">Division</span></td>
+    <td class="tg-gktn"><span style="color:#222;background-color:transparent">B Div</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">C Div</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">B Div</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">C Div</span></td>
+  </tr>
+  <tr>
+    <td class="tg-gktn"><span style="color:#222;background-color:transparent">Wushu Leaders</span></td>
+    <td class="tg-gktn"><span style="color:#222;background-color:transparent">Young Chan 3G</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Ling Zhe Xian 2G</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Cadence Goh Kar En 3E</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Tan Ya Hui 2F</span></td>
+  </tr>
+</tbody>
+</table>
 
 
 ### Our Programmes
