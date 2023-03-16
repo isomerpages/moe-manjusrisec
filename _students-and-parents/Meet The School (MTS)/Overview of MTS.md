@@ -13,12 +13,33 @@ third_nav_title: Meet The School (MTS)
 <p style="text-align: justify;">Our School leaders, Key Personnel and Form Teachers of each class will be providing information on school matters. The details of MTS are:</p>
 
   
-**Date: 8 January 2022**  
 
-| Level                   | Time              |
-|-------------------------|-------------------|
-| Secondary 1:            | 8.15am – 10.15am  |
-| Secondary 2, 3, 4 and 5 | 10.00am – 11.30am |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-l2bf{background-color:#FFF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-tsok{background-color:#FFF;color:#222;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-l2bf" colspan="2">Date: 14 January 2023</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-l2bf">Level</td>
+    <td class="tg-l2bf">Time</td>
+  </tr>
+  <tr>
+    <td class="tg-tsok">Secondary 2, 3, 4 and 5</td>
+    <td class="tg-tsok">8.15am – 10.30am</td>
+  </tr>
+</tbody>
+</table>
 
 Some important information can be found at the following hyperlinks below:
 
