@@ -11,7 +11,7 @@ description: ""
 <p style="text-align: justify;">Learning for Life Programme (LLP) in MJR aims to provide a structured learning experience for our students to acquire knowledge and skills in the Aesthetic domain, discover their interests or strengths and foster sound values and positive attitudes that will strengthen their desire and love to learn for life. In this programme, students in Manjusri will experience and be exposed to various programmes related to Music, Art and Drama.</p>
 
 
-##### Our Programmes
+##### **Our Programmes**
 
 
 **1\. Drama Enrichment**
