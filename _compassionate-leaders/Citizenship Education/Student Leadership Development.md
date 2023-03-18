@@ -4,13 +4,13 @@ permalink: /compassionate-leaders/citizenship-education/student-leadership-devel
 description: ""
 third_nav_title: Citizenship Education
 ---
-# Student Leadership Development
+# **Student Leadership** **Development**
 
 ### **What is Citizenship Education @ MJR?**  
 
 At Manjusri, we aim to develop students who practise active citizenship and service. This is done through our programmes, such as Leadership development, national education, and values-in-action programmes.
 
-### What is Student Leadership Development @ MJR?  
+### **What is Student Leadership Development @ MJR?**  
 
 
 <p style="text-align: justify;">Student leadership development in Manjusri is guided by the vision “Manjusri Leaders: Exemplary Leaders of Compassion”. To us, being an exemplary role model forms the basis of any form of influence. To achieve this end, we adopted the Student Leadership Challenge® framework by James Kouzes and Barry Posner, where the first Leadership Challenge is aptly Model the Way. It also develops the student, whether or not he or she is in a formal position of leadership, to live an effective life through self-leadership. </p>
@@ -36,7 +36,7 @@ The Prefectorial Board forms the apex of the student leadership structure in Man
 |            Ho Zhe Ming            | EXCO – Quarters                  |
 |         Cara Sim Li Xuan          | EXCO – Welfare                   |
 
-#### Prefectorial Board Teachers
+#### **Prefectorial Board Teachers**
 
 |         Teachers-in-charge        |      Position     |
 |:---------------------------------:|:-----------------:|
