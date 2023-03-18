@@ -65,7 +65,7 @@ Friday: 1-3pm
 </tbody>
 </table>
 
-### Our Student Leaders
+### **Our Student Leaders**
 
 Captain : FU CHUANZHI 3F   
 Vice-Captain : NG SHI QI 3F
@@ -118,7 +118,7 @@ Vice-Captain : NG SHI QI 3F
 </table>
 
 
-### Our Programmes
+### **Our Programmes**
 
 **Secondary One Orientation**
 
