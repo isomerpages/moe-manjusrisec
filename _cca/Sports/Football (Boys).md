@@ -124,7 +124,7 @@ Mondays and Wednesday 3pm-6pm
 </tbody>
 </table>
 
-### Our Programmes
+### **Our Programmes**
 
 **National Schools Games Football Championships**
 
