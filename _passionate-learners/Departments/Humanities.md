@@ -4,9 +4,9 @@ permalink: /passionate-learners/departments/humanities/
 description: ""
 third_nav_title: Departments
 ---
-# Humanities
+# **Humanities**
 
-###  What is Humanities @ MJR?
+###  **What is Humanities @ MJR?**
 
 <p style="text-align: justify;">At Manjusri, we seek to develop Passionate Learners who find joy in cultivating an inquiring spirit through the Humanities. Students will be prepared to contribute as active citizens through the acquisition of critical thinking skills and development of an inquiring mind.</p>
 
@@ -23,7 +23,7 @@ third_nav_title: Departments
 
 <p style="text-align: justify;"><span style = "color: #B42025"> <b>Elements of Business Skills</b></span> aims to develop in students the knowledge, skills, values and attitudes to be productive employees and contributing members of society. It provides students with opportunities to develop generic employability skills, values and attitudes, and foundational knowledge for work in the services sector, namely in the travel and tourism, hospitality and retail industries.</p>
 
-### Our Programmes
+### **Our Programmes**
 
 <p style="text-align: justify;">Students at Manjusri participate in a variety of authentic experiences within and outside the school environment to enable them to cultivate an inquiring spirit - from learning History through the use of card games to investigating about tourism at Gardens by the Bay, participating in an inter-school POA Amazing Race and EBS work attachment at Oriental Mandarin Hotel. Here are some activities Manjusrians participate in:</p>
 
