@@ -49,8 +49,12 @@ b\.    Character and Citizenship Education (CCE)
 **At MANJUSRI Secondary School, the following lessons from the Sexuality Education Programme will be taught in <u>2023:</u>**
 
 
-<center><b>Secondary 1</b></center>
 
+<center> 
+
+[Secondary 1 ](/files/MJR%202023%20Info%20on%20SEd%20for%20schs%20website%20sec1.pdf)
+
+</center>
 
 
 
