@@ -98,10 +98,10 @@ description: ""
 
 
 
-*   <a href="/files/Useful%20links/Income%20IFMIS%20Brochure%20Final%202020.pdf" target="_blank">Income Family Micro-Insurance Scheme (IFMIS)</a>  
+*   <a href="/files/Useful%20links/Income%20IFMIS%20Brochure%20Final%202020.pdf" target="_blank">**Income Family Micro-Insurance Scheme (IFMIS)**</a>  
     
-*   <a href="/files/Useful%20links/GPA%20Product%20Fact%20Sheet%202022.pdf" target="_blank">GROUP PERSONAL ACCIDENT INSURANCE FOR STUDENTS</a>
+*   <a href="/files/Useful%20links/GPA%20Product%20Fact%20Sheet%202022.pdf" target="_blank">**GROUP PERSONAL ACCIDENT INSURANCE FOR STUDENTS**</a>
     
 *   <a href="" target="_blank">2020 JAE Booklet</a>
-*   <a href="/files/Useful%20links/SLS%20Student%20Login%20guide.pdf" target="_blank">SLS Student Login Guide</a>
-*   <a href="https://www.seab.gov.sg/home/examinations/approved-calculators" target="_blank">Approved Calculator List</a>
+*   <a href="/files/Useful%20links/SLS%20Student%20Login%20guide.pdf" target="_blank">**SLS Student Login Guide**</a>
+*   <a href="https://www.seab.gov.sg/home/examinations/approved-calculators" target="_blank">**Approved Calculator List**</a>
