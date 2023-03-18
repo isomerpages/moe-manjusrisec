@@ -4,7 +4,7 @@ permalink: /compassionate-leaders/citizenship-education/value-in-action-programm
 description: ""
 third_nav_title: Citizenship Education
 ---
-# Value-in-Action Programmes
+# **Value-in-Action Programmes**
 
 #### **What is Values-in-Action (VIA) @ MJR?**
 
