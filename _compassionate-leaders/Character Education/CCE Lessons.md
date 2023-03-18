@@ -4,7 +4,7 @@ permalink: /compassionate-leaders/character-education/cce-lessons/
 description: ""
 third_nav_title: Character Education
 ---
-# CCE Lessons
+# **CCE Lessons**
 
 ### **What is Character Education @ MJR?**
 
