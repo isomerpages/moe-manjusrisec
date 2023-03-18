@@ -4,7 +4,7 @@ permalink: /discover-manjusri/direct-school-admission/criteria-and-selection-pro
 description: ""
 third_nav_title: Direct School Admission
 ---
-# Criteria and Selection Process
+# **Criteria and Selection Process**
 
 <p style="text-align: justify;">Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent. </p> 
 
