@@ -8,9 +8,30 @@ description: ""
 # 2020 JAE Booklet>5mb
 
 
-|                  |      Forms/Links        |                    |
-|:--------------:|:---------:|---------|
-| Travel Declaration<br>(use Parent Gateway app) | <a href="https://form.gov.sg/#!/5d01dc550816b400111ce980" target="_blank">Student Password Reset and Account Unlock</a> | <a href="https://workspace.google.com/dashboard" target="_blank">Student Icon Login</a> |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-4u3x{background-color:#C00;border-color:inherit;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-tsok{background-color:#FFF;color:#222;text-align:left;vertical-align:top}
+.tg .tg-vf55{background-color:#FFF;color:#B42025;text-align:center;text-decoration:underline;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-4u3x" colspan="3"><span style="color:#FFF;background-color:#C00">Forms/Links</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-tsok"><span style="color:#222;background-color:transparent">Travel Declaration</span><br><span style="color:#222;background-color:transparent">(use Parent Gateway app)</span></td>
+    <td class="tg-vf55"><a href="https://form.gov.sg/#!/5d01dc550816b400111ce980"><span style="text-decoration:underline;color:#B42025">Student Password Reset and Account Unlock</span></a><br></td>
+    <td class="tg-vf55"><a href="https://workspace.google.com/dashboard"><span style="text-decoration:underline;color:#B42025">Student Icon Login</span></a></td>
+  </tr>
+</tbody>
+</table>
 
 
 
