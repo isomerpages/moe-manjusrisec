@@ -4,9 +4,9 @@ permalink: /passionate-learners/departments/mother-tongue/
 description: ""
 third_nav_title: Departments
 ---
-# Mother Tongue
+# **Mother Tongue**
 
-### What is Mother Tongue Languages @ MJR?
+### **What is Mother Tongue Languages @ MJR?**
 
 <p style="text-align: justify;">文殊中学提供四个华文课程，分别为华文（基础）、华文（普通学术）、华文（快捷）与华文（高级）。</p>
 
@@ -14,7 +14,7 @@ third_nav_title: Departments
 
 <p style="text-align: justify;">Program Bahasa Melayu peringkat sekolah menengah adalah untuk melengkapkan pelajar dengan kecekapan berbahasa dan membolehkan pelajar mendalami dan menghargai bahasa dan budaya masyarakat Melayu dalam pelanjutan pembangunan negara. Pelajar diharap akan berupaya untuk berkomunikasi dengan menggunakan bahasa Melayu baku bagi memenuhi keperluan diri dan membina hubungan sosial dalam konteks masyarakat majmuk Singapura dan masyarakat dunia.</p>
 
-### Our Programmes
+### **Our Programmes**
 
 **母语周活动**
 
