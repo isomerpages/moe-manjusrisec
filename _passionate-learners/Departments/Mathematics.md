@@ -4,9 +4,9 @@ permalink: /passionate-learners/departments/mathematics/
 description: ""
 third_nav_title: Departments
 ---
-# Mathematics
+# **Mathematics**
 
-### What is Mathematics @ MJR?
+### **What is Mathematics @ MJR?**
 
 <p style="text-align: justify;">Manjusri Secondary School offers Elementary Mathematics to all secondary levels. The Mathematics programme aims to develop in students the critical mathematical processes and skills in problem-solving, observation, analysing and drawing connections. In doing so, the Elementary Mathematics curriculum aims to equip students with 21st century competencies that they can apply throughout their life.</p>   
 
