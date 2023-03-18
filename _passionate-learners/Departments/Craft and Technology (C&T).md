@@ -24,13 +24,13 @@ The C&T department consists of 3 subject units, namely:
 
 #### **Aesthetics**
 
-#### What is Aesthetics @ MJR?
+#### **What is Aesthetics @ MJR?**
 
 <p style="text-align: justify;">Art Programme aims to enable every child to enjoy art; communicate visually and make meaning through connecting with society and culture.  Students are taught to Perceive through identifying and interpreting of their surrounding stimulus, Communicate through expression of ideas and experimenting with mediums and lastly Appreciate by drawing connections and responding.  </p> 
 
 <p style="text-align: justify;">General Music Programme (GMP) inspires students’ life-long engagement with music by empowering them to express themselves creatively through music. It is a 2 year programme for all lower secondary students.</p> 
 
-#### Arts Programmes
+#### **Arts Programmes**
 
 <p style="text-align: justify;">Lower Sec students are encouraged to learn about themselves as they explore portraits through the use of dry mediums like charcoal and ink.  Under the school Learning for Life Programme, students embark on learning journeys to museums such as National Gallery Singapore and Asian Civilisation Museum.  Upper secondary students embark on learning journeys to museums and open houses organized by various Institutes of Higher Learning.</p> 
 
@@ -44,7 +44,7 @@ The C&T department consists of 3 subject units, namely:
 
 
 
-#### General Music Programmes (GMP)
+#### **General Music Programmes (GMP)**
 
 <p style="text-align: justify;">All lower secondary students are empowered through vocal, cajon and guitar instruction to form acoustic bands. Outstanding groups have opportunities to perform on public platforms. Students engage with a wide range of musical practices to develop global awareness anchored in Singapore’s cultural heritage.</p> 
 
