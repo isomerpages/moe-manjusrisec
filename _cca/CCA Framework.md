@@ -3,10 +3,10 @@ title: CCA Framework
 permalink: /cca/cca-framework/
 description: ""
 ---
-# CCA Framework
+# **CCA Framework**
 
 
-### <center>A Holistic Education for Secondary School Students - LEAPS 2.0</center>
+### **<center>A Holistic Education for Secondary School Students - LEAPS 2.0</center>**
 
 
 <p style="text-align: justify;">A holistic education provides students with a broad and deep foundation for lifelong learning. This includes learning not just in the academic areas. Equally important is the development of values and life skills in each child. This will equip the child to handle the challenges in life later on.</p>
