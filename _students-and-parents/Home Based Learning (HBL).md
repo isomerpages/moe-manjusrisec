@@ -3,7 +3,7 @@ title: Home Based Learning (HBL)
 permalink: /students-and-parents/home-based-learning-hbl/
 description: ""
 ---
-# Home-Based Learning (HBL)
+# **Home-Based Learning (HBL)**
 
 1\. Home-Based Learning (HBL) Timetable
 
