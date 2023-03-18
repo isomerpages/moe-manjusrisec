@@ -4,9 +4,9 @@ permalink: /compassionate-leaders/character-education/cyber-wellness-programme/
 description: ""
 third_nav_title: Character Education
 ---
-# Cyber Wellness Programme
+# **Cyber Wellness Programme**
 
-**What is Cyber Wellness @ MJR?**
+ **<b>What is Cyber Wellness @ MJR? </b>** 
 
 The school’s Cyber Wellness (CW) Programmes aims to equip students with lifelong social-emotional competencies and sound values so that they can become safe and responsible digital learners.  
   
