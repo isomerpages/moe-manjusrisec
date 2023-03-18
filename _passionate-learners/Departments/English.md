@@ -4,13 +4,13 @@ permalink: /passionate-learners/departments/english/
 description: ""
 third_nav_title: Departments
 ---
-# English
+# **English**
 
-### What is English @ MJR?
+### **What is English @ MJR?**
 
 <p style="text-align: justify;">At Manjusri Secondary School, we aim to develop our students to be effective communicators by equipping them with the necessary language skills and competencies of the 21st century. Our students keep abreast of current affairs and global issues through a myriad of activities that are conducted both in and out of the classroom. Through participation in these activities, our students develop critical thinking and become discerning users of information, a life skill that puts them in good stead for the future.</p>
 
-### Our Programmes  
+### **Our Programmes**  
 
 **EL 2020**
 
