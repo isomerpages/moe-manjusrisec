@@ -4,7 +4,7 @@ permalink: /compassionate-leaders/character-education/mindfulness-programme/
 description: ""
 third_nav_title: Character Education
 ---
-# Mindfulness Programme
+# **Mindfulness Programme**
 
 ### **What is Mindfulness @ MJR?**
 
