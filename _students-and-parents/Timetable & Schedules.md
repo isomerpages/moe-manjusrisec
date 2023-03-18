@@ -8,9 +8,10 @@ description: ""
 **School Timetables**   
 
 *   [2023 Sem 1 Timetable for Sec 1](/files/Timetable%20&%20Schedules/MJS_2023%20Sem%201%20Sec%201.pdf)
-*   [2023 Sem 1 Timetable for Sec 2](https://manjusrisec.moe.edu.sg/qql/slot/u165/docs/students_parents/Time_Table/2023%20Sem%201%20Sec%202.pdf)  
+
+*   [2023 Sem 1 Timetable for Sec 2](/files/Timetable%20&%20Schedules/MJS_2023%20Sem%201%20Sec%202.pdf)
     
-*   [2023 Sem 1 Timetable for Sec 3](https://manjusrisec.moe.edu.sg/qql/slot/u165/docs/students_parents/Time_Table/2023%20Sem%201%20Sec%203.pdf) (Updated for 3G)  
+*   [2023 Sem 1 Timetable for Sec 3](/files/Timetable%20&%20Schedules/MJS_2023%20Sem%201%20Sec%203.pdf) (Updated for 3G)  
     
 *   [2023 Sem 1 Timetable for Sec 4&5](https://manjusrisec.moe.edu.sg/qql/slot/u165/docs/students_parents/Time_Table/2023%20Sem%201%20Sec%204.pdf)  
     
