@@ -58,8 +58,11 @@ b\.    Character and Citizenship Education (CCE)
 
 
 
-<center><b>
-[Secondary 2]([]() </b></center>
+<center>
+	
+[Secondary 2](/files/MJR%202023%20Info%20on%20SEd%20for%20schs%20website%20sec2.pdf) 
+
+</center>
 
 | UNIT                    | LESSONS/ <br>DURATION | Lesson Objectives<br>At the end of the lesson, students will be able to:            | TIME PERIOD   |
 |---------|--------|-----------|---------------|
