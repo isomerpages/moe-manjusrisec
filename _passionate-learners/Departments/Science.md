@@ -4,9 +4,9 @@ permalink: /passionate-learners/departments/science/
 description: ""
 third_nav_title: Departments
 ---
-# Science 
+# **Science** 
 
-### What is Science @ MJR?
+### **What is Science @ MJR?**
 
 The Science department takes pride in igniting curiosity and inquiry to develop students’ passion for scientific literacy and making sense of the world around them. Our dedicated team of teachers aims to nurture scientific thinking and inculcate lifelong learning.  
 
@@ -15,7 +15,7 @@ The Science department takes pride in igniting curiosity and inquiry to develop 
 
 <p style="text-align: justify;">Our curriculum aims to provide every child with the opportunity to derive meaning behind their learning to foster intrinsic motivation, stimulate their passion for learning, igniting curiosity and developing an inquiring mind. The department adopts the 7E model in Inquiry-based learning (IBL) as its pedagogical approach to facilitate the infusion of authentic real-world contexts into the curriculum.</p>
 
-### Our Programmes
+### **Our Programmes**
 
   
 
