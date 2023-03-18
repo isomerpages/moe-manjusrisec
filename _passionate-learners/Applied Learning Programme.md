@@ -36,7 +36,7 @@ description: ""
 <a href="/images/Passionate%20Learners/Applied%20Learning%20Programme/Progressive%20Level%20Outcomes.jpg" target = "_blank"> <img src="/images/Passionate%20Learners/Applied%20Learning%20Programme/Progressive%20Level%20Outcomes.jpg"></a>
 
 
-Manjusri Secondary School admits students through the Direct School Admission – Secondary Schools exercise (DSA-Sec). You may find out more from this [link]().
+Manjusri Secondary School admits students through the Direct School Admission – Secondary Schools exercise (DSA-Sec). You may find out more from this [link](/discover-manjusri/direct-school-admission/introduction-to-dsa-sec-at-manjusri/).
 
 ##### **Programme Overview**
 
