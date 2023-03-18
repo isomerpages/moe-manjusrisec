@@ -4,13 +4,13 @@ permalink: /passionate-learners/departments/physical-education/
 description: ""
 third_nav_title: Departments
 ---
-# Physical Education
+# **Physical Education**
 
-### What is PE @ MJR?
+### **What is PE @ MJR?**
 
 <p style="text-align: justify;">The PE department develops students in four-domains – Personal Fitness, Cognitive, Skills and Values. Students enjoy movements, discover interest and develop a range of skills through participation in various sports. The authentic setting of PE provides avenue for social and emotional interaction and character development.</p>
 
-### Our Programmes
+### **Our Programmes**
 
 **Road Run**
 
