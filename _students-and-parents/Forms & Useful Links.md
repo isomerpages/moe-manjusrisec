@@ -34,16 +34,67 @@ description: ""
 </table>
 
 
-
-|            |    Useful Links        |                     |
-|:-----------------:|:---------------:|-------------------|
-|     <a href="https://www.moe.gov.sg/" target="_blank">MOE - Ministry of Education</a>                                        |  <a href="https://schoolibrary.moe.edu.sg/manjusrisec/spydus" target="_blank">Library System (Spydus)</a>   |  <a href="https://www.mesrc.net/" target="_blank">MOE Sports and Recreation Club</a>    |
-|                     <a href="https://parents-in-education.moe.gov.sg/" target="_blank">Parents in Education</a>                       |    <a href="https://schoolbag.sg/" target="_blank">School Bag</a>            |    <a href="https://lms.asknlearn.com/MANJUSRI_SS/logon_new.aspx" target="_blank">AsknLearn e-learning portal </a>     |
-|                <a href="https://www.ace-learning.com.sg/" target="_blank">Ace-Learning Math e-Learning Portal  </a>                           |          <a href="https://schoolibrary.moe.edu.sg/manjusrisec/" target="_blank">OPAC</a>               |  <a href="https://www.channelnewsasia.com/tv/live">Channel NewsAsia (live)  </a>       |
-|                   <a href="https://www.haze.gov.sg/" target="_blank">Haze Situation Update </a>                                          |     <a href="https://www.ite.edu.sg/" target="_blank">ITE Education</a>        |     <a href="https://www.moh.gov.sg/" target="_blank">Ministry of Health </a>          |
-|              <a href="https://www.nafa.edu.sg/" target="_blank">NAFA   </a>                                       |  <a href="https://www.polytechnic.edu.sg/" target="_blank">Polytechnic Education</a>    |   <a href="https://iprep.ns.sg/" target="_blank">Preparation for National Service </a>       |
-|               <a href="https://www.seab.gov.sg/" target="_blank">Singapore Examination and Assessment Board  </a>                        | <a href="https://www.dengue.gov.sg/subject.asp?id=103" target="_blank">Vigilance against dengue </a>     |      <a href="https://vle.learning.moe.edu.sg/login" target="_blank">Student Learning Space</a>           |
-|    <a href="https://studentgpa.incomegroupins.com.sg/#/" target="_blank">Group Personal Accident Insurance Plan for Students – Online Submission of Claims</a>    |    <a href="https://sites.google.com/a/moe.edu.sg/cpa-learning-resources/google/calendar" target="_blank">CPA Learning Resources</a>     |       <a href="https://vle.learning.moe.edu.sg/helpdesk" target="_blank">SLS Helpdesk</a>               |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-2atv{background-color:#C00;border-color:inherit;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-tj0x{background-color:#FFF;color:#B42025;text-align:center;vertical-align:top}
+.tg .tg-vf55{background-color:#FFF;color:#B42025;text-align:center;text-decoration:underline;vertical-align:top}
+.tg .tg-lygy{background-color:#FFF;color:#222;text-align:center;vertical-align:top}
+.tg .tg-a3j2{background-color:#FFF;color:#222;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-2atv" colspan="3"><span style="color:#FFF;background-color:#C00">Useful Links</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-vf55"><a href="https://www.moe.gov.sg/"><span style="text-decoration:underline;color:#B42025">MOE - Ministry of Education</span></a></td>
+    <td class="tg-vf55"><a href="https://schoolibrary.moe.edu.sg/manjusrisec/spydus"><span style="text-decoration:underline;color:#B42025">Library System (Spydus)</span></a><br></td>
+    <td class="tg-vf55"><a href="https://www.mesrc.net/"><span style="text-decoration:underline;color:#B42025">MOE Sports and Recreation Club</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-vf55"><a href="https://parents-in-education.moe.gov.sg/"><span style="text-decoration:underline;color:#B42025">Parents in Education</span></a></td>
+    <td class="tg-vf55"><a href="https://schoolbag.sg/"><span style="text-decoration:underline;color:#B42025">School Bag</span></a></td>
+    <td class="tg-vf55"><a href="https://lms.asknlearn.com/MANJUSRI_SS/logon_new.aspx"><span style="text-decoration:underline;color:#B42025">AsknLearn e-learning portal</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-vf55"><a href="https://www.ace-learning.com.sg/"><span style="text-decoration:underline;color:#B42025">Ace-Learning Math e-Learning Portal</span></a></td>
+    <td class="tg-vf55"><a href="https://schoolibrary.moe.edu.sg/manjusrisec/"><span style="text-decoration:underline;color:#B42025">OPAC</span></a></td>
+    <td class="tg-vf55"><a href="https://www.channelnewsasia.com/tv/live"><span style="text-decoration:underline;color:#B42025">Channel NewsAsia (live)</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-vf55"><a href="https://www.haze.gov.sg/"><span style="text-decoration:underline;color:#B42025">Haze Situation Update</span></a></td>
+    <td class="tg-vf55"><a href="https://www.ite.edu.sg/"><span style="text-decoration:underline;color:#B42025">ITE Education</span></a></td>
+    <td class="tg-vf55"><a href="https://www.moh.gov.sg/"><span style="text-decoration:underline;color:#B42025">Ministry of Health</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-vf55"><a href="https://www.nafa.edu.sg/"><span style="text-decoration:underline;color:#B42025">NAFA</span></a></td>
+    <td class="tg-vf55"><a href="https://www.polytechnic.edu.sg/"><span style="text-decoration:underline;color:#B42025">Polytechnic Education</span></a></td>
+    <td class="tg-vf55"><a href="https://iprep.ns.sg/"><span style="text-decoration:underline;color:#B42025">Preparation for National Service</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-vf55"><a href="https://www.seab.gov.sg/"><span style="text-decoration:underline;color:#B42025">Singapore Examination and Assessment Board</span></a></td>
+    <td class="tg-vf55"><a href="https://www.dengue.gov.sg/subject.asp?id=103"><span style="text-decoration:underline;color:#B42025">Vigilance against dengue</span></a></td>
+    <td class="tg-tj0x"><a href="https://vle.learning.moe.edu.sg/login"><span style="text-decoration:none;color:#B42025">Student Learning Space</span></a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-vf55"><a href="https://studentgpa.incomegroupins.com.sg/#/"><span style="text-decoration:underline;color:#B42025">Group Personal Accident Insurance Plan for Students – Online Submission of Claims</span></a><br></td>
+    <td class="tg-vf55"><a href="https://sites.google.com/a/moe.edu.sg/cpa-learning-resources/google/calendar"><span style="text-decoration:underline;color:#B42025">CPA Learning Resources</span></a><span style="color:#222;background-color:transparent"> </span></td>
+    <td class="tg-vf55"><a href="https://vle.learning.moe.edu.sg/helpdesk"><span style="text-decoration:underline;color:#B42025">SLS Helpdesk</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-lygy"></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> </span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> </span></td>
+  </tr>
+</tbody>
+</table>
 
 
 
