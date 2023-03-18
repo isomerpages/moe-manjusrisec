@@ -3,7 +3,7 @@ title: Learning for Life Programme
 permalink: /passionate-learners/learning-for-life-programme/
 description: ""
 ---
-#### What is LLP @ MJR?
+#### **What is LLP @ MJR?**
 
 
 ![](/images/Passionate%20Learners/Learning%20for%20Life%20Programme/LLP%20Framework.jpg)
