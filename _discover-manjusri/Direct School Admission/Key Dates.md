@@ -4,7 +4,7 @@ permalink: /discover-manjusri/direct-school-admission/key-dates/
 description: ""
 third_nav_title: Direct School Admission
 ---
-# Key Dates
+# **Key Dates**
 
 | Time Period         | Key Activity      |
 |-------------|------------------|
