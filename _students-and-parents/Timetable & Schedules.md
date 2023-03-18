@@ -20,7 +20,7 @@ description: ""
 
 **HBL Timetables**
 
-*   [Sec 1 HBL Timetable SEM1](https://manjusrisec.moe.edu.sg/qql/slot/u165/docs/students_parents/HBL/2023%20HBL%20Timetable%20SEM1%20-%20Sec%201.pdf)
+*   [Sec 1 HBL Timetable SEM1](/files/Timetable%20&%20Schedules/MJS_2023%20HBL%20Timetable%20SEM1%20-%20Sec%201.pdf)
 *   [Sec 2 HBL Timetable SEM1](https://manjusrisec.moe.edu.sg/qql/slot/u165/docs/students_parents/HBL/2023%20HBL%20Timetable%20SEM1%20-%20Sec%202.pdf)
 *   [Sec 3 HBL Timetable SEM1](https://manjusrisec.moe.edu.sg/qql/slot/u165/docs/students_parents/HBL/2023%20HBL%20Timetable%20SEM1%20-%20Sec%203.pdf)
 *   [Sec 45 HBL Timetable SEM1](https://manjusrisec.moe.edu.sg/qql/slot/u165/docs/students_parents/HBL/2023%20HBL%20Timetable%20SEM1%20-%20Sec%2045.pdf)
