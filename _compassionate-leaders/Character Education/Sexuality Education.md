@@ -58,7 +58,8 @@ b\.    Character and Citizenship Education (CCE)
 
 
 
-<center><b>Secondary 2</b></center>
+<center><b>
+[Secondary 2]([]() </b></center>
 
 | UNIT                    | LESSONS/ <br>DURATION | Lesson Objectives<br>At the end of the lesson, students will be able to:            | TIME PERIOD   |
 |---------|--------|-----------|---------------|
