@@ -3,7 +3,7 @@ title: Textbooks & Uniforms
 permalink: /students-and-parents/textbooks-n-uniforms/
 description: ""
 ---
-*   Manjusri Secondary School 2023 (5NAT) Booklist  
+*   Manjusri Secondary School 2023 (5NAT) Booklist
 
 *   <a href="/files/Textbooks%20&%20Uniforms/S4%20NT.pdf" target="_blank">Manjusri Secondary School 2023 (4NT) Booklist</a>
     
