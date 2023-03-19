@@ -126,16 +126,85 @@ Parents can encourage their Kid to do their own subject selection. Parents may w
 Click here for a list of Recommended Books.
 
 **Useful Contacts**
-
-| Organisation         | Telephone Numbers           | Operating Hours              |
-|----------------------|-------|---------|
-|<u><b>Addiction Helplines</b></u><br><br>**(gaming, gambling and general addiction)**<br><br>**Community Addiction Management programme (CAMP)**                                                                                                                                                                                                                   | All Addictions Helpline<br>6-RECOVER (67326837)<br>Gambling Helplines<br><br>1800-X-GAMBLE<br>(1800-9-426253)<br>1800-6-668-668                                                       | Mon – Fri<br>(8.30 am to 6 pm)                                                                                                                                                                                      |
-| **Beyond Parental Control**       | 6435 5107            |                    |
-| <u><b>Crisis Helpline</b></u><br><br>**Samaritans of Singapore (SOS)**          | 1800 221 4444                | Daily (24-hour)     |
-| <u><b>Children, Youth, Parents & Family</b></u><br><br><br>**Audible Hearts**<br>**(Supported by HPB)**<br><br>Family Service Centres<br>(National)<br><br>**Parentline**<br><br>**Counselling and Care Centre**<br><br>**Shan you Counselling Centre**<br><br>**WINGS Counselling   Centre**<br><br><u><b>Helpline for Mandarin Speakers</b></u><br><br>Care Corner 800<br><br>Mandarin Hotline | An anonymous online peer support network by youth for youth<br><br>1800 838 0100<br><br><br>6299 8811<br><br><br>6536 6366<br><br>6741 9293<br><br>6383 5745<br><br>1800 353 5800 | <br><br><br><br>Mon-Fri (9am to 5pm)<br><br><br><br><br><br>Mon-Fri (9am to 5pm)<br><br><br>Mon-Fri (9am to 5pm)<br><br>Mon-Fri (9am to 6pm)<br><br>Mon – Thur (8.30am to 5.30 pm)<br><br>Mon-Sun<br>(10am to 10pm) |
-| **Learning Challenges and Special Needs**<br><br>**Dyslexia Association for Singapore (DAS)**<br><br>**Society for the promotion of ADHD Research and Knowledge (SPARK)**                                                                                                                                                                            |                                                                                                                                                                                       |                                                                                                                                                                                                                     |
-| **Pregnancy Crisis Service**            | 6339 9700                                                                                                                                                                             |                                                                                                                                                                                                                     |
-| <u><b>Psychiatric Help</b></u><br><br>**Child Guidance Clinic (CGC)**<br><br>**Institute of Mental Health**<br><br><br>Emergency Help Line<br><br>**Mount Elizabeth Behavioural Health Services**<br><br>**Singapore Association for Mental Health Helpline**                                                                                                      | <br><br>6435 2200<br><br>6435 3878<br>Fax: 65343677<br><br>6389 2222<br><br>1800 738 9595<br><br><br>1800 283 7019                                                                | <br><br>Mon to Fri<br>(9am to 5pm)<br><br><br><br>Daily (24 hours)<br><br><br>Daily (24hours)<br><br><br>Mon to Fri<br>(9am to 6pm)                                                                                 |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-95dc{background-color:#FFF;border-color:inherit;color:#222;font-weight:bold;text-align:left;text-decoration:underline;
+  vertical-align:top}
+.tg .tg-zv36{background-color:#ffffff;border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-30gv{background-color:#C00;border-color:inherit;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-ats7{background-color:#FFF;border-color:inherit;color:#222;text-align:left;vertical-align:top}
+.tg .tg-0f6e{background-color:#FFF;border-color:inherit;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-30gv">Organisation</th>
+    <th class="tg-30gv">Telephone Numbers</th>
+    <th class="tg-30gv">Operating Hours</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-95dc">Addiction Helplines<br>(gaming, gambling and general addiction)<br><br>Community Addiction Management programme (CAMP)</td>
+    <td class="tg-ats7">All Addictions Helpline<br>6-RECOVER (67326837)<br>Gambling Helplines<br><br>1800-X-GAMBLE<br>(1800-9-426253)<br>1800-6-668-668</td>
+    <td class="tg-ats7">Mon – Fri<br>(8.30 am to 6 pm)</td>
+  </tr>
+  <tr>
+    <td class="tg-0f6e">Beyond Parental Control</td>
+    <td class="tg-ats7">6435 5107</td>
+    <td class="tg-ats7"></td>
+  </tr>
+  <tr>
+    <td class="tg-95dc">Crisis Helpline<br><br>Samaritans of Singapore (SOS)</td>
+    <td class="tg-ats7">1800 221 4444</td>
+    <td class="tg-ats7">Daily (24-hour)</td>
+  </tr>
+  <tr>
+    <td class="tg-0f6e">Children, Youth, Parents &amp; Family<br><br>Audible Hearts<br><br>Family Service Centre</td>
+    <td class="tg-0f6e">An anonymous online peer support network by youth for youth<br><br>1800 838 0100</td>
+    <td class="tg-0f6e">Mon-Fri (9am to 5pm)</td>
+  </tr>
+  <tr>
+    <td class="tg-zv36">Parentline</td>
+    <td class="tg-zv36">6299 8811</td>
+    <td class="tg-zv36">Mon-Fri (9am to 5pm)</td>
+  </tr>
+  <tr>
+    <td class="tg-zv36">Counselling and Care Centre</td>
+    <td class="tg-zv36">6536 6366</td>
+    <td class="tg-zv36">Mon-Fri (9am to 5pm)</td>
+  </tr>
+  <tr>
+    <td class="tg-zv36">Shan you Counselling Centre</td>
+    <td class="tg-zv36">6741 9293</td>
+    <td class="tg-zv36">Mon-Fri (9am to 6pm)</td>
+  </tr>
+  <tr>
+    <td class="tg-zv36">WINGS Counselling Centre </td>
+    <td class="tg-zv36">6383 5745</td>
+    <td class="tg-zv36">Mon – Thur (8.30am to 5.30 pm)</td>
+  </tr>
+  <tr>
+    <td class="tg-zv36">Helpline for Mandarin Speakers<br>Care Corner 800<br>Mandarin Hotline </td>
+    <td class="tg-zv36">1800 353 5800</td>
+    <td class="tg-zv36">Mon-Sun</td>
+  </tr>
+  <tr>
+    <td class="tg-0f6e">Pregnancy Crisis Service</td>
+    <td class="tg-ats7">6339 9700</td>
+    <td class="tg-ats7">(10am to 10pm)</td>
+  </tr>
+  <tr>
+    <td class="tg-95dc">Psychiatric Help<br><br>Child Guidance Clinic (CGC)<br><br>Institute of Mental Health<br><br><br><br>Emergency Help Line<br><br><br>Mount Elizabeth Behavioural Health Services<br><br><br>Singapore Association for Mental Health Helpline</td>
+    <td class="tg-ats7"><br><br><span style="background-color:transparent">6435 2200</span><br><br>6435 3878<br>Fax: 65343677<br><br>6389 2222<br><br><br>1800 738 9595<br><br><br>1800 283 7019</td>
+    <td class="tg-ats7"><br><br>Mon to Fri<br>(9am to 5pm)<br><br><br><br>Daily (24 hours)<br><br><br>Daily (24hours)<br><br><br>Mon to Fri<br>(9am to 6pm)</td>
+  </tr>
+</tbody>
+</table>
 
 **Manjusrians' Experience in Counselling**
 
