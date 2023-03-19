@@ -23,9 +23,9 @@ description: ""
     
 *  [  Manjusri Secondary School 2023 (1NT) Booklist](/files/MJS_Sec%201%20NT%20Booklist.pdf) 
     
-*   Manjusri Secondary School 2023 (1NA) Booklist[](/files/MJS_Sec%201%20NA%20Booklist.pdf)  
+*  [ Manjusri Secondary School 2023 (1NA) Booklist](/files/MJS_Sec%201%20NA%20Booklist.pdf)  
     
-*   Manjusri Secondary School 2023 (1E) Booklist
+*   Manjusri Secondary School 2023 (1E) Booklist[](/files/MJS_Sec%201%20Express%20Booklist.pdf)
 
 <p style="text-align: justify;">Please note: students should be attired in their Manjusri school uniform (full/half-uniform/PE attire) if they are coming to school to purchase textbooks or uniform.</p>
 
