@@ -21,9 +21,9 @@ description: ""
     
 *   <a href="/files/Textbooks%20&%20Uniforms/S2%20EXP.pdf" target="_blank">Manjusri Secondary School 2023 (2E) Booklist</a>
     
-*   Manjusri Secondary School 2023 (1NT) Booklist [](/files/MJS_Sec%201%20NT%20Booklist.pdf) 
+*  [  Manjusri Secondary School 2023 (1NT) Booklist](/files/MJS_Sec%201%20NT%20Booklist.pdf) 
     
-*   Manjusri Secondary School 2023 (1NA) Booklist  
+*   Manjusri Secondary School 2023 (1NA) Booklist[](/files/MJS_Sec%201%20NA%20Booklist.pdf)  
     
 *   Manjusri Secondary School 2023 (1E) Booklist
 
