@@ -3,13 +3,13 @@ title: Cyber Wellness
 permalink: /students-and-parents/cyber-wellness/
 description: ""
 ---
-### Why and What is Cyber Wellness?
+### **Why and What is Cyber Wellness?**
 
 <p style="text-align: justify;">Our students today belong to a ‘linkster’ generation who are constantly connected. The open nature of the internet poses a danger to our students as it can expose them to undesirable content which may corrupt their value systems, and to unnecessary hurts.</p>
 
 <p style="text-align: justify;">Cyber Wellness looks into the positive physical and psychosocial well-being of students in their use of mobile and internet technologies . It involves an understanding of the norms of the appropriate, responsible behaviour with regard to technology use as well as knowledge, skills, values and attitudes on how to protect oneself and other internet users in the cyber world.</p>
 
-### Our Programmes
+### **Our Programmes**
 
 **Cyber Wellness Curriculum**
 
