@@ -22,4 +22,4 @@ Log-in using your IAMS account. (Remember to check on the box to accept the term
 
 <p style="text-align: justify;"><b>Note</b>: You cannot log-in to more than one device using the same account at the same time. When you log-in to a second device, the first device will automatically be logout.</p>
 
-<p style="text-align: justify;">To reset their IAMS password, please approach your form teachers to raise a request to ICT Department. Your IAMS password will expire every 90 days.</p>
+To reset their MIMS password, please fill in the [Password Reset Form](https://form.gov.sg/5d01dc550816b400111ce980). Your MIMS password will expire every 90 days.
