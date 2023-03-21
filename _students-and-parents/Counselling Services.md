@@ -126,12 +126,14 @@ Parents can encourage their Kid to do their own subject selection. Parents may w
 Click here for a list of Recommended Books.
 
 **Useful Contacts**
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-ycr8{background-color:#ffffff;text-align:left;vertical-align:top}
 .tg .tg-95dc{background-color:#FFF;border-color:inherit;color:#222;font-weight:bold;text-align:left;text-decoration:underline;
   vertical-align:top}
 .tg .tg-zv36{background-color:#ffffff;border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
@@ -139,7 +141,12 @@ Click here for a list of Recommended Books.
 .tg .tg-ats7{background-color:#FFF;border-color:inherit;color:#222;text-align:left;vertical-align:top}
 .tg .tg-0f6e{background-color:#FFF;border-color:inherit;color:#222;font-weight:bold;text-align:left;vertical-align:top}
 </style>
-<table class="tg">
+<table class="tg" style="undefined;table-layout: fixed; width: 700px">
+<colgroup>
+<col style="width: 255px">
+<col style="width: 283px">
+<col style="width: 220px">
+</colgroup>
 <thead>
   <tr>
     <th class="tg-30gv">Organisation</th>
@@ -150,8 +157,8 @@ Click here for a list of Recommended Books.
 <tbody>
   <tr>
     <td class="tg-95dc">Addiction Helplines<br>(gaming, gambling and general addiction)<br><br>Community Addiction Management programme (CAMP)</td>
-    <td class="tg-ats7">All Addictions Helpline<br>6-RECOVER (67326837)<br>Gambling Helplines<br><br>1800-X-GAMBLE<br>(1800-9-426253)<br>1800-6-668-668</td>
-    <td class="tg-ats7">Mon – Fri<br>(8.30 am to 6 pm)</td>
+    <td class="tg-ats7">All Addictions Helpline<br><br>6-RECOVER (67326837)<br><br>Gambling Helplines<br><br>1800-X-GAMBLE<br><br>(1800-9-426253)<br><br>1800-6-668-668</td>
+    <td class="tg-ats7"><br><br><br><br>Mon – Fri<br><br>(8.30 am to 6 pm)</td>
   </tr>
   <tr>
     <td class="tg-0f6e">Beyond Parental Control</td>
@@ -160,11 +167,11 @@ Click here for a list of Recommended Books.
   </tr>
   <tr>
     <td class="tg-95dc">Crisis Helpline<br><br>Samaritans of Singapore (SOS)</td>
-    <td class="tg-ats7">1800 221 4444</td>
-    <td class="tg-ats7">Daily (24-hour)</td>
+    <td class="tg-ats7"><br>1800 221 4444</td>
+    <td class="tg-ats7"><br>Daily (24-hour)</td>
   </tr>
   <tr>
-    <td class="tg-0f6e">Children, Youth, Parents &amp; Family<br><br>Audible Hearts<br><br>Family Service Centre</td>
+    <td class="tg-0f6e"><span style="text-decoration:underline">Children, Youth, Parents &amp; Family</span><br><br>Audible Hearts<br><br>(Supported by HPB)<br><br><span style="font-weight:bold">Family Service Centre</span><br><br><span style="font-weight:bold">(National)</span></td>
     <td class="tg-0f6e">An anonymous online peer support network by youth for youth<br><br>1800 838 0100</td>
     <td class="tg-0f6e">Mon-Fri (9am to 5pm)</td>
   </tr>
@@ -189,17 +196,22 @@ Click here for a list of Recommended Books.
     <td class="tg-zv36">Mon – Thur (8.30am to 5.30 pm)</td>
   </tr>
   <tr>
-    <td class="tg-zv36">Helpline for Mandarin Speakers<br>Care Corner 800<br>Mandarin Hotline </td>
-    <td class="tg-zv36">1800 353 5800</td>
-    <td class="tg-zv36">Mon-Sun</td>
+    <td class="tg-zv36"><span style="text-decoration:underline">Helpline for Mandarin Speakers</span><br><br>Care Corner 800<br><br>Mandarin Hotline </td>
+    <td class="tg-zv36"><br><br>1800 353 5800</td>
+    <td class="tg-zv36"><br>Mon-Sun<br><br>(10am to 10pm)<br></td>
+  </tr>
+  <tr>
+    <td class="tg-ycr8"><span style="font-weight:bold">Learning Challenges and Special Needs</span><br><br><span style="font-weight:bold">Dyslexia Association for Singapore (DAS) </span><br><br><span style="font-weight:bold">Society for the promotion of ADHD Research and Knowledge (SPARK)</span><br></td>
+    <td class="tg-ycr8"></td>
+    <td class="tg-ycr8"></td>
   </tr>
   <tr>
     <td class="tg-0f6e">Pregnancy Crisis Service</td>
     <td class="tg-ats7">6339 9700</td>
-    <td class="tg-ats7">(10am to 10pm)</td>
+    <td class="tg-ats7"></td>
   </tr>
   <tr>
-    <td class="tg-95dc">Psychiatric Help<br><br>Child Guidance Clinic (CGC)<br><br>Institute of Mental Health<br><br><br><br>Emergency Help Line<br><br><br>Mount Elizabeth Behavioural Health Services<br><br><br>Singapore Association for Mental Health Helpline</td>
+    <td class="tg-95dc">Psychiatric Help<br><br><span style="font-weight:bold;text-decoration:underline">Child Guidance Clinic (CGC)</span><br><br>Institute of Mental Health<br><br>Emergency Help Line<br><br>Mount Elizabeth Behavioural Health Services<br><br>Singapore Association for Mental Health Helpline</td>
     <td class="tg-ats7"><br><br><span style="background-color:transparent">6435 2200</span><br><br>6435 3878<br>Fax: 65343677<br><br>6389 2222<br><br><br>1800 738 9595<br><br><br>1800 283 7019</td>
     <td class="tg-ats7"><br><br>Mon to Fri<br>(9am to 5pm)<br><br><br><br>Daily (24 hours)<br><br><br>Daily (24hours)<br><br><br>Mon to Fri<br>(9am to 6pm)</td>
   </tr>
