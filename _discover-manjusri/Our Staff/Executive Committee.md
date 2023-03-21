@@ -19,7 +19,7 @@ third_nav_title: Our Staff
 .tg .tg-9ect{background-color:#FFF;border-color:inherit;color:#000000;text-align:left;vertical-align:top}
 .tg .tg-hs6z{background-color:#E5E5E5;border-color:inherit;color:#000000;text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 649px">
+<table class="tg" style="undefined;table-layout: fixed; width: 700px">
 <colgroup>
 <col style="width: 228px">
 <col style="width: 204px">
@@ -46,7 +46,8 @@ third_nav_title: Our Staff
 </tbody>
 </table>
 
-
+<br>
+<br>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -60,7 +61,7 @@ third_nav_title: Our Staff
   vertical-align:top}
 .tg .tg-pz2b{background-color:#E5E5E5;color:#333;text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 649px">
+<table class="tg" style="undefined;table-layout: fixed; width: 700px">
 <colgroup>
 <col style="width: 238px">
 <col style="width: 181px">
