@@ -20,8 +20,8 @@ third_nav_title: Our Staff
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 700px">
 <colgroup>
-<col style="width: 260px">
-<col style="width: 423px">
+<col style="width: 200px">
+<col style="width: 400px">
 </colgroup>
 <thead>
   <tr>
@@ -112,8 +112,8 @@ third_nav_title: Our Staff
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 700px">
 <colgroup>
-<col style="width: 260px">
-<col style="width: 423px">
+<col style="width: 200px">
+<col style="width: 400px">
 </colgroup>
 <thead>
   <tr>
@@ -158,11 +158,62 @@ third_nav_title: Our Staff
 </table>
 
 
-##### Student Emotional and Learning Support	
+##### **Student Emotional and Learning Support**	
 
-| Name                 | Designation        |  Email        |
-|-------------|-------------|------------------|
-| Ms Lim Gek Ching Lyne           | Allied Educator (Learning and Behavioural Support) |  lim_gek_ching_lyne@moe.edu.sg   |
-| Mdm Suzila Bte Mohamed Sulaiman | Allied Educator (Learning and Behavioural Support) |  suzila_mohd_sulaiman@moe.edu.sg |
-| Mr Jonathan Xie                 | School Counsellor                                  |  jonathan_xie_weixing@moe.edu.sg |
-| Ms Huang Zheng                  | Adjunct School Counsellor                          |  huang_zheng@moe.edu.sg          |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-yu53{background-color:#E5E5E5;border-color:inherit;color:#333;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-citn{background-color:#FFF;color:#333;text-align:left;vertical-align:top}
+.tg .tg-4hq5{background-color:#E5E5E5;color:#333;text-align:left;vertical-align:middle}
+.tg .tg-pz2b{background-color:#E5E5E5;color:#333;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 700px">
+<colgroup>
+<col style="width: 200px">
+<col style="width: 200px">
+<col style="width: 300px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-yu53">Name</th>
+    <th class="tg-yu53">Designation</th>
+    <th class="tg-4hq5"> Email</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-citn">Ms Lim Gek Ching Lyne</td>
+    <td class="tg-citn">Allied Educator (Learning and Behavioural Support)<br></td>
+    <td class="tg-citn"> lim_gek_ching_lyne@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-pz2b">Mdm Suzila Bte Mohamed Sulaiman<br></td>
+    <td class="tg-pz2b">Allied Educator (Learning and Behavioural Support)</td>
+    <td class="tg-pz2b"> suzila_mohd_sulaiman@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-citn">Mr Jonathan Xie</td>
+    <td class="tg-citn">School Counsellor<br></td>
+    <td class="tg-citn"> jonathan_xie_weixing@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-pz2b">Ms Huang Zheng    </td>
+    <td class="tg-pz2b">Adjunct School Counsellor</td>
+    <td class="tg-pz2b"> huang_zheng@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-citn">Ms Samantha Woo</td>
+    <td class="tg-citn">ECG Counsellor (MOE HQ)</td>
+    <td class="tg-citn"> woo_wayeng@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-4hq5"> </td>
+    <td class="tg-4hq5"> </td>
+    <td class="tg-4hq5"> </td>
+  </tr>
+</tbody>
+</table>
