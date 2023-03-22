@@ -11,7 +11,7 @@ Manjusri Secondary School is committed to build a positive partnership with pare
    
 2\. Parents will be kept informed of school events and student attendance, HBL days etc. via notices sent out through Parents Gateway. Teachers may also get in touch with you to discuss support for or well-being of your child/ward. If there is a need, parents may use the following channels to reach teachers:    
 - School General Office: 6842 4558  
-- School Email: manjusri\_ss@moe.edu.sg  
+- School Email: manjusri_ss@moe.edu.sg  
 - Specific Teacher’s Email that can be found at:  
 <a href="/discover-manjusri/our-staff/executive-committee/" target="_blank">https://manjusrisec.moe.edu.sg/discover-manjusri/our-staff</a>
   
