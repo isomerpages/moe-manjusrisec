@@ -9,7 +9,7 @@ description: ""
 
 |  Level  | Timetable |
 |:-------:|:---------:|
-|  Sec 1  | <a href="'target="_blank">Timetable</a>  |
+|  Sec 1  | <a href="/files/MJS_2023%20HBL%20Timetable%20SEM1%20-%20Sec%201.pdF"target="_blank">Timetable</a>  |
 |   Sec 2 |  <a href="" target="_blank">Timetable</a> |
 |   Sec 3 |  <a href="" target="_blank">Timetable</a> |
 | Sec 4/5 |  <a href="" target="_blank">Timetable</a> |
