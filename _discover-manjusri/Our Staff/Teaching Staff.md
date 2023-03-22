@@ -351,16 +351,66 @@ third_nav_title: Our Staff
 
 ##### Other Teachers	
 
-| Name                          | Email                                |
-|-------------------------------|--------------------------------------|
-| Mr Chan Ze Wei                | chan_ze_wei@moe.edu.sg               |
-| Mrs Cheng-Ling Ai Keow        | ling_ai_keow@moe.edu.sg              |
-| Mr Lee Beng Huat              | lee_beng_huat@moe.edu.sg             |
-| Mdm Pan Ping                  | pan_ping@moe.edu.sg                  |
-| Ms Tan Ai Hua                 | tan_ai_hua@moe.edu.sg                |
-| Ms Wong Sook Fong Shirley     | wong_sook_fong@moe.edu.sg            |
-| Mr Tan Poh Pin                | tan_poh_pin@moe.edu.sg               |
-| Dr Muhammad Mubarak Bin Habib | muhammad_mubarak_habib_md@moe.edu.sg |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-yu53{background-color:#E5E5E5;border-color:inherit;color:#333;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-citn{background-color:#FFF;color:#333;text-align:left;vertical-align:top}
+.tg .tg-pz2b{background-color:#E5E5E5;color:#333;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 730px">
+<colgroup>
+<col style="width: 211px">
+<col style="width: 343px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-yu53">Name</th>
+    <th class="tg-yu53">Email</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-citn">Mr Chan Ze Wei<br></td>
+    <td class="tg-citn">chan_ze_wei@moe.edu.sg<br></td>
+  </tr>
+  <tr>
+    <td class="tg-pz2b">Mrs Cheng-Ling Ai Keow</td>
+    <td class="tg-pz2b">ling_ai_keow@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-citn">Mr Lee Beng Huat </td>
+    <td class="tg-citn">lee_beng_huat@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-pz2b">Mr Lim Chiang Long Max</td>
+    <td class="tg-pz2b">lim_chiang_long@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-citn">Dr Muhammad Mubarak Bin Habib</td>
+    <td class="tg-citn">muhammad_mubarak_habib_md@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-pz2b">Ms  Nurul A'mirah Binte Mohd Kamal</td>
+    <td class="tg-pz2b">nurul_amirah_mohd_kamal@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-citn">Mdm Pan Ping</td>
+    <td class="tg-citn">pan_ping@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-pz2b">Ms  Tan Ai Hua</td>
+    <td class="tg-pz2b">tan_ai_hua@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-citn">Ms  Tay Kar Yen Amanda</td>
+    <td class="tg-citn">tay_kar_yen_amanda@moe.edu.sg</td>
+  </tr>
+</tbody>
+</table>
 
 ##### Flexi-Adjunct Teachers	
 
