@@ -4,28 +4,98 @@ permalink: /discover-manjusri/our-staff/non-teaching-staff/
 description: ""
 third_nav_title: Our Staff
 ---
-# Non-Teaching Staff
+# **Non-Teaching Staff**
 
-##### Executive and Administrative Staff
+##### **Executive and Administrative Staff**
 
-| Name                      | Designation                      |
-|---------------------------|----------------------------------|
-| Mr Junaidi                | Education Workshop Instructor    |
-| Mr Azman Bin Kassim       | Education Workshop Instructor    |
-| Mr Kok Kean Weng, Winston | ICT Manager                      |
-| Mr David Han Baw Kuang    | Operation Manager                |
-| Mr Lee Moon Loong         | Adjunct Operation Manager        |
-| Mdm Ong Poh Hong Jennifer | Administration Officer           |
-| Mdm Loh Kheng Hua Connie  | Administration Officer           |
-| Ms Thivya d/o Nagarajan   | Adjunct Administrative Executive |
-| Mdm Chua Siew Eng         | Technical Support Officer        |
-| Mdm Hoo Ai Nah            | Science Lab Technician           |
-| Mdm Govindamal d/o Ramoo  | Operations Support Officer       |
-| Mdm Rohayah Bte Ali       |    Operations Support Officer    |
-| Mdm Sam Lai Nah           | Operations Support Officer       |
-| Mdm Tan Ah Lek Betty      |    Operations Support Officer    |
-| Mdm Li Linxin             | Operations Support Officer       |
-| Mr Kor Leong Chai, Danny  | Operations Support Office        |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-yu53{background-color:#E5E5E5;border-color:inherit;color:#333;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-citn{background-color:#FFF;color:#333;text-align:left;vertical-align:top}
+.tg .tg-pz2b{background-color:#E5E5E5;color:#333;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 700px">
+<colgroup>
+<col style="width: 260px">
+<col style="width: 423px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-yu53">Name    </th>
+    <th class="tg-yu53">Designation<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-citn">Mr Junaidi<br></td>
+    <td class="tg-citn">Education Workshop Instructor<br></td>
+  </tr>
+  <tr>
+    <td class="tg-pz2b">Mr Azman Bin Kassim<br></td>
+    <td class="tg-pz2b">Education Workshop Instructor <br></td>
+  </tr>
+  <tr>
+    <td class="tg-citn">Mr Kok Kean Weng, Winston<br></td>
+    <td class="tg-citn">ICT Manager<br></td>
+  </tr>
+  <tr>
+    <td class="tg-pz2b">Mr David Han Baw Kuang <br></td>
+    <td class="tg-pz2b">Operation Manager<br></td>
+  </tr>
+  <tr>
+    <td class="tg-citn">Mr Lee Moon Loong</td>
+    <td class="tg-citn">Adjunct Operation Manager</td>
+  </tr>
+  <tr>
+    <td class="tg-pz2b">Mdm Ong Poh Hong Jennifer<br></td>
+    <td class="tg-pz2b">Administration Officer<br></td>
+  </tr>
+  <tr>
+    <td class="tg-citn">Mdm Loh Kheng Hua Connie<br></td>
+    <td class="tg-citn">Administration Officer<br></td>
+  </tr>
+  <tr>
+    <td class="tg-pz2b">Ms Thivya d/o Nagarajan</td>
+    <td class="tg-pz2b">Adjunct Administrative Executive<br></td>
+  </tr>
+  <tr>
+    <td class="tg-citn">Mdm Chua Siew Eng</td>
+    <td class="tg-citn">Technical Support Officer<br></td>
+  </tr>
+  <tr>
+    <td class="tg-pz2b">Mdm Hoo Ai Nah</td>
+    <td class="tg-pz2b">Science Lab Technician</td>
+  </tr>
+  <tr>
+    <td class="tg-citn">Mdm Govindamal d/o Ramoo<br></td>
+    <td class="tg-citn">Operations Support Officer<br></td>
+  </tr>
+  <tr>
+    <td class="tg-pz2b">Mdm Rohayah Bte Ali<br></td>
+    <td class="tg-pz2b">Operations Support Officer<br></td>
+  </tr>
+  <tr>
+    <td class="tg-citn">Mdm <span style="background-color:transparent">Sam Lai Nah</span><br></td>
+    <td class="tg-citn">Operations Support Officer </td>
+  </tr>
+  <tr>
+    <td class="tg-pz2b">Mdm Tan Ah Lek Betty<br></td>
+    <td class="tg-pz2b">Operations Support Officer<br></td>
+  </tr>
+  <tr>
+    <td class="tg-citn">Mdm <span style="background-color:transparent">Li Linxin</span><br></td>
+    <td class="tg-citn">Operations Support Officer<br></td>
+  </tr>
+  <tr>
+    <td class="tg-pz2b">Mr Kor Leong Chai, Danny</td>
+    <td class="tg-pz2b">Operations Support Office</td>
+  </tr>
+</tbody>
+</table>
 
 ##### Support Staff
 
