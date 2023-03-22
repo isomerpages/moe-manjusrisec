@@ -28,10 +28,10 @@ Every Monday and Wednesday
 .tg .tg-2atv{background-color:#C00;border-color:inherit;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-a3j2{background-color:#FFF;color:#222;text-align:center;vertical-align:middle}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 425px">
+<table class="tg" style="undefined;table-layout: fixed; width: 700px">
 <colgroup>
-<col style="width: 221px">
-<col style="width: 204px">
+<col style="width: 300px">
+<col style="width: 400px">
 </colgroup>
 <thead>
   <tr>
@@ -71,8 +71,8 @@ Every Monday and Wednesday
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 700px">
 <colgroup>
-<col style="width: 250px">
-<col style="width: 231px">
+<col style="width: 350px">
+<col style="width: 350px">
 </colgroup>
 <thead>
   <tr>
