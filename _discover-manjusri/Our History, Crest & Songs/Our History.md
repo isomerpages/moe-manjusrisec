@@ -4,7 +4,7 @@ permalink: /discover-manjusri/our-history-crest-n-songs/our-history/
 description: ""
 third_nav_title: Our History, Crest & Songs
 ---
-# Our History
+# **Our History**
 
 <p style="text-align: justify;">In June 1974, the Singapore Buddhist Federation decided to set up a Buddhist secondary school on a piece of land at Sims Drive offered by the Ministry of Education. 'Manjusri' - the Bodhisattva of Great Wisdom, was chosen to be the name for the school.</p>
 
