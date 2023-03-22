@@ -49,52 +49,19 @@ b\.    Character and Citizenship Education (CCE)
 **At MANJUSRI Secondary School, the following lessons from the Sexuality Education Programme will be taught in <u>2023:</u>**
 
 
-
- [Secondary 1](/files/MJR%202023%20Info%20on%20SEd%20for%20schs%20website%20sec1.pdf)
-
-
-
-
-
-
 <center>
 	
+ [Secondary 1](/files/MJR%202023%20Info%20on%20SEd%20for%20schs%20website%20sec1.pdf)
+
 [Secondary 2](/files/MJR%202023%20Info%20on%20SEd%20for%20schs%20website%20sec2.pdf) 
 
+[Secondary 3](/files/MJR%202023%20Info%20on%20SEd%20for%20schs%20website%20sec3.pdf)
+
+[Secondary 4](/files/MJR%202023%20Info%20on%20SEd%20for%20schs%20website%20sec4.pdf)
+
+[Secondary 5](/files/MJR%202023%20Info%20on%20SEd%20for%20schs%20website%20sec5.pdf)
+	
 </center>
-
-| UNIT                    | LESSONS/ <br>DURATION | Lesson Objectives<br>At the end of the lesson, students will be able to:            | TIME PERIOD   |
-|---------|--------|-----------|---------------|
-| Respectful Relationships & Safety | 1<br>(60  mins)       | Know that one’s understanding of gender roles should not be limited by gender stereotypes<br><br>Develop an appreciation of one’s own unique qualities and characteristics as a male or female<br>Understand what sexual orientation entails                                                | Term 1 Week 7 |
-|                                   | 2A<br>(60 mins)       | Recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both online and offline                                                                                                                      | Term 2 Week 2 |
-|                                   | 2B<br>(60 mins)       | Recognise the importance of self-respect and respect for others in relating to members of the opposite gender<br><br>Recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both offline and online | Term 2 Week 3 |
-
-<center><b>Secondary 3</b></center>
-
-| UNIT                | LESSONS / DURATION | Lesson Objectives<br>At the end of the lesson, students will be able to:                 | TIME PERIOD   |
-|------------|-----------|------------|-----------|
-| Respectful Relationships & Safety | 1A<br>(60 mins)    | Know that self-perception and identity have an impact on our self-esteem and how we interact with others and the choices we make, both online and offline.<br><br>Understand that expectations of oneself and others may differ and can affect one’s emotions, thoughts and behaviours.<br><br>Recognise what healthy dating relationships involve and know that readiness is important when entering into a dating relationship. <br>                                      | Term 1 Week 5 |
-|                                   |   1B<br>(60 mins)  | Know that relationship-building involves personal emotions and vulnerabilities, and changes and challenges.<br><br>Know that a decision to end a relationship will have consequences on oneself and others.<br><br>Know that grief and loss due to rejections and broken relationships is normal and one can recover from the experience.<br><br>Know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support. <br> | Term 1 Week 6 |
-|                                   |   2<br>(60 mins)   | Recognise the importance of being informed of social and moral issues of the day and the need to reflect on these issues, and weigh them against our own moral standpoints as we form our perspectives about them.<br><br>Understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs.                                                       | Term 1 Week 6 |
-
-<center><b>Secondary 4</b></center>
-
-| UNIT                              | LESSONS / DURATION | Lesson Objectives<br>At the end of the lesson, students will be able to:               | TIME PERIOD        |
-|--------------|------------|-----|--------------------|
-| Respectful Relationships & Safety |   1<br>(60 mins)   | Understand that the value of a person is not tied to one’s gender and not conforming to gender stereotypes does not negate one’s gender identity.<br><br>Understand what gender stereotypes comprise, e.g. notions of masculinity and femininity vary over time and space, and are shaped by societal expectations.<br><br>Know that imposing gender stereotypes on oneself and others can limit one’s experiences, cause harm to the self-esteem of oneself and others and should be avoided. <br>                                                                                                                                                             | Term 3 <br>Week 2  |
-|                                   |   2<br>(60 mins)   | Know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support.<br><br>Recognise emotions caused by traumatic situations, e.g. bullying, abuse and dating violence, and understand the physiological and psychological, social impact on victims.<br><br>Understand that we need moral courage and wisdom to recognise and end relationships that are unhealthy and cause harm to our mental and emotional well-being.<br><br>Understand the importance of ensuring that non-verbal messages match with verbal ones, when communicating personal and emotional boundaries in a relationship. <br><br><br> | Term 3<br>Week 6   |
-|                                   | 3<br><br>(30 mins) | Know that long-term romantic relationships leading to marriage involve understanding oneself and others in the intellectual, emotional, social and moral dimensions.  <br><br>Know that marriage entails a union between a man and a woman based on love, trust, commitment, and requires mutual effort.<br><br>Understand that conflicts are normal in any relationship, including marriage, and the way in which a couple handles conflict is critical to the success of their marriage. <br>                                                                                                                                                                 | Term 3 <br>Week 7  |
-|                                   |   4<br>(60 mins)   | Understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs. <br>                   | Term 3 <br>Week 10 |
-
-<center><b>Secondary 5</b></center>
-
-| UNIT                              | LESSONS / DURATION | Lesson Objectives<br>At the end of the lesson, students will be able to:                                                                                                                                                                                                                                                                                                                                                                                                                   | TIME PERIOD   |
-|----------|-------------|-------------|--------------|
-| Respectful Relationships & Safety | 1<br>(60 mins)     | Understand that the value of a person is not tied to one’s gender and not conforming to gender stereotypes does not negate one’s gender identity.<br><br>Understand what gender stereotypes comprise, e.g. notions of masculinity and femininity vary over time and space, and are shaped by societal expectations.Know that imposing gender stereotypes on oneself and others can limit one’s experiences, cause harm to the self-esteem of oneself and others and should be avoided. | Term 3 Week 2 |
-
-
-_\*CCE2021 Secondary 5 lessons will be implemented in 2023. Secondary 5 students in 2022 will use CCE2021 Secondary 4 Lesson 1, “Levelling the Ground” from the unit, “Respectful Relationship and Safety”._
-
 
 _**eTeens**_ **Programme** :
 
