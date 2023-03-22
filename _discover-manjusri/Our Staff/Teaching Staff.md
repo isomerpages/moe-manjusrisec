@@ -4,9 +4,9 @@ permalink: /discover-manjusri/our-staff/teaching-staff/
 description: ""
 third_nav_title: Our Staff
 ---
-# Teaching Staff
+# **Teaching Staff**
 
-##### Form Teachers	
+##### **Form Teachers**	
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -349,7 +349,7 @@ third_nav_title: Our Staff
 </table>
 
 
-##### Other Teachers	
+##### **Other Teachers**	
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -412,7 +412,7 @@ third_nav_title: Our Staff
 </tbody>
 </table>
 
-##### Flexi-Adjunct Teachers	
+##### **Flexi-Adjunct Teachers**	
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
