@@ -23,12 +23,33 @@ description: ""
 
 <p style="text-align: justify;">*All subjects used in the computation of the ELMAB3 or ELB3/MAB3 aggregate must be graded at least an ‘N’ level grade 5, i.e. there is no change from the established practices of computing the aggregate.</p>
 
-|            |                                                                    |
-|------------|--------------------------------------------------------------------|
-| Sec 1 N(T) | Pass in 2 subjects, one of which should be English or Mathematics. |
-| Sec 2 N(T) |                                                                    |
-| Sec 3 N(T) |                                                                    |
-
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-dnue{background-color:#E5E5E5;border-color:inherit;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-30gv{background-color:#C00;border-color:inherit;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 700px">
+<colgroup>
+<col style="width: 200px">
+<col style="width: 500px">
+</colgroup>
+<thead>
+  <tr>
+    <td class="tg-30gv">Sec 1 N(T)</td>
+    <td class="tg-dnue" rowspan="3">Pass in 2 subjects, one of which should be English or Mathematics.</td>
+  </tr>
+  <tr>
+    <td class="tg-30gv">Sec 2 N(T)</td>
+  </tr>
+  <tr>
+    <td class="tg-30gv">Sec 3 N(T)</td>
+  </tr>
+</thead>
+</table>
 
 **Marks and Grades**
 
