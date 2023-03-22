@@ -3,7 +3,7 @@ title: Applied Learning Programme
 permalink: /passionate-learners/applied-learning-programme/
 description: ""
 ---
-# **Applied Learning Programme**
+## **Applied Learning Programme**
 
 #### **What is ALP @ MJR?**
 
