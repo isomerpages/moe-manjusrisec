@@ -21,7 +21,7 @@ third_nav_title: Our Staff
 .tg .tg-0lax{text-align:left;vertical-align:top}
 .tg .tg-faf8{background-color:#E5E5E5;text-align:left;vertical-align:middle}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 725px">
+<table class="tg" style="undefined;table-layout: fixed; width: 700px">
 <colgroup>
 <col style="width: 124px">
 <col style="width: 201px">
