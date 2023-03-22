@@ -6,12 +6,45 @@ description: ""
 **Criteria for Promotion**
 
 
-|               |              |                           |
-|---------------|---------|---------------------------|
-| Sec 1 Express | Pass in EL and a pass percentage in the average of all subjects. |                           |
-| Sec 2 Express | Pass in EL and a pass percentage in the average of all subjects. |                           |
-| Sec 3 Express | Pass in EL and 2 other subjects                                  | Promoted to Sec 4 Express |
-|               | Pass in 5 subjects                                               | Advance to Sec 4 Express  |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-30gv{background-color:#C00;border-color:inherit;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0f6e{background-color:#FFF;border-color:inherit;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-ats7{background-color:#FFF;border-color:inherit;color:#222;text-align:left;vertical-align:top}
+.tg .tg-tsok{background-color:#FFF;color:#222;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 700px">
+<colgroup>
+<col style="width: 200px">
+<col style="width: 250px">
+<col style="width: 250px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-30gv">Sec 1 Express</th>
+    <th class="tg-0f6e" colspan="2">Pass in EL and a pass percentage in the average of all subjects.</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-30gv">Sec 2 Express</td>
+    <td class="tg-ats7" colspan="2">Pass in EL and a pass percentage in the average of all subjects.</td>
+  </tr>
+  <tr>
+    <td class="tg-30gv" rowspan="2">Sec 3 Express</td>
+    <td class="tg-ats7">Pass in EL and 2 other subjects</td>
+    <td class="tg-tsok">Promoted to Sec 4 Express</td>
+  </tr>
+  <tr>
+    <td class="tg-tsok">Pass in 5 subjects</td>
+    <td class="tg-tsok">Advance to Sec 4 Express</td>
+  </tr>
+</tbody>
+</table>
 
 
 <style type="text/css">
