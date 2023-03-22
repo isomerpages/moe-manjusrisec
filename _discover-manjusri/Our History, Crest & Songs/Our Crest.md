@@ -4,7 +4,7 @@ permalink: /discover-manjusri/our-history-crest-n-songs/our-crest/
 description: ""
 third_nav_title: Our History, Crest & Songs
 ---
-# Our Crest
+# **Our Crest**
 
 <img src="/images/Discover%20Manjusri/school_crest.png" style="width:40%">
 
