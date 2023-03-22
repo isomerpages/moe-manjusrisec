@@ -97,16 +97,65 @@ third_nav_title: Our Staff
 </tbody>
 </table>
 
-##### Support Staff
+##### **Support Staff**
 
-| Name                       | Designation                       |
-|----------------|------------------------|
-| Mdm Tan Chai Lian Ruby     | Administration Assistant          |
-| Mdm Zuriah Md Ali          | Library Assistant                 |
-| Mdm Kua Yoke Keng, Linda   | Kitchen Assistant                 |
-| Mdm Mark Lan Chee Patricia | Administration Support Officer    |
-| Ms Sujana                  | Desktop Engineer                  |
-| Ms Nur Diana Binte Supomo  | School Health Advisor             |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-yu53{background-color:#E5E5E5;border-color:inherit;color:#333;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-citn{background-color:#FFF;color:#333;text-align:left;vertical-align:top}
+.tg .tg-pz2b{background-color:#E5E5E5;color:#333;text-align:left;vertical-align:top}
+.tg .tg-4hq5{background-color:#E5E5E5;color:#333;text-align:left;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 700px">
+<colgroup>
+<col style="width: 311px">
+<col style="width: 506px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-yu53">Name    </th>
+    <th class="tg-yu53">Designation</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-citn">Ms Swee Yun Ya Lynette</td>
+    <td class="tg-citn">Receptionist</td>
+  </tr>
+  <tr>
+    <td class="tg-pz2b">Mdm Zuriah Md Ali<br></td>
+    <td class="tg-pz2b">Library Assistant<br></td>
+  </tr>
+  <tr>
+    <td class="tg-citn">Mdm Kua Yoke Keng, Linda</td>
+    <td class="tg-citn">Kitchen Assistant</td>
+  </tr>
+  <tr>
+    <td class="tg-pz2b">Mdm Mark Lan Chee Patricia<br></td>
+    <td class="tg-pz2b">Administration Support Officer   </td>
+  </tr>
+  <tr>
+    <td class="tg-citn">Mrs Sujana <br></td>
+    <td class="tg-citn">Desktop Engineer</td>
+  </tr>
+  <tr>
+    <td class="tg-pz2b">Mr Mohd Syakir<br></td>
+    <td class="tg-pz2b">Desktop Engineer<br></td>
+  </tr>
+  <tr>
+    <td class="tg-citn"><span style="background-color:transparent">Ms Tan Jue Ting Zolynne</span><br></td>
+    <td class="tg-citn">School Health Advisor<br></td>
+  </tr>
+  <tr>
+    <td class="tg-4hq5"> </td>
+    <td class="tg-4hq5"> </td>
+  </tr>
+</tbody>
+</table>
 
 
 ##### Student Emotional and Learning Support	
