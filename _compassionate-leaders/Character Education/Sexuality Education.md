@@ -50,11 +50,10 @@ b\.    Character and Citizenship Education (CCE)
 
 
 
-<center> 
+ [Secondary 1](/files/MJR%202023%20Info%20on%20SEd%20for%20schs%20website%20sec1.pdf)
 
-[Secondary 1 ](/files/MJR%202023%20Info%20on%20SEd%20for%20schs%20website%20sec1.pdf)
 
-</center>
+
 
 
 
