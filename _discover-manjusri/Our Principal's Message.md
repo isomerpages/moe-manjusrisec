@@ -3,7 +3,7 @@ title: Our Principal's Message
 permalink: /discover-manjusri/our-principals-message/
 description: ""
 ---
-# Our Principal's Message
+# **Our Principal's Message**
 
 <p style="text-align: justify;">Welcome to the web-site of Manjusri Secondary School (MJR).  We are a government-aided school that enjoys the support of the Singapore Buddhist Federation in our holistic approach to educating students from varied backgrounds.  Our school sees its mission as nurturing <b>Passionate Learners</b> and <b>Compassionate Leaders</b> who are future-ready and anchored in values.  We aim to develop Manjusrians to be confident engaged learners who are able to face future challenges with courage and resilience; as well as responsible citizens who possess a moral compass and a sense of their purpose and place in society.</p>
 
