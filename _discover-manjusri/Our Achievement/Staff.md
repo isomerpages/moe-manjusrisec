@@ -151,7 +151,7 @@ Mr Ng Boon Chong, Subject Head Design & Technology, was conferred the LEAP Award
 Ms Norazlin Binte Normin came in 9 th position in MOE Olive Charity 10 Km Run Women Closed Category on 20 Sep 14.
 
 
-## 2013
+## **2013**
 
 
 | Award                 |                  |
@@ -185,7 +185,7 @@ The following teachers received recognition from Academy of Singapore Teachers f
 
 
 
-## 2012
+## **2012**
 
 
 |           Award          |                  |
