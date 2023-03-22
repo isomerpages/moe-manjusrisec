@@ -8,72 +8,345 @@ third_nav_title: Our Staff
 
 ##### Form Teachers	
 
-| Class | Name              | Email                  |
-|-------|-----------|-------------|
-| 1A    | Ms Tan Shi Jia                                   | tan_shi_jia@moe.edu.sg                     |
-| 1A    | Mr Jason Chua                                    | chua_soon_huat_jason@moe.edu.sg            |
-| 1A    | Ms Chew Sue Ning, Shermaine                      | chew_sue_ning_shermaine@moe.edu.sg         |
-| 1B    | Mr Mohamad Hafiz Khan                            | hafiz_emran_khan@moe.edu.sg                |
-| 1B    | Ms Kok Jia En, Yvonne                            | jia_en_yvonne_kok@moe.edu.sg               |
-| 1C    | Ms Angeline Ng                                   | ng_yeou_chiann_angeline@moe.edu.sg         |
-| 1C    | Mr Daniel Tay                                    | tay_tse_min_daniel@moe.edu.sg              |
-| 1D    | Ms Mary Rose                                     | mary_rose_p_gonsalvez@moe.edu.sg           |
-| 1D    | Ms Melcia Leong                                  | hui_lin_melcia_leong@moe.edu.sg            |
-| 1E    | Mdm Rozita                                       | rozita_husain@moe.edu.sg                   |
-| 1E    | Mdm Salina Binte Abdul Majid<br>(Senior Teacher) | salina_abdul_majid@moe.edu.sg              |
-| 1F    | Ms Bao Bingqing                                  | bao_bingqing@moe.edu.sg                    |
-| 1F    | Mr Muhammad Khairul Rdwan Bin Bohari             | muhammad_khairul_ridhwan_bohari@moe.edu.sg |
-| 1G    | Mr Wong Chung Meng, Victor                       | wong_chung_meng@moe.edu.sg                 |
-| 1G    | Ms Nurjannah                                     | nurjannah_othman@moe.edu.sg                |
-| 1G    | Ms Tee Pei Pei                                   | tee_pei_pei@moe.edu.sg                     |
-| 2A    | Ms Amira Begum d/o Abdul Naseer                  | amira_begum_abdul_naseer@moe.edu.sg        |
-| 2A    | Mdm Tee Beng Lian, Serene                        | tee_beng_lian@moe.edu.sg                   |
-| 2A    | Mr Nur Hakim Alim Bin Salim                      | nur_hakim_alim_salim@moe.edu.sg            |
-| 2B    |            Mr Kang Ching Choon, Bryan            | kang_ching_choon@moe.edu.sg                |
-| 2B    | Mdm Toh Lee Wah                                  | toh_lee_wah@moe.edu.sg                     |
-| 2C    | Mr Sulaiman Bin Zainal<br>(Senior Teacher)       | sulaiman_zainal@moe.edu.sg                 |
-| 2C    |                    Ms Ng Imei                    | ng_imei@moe.edu.sg                         |
-| 2D    | Mdm Yong Tann Lee                                | yong_tann_lee@moe.edu.sg                   |
-| 2D    | Mr Liew Pok Ming Marcus                          | liew_pok_ming_marcus@moe.edu.sg            |
-| 2E    | Mdm Sun Guangpu                                  | sun_guangpu@moe.edu.sg                     |
-| 2E    | Ms Darul Ellia                                   | darul_ellia_zulkarnain@moe.edu.sg          |
-| 2F    | Ms Seah Yi Fan                                   | seah_yi_fan@moe.edu.sg                     |
-| 2F    | Ms Alexandra Pang Yan Feng                       | pang_yanfeng_alexandra@moe.edu.sg          |
-| 2G    | Ms Eileen Ong                                    | eileen_ong_ah_buan@moe.edu.sg              |
-| 2G    | Mr Jason Lim Hui Zhong                           | lim_hui_zhong@moe.edu.sg                   |
-| 3A    | Ms Tan Hsiao Wey                                 | tan_hsiao_wey@moe.edu.sg                   |
-| 3A    | Mr Lim Chiang Long, Max                          | lim_chiang_long@moe.edu.sg                 |
-| 3A    | Mr Qamarul Arifin Bin Abd Rashid                 | arifin_abd_rashid_qamarul@moe.edu.sg       |
-| 3B    | Mr Lee Zhong Shun                                | lee_zhong_shun@moe.edu.sg                  |
-| 3B    | Ms Goh Pei Shan                                  | goh_pei_shan@moe.edu.sg                    |
-| 3C    | Ms Ernieyanty Hasan                              | ernieyanty_hasan@moe.edu.sg                |
-| 3C    | Mrs Ng-Mah Phooi Yee                             | mah_phooi_yee@moe.edu.sg                   |
-| 3D    | Dr Lim Si Hui                                    | lim_si_hui@moe.edu.sg                      |
-| 3D    | Mdm Trina Chang                                  | chang_wan_yi_trina@moe.edu.sg              |
-| 3E    | Mrs Heng Lai Khar                                | chong_lai_khar@moe.edu.sg                  |
-| 3E    | Ms Tuan Chui Lin                                 | tuan_chui_lin@moe.edu.sg                   |
-| 3F    | Ms Lee Li Yun                                    | lee_li_yun@moe.edu.sg                      |
-| 3F    | Mdm Nur Muna Ali                                 | nur-muna_mohamed_ali@moe.edu.sg            |
-| 3G    | Ms Faith Kaylie Ong Yi Cheng<br>(Senior Teacher) | faith_kaylie_ong@moe.edu.sg                |
-| 3G    | Mrs Tan-Chen Lingzhi, Wendy                      | chen_lingzhi@moe.edu.sg                    |
-| 4A    | Mr Mohd Jawahir B Ahmat                          | mohd_jawahir_ahmat@moe.edu.sg              |
-| 4A    | Ms Lee Shi Hua, Candice                          | lee_shi_hua_candice@moe.edu.sg             |
-| 4A    | Ms Amanda Tay Kar Yen                            | tay_kar_yen_amanda@moe.edu.sg              |
-| 4B    | Ms Nur Atiqah Binti Abdul Fattah                 | nur_atiqah_abdul_fattah@moe.edu.sg         |
-| 4B    | Ms Wan Shi Ting                                  | shi_ting_wan@moe.edu.sg                    |
-| 4C    | Mr Sng Peng Han, Kain                            | sng_peng_han@moe.edu.sg                    |
-| 4C    | Ms Wu Jieru                                      | wu_jieru@moe.edu.sg                        |
-| 4C    | Mr Ahmad Nabil                                   | ahmad_nabil_ahmad_al-kastalani@moe.edu.sg  |
-| 4D    | Mr Lim Xu Yao                                    | lim_xu_yao@moe.edu.sg                      |
-| 4D    | Ms Loi Wee Kin                                   | loi_wee_kin@moe.edu.sg                     |
-| 4E    | Ms Foo Siqi, Michell                             | foo_siqi_michell@moe.edu.sg                |
-| 4E    | Mr Ya'acob Abu Bakar                             | yaacob_b_abu_bakar@moe.edu.sg              |
-| 4F    | Ms Nurul A'mirah                                 | nurul_amirah_mohd_kamal@moe.edu.sg         |
-| 4F    | Ms Jurana Binte Abdul Rahim                      | jurana_abdul_rahim@moe.edu.sg              |
-| 4G    | Mdm Ahadiyah Binte Rosmani                       | ahadiyah_rosmani@moe.edu.sg                |
-| 4G    | Mr Shuai Dongxing                                | shuai_dongxing@moe.edu.sg                  |
-| 5A    | Mdm Rose Ibrahim                                 | rose_ibrahim@moe.edu.sg                    |
-| 5A    | Ms Natasha Loh Tzi Wui                           | loh_tzi_wui_natasha@moe.edu.sg             |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-cly1{text-align:left;vertical-align:middle}
+.tg .tg-dnue{background-color:#E5E5E5;border-color:inherit;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-9678{background-color:#E5E5E5;text-align:left;vertical-align:top}
+.tg .tg-mdf1{background-color:#E5E5E5;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+.tg .tg-faf8{background-color:#E5E5E5;text-align:left;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 725px">
+<colgroup>
+<col style="width: 124px">
+<col style="width: 201px">
+<col style="width: 400px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-dnue">Class</th>
+    <th class="tg-dnue">Name</th>
+    <th class="tg-mdf1">Email</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax">1-1</td>
+    <td class="tg-0lax">Mr Sng Peng Han Kain</td>
+    <td class="tg-0lax">sng_peng_han@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-faf8"></td>
+    <td class="tg-9678">Ms Loh Tzi Wui Natasha</td>
+    <td class="tg-9678">loh_tzi_wui_natasha@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">1-2</td>
+    <td class="tg-0lax">Ms Alexandra Pang Yan Feng</td>
+    <td class="tg-0lax">PANG_Yanfeng_Alexandra@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-faf8"></td>
+    <td class="tg-9678">Mr Ya'acob B Abu Bakar</td>
+    <td class="tg-9678">yaacob_b_abu_bakar@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">1/3</td>
+    <td class="tg-0lax">Ms Rose Binte Ibrahim</td>
+    <td class="tg-0lax">rose_ibrahim@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-faf8"></td>
+    <td class="tg-9678">Mr Chua Soon Huat Jason</td>
+    <td class="tg-9678">chua_soon_huat_jason@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1"></td>
+    <td class="tg-0lax">Ms Tee Beng Lian Serene</td>
+    <td class="tg-0lax">tee_beng_lian@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-9678">1-4</td>
+    <td class="tg-9678">Mr Shuai Dong Xing</td>
+    <td class="tg-9678">shuai_dongxing@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1"></td>
+    <td class="tg-0lax">Ms Nurjannah Binte Othman </td>
+    <td class="tg-0lax">nurjannah_othman@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-9678">1-5</td>
+    <td class="tg-9678">Ms Seah Yi Fan</td>
+    <td class="tg-9678">seah_yi_fan@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1"></td>
+    <td class="tg-0lax">Ms Ng Ning</td>
+    <td class="tg-0lax">-</td>
+  </tr>
+  <tr>
+    <td class="tg-9678">1-6</td>
+    <td class="tg-9678">Mr Sulaiman Bin Zainal </td>
+    <td class="tg-9678">sulaiman_zainal@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1"></td>
+    <td class="tg-0lax">Ms Loi Wee Kin</td>
+    <td class="tg-0lax">loi_wee_kin@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-9678">1-7</td>
+    <td class="tg-9678">Ms Nur Atiqah Binti Abdul Fattah</td>
+    <td class="tg-9678">nur_atiqah_abdul_fattah@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1"></td>
+    <td class="tg-0lax">Ms Erica Reyes Rodriguez</td>
+    <td class="tg-0lax">erica_reyes_rodriguez@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-9678">2A</td>
+    <td class="tg-9678">Ms Chew Sue Ning Shermaine</td>
+    <td class="tg-9678">chew_sue_ning_shermaine@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1"></td>
+    <td class="tg-0lax">Ms Tan Shi Jia</td>
+    <td class="tg-0lax">tan_shi_jia@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-faf8"></td>
+    <td class="tg-9678">Mr Ang Soon Hock Andrew</td>
+    <td class="tg-9678">ang_soon_hock_andrew@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2B </td>
+    <td class="tg-0lax">Mr Ong Boon Siong</td>
+    <td class="tg-0lax">ong_boon_siong@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-faf8"></td>
+    <td class="tg-9678">Mr Hafiz Emran Khan</td>
+    <td class="tg-9678">hafiz_emran_khan@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2C</td>
+    <td class="tg-0lax">Mr Tay Tse Min Daniel</td>
+    <td class="tg-0lax">tay_tse_min_daniel@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-faf8"></td>
+    <td class="tg-9678">Ms Rozita Bte Husain</td>
+    <td class="tg-9678">rozita_husain@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2D</td>
+    <td class="tg-0lax">Ms Mary Rose P Gonsalvez</td>
+    <td class="tg-0lax">mary_rose_p_gonsalvez@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-faf8"></td>
+    <td class="tg-9678">Mr Lee Zhong Shun</td>
+    <td class="tg-9678">lee_zhong_shun@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2E</td>
+    <td class="tg-0lax">Ms Salina Binte Abdul Majid</td>
+    <td class="tg-0lax">salina_abdul_majid@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-faf8"></td>
+    <td class="tg-9678">Dr Lim Si Hui</td>
+    <td class="tg-9678">lim_si_hui@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2F</td>
+    <td class="tg-0lax">Mr Muhammad Khairul Ridhwan Bin Bohari</td>
+    <td class="tg-0lax">muhammad_khairul_ridhwan_bohari@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-faf8"></td>
+    <td class="tg-9678">Mr Amit Kumar Sharma s/o Amber Nath </td>
+    <td class="tg-9678">amit_kumar_sharma_amber@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2G</td>
+    <td class="tg-0lax">Mr Wong Chun Meng Victor</td>
+    <td class="tg-0lax">wong_chung_meng@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-faf8"></td>
+    <td class="tg-9678">Ms Foo Siqi Michell </td>
+    <td class="tg-9678">foo_siqi_michell@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">3A</td>
+    <td class="tg-0lax">Ms Amira Begum d/o Abdul Naseer</td>
+    <td class="tg-0lax">amira_begum_abdul_naseer@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-faf8"></td>
+    <td class="tg-9678">Mr Nur Hakim Alim Bin Salim</td>
+    <td class="tg-9678">nur_hakim_alim_salim@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">3B</td>
+    <td class="tg-0lax">Mr Kang Ching Choon Bryan </td>
+    <td class="tg-0lax">kang_ching_choon@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-faf8"></td>
+    <td class="tg-9678">Ms Lui Yi Ling Candice</td>
+    <td class="tg-9678">lui_yi_ling_candice@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">3C</td>
+    <td class="tg-0lax">Ms Angeline Ng Yeou Chiann</td>
+    <td class="tg-0lax">ng_yeou_chiann_angeline@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-faf8"></td>
+    <td class="tg-9678">Mr Ahmad Nabil Bin Ahmad Al-Kastalani</td>
+    <td class="tg-9678">ahmad_nabil_ahmad_al-kastalani@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">3D</td>
+    <td class="tg-0lax">Ms Ahadiyah Binte Rosmani</td>
+    <td class="tg-0lax">ahadiyah_rosmani@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-faf8"></td>
+    <td class="tg-9678">Ms Charmaine Tan Wan Wen</td>
+    <td class="tg-9678">-</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">3E</td>
+    <td class="tg-0lax">Ms Ng Imei</td>
+    <td class="tg-0lax">ng_imei@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-faf8"></td>
+    <td class="tg-9678">Ms Kok Jia En Yvonne</td>
+    <td class="tg-9678">jia_en_yvonne_kok@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">3F</td>
+    <td class="tg-0lax">Ms Lee Shi Hua Candice</td>
+    <td class="tg-0lax">lee_shi_hua_candice@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-faf8"></td>
+    <td class="tg-9678">Ms Eileen Ong Ah Buan </td>
+    <td class="tg-9678">eileen_ong_ah_buan@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">3G</td>
+    <td class="tg-0lax">Mr Lim Xu Yao</td>
+    <td class="tg-0lax">lim_xu_yao@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-faf8"></td>
+    <td class="tg-9678">Ms Leong Hui Lin Melcia </td>
+    <td class="tg-9678">hui_lin_melcia_leong@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1"></td>
+    <td class="tg-0lax">Ms Bao Bing Qing</td>
+    <td class="tg-0lax">bao_bingqing@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-9678">4A</td>
+    <td class="tg-9678">Ms Tan Hsiao Wey</td>
+    <td class="tg-9678">tan_hsiao_wey@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1"></td>
+    <td class="tg-0lax">Mr Qamarul Arifin Bin Abdul Rashid</td>
+    <td class="tg-0lax">arifin_abd_rashid_qamarul@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-9678">4B</td>
+    <td class="tg-9678">Ms Goh Pei Shan</td>
+    <td class="tg-9678">goh_pei_shan@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1"></td>
+    <td class="tg-0lax">Mr Mohd Jawahir B Ahmat</td>
+    <td class="tg-0lax">mohd_jawahir_ahmat@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-9678">4C</td>
+    <td class="tg-9678">Ms Ernieyanty Hasan </td>
+    <td class="tg-9678">ernieyanty_hasan@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1"></td>
+    <td class="tg-0lax">Ms Sun Guangpu</td>
+    <td class="tg-0lax">sun_guangpu@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-9678">4D</td>
+    <td class="tg-9678">Ms Jurana Binte Abdul Rahim</td>
+    <td class="tg-9678">jurana_abdul_rahim@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1"></td>
+    <td class="tg-0lax">Mr Phua Lock Hian</td>
+    <td class="tg-0lax">-</td>
+  </tr>
+  <tr>
+    <td class="tg-9678">4E</td>
+    <td class="tg-9678">Ms Tuan Chui Lin</td>
+    <td class="tg-9678">tuan_chui_lin@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1"></td>
+    <td class="tg-0lax">Ms Yong Tann Lee</td>
+    <td class="tg-0lax">yong_tann_lee@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-9678">4F</td>
+    <td class="tg-9678">Ms Lee Li Yun</td>
+    <td class="tg-9678">lee_li_yun@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1"></td>
+    <td class="tg-0lax">Ms Victoria Lynn Tan Tien Tien</td>
+    <td class="tg-0lax">-</td>
+  </tr>
+  <tr>
+    <td class="tg-9678">4G</td>
+    <td class="tg-9678">Ms Faith Kaylie Ong Yi Cheng</td>
+    <td class="tg-9678">faith_kaylie_ong@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1"></td>
+    <td class="tg-0lax">Ms Darul Ellia Binte Zulkarnain</td>
+    <td class="tg-0lax">darul_ellia_zulkarnain@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-faf8"></td>
+    <td class="tg-9678">Ms Yip Ler Enn Vera</td>
+    <td class="tg-9678">-</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">5A</td>
+    <td class="tg-0lax">Ms Tan-Chen Lingzhi Wendy</td>
+    <td class="tg-0lax">chen_lingzhi@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-faf8"> </td>
+    <td class="tg-faf8"> </td>
+    <td class="tg-faf8"> </td>
+  </tr>
+</tbody>
+</table>
 
 
 ##### Other Teachers	
