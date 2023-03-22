@@ -33,8 +33,8 @@ Girls: Every Wednesday 3pm – 6pm and Friday 1pm-4pm
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 700px">
 <colgroup>
-<col style="width: 423px">
-<col style="width: 481px">
+<col style="width: 350px">
+<col style="width: 350px">
 </colgroup>
 <thead>
   <tr>
