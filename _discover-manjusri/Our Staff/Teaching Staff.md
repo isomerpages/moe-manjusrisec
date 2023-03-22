@@ -414,11 +414,83 @@ third_nav_title: Our Staff
 
 ##### Flexi-Adjunct Teachers	
 
-| Name              |  Email                        |
-|---------|---------------------------|
-| Mdm Cheong Siew Yie                         |  cheong_siew_yie@moe.edu.sg        |
-| Mr Teo Huay Meng, Joseph                    |  joseph_teo_huay_meng@moe.edu.sg   |
-| Mr Mohamed Imran Bin Mustaffa               |  mohamed_imran_mustaffa@moe.edu.sg |
-| Mrs Yong-Liow Chai Leng<br>(Senior Teacher) |  liow_chai_leng@moe.edu.sg         |
-| Mrs Fang Chunhua, Helen                     |  fang_chunhua_helen@moe.edu.sg     |
-| Ms Chan Wan Yi Mildred                      |  chan_wan_yi_mildred@moe.edu.sg    |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-yu53{background-color:#E5E5E5;border-color:inherit;color:#333;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-citn{background-color:#FFF;color:#333;text-align:left;vertical-align:top}
+.tg .tg-pz2b{background-color:#E5E5E5;color:#333;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 730px">
+<colgroup>
+<col style="width: 246px">
+<col style="width: 400px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-yu53">Name</th>
+    <th class="tg-yu53">Email</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-citn">Mdm Cheong Siew Yie</td>
+    <td class="tg-citn">cheong_siew_yie@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-pz2b">Ms Sharon Chia</td>
+    <td class="tg-pz2b">-</td>
+  </tr>
+  <tr>
+    <td class="tg-citn">Ms Ser Kia Hwee</td>
+    <td class="tg-citn">ser_kia_hwee@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-pz2b">Ms  Chan Wan Yi Mildred</td>
+    <td class="tg-pz2b">chan_wan_yi_mildred@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-citn">Ms  Elna Shirin Binte Him Pon</td>
+    <td class="tg-citn">elna_shirin_him_pon@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-pz2b">Mr Tan Poh Pin</td>
+    <td class="tg-pz2b">tan_poh_pin@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-citn">Mdm R Rajletchumi (Mrs Eddy)</td>
+    <td class="tg-citn">-</td>
+  </tr>
+  <tr>
+    <td class="tg-pz2b">Ms Wong Sook Fong Shirley</td>
+    <td class="tg-pz2b">wong_sook_fong@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-citn">Mrs  Yong-Liow Chai Leng</td>
+    <td class="tg-citn">liow_chai_leng@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-pz2b">Mr Lian Shunk Tian Benjamin</td>
+    <td class="tg-pz2b">lian_shunk_tian_benjamin_a@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-citn">Ms Fang Chunhua Helen</td>
+    <td class="tg-citn">fang_chunhua_helen@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-pz2b">Ms Rubiyah Binte Mohd Ghavs</td>
+    <td class="tg-pz2b">rubiyah_mohd_ghavs@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-citn">Mdm Mok Yee Wan (Mrs Lai)</td>
+    <td class="tg-citn">-</td>
+  </tr>
+  <tr>
+    <td class="tg-pz2b">Mr Izham Sidek</td>
+    <td class="tg-pz2b">izham_sidek@moe.edu.sg</td>
+  </tr>
+</tbody>
+</table>
