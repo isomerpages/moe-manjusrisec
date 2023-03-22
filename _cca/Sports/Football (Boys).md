@@ -29,8 +29,8 @@ Mondays and Wednesday 3pm-6pm
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 700px">
 <colgroup>
-<col style="width: 405px">
-<col style="width: 461px">
+<col style="width: 300px">
+<col style="width: 400px">
 </colgroup>
 <thead>
   <tr>
@@ -67,10 +67,10 @@ Mondays and Wednesday 3pm-6pm
 .tg .tg-2atv{background-color:#C00;border-color:inherit;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-gktn{background-color:#FFF;border-color:inherit;color:#222;text-align:center;vertical-align:middle}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 865px">
+<table class="tg" style="undefined;table-layout: fixed; width: 700px">
 <colgroup>
-<col style="width: 405px">
-<col style="width: 460px">
+<col style="width: 350px">
+<col style="width: 350px">
 </colgroup>
 <thead>
   <tr>
@@ -101,10 +101,10 @@ Mondays and Wednesday 3pm-6pm
 .tg .tg-2atv{background-color:#C00;border-color:inherit;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-gktn{background-color:#FFF;border-color:inherit;color:#222;text-align:center;vertical-align:middle}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 865px">
+<table class="tg" style="undefined;table-layout: fixed; width: 700px">
 <colgroup>
-<col style="width: 405px">
-<col style="width: 460px">
+<col style="width: 350px">
+<col style="width: 350px">
 </colgroup>
 <thead>
   <tr>
