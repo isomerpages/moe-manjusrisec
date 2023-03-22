@@ -25,8 +25,8 @@ Monday and Wednesday 2.30pm – 5.30pm
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 700px">
 <colgroup>
-<col style="width: 379px">
-<col style="width: 431px">
+<col style="width: 300px">
+<col style="width: 400px">
 </colgroup>
 <thead>
   <tr>
@@ -64,8 +64,8 @@ Monday and Wednesday 2.30pm – 5.30pm
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 700px">
 <colgroup>
-<col style="width: 388px">
-<col style="width: 441px">
+<col style="width: 350px">
+<col style="width: 350px">
 </colgroup>
 <thead>
   <tr>
