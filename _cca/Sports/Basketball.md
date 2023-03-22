@@ -29,8 +29,8 @@ Boy’s training days: Tuesday & Thursday (3 – 6pm)
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 700px">
 <colgroup>
-<col style="width: 406px">
-<col style="width: 461px">
+<col style="width: 300px">
+<col style="width: 400px">
 </colgroup>
 <thead>
   <tr>
@@ -72,8 +72,8 @@ Boy’s training days: Tuesday & Thursday (3 – 6pm)
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 867px">
 <colgroup>
-<col style="width: 406px">
-<col style="width: 461px">
+<col style="width: 300px">
+<col style="width: 400px">
 </colgroup>
 <thead>
   <tr>
