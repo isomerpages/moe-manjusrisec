@@ -112,8 +112,8 @@ third_nav_title: Our Staff
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 700px">
 <colgroup>
-<col style="width: 311px">
-<col style="width: 506px">
+<col style="width: 260px">
+<col style="width: 423px">
 </colgroup>
 <thead>
   <tr>
