@@ -36,8 +36,8 @@ Friday: 1-3pm
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 700px">
 <colgroup>
-<col style="width: 423px">
-<col style="width: 481px">
+<col style="width: 350px">
+<col style="width: 350px">
 </colgroup>
 <thead>
   <tr>
