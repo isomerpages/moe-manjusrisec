@@ -2,7 +2,6 @@ collections:
   spotlight:
     output: true
     order:
-      - Home Based Learning (HBL).md
       - The Caring Teacher Awards 2020.md
       - MOE Special Awards 2020.md
       - MOE Service Excellence Award (MSEA) 2020.md
