@@ -123,7 +123,7 @@ third_nav_title: Our Staff
 </thead>
 <tbody>
   <tr>
-    <td class="tg-citn">Ms Swee Yun Ya Lynette</td>
+    <td class="tg-citn">Ms Neo Yam Hoon</td>
     <td class="tg-citn">Receptionist</td>
   </tr>
   <tr>
