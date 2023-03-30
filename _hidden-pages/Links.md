@@ -26,5 +26,5 @@ description: ""
 |:---------------:|:-----------:|:------------:|
 |    <a href="https://www.channelnewsasia.com/tv/live">Channel NewsAsia (live)  </a>     |             <a href="https://www.moh.gov.sg/" target="_blank">Ministry of Health </a>                       |  <a href="https://www.seab.gov.sg/" target="_blank">Singapore Examination and Assessment Board  </a>         |
 |<a href="https://www.ns.sg/nsp/portal/site/start" target="_blank">Preparation for National Service </a>                                                   |                   <a href="https://www.nafa.edu.sg/" target="_blank">NAFA   </a>                        |              <a href="https://ssoe2.moe.edu.sg/" target="_blank">SSOE Portal </a>                   |
-|    <a href="https://www.haze.gov.sg/" target="_blank">Haze Situation Update </a>      |                         |                                            |
-|          <a href="https://www.ite.edu.sg/" target="_blank">ITE Education</a>     |     <a href="https://www.ns.sg/nsp/portal/site/start" target="_blank">Preparation for National Service </a>         |                                            |
+|    <a href="https://www.haze.gov.sg/" target="_blank">Haze Situation Update </a>      |                 <a href="https://www.ite.edu.sg/" target="_blank">ITE Education</a>           |                                            |
+|            |                                  |
