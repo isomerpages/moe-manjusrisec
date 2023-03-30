@@ -4,16 +4,14 @@ permalink: /contact-us/school-contact-details/
 description: ""
 third_nav_title: Contact Us
 ---
-
 # School Contact Details
 
 **Address**    
 20 Ubi Avenue 1   
 Singapore 408940
-
    
-**Contacts**
 
+**Contacts**
 |        |                        |
 |--------|------------------------|
 | Tel:   | 6842 4558              |
