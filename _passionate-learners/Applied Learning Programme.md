@@ -63,7 +63,7 @@ Manjusri Secondary School admits students through the Direct School Admission â€
 
 |   |   |   |
 |---|---|---|
-|STEM application in monitoring production processes at Infineon Technologies | Smart gadgets design during Advanced Elective Module in Singapore Polytechnics   | Job shadowing programme with engineers at Rohde & Schwarz Asia  |
+|![](/images/Passionate%20Learners/Applied%20Learning%20Programme/alp_new7.png)STEM application in monitoring production processes at Infineon Technologies | ![](/images/Passionate%20Learners/Applied%20Learning%20Programme/alp_new8.png)Smart gadgets design during Advanced Elective Module in Singapore Polytechnics   | ![](/images/Passionate%20Learners/Applied%20Learning%20Programme/alp_new9.png)Job shadowing programme with engineers at Rohde & Schwarz Asia  |
 
 ##### Our Industrial Partners
 
