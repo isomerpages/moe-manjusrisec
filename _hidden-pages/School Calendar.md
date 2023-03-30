@@ -3,4 +3,4 @@ title: School Calendar
 permalink: /hidden-pages/school-calendar/
 description: ""
 ---
-<iframe scrolling="no" frameborder="0" height="600" width="680" style="border: 0" src="https://calendar.google.com/calendar/embed?src=c_o3on13juea22ot6v3m9bk4vq2k%40group.calendar.google.com&amp;ctz=Asia%2FSingapore"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?src=c_839fd942c31020e41a4483870854817aa0ca30ff2867a2bbe924b92f9e3341d1%40group.calendar.google.com&ctz=Asia%2FSingapore" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
