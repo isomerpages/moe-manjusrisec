@@ -21,8 +21,8 @@ description: ""
 
 |   |   |   |
 |:----:|:---:|:-----:|
-| <img src="/images/Passionate%20Learners/Learning%20for%20Life%20Programme/Drama1.jpg" style="width:50%"> |   ![](/images/Passionate%20Learners/Learning%20for%20Life%20Programme/Drama2.jpg)   | ![](/images/Passionate%20Learners/Learning%20for%20Life%20Programme/Drama3.jpg)  |
-| <img src="/images/Passionate%20Learners/Learning%20for%20Life%20Programme/Drama4.jpg" style="width:50%">  | ![](/images/Passionate%20Learners/Learning%20for%20Life%20Programme/Drama5.jpg)  |  ![](/images/Passionate%20Learners/Learning%20for%20Life%20Programme/Drama6.jpg) |
+| <img src="/images/Passionate%20Learners/Learning%20for%20Life%20Programme/Drama1.jpg" style="width:55%"> |   ![](/images/Passionate%20Learners/Learning%20for%20Life%20Programme/Drama2.jpg)   | ![](/images/Passionate%20Learners/Learning%20for%20Life%20Programme/Drama3.jpg)  |
+| <img src="/images/Passionate%20Learners/Learning%20for%20Life%20Programme/Drama4.jpg" style="width:45%">  | ![](/images/Passionate%20Learners/Learning%20for%20Life%20Programme/Drama5.jpg)  |  ![](/images/Passionate%20Learners/Learning%20for%20Life%20Programme/Drama6.jpg) |
 
 
 **2\. Arts/ Photography Enrichment**
