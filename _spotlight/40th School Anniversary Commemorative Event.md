@@ -15,4 +15,7 @@ It also marked the opening of an upgraded school library by Mr Tan Chuan-Jin, wi
 ![](/images/Spotlight/Anniversary/ann3.png)|![](/images/Spotlight/Anniversary/ann4.png)|
 ![](/images/Spotlight/Anniversary/ann5.png)|![](/images/Spotlight/Anniversary/ann6.png)|
 ![](/images/Spotlight/Anniversary/ann7.png)|![](/images/Spotlight/Anniversary/ann8.png)|
+![](/images/Spotlight/Anniversary/ann9.png)|![](/images/Spotlight/Anniversary/ann10.png)|
+![](/images/Spotlight/Anniversary/ann11.png)|![](/images/Spotlight/Anniversary/ann12.png)|
+![](/images/Spotlight/Anniversary/ann13.png)|![](/images/Spotlight/Anniversary/ann14.png)|
 |
