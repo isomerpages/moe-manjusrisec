@@ -47,5 +47,5 @@ Aspiration takes flight in the form of an origami plane headed towards a bright 
 | -------- | -------- | 
 | ![](/images/Spotlight/Wisdom/wisdom7.png)   |    ![](/images/Spotlight/Wisdom/wisdom8.png)|
 	
-The sculpture was unveiled by Mdm Chan Poh Swee, Treasurer of School Management Committee and former Manjusri Sec Principal (1998-2004) Mdm Heng Sen Mee.
-</p>
+The sculpture was unveiled by Mdm Chan Poh Swee, Treasurer of School Management Committee and former Manjusri Sec Principal (1998-2004) Mdm Heng Sen Mee. </p>
+<p></p>
