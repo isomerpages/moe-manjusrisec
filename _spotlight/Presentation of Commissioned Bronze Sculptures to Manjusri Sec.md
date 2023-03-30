@@ -8,6 +8,8 @@ description: ""
 **Manjusrian Virtues: Wisdom**  
 	
 The sculpture is inspired by the majestic bodhi tree under which the Buddha attained Enlightenment. The heart-shaped leaves of the bodhi are depicted in the arch; while the hands are positioned in an open manner to symbolize the possessing of Knowledge and Wisdom.
+	
+	
 |  |  |
 | -------- | -------- | 
 | ![](/images/Spotlight/Wisdom/wisdom1.png)   |    ![](/images/Spotlight/Wisdom/wisdom2.png)|
@@ -17,6 +19,7 @@ This sculpture was unveiled by Speaker of Parliament Tan Chuan-Jin and Venerable
 **Manjusrian Virtues: Conduct**  
  
 The gesture of the palms of the hands placed together in front (Namaste) is an act of respect and gratitude.&nbsp; The background relief is inspired by the Chinese proverb 出淤泥而不染.&nbsp; The lotus is a symbol of remaining pure at heart and mind, regardless of one’s roots or circumstances, and of striving to rise above it all to blossom in Conduct and Behaviour.
+	
 
 |  |  |
 | -------- | -------- | 
@@ -28,6 +31,7 @@ This sculpture was unveiled by Venerable Seck Kwang Phing, President of Singapor
  
 The virtue of Benevolence is represented by hands cradling the heart at the centre of the human figure and by the nurture of growing saplings in the relief.&nbsp;&nbsp; The sculpture symbolizes compassion and universal love for all living beings; and the intention to promote the well-being of others.
 
+	
 |  |  |
 | -------- | -------- | 
 | ![](/images/Spotlight/Wisdom/wisdom5.png)   |    ![](/images/Spotlight/Wisdom/wisdom6.png)|
@@ -38,6 +42,7 @@ The sculpture was unveiled by Mr Tan Yew Beng, Secretary of School Management Co
  
 Aspiration takes flight in the form of an origami plane headed towards a bright future represented by the radiating rays of the sun.&nbsp;&nbsp; The shape of the section containing the solar rays matches the negative space within the figure to signify it is something that one is seeking to fulfill.&nbsp; The clasping hand over fist of the figure communicates the desire and determination to achieve noble and worthwhile goals.
 
+	
 |  |  |
 | -------- | -------- | 
 | ![](/images/Spotlight/Wisdom/wisdom7.png)   |    ![](/images/Spotlight/Wisdom/wisdom8.png)|
