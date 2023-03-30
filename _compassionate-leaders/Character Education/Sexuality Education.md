@@ -28,13 +28,13 @@ third_nav_title: Character Education
 
 (d) Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
 
-You may click [here](https://go.gov.sg/moe-sexuality-education) for more information on MOE Sexuality Education.
+You may click [here](https://go.gov.sg/moe-sexuality-education) for more information on MOE Sexuality Education. </p>
 
 **Overview of Manjusri Secondary School’s Sexuality Education Programme for 2023**
 
-<p style="text-align: justify;">4. Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://go.gov.sg/moe-sexuality-education-scope) for more information on the scope of Sexuality Education in the school curriculum.
+<p style="text-align: justify;">4. Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://go.gov.sg/moe-sexuality-education-scope)for more information on the scope of Sexuality Education in the school curriculum.</p>
 
-5. The subjects that incorporate topics on sexuality include:
+<p style="text-align: justify;">5. The subjects that incorporate topics on sexuality include:</p>
 
 a. Science
 
