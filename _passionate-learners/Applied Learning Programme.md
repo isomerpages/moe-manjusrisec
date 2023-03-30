@@ -48,7 +48,7 @@ Manjusri Secondary School admits students through the Direct School Admission â€
 
 |   |   |   |
 |---|-----|------|
-| ![](/images/Passionate%20Learners/Applied%20Learning%20Programme/alp_new1.png) Developing computational thinking through Potato Pirate Card game | ![](/images/Passionate%20Learners/Applied%20Learning%20Programme/alp_new2.png) Discovering microcontroller (Microbits) connections and coding 	  | ![](/images/Passionate%20Learners/Applied%20Learning%20Programme/alp_new3.png)  Appreciating the needs of the elderly or less-abled |
+| Developing computational thinking through Potato Pirate Card game | Discovering microcontroller (Microbits) connections and coding 	  |  Appreciating the needs of the elderly or less-abled |
 
 
 <b><u>Secondary 2 - Design Thinking In Smart City
