@@ -56,7 +56,7 @@ Manjusri Secondary School admits students through the Direct School Admission â€
 
 |   |   |   |
 |-----|-----|------|
-|<img src="/images/Passionate%20Learners/Applied%20Learning%20Programme/alp_new4.png" style="width:300px; height:180px" />Sharing the smart assistive technologies to the peers	  |<img src="/images/Passionate%20Learners/Applied%20Learning%20Programme/alp_new5.png" style="width:300px; height:180=px"/>Showcasing innovative smart assistive technologies to school  | <img src="/images/Passionate%20Learners/Applied%20Learning%20Programme/alp_new6.png" style="width:300px; height:180px" />Exploring STEM applications in the design of the F1 car     |
+|Sharing the smart assistive technologies to the peers	  |Showcasing innovative smart assistive technologies to school  | Exploring STEM applications in the design of the F1 car     |
 
 <b><u>Secondary 3 and Beyond - Talent Development
 </u></b>
