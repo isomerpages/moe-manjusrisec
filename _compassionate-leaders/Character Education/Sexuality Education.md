@@ -80,10 +80,10 @@ _**eTeens**_ **Programme** :
 
 **Information for Parents**
 
-<p style="text-align: justify;">10. Parents may opt their children out of the Sexuality Education lessons, *eTeens* and/or supplementary sexuality education programmes by MOE-approved external providers.
+<p style="text-align: justify;">10. Parents may opt their children out of the Sexuality Education lessons, *eTeens* and/or supplementary sexuality education programmes by MOE-approved external providers.</p>
 
-11\. Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](https://manjusrisec.moe.edu.sg/qql/slot/u165/docs/pdf/sexuality_education/MJR%20MOE%20Sexuality%20Education%20Annex%20A.pdf). The completed form is to be submitted by 03/02/2023.
+<p style="text-align: justify;">11. Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/CCE/MJR%20MOE%20Sexuality%20Education%20Annex%20A.pdf)The completed form is to be submitted by 03/02/2023.</p>
 
-12\. Parents who wish to opt their children out of the **_eTeens_** **programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](https://manjusrisec.moe.edu.sg/qql/slot/u165/docs/pdf/sexuality_education/MJR%20MOE%20Sexuality%20Education%20Annex%20B.pdf).  The completed form is to be submitted by 03/02/2023.
+<p style="text-align: justify;">12. Parents who wish to opt their children out of the **_eTeens_** **programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable  [here](/files/CCE/MJR%20MOE%20Sexuality%20Education%20Annex%20B.pdf)The completed form is to be submitted by 03/02/2023.</p>
 
-13. Parents can contact the school at 6842 4558 or email us at manjusri_ss@moe.edu.sg for discussion or to seek clarification about the school’s Sexuality Education programme.</p>
+<p style="text-align: justify;">13. Parents can contact the school at 6842 4558 or email us at manjusri_ss@moe.edu.sg for discussion or to seek clarification about the school’s Sexuality Education programme.</p</p>
