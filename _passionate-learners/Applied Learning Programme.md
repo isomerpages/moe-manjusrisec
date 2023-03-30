@@ -48,7 +48,7 @@ Manjusri Secondary School admits students through the Direct School Admission â€
 
 |   |   |   |
 |---|-----|------|
-| Developing computational thinking through Potato Pirate Card game | Discovering microcontroller (Microbits) connections and coding 	  |  Appreciating the needs of the elderly or less-abled |
+| ![](/images/Passionate%20Learners/Applied%20Learning%20Programme/alp_new1.png)Developing computational thinking through Potato Pirate Card game | Discovering microcontroller (Microbits) connections and coding 	  |  Appreciating the needs of the elderly or less-abled |
 
 
 <b><u>Secondary 2 - Design Thinking In Smart City
@@ -63,7 +63,7 @@ Manjusri Secondary School admits students through the Direct School Admission â€
 
 |   |   |   |
 |---|---|---|
-| <img src="/images/Passionate%20Learners/Applied%20Learning%20Programme/alp_new7.png" style="width:300px; height:180px" />  STEM application in monitoring production processes at Infineon Technologies |<img src="/images/Passionate%20Learners/Applied%20Learning%20Programme/alp_new8.png" style="width:300px; height:180px" />   Smart gadgets design during Advanced Elective Module in Singapore Polytechnics   | <img src="/images/Passionate%20Learners/Applied%20Learning%20Programme/alp_new9.png" style="width:300px; height:180px" /> Job shadowing programme with engineers at Rohde & Schwarz Asia  |
+|STEM application in monitoring production processes at Infineon Technologies | Smart gadgets design during Advanced Elective Module in Singapore Polytechnics   | Job shadowing programme with engineers at Rohde & Schwarz Asia  |
 
 ##### Our Industrial Partners
 
