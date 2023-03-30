@@ -8,8 +8,9 @@ description: ""
 **Manjusrian Virtues: Wisdom**  
 	
 The sculpture is inspired by the majestic bodhi tree under which the Buddha attained Enlightenment. The heart-shaped leaves of the bodhi are depicted in the arch; while the hands are positioned in an open manner to symbolize the possessing of Knowledge and Wisdom.
-
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed; color: rgb(51, 51, 51); font-family: &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, &quot;Lucida Sans&quot;, &quot;DejaVu Sans&quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 60px;"><img style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; float: left;" class="ive_eobj_left" alt="wisdom1.png" src="https://manjusrisec-moe-edu-sg-admin.cwp.sg/qql/slot/u165/images/pages/news/wisdom1.png"><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 60px;"><img style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; float: left;" class="ive_eobj_left" alt="wisdom2.png" src="https://manjusrisec-moe-edu-sg-admin.cwp.sg/qql/slot/u165/images/pages/news/wisdom2.png"><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr></tbody></table>
+|  |  |
+| -------- | -------- | 
+| ![](/images/Spotlight/Wisdom/wisdom1.png)   |    ![](/images/Spotlight/Wisdom/wisdom2.png)|
 
 This sculpture was unveiled by Speaker of Parliament Tan Chuan-Jin and Venerable Sik Kwang Sheng, Chairman of Manjusri Secondary’s Management Committee.
   
