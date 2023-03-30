@@ -3,10 +3,6 @@ title: Links
 permalink: /hidden-pages/links/
 description: ""
 ---
-# PaC@Gov, School Cockpit, MOE Intranet, Academy of Singapore Teachers, School Bag, FiGi RAS Portal, SSOE Portal , Education & Career Guidance, Polytechnic Education
-
-
-
 |          |             MOE Links       |                              |
 |:---------------:|:-----------:|:------------:|
 |  <a href="https://www.moe.gov.sg/" target="_blank">MOE - Ministry of Education</a>     |  <a href="https://iexams.seab.gov.sg/login" target="_blank">iEXAMS2  </a><br>(Google Chrome version 86.0 and above or<br>Microsoft Edge version 42.0 and above) |     <a href="https://icon.moe.edu.sg/" target="_blank">ICON - iCONNECT</a>            |
