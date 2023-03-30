@@ -13,7 +13,7 @@ description: ""
 |        <a href="https://intranet.moe.gov.sg/" target="_blank">MOE Intranet</a>     |                      <a href="https://www.mesrc.net/" target="_blank">MOE Sports and Recreation Club</a>         |     <a href="https://schoolcockpit.moe.gov.sg/" target="_blank">School Cockpit</a>            |
 |  <a href="https://academyofsingaporeteachers.moe.edu.sg/" target="_blank">Academy of Singapore Teachers</a> |                      <a href="https://www.opal2.moe.edu.sg/" target="_blank"> OPAL 2.0 - One Portal All Learners </a>                                      |<a href="https://vle.learning.moe.edu.sg/login" target="_blank">SLS - Student Learning Space</a>   |
 |                    <a href="https://www.hrp.gov.sg/hrp/#/" target="_blank">HRP </a>        |                                      <a href="https://schoolibrary.moe.edu.sg/manjusrisec" target="_blank">OPAC  </a>                                                    |       <a href="http://schoolbag.sg/" target="_blank">School Bag </a>             |
-|   <a href="http://mims.moe.gov.sg/" target="_blank">MIMS</a><br>(replace IAMS 2.0)   |                                                                         <a href="http://pacgov.agd.gov.sg/ipac/portal/jsp/login/index1.jsp" target="_blank"> PaC@Gov</a>               |  <a href="https://schoolibrary.moe.edu.sg/manjusrisec/spydus" target="_blank">Library System (Spydus)</a>      |
+|   <a href="http://mims.moe.gov.sg/" target="_blank">MIMS</a><br> ||        |
 
 
 |                      |   School Links              |                  |
