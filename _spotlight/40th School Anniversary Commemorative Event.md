@@ -8,3 +8,9 @@ description: ""
 The event was attended by about 200 guests including venerables from Singapore Buddhist Federation (SBF), alumni and former staff. It witnessed the unveiling of four commissioned bronze statues by the School Management Committee (SMC) with each sculpture depicting a virtue from the school motto; as well as saw the launch of a commemorative book capturing the school’s 40-year history.  
 
 It also marked the opening of an upgraded school library by Mr Tan Chuan-Jin, with the renovation works being funded by the estate of the late Venerable Suit Woo Foong, a past SMC chairman (1997-2001).
+	
+|  |  |  
+| -------- | -------- | 
+| Text     | Text     | 
+
+
