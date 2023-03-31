@@ -463,7 +463,7 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td class="tg-citn">Mdm R Rajletchumi (Mrs Eddy)</td>
-    <td class="tg-citn">-</td>
+    <td class="tg-citn">r_rajletchumi@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-pz2b">Ms Wong Sook Fong Shirley</td>
@@ -487,7 +487,7 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td class="tg-citn">Mdm Mok Yee Wan (Mrs Lai)</td>
-    <td class="tg-citn">-</td>
+    <td class="tg-citn">lai_kin_sen@moe.edu.sg</td>
   </tr>
  
 </tbody>
