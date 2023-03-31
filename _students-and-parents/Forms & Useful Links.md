@@ -80,7 +80,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-vf55"><a href="https://www.seab.gov.sg/"><span style="text-decoration:underline;color:#B42025">Singapore Examination and Assessment Board</span></a></td>
-    <td class="tg-vf55"><a href="https://www.dengue.gov.sg/subject.asp?id=103"><span style="text-decoration:underline;color:#B42025">Vigilance against dengue</span></a></td>
+    <td class="tg-vf55"></td>
     <td class="tg-tj0x"><a href="https://vle.learning.moe.edu.sg/login"><span style="text-decoration:none;color:#B42025">Student Learning Space</span></a><br></td>
   </tr>
   <tr>
