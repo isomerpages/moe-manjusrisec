@@ -164,8 +164,8 @@ Every Monday and Wednesday
 |   |   | 
 |:---:|:---:|
 |  ![](/images/Cca/Choir/choir06.png) OPOM 1  | ![](/images/Cca/Choir/choir07.png) OPOM 2    |  
-**Singapore Youth Festival Arts Presentation**
 
+**Singapore Youth Festival Arts Presentation**
 
 |   |   |   |
 |:---:|:---:|:---:|
