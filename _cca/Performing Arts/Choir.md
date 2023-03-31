@@ -169,6 +169,5 @@ Every Monday and Wednesday
 
 |   |   |   |
 |:---:|:---:|:---:|
-|    ![](/images/Cca/Choir/choir08.png) 	  |     ![](/images/Cca/Choir/choir09.png)	 |    ![](/images/Cca/Choir/choir10.png)  	|
-| 	 |   ![](/images/Cca/Choir/Recording1.jpg)   |  	  |
-|  ![](/images/Cca/Choir/Recording3.jpg)  	  |   ![](/images/Cca/Choir/Recording4.jpg)	| |
+| ![](/images/Cca/Choir/choir08.png) 	  | ![](/images/Cca/Choir/choir09.png)	 |    ![](/images/Cca/Choir/choir10.png)  	|
+| ![](/images/Cca/Choir/Recording1.jpg)   |![](/images/Cca/Choir/Recording3.jpg)  	  |   ![](/images/Cca/Choir/Recording4.jpg)	| |
