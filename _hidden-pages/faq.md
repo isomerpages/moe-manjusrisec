@@ -23,7 +23,7 @@ permalink: /faq/
 ##### **Finance Matters :**&nbsp;&nbsp;  
 **School fees matters**
 
-[https://www.moe.gov.sg/education/secondary](https://www.moe.gov.sg/education/secondary)  
+[Frequently asked questions (FAQ) | MOE](https://www.moe.gov.sg/faq)
 
 **How do I make payments?**
 
