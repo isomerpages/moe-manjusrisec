@@ -3,9 +3,7 @@ title: National Digital Literacy Programme (NDLP)
 permalink: /students-and-parents/national-digital-literacy-programme-ndlp/
 description: ""
 ---
-# broken link: https://www.asiapac.com.sg/pld/lenovo
 
-# pdf &gt; 5MB: Lenovo Chromebook 500e User Guide, Parent Handbook (II) on Learning with a PLD
 ## **National Digital Literacy (NDLP)**
 
 **Background**&nbsp;&nbsp;  
