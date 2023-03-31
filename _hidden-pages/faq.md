@@ -2,15 +2,6 @@
 title: FAQ
 permalink: /faq/
 ---
-
-# links broken: When are the school terms/ school holidays?, School fees matters, Financial Assistance Scheme and Bursaries
-
-
-
-
-
-
-
 ##### **General:**
 
 **How do I get to MJR ?**
@@ -29,7 +20,7 @@ permalink: /faq/
 
 [https://www.moe.gov.sg/education/school-terms-and-holidays](https://www.moe.gov.sg/education/school-terms-and-holidays)  
 
-##### **Finance Matters :**    
+##### **Finance Matters :**&nbsp;&nbsp;  
 **School fees matters**
 
 [https://www.moe.gov.sg/education/secondary](https://www.moe.gov.sg/education/secondary)  
@@ -38,7 +29,7 @@ permalink: /faq/
 
 *   Nets payment can be made at any SAM Stations (kiosks).  
     
-*   Pay via SAM e-Station at <a href="http://www.mysam.sg/" target="_blank">www.mysam.sg</a> or via SAM mobile app.  
+*   Pay via SAM e-Station at&nbsp;<a href="http://www.mysam.sg/">www.mysam.sg</a>&nbsp;or via SAM mobile app.  
     
 *   For cheque payment, either post the cheques or call into our General Office. Please make cheques payable to ‘Manjusri Secondary School’.  
     
@@ -54,7 +45,7 @@ permalink: /faq/
 *   Approach General Office.  
     
 
-##### **DSA:** 
+##### **DSA:**&nbsp;
 
 **Where can I find out more about Direct School Admission (DSA) to Manjusri Secondary School?**
 
