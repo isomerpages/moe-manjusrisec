@@ -131,5 +131,5 @@ Every Monday and Wednesday&nbsp;3.00pm - 6.00pm
 
 |   |   |   |
 |:-:|:-:|:-:|
-|  ![](/images/Cca/Scouts/Safety%20Briefing.jpeg) Safety Briefing 	   | ![](/images/Cca/Scouts/Quick%20photo%20before%20the%20hike.jpeg)  Quick photo before the hike 	  |  ![](/images/Cca/Scouts/Patrol%20Leaders%20taking%20the%20lead.jpeg)  Patrol Leaders taking the lead   |
+|  ![](/images/Cca/Scouts/Safety%20Briefing.jpeg) Safety Briefing 	   | ![](/images/Cca/Scouts/Quick%20photo%20before%20the%20hike.jpeg)  Quick photo before the hike 	  | <img src="/images/Cca/Scouts/Patrol%20Leaders%20taking%20the%20lead.jpeg" style="width:85%">  Patrol Leaders taking the lead   |
 |   ![](/images/Cca/Scouts/Appreciating%20Nature.jpeg)  Appreciating Nature | ![](/images/Cca/Scouts/Exploring%20Nature.jpeg)   Exploring Nature |  ![](/images/Cca/Scouts/Teacher-Scout%20Bonding.jpeg)   Teacher-Scout Bonding |
