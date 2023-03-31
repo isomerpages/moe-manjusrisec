@@ -154,8 +154,8 @@ Every Monday and Wednesday
 
 |   |   |   |
 |:---:|:---:|:---:|
-| ![](/images/Cca/Choir/DSC_0798.jpg)   | <img src="/images/Cca/Choir/MJR%20Student%20Leaders-0245.jpg" style="width:70%">   | ![](/images/Cca/Choir/DSC_0584.jpg)     |
-|  ![](/images/Cca/Choir/choir.jpg)    | <img src="/images/Cca/Choir/Conductor%20Picture.jpg" style="width:70%">   Ms Michelle Poh <br>Choral Instructor|   |
+| ![](/images/Cca/Choir/DSC_0798.jpg)   | <img src="/images/Cca/Choir/MJR%20Student%20Leaders-0245.jpg" style="width:%">   | ![](/images/Cca/Choir/DSC_0584.jpg)     |
+|  ![](/images/Cca/Choir/choir.jpg)    | |   |
 
 **Our People Our Music Mega Concert**
 
