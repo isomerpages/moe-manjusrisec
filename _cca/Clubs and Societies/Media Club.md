@@ -10,7 +10,7 @@ Have you wondered where the photo montages in presentations come from, how the c
 
 <p style="text-align: justify;">Hence, Manjusri Secondary School Media Club aims to provide the best audio and visual support for all school events. In line with our CCA motto ‘Ever-readiness’, our AV members are skilled in basic sound mixing and lighting, as well as managing a range of complex equipment setup.</p>
 
-<p style="text-align: justify;">Media Club also provides photography services capturing significant moments on camera.  On top of providing excellent service, our members develop professional work ethics which include discipline, alertness and ever-readiness. Combining the necessary skills acquired, our members become an expert media-handling crew.</p>
+<p style="text-align: justify;">Media Club also provides photography services capturing significant moments on camera.&nbsp; On top of providing excellent service, our members develop professional work ethics which include discipline, alertness and ever-readiness. Combining the necessary skills acquired, our members become an expert media-handling crew.</p>
 
 <p style="text-align: justify;">As a CCA, we provide support in every way possible to ensure our participants and audience sound-pleasing, visually-stimulating, mesmerising and memorable experiences  </p>
 
