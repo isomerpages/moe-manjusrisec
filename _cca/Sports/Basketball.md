@@ -106,10 +106,10 @@ Boy’s training days: Tuesday &amp; Thursday (3 – 6pm)
 
 **National Schools Games Basketball Championship**
 
-|   |   |   |
-|:---:|:---:|:---:|
-|  <img src="/images/Cca/Basketball/bball_boys01.png" style="width:45%">    |   ![](/images/Cca/Basketball/bball_boys02.png) |![](/images/Cca/Basketball/bball_boys04.png)     |
-|  <img src="/images/Cca/Basketball/Basketball%20Girls.jpg" style="width:45%">  	 | ![](/images/Cca/Basketball/Our%20new%20leaders.jpg)  	   | ![](/images/Cca/Basketball/Together%20we%20will%20achieve%20our%20goals.jpg)  |
+|   |   | 
+|:---:|:---:|
+|   ![](/images/Cca/Basketball/bball_boys02.png) |![](/images/Cca/Basketball/bball_boys04.png)     |
+|   	  ![](/images/Cca/Basketball/Our%20new%20leaders.jpg)  	   | ![](/images/Cca/Basketball/Together%20we%20will%20achieve%20our%20goals.jpg)  |
 
 
 ### **Activities**
