@@ -10,7 +10,7 @@ third_nav_title: Uniformed Groups
 
 ### **Training Schedule**
 
-Monday and Wednesday 3.00pm - 6.00pm
+Monday and Wednesday&nbsp;3.00pm - 6.00pm
 
 ### **Our Teachers**
 
@@ -103,9 +103,9 @@ The cadets undergo regimentation and discipline to prepare them for the assessme
 
 |   |   |   |
 |:---:|:---:|:---:|
-|  ![](/images/Cca/NCC%20(land)/Training.jpeg) Cadets preparing for training  |    <img src="/images/Cca/NCC%20(land)/Sec%20One%20Orientation.jpeg" style="width:85%"> Secondary One CCA Orientation  |   ![](/images/Cca/NCC%20(land)/CNY%20hamper.jpeg) CNY Hamper Project |
+|  <img src="/images/Cca/NCC%20(land)/Training.jpeg" style="width:85%"> Cadets preparing for training  |    <img src="/images/Cca/NCC%20(land)/Sec%20One%20Orientation.jpeg" style="width:78%"> Secondary One CCA Orientation  |   ![](/images/Cca/NCC%20(land)/CNY%20hamper.jpeg) CNY Hamper Project |
 
-**Precision Drill Squad (PDS) & Freestyle Drill (FSD) Activities**  
+**Precision Drill Squad (PDS) &amp; Freestyle Drill (FSD) Activities**  
 
 <p style="text-align: justify;">Events such as the MJR Jam provide a good platform for the cadets to demonstrate what they have learnt during the trainings such as arms and foot drills, precision and freestyle drills. Always a strong force in any parades, our cadets never fail to impress with their strong sense of discipline and camaraderie.</p>
 
