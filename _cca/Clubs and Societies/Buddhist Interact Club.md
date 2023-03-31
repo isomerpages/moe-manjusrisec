@@ -7,12 +7,12 @@ third_nav_title: Clubs and Societies
 # **Buddhist Interact Club**
 
 
-<p style="text-align: justify;">Buddhist Interact Club aims to nurture responsible Youth leaders. Members are given opportunities to learn Buddhist values, acquire leadership and other 21 st century life skills through planning and organising events and taking part in competitions.</p>
+<p style="text-align: justify;">Buddhist Interact Club aims to nurture responsible Youth leaders. Members are given opportunities to learn Buddhist values, acquire leadership and other 21&nbsp;st&nbsp;century life skills through planning and organising events and taking part in competitions.</p>
 
 
 ### **Training Schedule**
 
-Monday & Wednesday 3pm-6pm
+Monday &amp; Wednesday 3pm-6pm
 
 ### **Our Teachers**
 
@@ -116,8 +116,9 @@ Monday & Wednesday 3pm-6pm
 
 |   |   |   |
 |:---:|:---:|:---:|
-| ![](/images/Cca/Buddhist%20Interact%20Club/2-1_Sign%20Language%20Song%20Practice.jpg)  Sign Language Song Practice	  |  ![](/images/Cca/Buddhist%20Interact%20Club/2-2_Sign%20Language%20Song%20Recording.jpeg)  Sign Language Song Recording   |    ![](/images/Cca/Buddhist%20Interact%20Club/2-3_Harmony%20Game.jpg) Harmony Game  |
-|   ![](/images/Cca/Buddhist%20Interact%20Club/2-4_NYBC.jpg) NYBC  |    ![](/images/Cca/Buddhist%20Interact%20Club/2-5_VIA_Performance.jpeg) VIA Performance  |   |
+| ![](/images/Cca/Buddhist%20Interact%20Club/2-1_Sign%20Language%20Song%20Practice.jpg)  Sign Language Song Practice | ![](/images/Cca/Buddhist%20Interact%20Club/2-3_Harmony%20Game.jpg) Harmony Game|
+|
+![](/images/Cca/Buddhist%20Interact%20Club/2-4_NYBC.jpg) NYBC  |![](/images/Cca/Buddhist%20Interact%20Club/2-5_VIA_Performance.jpeg) VIA Performance  | ![](/images/Cca/Buddhist%20Interact%20Club/2-2_Sign%20Language%20Song%20Recording.jpeg)  Sign Language Song Recording   |
 
 
 **Activities**
