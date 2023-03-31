@@ -164,14 +164,11 @@ Every Monday and Wednesday
 |   |   | 
 |:---:|:---:|
 |  ![](/images/Cca/Choir/choir06.png) OPOM 1  | ![](/images/Cca/Choir/choir07.png) OPOM 2    |  
-
-
-
 **Singapore Youth Festival Arts Presentation**
 
 
 |   |   |   |
 |:---:|:---:|:---:|
 |    ![](/images/Cca/Choir/choir08.png) 	  |     ![](/images/Cca/Choir/choir09.png)	 |    ![](/images/Cca/Choir/choir10.png)  	|
-|    ![](/images/Cca/Choir/choir11.png) 	 |   ![](/images/Cca/Choir/Recording1.jpg)   |  <img src="/images/Cca/Choir/Recording2.jpg" style="width:60%">	  |
-|  ![](/images/Cca/Choir/Recording3.jpg)  	  |   ![](/images/Cca/Choir/Recording4.jpg)ing 4 	 |   |
+| 	 |   ![](/images/Cca/Choir/Recording1.jpg)   |  	  |
+|  ![](/images/Cca/Choir/Recording3.jpg)  	  |   ![](/images/Cca/Choir/Recording4.jpg)	| |
