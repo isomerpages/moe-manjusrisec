@@ -69,14 +69,14 @@ description: ""
     <td class="tg-vf55"><a href="https://www.channelnewsasia.com/tv/live"><span style="text-decoration:underline;color:#B42025">Channel NewsAsia (live)</span></a></td>
   </tr>
   <tr>
-    <td class="tg-vf55"><a href="https://www.haze.gov.sg/"><span style="text-decoration:underline;color:#B42025">Haze Situation Update</span></a></td>
+    <td class="tg-vf55"></td>
     <td class="tg-vf55"><a href="https://www.ite.edu.sg/"><span style="text-decoration:underline;color:#B42025">ITE Education</span></a></td>
     <td class="tg-vf55"><a href="https://www.moh.gov.sg/"><span style="text-decoration:underline;color:#B42025">Ministry of Health</span></a></td>
   </tr>
   <tr>
     <td class="tg-vf55"><a href="https://www.nafa.edu.sg/"><span style="text-decoration:underline;color:#B42025">NAFA</span></a></td>
-    <td class="tg-vf55"><a href="https://www.polytechnic.edu.sg/"><span style="text-decoration:underline;color:#B42025">Polytechnic Education</span></a></td>
-    <td class="tg-vf55"><a href="https://iprep.ns.sg/"><span style="text-decoration:underline;color:#B42025">Preparation for National Service</span></a></td>
+    <td class="tg-vf55"></td>
+    <td class="tg-vf55"></td>
   </tr>
   <tr>
     <td class="tg-vf55"><a href="https://www.seab.gov.sg/"><span style="text-decoration:underline;color:#B42025">Singapore Examination and Assessment Board</span></a></td>
