@@ -131,7 +131,7 @@ third_nav_title: Our Staff
     <td class="tg-pz2b">Library Assistant<br></td>
   </tr>
   <tr>
-    <td class="tg-citn">Mdm Kua Yoke Keng, Linda</td>
+    <td class="tg-citn">Mr Abdul Latip Bin Hussain</td>
     <td class="tg-citn">Kitchen Assistant</td>
   </tr>
   <tr>
