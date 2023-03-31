@@ -3,11 +3,6 @@ title: Forms &amp; Useful Links
 permalink: /students-and-parents/forms-n-useful-links/
 description: ""
 ---
-#  links broken: Vigilance against dengue, Preparation for National Service , Polytechnic Education, School Bag, Ace-Learning Math e-Learning Portal, Parents in Education
-
-# 2020 JAE Booklet&gt;5mb
-
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
