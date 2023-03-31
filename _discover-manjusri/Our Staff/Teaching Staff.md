@@ -443,7 +443,7 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td class="tg-pz2b">Ms Sharon Chia</td>
-    <td class="tg-pz2b">-</td>
+    <td class="tg-pz2b">sharon_chia_xiao_xuan@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-citn">Ms Ser Kia Hwee</td>
