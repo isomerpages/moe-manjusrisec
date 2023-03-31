@@ -146,7 +146,7 @@ The Wushu team put up a spectacular performance at this year’s Chinese New Yea
 An unforgettable experience of sweat, tears and joy at the National Wushu Competition.
 
 
-|   |   |   |
-|:-:|:-:|:-:|
-| ![](/images/Cca/Wushu/wushu_game1.jpg)  |    ![](/images/Cca/Wushu/wushu_game2.jpg)  |  ![](/images/Cca/Wushu/wushu_game3.jpg)   |
-|   ![](/images/Cca/Wushu/wushu_game4.jpg)  |   ![](/images/Cca/Wushu/wushu_game5.jpg)  |   |
+|   |   |   
+|:-:|:-:|
+| ![](/images/Cca/Wushu/wushu_game1.jpg)  |    ![](/images/Cca/Wushu/wushu_game2.jpg)  |
+| ![](/images/Cca/Wushu/wushu_game3.jpg)|   ![](/images/Cca/Wushu/wushu_game4.jpg)  |      |
