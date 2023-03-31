@@ -172,6 +172,6 @@ Every Monday and Wednesday
 
 |   |   |   |
 |:---:|:---:|:---:|
-|    ![](/images/Cca/Choir/choir08.png) SYF 1	  |     ![](/images/Cca/Choir/choir09.png)SYF 2	 |    ![](/images/Cca/Choir/choir10.png)  SYF 3	|
-|    ![](/images/Cca/Choir/choir11.png) SYF 4	 |   ![](/images/Cca/Choir/Recording1.jpg) Recording 1 	  |  <img src="/images/Cca/Choir/Recording2.jpg" style="width:60%"> Recording 2 	  |
-|  ![](/images/Cca/Choir/Recording3.jpg) Recording 3 	  |   ![](/images/Cca/Choir/Recording4.jpg) Recording 4 	 |   |
+|    ![](/images/Cca/Choir/choir08.png) 	  |     ![](/images/Cca/Choir/choir09.png)	 |    ![](/images/Cca/Choir/choir10.png)  	|
+|    ![](/images/Cca/Choir/choir11.png) 	 |   ![](/images/Cca/Choir/Recording1.jpg)   |  <img src="/images/Cca/Choir/Recording2.jpg" style="width:60%">	  |
+|  ![](/images/Cca/Choir/Recording3.jpg)  	  |   ![](/images/Cca/Choir/Recording4.jpg)ing 4 	 |   |
