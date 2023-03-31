@@ -104,7 +104,7 @@ Wednesday 3.00 – 5.00 pm
 
 |   |   |   |
 |:---:|:---:|:---:|
-|  <img src="/images/Cca/Chinese%20Calligraphy/orientation%20%201.jpg" style="width:60%"> |  ![](/images/Cca/Chinese%20Calligraphy/orientation%202.jpg)  |   ![](/images/Cca/Chinese%20Calligraphy/orientation%20%203.jpg) |
+|  <img src="/images/Cca/Chinese%20Calligraphy/orientation%20%201.jpg" style="width:60%"> |      ![](/images/Cca/Chinese%20Calligraphy/orientation%20%203.jpg) |
 
 
 **Our Work**
