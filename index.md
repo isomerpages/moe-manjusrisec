@@ -30,10 +30,10 @@ sections:
       button: Click here to read more
       url: /spotlight/40th-school-anni/
   - infobar:
-      title: 4NT Collection of School Graduation Certificate (SGC)
+      title: 4NT - Collection of School Graduation Certificate (SGC)
       subtitle: News
       description: The Secondary 4 NT SGC is ready for collection from the school
-        general office.
+        general office...
       button: Click here to read more
       url: /news/collection-of-sgc-for-2022-secondary-4nt-students/
 ---
