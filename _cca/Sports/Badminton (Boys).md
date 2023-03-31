@@ -6,7 +6,7 @@ third_nav_title: Sports
 ---
 # **Badminton (Boys)**
 
-<p style="text-align: justify;">Badminton is a game of strategies, tactics and mental fitness that demonstrates speed, stamina, agility, power and delicate skills. The drills and games executed at each Badminton Training sessions also help reduce depression, anxiety and stress and improve our overall well-being. While ensuring that our players become skillfully better after every session, we also try to infiltrate fun and laughter to help relieve our players of their daily stress and anxiety. </p>
+<p style="text-align: justify;">Badminton is a game of strategies, tactics and mental fitness that demonstrates speed, stamina, agility, power and delicate skills. The drills and games executed at each Badminton Training sessions also help reduce depression, anxiety and stress and improve our overall well-being. While ensuring that our players become skillfully better after every session, we also try to infiltrate fun and laughter to help relieve our players of their daily stress and anxiety.&nbsp;</p>
 
 ### **Training Schedule**
 
@@ -98,5 +98,5 @@ Monday and Wednesday 2.30pm – 5.30pm
 
 |   |   |   |
 |:---:|:---:|:---:|
-| ![](/images/Cca/Badminton%20(Boys)/Training%201.jpg) Training 1	 |   ![](/images/Cca/Badminton%20(Boys)/Training%202.jpg) Training 2	 |  ![](/images/Cca/Badminton%20(Boys)/Our%20School%20Team.jpeg) School Team
+| ![](/images/Cca/Badminton%20(Boys)/Training%201.jpg) 	 |   ![](/images/Cca/Badminton%20(Boys)/Training%202.jpg)  |  ![](/images/Cca/Badminton%20(Boys)/Our%20School%20Team.jpeg) 
    |
