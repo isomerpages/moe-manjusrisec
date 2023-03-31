@@ -411,7 +411,7 @@ third_nav_title: Our Staff
   </tr>
 	 <tr>
     <td class="tg-pz2b">Ms Wong Sook Fog Shirley</td>
-    <td class="tg-pz2b">tay_kar_yen_amanda@moe.edu.sg</td>
+    <td class="tg-pz2b">wong_sook_fong@moe.edu.sg</td>
   </tr>
 </tbody>
 </table>
