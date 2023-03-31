@@ -6,7 +6,7 @@ third_nav_title: Performing Arts
 ---
 # **Chinese Orchestra**
 
-文华合奏曲绕梁，殊乐共享声飞扬   
+文华合奏曲绕梁，殊乐共享声飞扬&nbsp;  
 
 文殊中学华乐团齐聚了热爱音乐的莘莘学子，学生们凭借勤奋，怀揣热忱，在追求卓越与梦想的过程中联合演奏出一首首美妙绕梁的乐曲。乐声飞扬，欢乐共享。  
 
@@ -15,7 +15,7 @@ The Manjusri Chinese Orchestra was formed in 1982. In Chinese Orchestra, we seek
 Training Schedule  
 
 Wednesday: 3.00pm - 6.00pm @ CO Room   
-Friday: 2.00pm - 5.00pm @ CO Room & Classrooms
+Friday: 2.00pm - 5.00pm @ CO Room &amp; Classrooms
 
 ### **Our Teachers**
 
@@ -187,8 +187,8 @@ Friday: 2.00pm - 5.00pm @ CO Room & Classrooms
 
 |   |   |   |
 |:---:|:---:|:---:|
-| ![](/images/Cca/Chinese%20Orchestra/SYF%201.jpg) SYF1  | ![](/images/Cca/Chinese%20Orchestra/SYF%202.jpg) SYF2 | ![](/images/Cca/Chinese%20Orchestra/SYF3.jpg) SYF3  |
-|  ![](/images/Cca/Chinese%20Orchestra/SYF4.jpg) SYF4 |![](/images/Cca/Chinese%20Orchestra/SYF%205.jpg)  SYF5  | ![](/images/Cca/Chinese%20Orchestra/SYF6.jpg) SYF6  |
+| ![](/images/Cca/Chinese%20Orchestra/SYF%201.jpg)   | ![](/images/Cca/Chinese%20Orchestra/SYF%202.jpg)  | ![](/images/Cca/Chinese%20Orchestra/SYF3.jpg)  |
+|  ![](/images/Cca/Chinese%20Orchestra/SYF4.jpg)  |![](/images/Cca/Chinese%20Orchestra/SYF%205.jpg)   | ![](/images/Cca/Chinese%20Orchestra/SYF6.jpg)  |
 
 
 **CO Music Exchange**
@@ -197,8 +197,8 @@ Friday: 2.00pm - 5.00pm @ CO Room & Classrooms
 
 |   |   |   |
 |:---:|:---:|:---:|
-| ![](/images/Cca/Chinese%20Orchestra/co05.png) ME1  |   ![](/images/Cca/Chinese%20Orchestra/co06.png) ME2 |  ![](/images/Cca/Chinese%20Orchestra/co07.png) ME3  |
-|   ![](/images/Cca/Chinese%20Orchestra/co08.png) ME4 |   |   |
+| ![](/images/Cca/Chinese%20Orchestra/co05.png)  |   ![](/images/Cca/Chinese%20Orchestra/co06.png)  |  ![](/images/Cca/Chinese%20Orchestra/co07.png)  |
+|   ![](/images/Cca/Chinese%20Orchestra/co08.png)  |   |   |
 
 
 **School Performances**  
@@ -209,5 +209,5 @@ Our CO students are also provided with opportunities to develop their potential 
 
 |   |   |   |
 |:---:|:---:|:---:|
-|  ![](/images/Cca/Chinese%20Orchestra/School%20performances%201.jpg) School performance 1	 |   ![](/images/Cca/Chinese%20Orchestra/School%20Performances%202.jpg) School performance 2	  |  ![](/images/Cca/Chinese%20Orchestra/School%20Performances%203.jpg) School performance 3	   |
-|    ![](/images/Cca/Chinese%20Orchestra/School%20Performances%204.jpg) School performance 4	 |   ![](/images/Cca/Chinese%20Orchestra/School%20Performances%205.jpg) School performance 5	 |  ![](/images/Cca/Chinese%20Orchestra/School%20Performances%206.jpg) School performance 6	  |
+|  	 |   ![](/images/Cca/Chinese%20Orchestra/School%20Performances%202.jpg) 	  |  ![](/images/Cca/Chinese%20Orchestra/School%20Performances%203.jpg) 	   |
+|   	 |   ![](/images/Cca/Chinese%20Orchestra/School%20Performances%205.jpg) 	 |  ![](/images/Cca/Chinese%20Orchestra/School%20Performances%206.jpg) 	  |
