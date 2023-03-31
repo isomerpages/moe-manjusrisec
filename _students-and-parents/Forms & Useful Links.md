@@ -59,7 +59,7 @@ description: ""
     <td class="tg-vf55"><a href="https://www.mesrc.net/"><span style="text-decoration:underline;color:#B42025">MOE Sports and Recreation Club</span></a></td>
   </tr>
   <tr>
-    <td class="tg-vf55"><a href="https://parents-in-education.moe.gov.sg/"><span style="text-decoration:underline;color:#B42025">Parents in Education</span></a></td>
+    <td class="tg-vf55"></td>
     <td class="tg-vf55"><a href="https://schoolbag.sg/"><span style="text-decoration:underline;color:#B42025">School Bag</span></a></td>
   
   </tr>
