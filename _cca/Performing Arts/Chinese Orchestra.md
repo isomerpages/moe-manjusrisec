@@ -207,7 +207,7 @@ Friday: 2.00pm - 5.00pm @ CO Room &amp; Classrooms
 Our CO students are also provided with opportunities to develop their potential and areas of interest perform at school platforms such as Arts Fiesta, MJR Jams, Open House and Chinese New Year Celebration.
 
 
-|   |   |   |
-|:---:|:---:|:---:|
-|  	 |   ![](/images/Cca/Chinese%20Orchestra/School%20Performances%202.jpg) 	  |  ![](/images/Cca/Chinese%20Orchestra/School%20Performances%203.jpg) 	   |
-|   	 |   ![](/images/Cca/Chinese%20Orchestra/School%20Performances%205.jpg) 	 |  ![](/images/Cca/Chinese%20Orchestra/School%20Performances%206.jpg) 	  |
+|   |   | 
+|:---:|:---:|
+|  	    ![](/images/Cca/Chinese%20Orchestra/School%20Performances%202.jpg) 	  |  ![](/images/Cca/Chinese%20Orchestra/School%20Performances%203.jpg) 	   |
+|   	    ![](/images/Cca/Chinese%20Orchestra/School%20Performances%205.jpg) 	 |  ![](/images/Cca/Chinese%20Orchestra/School%20Performances%206.jpg) 	  |
