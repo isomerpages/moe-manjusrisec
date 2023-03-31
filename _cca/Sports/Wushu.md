@@ -7,9 +7,9 @@ third_nav_title: Sports
 ## **Wushu**
 
 
-Our Vision: We develop every individual to be a confident, disciplined and focused sportsman.
+Our Vision:&nbsp;We develop every individual to be a confident, disciplined and focused sportsman.
 
-Our Mission: To develop a passion for the sport and instil self-discipline.
+Our Mission:&nbsp;To develop a passion for the sport and instil self-discipline.
 
 <p style="text-align: justify;">Wushu is a CCA in which we develop self-discipline, team work and perseverance. Our members are given the opportunities to train and learn in a multitude of platforms such as day camps, games, bonding activities and Values-In-Action. The continuum pursuit for excellence through Wushu is recognized school-wide and at the national level.  </p>
 
@@ -124,10 +124,10 @@ Vice-Captain : NG SHI QI 3F
 
 The Wushu Team welcomed the Secondary One students with an exciting performance.
 
-|   |   |   |
-|:-:|:-:|:-:|
-| ![](/images/Cca/Wushu/wushu01.png) Wushu audition |   ![](/images/Cca/Wushu/wushu02.png) Wushu audition  |   ![](/images/Cca/Wushu/wushu03.png)  Sec One students |
-|  ![](/images/Cca/Wushu/wushu04.png)  Sec One students  |     |    |
+|   |   |   
+|:-:|:-:|
+| ![](/images/Cca/Wushu/wushu01.png)  | ![](/images/Cca/Wushu/wushu02.png)   | 
+| ![](/images/Cca/Wushu/wushu03.png)|  ![](/images/Cca/Wushu/wushu04.png)     |  
 
 
 **Performance @ Chinese New Year Celebration**
