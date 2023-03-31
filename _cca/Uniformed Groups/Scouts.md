@@ -10,7 +10,7 @@ third_nav_title: Uniformed Groups
 
 ### **Training Schedule**
 
-Every Monday and Wednesday 3.00pm - 6.00pm
+Every Monday and Wednesday&nbsp;3.00pm - 6.00pm
 
 ### **Our Teachers**
 
@@ -110,10 +110,10 @@ Every Monday and Wednesday 3.00pm - 6.00pm
 
 <p style="text-align: justify;">Founders’ Day commemorates the founding of the Scouting Movement. On this day, scouts observe a flag ceremony, reflect on the values of scouting and reaffirm the Scout Promise.</p>
 
-|   |   |   |
-|:-:|:-:|:-:|
-| ![](/images/Cca/Scouts/scouts02.png) Flag	 |   ![](/images/Cca/Scouts/scouts04.png) Moment of Silence |   |
-|  ![](/images/Cca/Scouts/Flag%20Ceremony.jpeg)  Flag Ceremony | ![](/images/Cca/Scouts/The%20Scout%20Salute.jpeg) The Scout Salute | ![](/images/Cca/Scouts/The%20Scout%20Promise.jpeg) The Scout Promise |
+|   |   |   
+|:-:|:-:|
+| ![](/images/Cca/Scouts/scouts02.png) Flag	 |   ![](/images/Cca/Scouts/scouts04.png) Moment of Silence |   
+| ![](/images/Cca/Scouts/The%20Scout%20Salute.jpeg) The Scout Salute | ![](/images/Cca/Scouts/The%20Scout%20Promise.jpeg) The Scout Promise |
 
 
 
