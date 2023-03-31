@@ -40,7 +40,7 @@ permalink: /faq/
 
 **Financial Assistance Scheme and Bursaries**
 
-*   [https://www.moe.gov.sg/education/financial-assistance/moe-financial-assistance-scheme-(fas)](https://www.moe.gov.sg/education/financial-assistance/moe-financial-assistance-scheme-(fas))  
+*   [Financial matters: Fees, assistance, awards and scholarships | MOE] 
     
 *   Approach General Office.  
     
