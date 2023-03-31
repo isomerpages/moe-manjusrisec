@@ -55,33 +55,33 @@ description: ""
   </tr>
   <tr>
     <td class="tg-vf55"></td>
-    <td class="tg-vf55"><a href="https://schoolbag.sg/"><span style="text-decoration:underline;color:#B42025">School Bag</span></a></td>
+    <td class="tg-vf55"></td>
   
   </tr>
   <tr>
-    <td class="tg-vf55"></td>
+    <td class="tg-vf55"><a href="https://schoolbag.sg/"><span style="text-decoration:underline;color:#B42025">School Bag</span></a></td>
     <td class="tg-vf55"><a href="https://schoolibrary.moe.edu.sg/manjusrisec/"><span style="text-decoration:underline;color:#B42025">OPAC</span></a></td>
     <td class="tg-vf55"><a href="https://www.channelnewsasia.com/tv/live"><span style="text-decoration:underline;color:#B42025">Channel NewsAsia (live)</span></a></td>
   </tr>
   <tr>
-    <td class="tg-vf55"></td>
+    <td class="tg-vf55"><a href="https://www.nafa.edu.sg/"><span style="text-decoration:underline;color:#B42025">NAFA</span></a></td>
     <td class="tg-vf55"><a href="https://www.ite.edu.sg/"><span style="text-decoration:underline;color:#B42025">ITE Education</span></a></td>
     <td class="tg-vf55"><a href="https://www.moh.gov.sg/"><span style="text-decoration:underline;color:#B42025">Ministry of Health</span></a></td>
   </tr>
   <tr>
-    <td class="tg-vf55"><a href="https://www.nafa.edu.sg/"><span style="text-decoration:underline;color:#B42025">NAFA</span></a></td>
+    <td class="tg-vf55"></td>
     <td class="tg-vf55"></td>
     <td class="tg-vf55"></td>
   </tr>
   <tr>
     <td class="tg-vf55"><a href="https://www.seab.gov.sg/"><span style="text-decoration:underline;color:#B42025">Singapore Examination and Assessment Board</span></a></td>
-    <td class="tg-vf55"></td>
+    <td class="tg-vf55"><a href="https://vle.learning.moe.edu.sg/helpdesk"><span style="text-decoration:underline;color:#B42025">SLS Helpdesk</span></a></td>
     <td class="tg-tj0x"><a href="https://vle.learning.moe.edu.sg/login"><span style="text-decoration:none;color:#B42025">Student Learning Space</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-vf55"><a href="https://studentgpa.incomegroupins.com.sg/#/"><span style="text-decoration:underline;color:#B42025">Group Personal Accident Insurance Plan for Students – Online Submission of Claims</span></a><br></td>
     <td class="tg-vf55"><a href="https://sites.google.com/a/moe.edu.sg/cpa-learning-resources/google/calendar"><span style="text-decoration:underline;color:#B42025">CPA Learning Resources</span></a><span style="color:#222;background-color:transparent"> </span></td>
-    <td class="tg-vf55"><a href="https://vle.learning.moe.edu.sg/helpdesk"><span style="text-decoration:underline;color:#B42025">SLS Helpdesk</span></a></td>
+    <td class="tg-vf55"></td>
   </tr>
   <tr>
     <td class="tg-lygy"></td>
