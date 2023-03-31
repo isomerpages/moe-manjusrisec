@@ -1,11 +1,11 @@
 ---
-title: Forms & Useful Links
+title: Forms &amp; Useful Links
 permalink: /students-and-parents/forms-n-useful-links/
 description: ""
 ---
 #  links broken: Vigilance against dengue, Preparation for National Service , Polytechnic Education, School Bag, Ace-Learning Math e-Learning Portal, Parents in Education
 
-# 2020 JAE Booklet>5mb
+# 2020 JAE Booklet&gt;5mb
 
 
 <style type="text/css">
@@ -61,7 +61,7 @@ description: ""
   <tr>
     <td class="tg-vf55"><a href="https://parents-in-education.moe.gov.sg/"><span style="text-decoration:underline;color:#B42025">Parents in Education</span></a></td>
     <td class="tg-vf55"><a href="https://schoolbag.sg/"><span style="text-decoration:underline;color:#B42025">School Bag</span></a></td>
-    <td class="tg-vf55"><a href="https://lms.asknlearn.com/MANJUSRI_SS/logon_new.aspx"><span style="text-decoration:underline;color:#B42025">AsknLearn e-learning portal</span></a></td>
+  
   </tr>
   <tr>
     <td class="tg-vf55"><a href="https://www.ace-learning.com.sg/"><span style="text-decoration:underline;color:#B42025">Ace-Learning Math e-Learning Portal</span></a></td>
@@ -98,10 +98,10 @@ description: ""
 
 
 
-*   <a href="/files/Useful%20links/Income%20IFMIS%20Brochure%20Final%202020.pdf" target="_blank">**Income Family Micro-Insurance Scheme (IFMIS)**</a>  
+*   <a href="/files/Useful%20links/Income%20IFMIS%20Brochure%20Final%202020.pdf">**Income Family Micro-Insurance Scheme (IFMIS)**</a>  
     
-*   <a href="/files/Useful%20links/GPA%20Product%20Fact%20Sheet%202022.pdf" target="_blank">**GROUP PERSONAL ACCIDENT INSURANCE FOR STUDENTS**</a>
+*   <a href="/files/Useful%20links/GPA%20Product%20Fact%20Sheet%202022.pdf">**GROUP PERSONAL ACCIDENT INSURANCE FOR STUDENTS**</a>
     
-*   <a href="" target="_blank">2020 JAE Booklet</a>
-*   <a href="/files/Useful%20links/SLS%20Student%20Login%20guide.pdf" target="_blank">**SLS Student Login Guide**</a>
-*   <a href="https://www.seab.gov.sg/home/examinations/approved-calculators" target="_blank">**Approved Calculator List**</a>
+*   <a href="">2020 JAE Booklet</a>
+*   <a href="/files/Useful%20links/SLS%20Student%20Login%20guide.pdf">**SLS Student Login Guide**</a>
+*   <a href="https://www.seab.gov.sg/home/examinations/approved-calculators">**Approved Calculator List**</a>
