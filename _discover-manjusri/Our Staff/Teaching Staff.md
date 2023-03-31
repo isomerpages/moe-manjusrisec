@@ -457,9 +457,9 @@ third_nav_title: Our Staff
     <td class="tg-citn">Ms  Elna Shirin Binte Him Pon</td>
     <td class="tg-citn">elna_shirin_him_pon@moe.edu.sg</td>
   </tr>
-  <tr>
-    <td class="tg-pz2b">Mr Tan Poh Pin</td>
-    <td class="tg-pz2b">tan_poh_pin@moe.edu.sg</td>
+   <tr>
+    <td class="tg-pz2b">Mr Izham Sidek</td>
+    <td class="tg-pz2b">izham_sidek@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-citn">Mdm R Rajletchumi (Mrs Eddy)</td>
@@ -489,9 +489,6 @@ third_nav_title: Our Staff
     <td class="tg-citn">Mdm Mok Yee Wan (Mrs Lai)</td>
     <td class="tg-citn">-</td>
   </tr>
-  <tr>
-    <td class="tg-pz2b">Mr Izham Sidek</td>
-    <td class="tg-pz2b">izham_sidek@moe.edu.sg</td>
-  </tr>
+ 
 </tbody>
 </table>
