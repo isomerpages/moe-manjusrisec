@@ -15,11 +15,11 @@ sections:
       button: Links
       url: /hidden-pages/links/
   - infobar:
-      title: Secondary 1 Camp
+      title: Presentation of Commissioned Bronze Sculptures to Manjusri
       subtitle: spotlight
-      description: As part of the National Outdoor Adventure Education Master Plan,
-        Secondary 1 Manjusrians took part in a 3-Day Non-Residential Outdoor
-        Education Camp from 3...
+      description: A series of four bronze sculptures titled “Manjusrian Virtues” was
+        unveiled during our school’s 40th Anniversary Commemoration held on 18
+        November 2022...
       button: Click here to read more
       url: /spotlight/secondary-1-camp/
 ---
