@@ -83,7 +83,7 @@ Dancers will perform to selected music in order to pique interest in dancing for
 |   |   |   
 |---|---|
 |  <img src="/images/Cca/Chinese%20dance/chinese_dance07.png" style="width:85%">  Dancers extending their arms |![](/images/Cca/Chinese%20dance/chinese_dance09.png)   Dancers kicking it up| 
-![](/images/Cca/Chinese%20dance/chinese_dance08.png) Dancers and their elegant Ballet steps   |![](/images/Cca/Chinese%20dance/chinese_dance10.png)  Dancers levitating! |
+<img src="/images/Cca/Chinese%20dance/chinese_dance08.png" style="width:85%"> Dancers and their elegant Ballet steps   |![](/images/Cca/Chinese%20dance/chinese_dance10.png)  Dancers levitating! |
 
 
 **Singapore Youth Festival Arts Presentation**
