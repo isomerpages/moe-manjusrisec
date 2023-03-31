@@ -64,7 +64,7 @@ description: ""
   
   </tr>
   <tr>
-    <td class="tg-vf55"><a href="https://www.ace-learning.com.sg/"><span style="text-decoration:underline;color:#B42025">Ace-Learning Math e-Learning Portal</span></a></td>
+    <td class="tg-vf55"></td>
     <td class="tg-vf55"><a href="https://schoolibrary.moe.edu.sg/manjusrisec/"><span style="text-decoration:underline;color:#B42025">OPAC</span></a></td>
     <td class="tg-vf55"><a href="https://www.channelnewsasia.com/tv/live"><span style="text-decoration:underline;color:#B42025">Channel NewsAsia (live)</span></a></td>
   </tr>
