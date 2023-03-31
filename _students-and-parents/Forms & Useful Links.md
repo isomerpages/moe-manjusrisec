@@ -68,11 +68,7 @@ description: ""
     <td class="tg-vf55"><a href="https://www.ite.edu.sg/"><span style="text-decoration:underline;color:#B42025">ITE Education</span></a></td>
     <td class="tg-vf55"><a href="https://www.moh.gov.sg/"><span style="text-decoration:underline;color:#B42025">Ministry of Health</span></a></td>
   </tr>
-  <tr>
-    <td class="tg-vf55"></td>
-    <td class="tg-vf55"></td>
-    <td class="tg-vf55"></td>
-  </tr>
+
   <tr>
     <td class="tg-vf55"><a href="https://www.seab.gov.sg/"><span style="text-decoration:underline;color:#B42025">Singapore Examination and Assessment Board</span></a></td>
     <td class="tg-vf55"><a href="https://vle.learning.moe.edu.sg/helpdesk"><span style="text-decoration:underline;color:#B42025">SLS Helpdesk</span></a></td>
