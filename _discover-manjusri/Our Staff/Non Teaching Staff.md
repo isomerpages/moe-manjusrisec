@@ -211,9 +211,9 @@ third_nav_title: Our Staff
     <td class="tg-citn"> woo_wayeng@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-4hq5"> </td>
-    <td class="tg-4hq5"> </td>
-    <td class="tg-4hq5"> </td>
+    <td class="tg-4hq5">Ms Joyce Vera Lim Jieyi </td>
+    <td class="tg-4hq5">Student Welfare Officer </td>
+    <td class="tg-4hq5"> joyce_vera_lim_jieyi@moe.edu.sg</td>
   </tr>
 </tbody>
 </table>
