@@ -115,7 +115,7 @@ Boy’s training days: Tuesday &amp; Thursday (3 – 6pm)
 ### **Activities**
 
 
-|   |   |   |
-|:---:|:---:|:---:|
-|  ![](/images/Cca/Basketball/bball_boys06.png)  Sports Festival 1 |  ![](/images/Cca/Basketball/bball_girls01.png)  Ruby during training |   <img src="/images/Cca/Basketball/bball_girls02.png" style="width:35%">  Team Bonding @ Aloha Loyang   |
-|   ![](/images/Cca/Basketball/bball_girls03.png)   Happy faces	 |    ![](/images/Cca/Basketball/bball_girls05.png)   Ready to Shoot  |  <img src="/images/Cca/Basketball/Training.jpeg" style="width:28%">  Training  |
+|   |   | 
+|:---:|:---:|
+|  ![](/images/Cca/Basketball/bball_boys06.png)  Sports Festival 1 |  ![](/images/Cca/Basketball/bball_girls01.png)  Ruby during training |    
+|   ![](/images/Cca/Basketball/bball_girls03.png)   Happy faces	 |    ![](/images/Cca/Basketball/bball_girls05.png)   Ready to Shoot  |    |
