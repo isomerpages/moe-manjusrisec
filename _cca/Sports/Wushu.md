@@ -137,8 +137,8 @@ The Wushu team put up a spectacular performance at this year’s Chinese New Yea
 
 |   |   |   |
 |:-:|:-:|:-:|
-|  ![](/images/Cca/Wushu/wushu05.png) Taiji performance	   |   ![](/images/Cca/Wushu/wushu06.png)  Individual performance	  |  <img src="/images/Cca/Wushu/wushu07.png" style="width:40%"> Individual performance	  |
-|   ![](/images/Cca/Wushu/wushu08.png) B Division Boys 	  |  ![](/images/Cca/Wushu/wushu09.png)   Grand Finale 	 |  <img src="/images/Cca/Wushu/Taji%20Performance.jpg" style="width:35%">  Taiji performance	 |
+|  ![](/images/Cca/Wushu/wushu05.png)    |   ![](/images/Cca/Wushu/wushu06.png) 	  |  <img src="/images/Cca/Wushu/wushu07.png" style="width:15%"> 	  |
+|   ![](/images/Cca/Wushu/wushu08.png)   |  ![](/images/Cca/Wushu/wushu09.png)   	 |  <img src="/images/Cca/Wushu/Taji%20Performance.jpg" style="width:15%">  	 |
 
 
 **National School Games (NSG) Wushu Championships**
