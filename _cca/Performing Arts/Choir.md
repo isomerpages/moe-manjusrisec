@@ -152,10 +152,10 @@ Every Monday and Wednesday
 
 <p style="text-align: justify;">Choir members in action during our biennial Choir Concert.</p>
 
-|   |   |   |
-|:---:|:---:|:---:|
-| ![](/images/Cca/Choir/DSC_0798.jpg)   | <img src="/images/Cca/Choir/MJR%20Student%20Leaders-0245.jpg" style="width:%">   | ![](/images/Cca/Choir/DSC_0584.jpg)     |
-|  ![](/images/Cca/Choir/choir.jpg)    | |   |
+|   |   |   
+|:---:|:---:|
+| ![](/images/Cca/Choir/DSC_0798.jpg)   | <img src="/images/Cca/Choir/MJR%20Student%20Leaders-0245.jpg" style="width:%">   |
+|![](/images/Cca/Choir/DSC_0584.jpg) |![](/images/Cca/Choir/choir.jpg)   |
 
 **Our People Our Music Mega Concert**
 
@@ -163,7 +163,7 @@ Every Monday and Wednesday
 
 |   |   | 
 |:---:|:---:|
-|  ![](/images/Cca/Choir/choir06.png) OPOM 1  | ![](/images/Cca/Choir/choir07.png) OPOM 2    |  
+|  ![](/images/Cca/Choir/choir06.png)   | ![](/images/Cca/Choir/choir07.png)     |  
 
 **Singapore Youth Festival Arts Presentation**
 
