@@ -330,15 +330,11 @@ third_nav_title: Our Staff
     <td class="tg-0lax">Ms Darul Ellia Binte Zulkarnain</td>
     <td class="tg-0lax">darul_ellia_zulkarnain@moe.edu.sg</td>
   </tr>
+
   <tr>
-    <td class="tg-faf8"></td>
-    <td class="tg-9678">Ms Yip Ler Enn Vera</td>
-    <td class="tg-9678">-</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">5A</td>
-    <td class="tg-0lax">Ms Tan-Chen Lingzhi Wendy</td>
-    <td class="tg-0lax">chen_lingzhi@moe.edu.sg</td>
+    <td class="tg-9678">5A</td>
+    <td class="tg-9678">Ms Tan-Chen Lingzhi Wendy</td>
+    <td class="tg-9678">chen_lingzhi@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-faf8"> </td>
