@@ -409,10 +409,7 @@ third_nav_title: Our Staff
     <td class="tg-citn">Ms  Tay Kar Yen Amanda</td>
     <td class="tg-citn">tay_kar_yen_amanda@moe.edu.sg</td>
   </tr>
-	 <tr>
-    <td class="tg-pz2b">Ms Wong Sook Fog Shirley</td>
-    <td class="tg-pz2b">wong_sook_fong@moe.edu.sg</td>
-  </tr>
+
 </tbody>
 </table>
 
@@ -453,8 +450,8 @@ third_nav_title: Our Staff
     <td class="tg-citn">ser_kia_hwee@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-pz2b">Ms  Chan Wan Yi Mildred</td>
-    <td class="tg-pz2b">chan_wan_yi_mildred@moe.edu.sg</td>
+    <td class="tg-pz2b">Ms  Cheah Lay Tin</td>
+    <td class="tg-pz2b">cheah_lay_tin@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-citn">Ms  Elna Shirin Binte Him Pon</td>
