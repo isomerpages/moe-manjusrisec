@@ -409,6 +409,10 @@ third_nav_title: Our Staff
     <td class="tg-citn">Ms  Tay Kar Yen Amanda</td>
     <td class="tg-citn">tay_kar_yen_amanda@moe.edu.sg</td>
   </tr>
+	 <tr>
+    <td class="tg-pz2b">Ms Wong Sook Fog Shirley</td>
+    <td class="tg-pz2b">tay_kar_yen_amanda@moe.edu.sg</td>
+  </tr>
 </tbody>
 </table>
 
