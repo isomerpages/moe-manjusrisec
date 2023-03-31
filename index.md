@@ -21,5 +21,5 @@ sections:
         unveiled during our school’s 40th Anniversary Commemoration held on 18
         November 2022...
       button: Click here to read more
-      url: /spotlight/secondary-1-camp/
+      url: /spotlight/presentation-of-comm/
 ---
