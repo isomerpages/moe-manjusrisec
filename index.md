@@ -22,4 +22,11 @@ sections:
         November 2022...
       button: Click here to read more
       url: /spotlight/presentation-of-comm/
+  - infobar:
+      title: 40th School Anniversary Commemorative Event
+      subtitle: Spotlight
+      description: The school celebrated its 40th school anniversary with a simple and
+        elegant ceremony on 18 November...
+      button: Click here to read more
+      url: /spotlight/40th-school-anni/
 ---
