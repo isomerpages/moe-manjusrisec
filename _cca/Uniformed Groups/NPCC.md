@@ -150,5 +150,5 @@ Training for Inter-Unit Camp Craft Competition.
 
 |   |   |   |
 |:---:|:---:|:---:|
-|  <img src="/images/Cca/NPCC/Geylang%20NPC%20visit.jpeg" style="width:65%">  Geylang NPC visit	 |  ![](/images/Cca/NPCC/ICA%20Visit.jpg) ICA Visit	 |  ![](/images/Cca/NPCC/Learning%20more%20about%20ICA.jpg)  Learning more about ICA  |
+|  <img src="/images/Cca/NPCC/Geylang%20NPC%20visit.jpeg" style="width:100%">  Geylang NPC visit	 |  ![](/images/Cca/NPCC/ICA%20Visit.jpg) ICA Visit	 |  <img src="/images/Cca/NPCC/Learning%20more%20about%20ICA.jpg" style="width:75%">  Learning more about ICA  |
 |  ![](/images/Cca/NPCC/Police%20Heritage%20Centre%20Visit.jpeg)  Police Heritage Centre Visit    |   ![](/images/Cca/NPCC/Learning%20more%20about%20the%20history%20of%20SPF%20during%20our%20Police%20Heritage%20Centre%20Visit.jpeg) Learning more about the history of SPF during our Police Heritage Centre Visit  |  <img src="/images/Cca/NPCC/Appreciating%20how%20ICA%20keeps%20Singapore%20safe.jpg" style="width:60%">   Appreciating how ICA keeps Singapore safe |
