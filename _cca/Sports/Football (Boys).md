@@ -130,7 +130,7 @@ Mondays and Wednesday 3pm-6pm
 
 |   |   |   |
 |:---:|:----:|:---:|
-| ![](/images/Cca/Football%20(Boys)/winners.jpg)  |  ![](/images/Cca/Football%20(Boys)/winners%202.jpg) |    ![](/images/Cca/Football%20(Boys)/winners%203.jpg)  |
+| ![](/images/Cca/Football%20(Boys)/winners.jpg)  | <img src="/images/Cca/Football%20(Boys)/winners%202.jpg" style="width:85%"> |    ![](/images/Cca/Football%20(Boys)/winners%203.jpg)  |
 
 **Training**
 
