@@ -18,14 +18,6 @@ sections:
       button: Contact Us
       url: /contact-us/location-map-n-travel-information/
   - infobar:
-      title: Secondary 1 Camp
-      subtitle: spotlight
-      description: As part of the National Outdoor Adventure Education Master Plan,
-        Secondary 1 Manjusrians took part in a 3-Day Non-Residential Outdoor
-        Education Camp from 3...
-      button: Click here to read more
-      url: /spotlight/secondary-1-camp/
-  - infobar:
       title: Manjusri Sec 40th Anniversary Awards Presentation
       subtitle: Spotlight
       description: "The school held its 40th Anniversary Awards Presentation on 8
@@ -41,4 +33,12 @@ sections:
         general office.
       button: Click here to read more
       url: /news/post-psle-2022-school-visit/
+  - infobar:
+      title: Secondary 1 Camp
+      subtitle: spotlight
+      description: As part of the National Outdoor Adventure Education Master Plan,
+        Secondary 1 Manjusrians took part in a 3-Day Non-Residential Outdoor
+        Education Camp from 3...
+      button: Click here to read more
+      url: /spotlight/secondary-1-camp/
 ---
