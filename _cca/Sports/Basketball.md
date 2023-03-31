@@ -10,8 +10,8 @@ third_nav_title: Sports
 
 ### **Training Schedule**  
 
-Girl’s training days: Monday & Wednesday (3 – 6pm)     
-Boy’s training days: Tuesday & Thursday (3 – 6pm)
+Girl’s training days: Monday &amp; Wednesday (3 – 6pm)     
+Boy’s training days: Tuesday &amp; Thursday (3 – 6pm)
 
 ### **Our Teachers**
 
@@ -108,8 +108,8 @@ Boy’s training days: Tuesday & Thursday (3 – 6pm)
 
 |   |   |   |
 |:---:|:---:|:---:|
-|  <img src="/images/Cca/Basketball/bball_boys01.png" style="width:50%">    East Zone 1 |   ![](/images/Cca/Basketball/bball_boys02.png)   East Zone 2  |   ![](/images/Cca/Basketball/bball_boys04.png)    East Zone 4 |
-|  <img src="/images/Cca/Basketball/Basketball%20Girls.jpg" style="width:50%">  Basketball Girls	 | ![](/images/Cca/Basketball/Our%20new%20leaders.jpg)  Our New Leaders	   | ![](/images/Cca/Basketball/Together%20we%20will%20achieve%20our%20goals.jpg)  Together, we achieve our goals  |
+|  <img src="/images/Cca/Basketball/bball_boys01.png" style="width:45%">    |   ![](/images/Cca/Basketball/bball_boys02.png) |![](/images/Cca/Basketball/bball_boys04.png)     |
+|  <img src="/images/Cca/Basketball/Basketball%20Girls.jpg" style="width:45%">  	 | ![](/images/Cca/Basketball/Our%20new%20leaders.jpg)  	   | ![](/images/Cca/Basketball/Together%20we%20will%20achieve%20our%20goals.jpg)  |
 
 
 ### **Activities**
