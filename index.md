@@ -47,10 +47,11 @@ sections:
       button: " Click here to read more."
       url: /spotlight/manjusri-sec-40th-anniversary-awards-presentation
   - infobar:
-      title: Post-PSLE 2022 School Visit
+      title: Collection of School Graduation Certificate (SGC)
       subtitle: news
-      description: Families may visit Manjusri Sec after the release of PSLE results
-        on Wed 23 November.
+      description: Collection of School Graduation Certificate (SGC) for 2022 4NT
+        Students. The Secondary 4 NT SGC is ready for collection from the school
+        general office.
       button: Click here to read more
       url: /news/post-psle-2022-school-visit/
 ---
