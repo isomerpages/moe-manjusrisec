@@ -117,5 +117,5 @@ Boy’s training days: Tuesday &amp; Thursday (3 – 6pm)
 
 |   |   | 
 |:---:|:---:|
-|  ![](/images/Cca/Basketball/bball_boys06.png)  Sports Festival 1 |  ![](/images/Cca/Basketball/bball_girls01.png)  Ruby during training |    
-|   ![](/images/Cca/Basketball/bball_girls03.png)   Happy faces	 |    ![](/images/Cca/Basketball/bball_girls05.png)   Ready to Shoot  |    |
+|  ![](/images/Cca/Basketball/bball_boys06.png)   |  ![](/images/Cca/Basketball/bball_girls01.png)  |    
+|   ![](/images/Cca/Basketball/bball_girls03.png)    |    ![](/images/Cca/Basketball/bball_girls05.png)     |    |
