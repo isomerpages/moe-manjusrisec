@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: News
           description: ""
-          url: ""
+          url: /hidden-pages/permalink/news/
         - title: Contact
           description: ""
           url: /contact-us/school-contact-details/
