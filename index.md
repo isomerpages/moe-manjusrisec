@@ -8,8 +8,6 @@ notification: ""
 sections:
   - hero:
       background: /images/home.gif
-      button: Welcome to Manjusri Secondary School
-      url: https://manjusrisec.moe.edu.sg/
       key_highlights:
         - title: News
           description: ""
