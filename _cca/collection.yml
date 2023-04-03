@@ -1,0 +1,25 @@
+collections:
+  cca:
+    output: true
+    order:
+      - Clubs and Societies/.keep
+      - Clubs and Societies/Buddhist Interact Club.md
+      - Clubs and Societies/Chinese Calligraphy.md
+      - Clubs and Societies/Media Club.md
+      - Performing Arts/.keep
+      - Performing Arts/Chinese Dance.md
+      - Performing Arts/Chinese Orchestra.md
+      - Performing Arts/Choir.md
+      - Performing Arts/Concert Band.md
+      - Sports/.keep
+      - Sports/Badminton (Boys).md
+      - Sports/Basketball.md
+      - Sports/Football (Boys).md
+      - Sports/Table Tennis.md
+      - Sports/Wushu.md
+      - Uniformed Groups/.keep
+      - Uniformed Groups/Girls Guides.md
+      - Uniformed Groups/NCC (land).md
+      - Uniformed Groups/NPCC.md
+      - Uniformed Groups/Scouts.md
+      - CCA Framework.md

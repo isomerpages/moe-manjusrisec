@@ -1,0 +1,219 @@
+---
+title: Concert Band
+permalink: /cca/performing-arts/concert-band/
+description: ""
+third_nav_title: Performing Arts
+---
+# **Concert Band**
+
+<p style="text-align: justify;">Founded in 1982, Manjusri Concert Band has evolved along with the growing Singapore band scene since its inception as a military band.</p>
+
+<p style="text-align: justify;">The band consists of passionate, dedicated budding musicians who love expressing themselves through music. With a comprehensive music curriculum ranging from band classics and symphonic masterpieces to well-loved popular favourites, the band strives hard to achieve its vision of musical excellence.</p>
+
+### **Training Schedule**
+
+Monday and Thursday 3-6pm (Combined)    
+Wednesday 3-5pm (Self-Practice)
+
+### **Our Teachers**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-xu5m{background-color:#C00;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-a3j2{background-color:#FFF;color:#222;text-align:center;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 720px">
+<colgroup>
+<col style="width: 337px">
+<col style="width: 383px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-xu5m">Teachers-in-Charge</th>
+    <th class="tg-xu5m">Email Address</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Ms Tan Shi Jia</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">tan_shi_jia@moe.edu.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> Ms Seah Yi Fan</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> seah_yi_fan@moe.edu.sg </span></td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> Ms Shermaine Chew</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">chew_sue_ning_shermaine@moe.edu.sg </span></td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> Ms Nurjannah</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">nurjannah_othman@moe.edu.sg </span></td>
+  </tr>
+</tbody>
+</table>
+
+
+### **Our Student Leaders**
+
+**Executive Committee**
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-xu5m{background-color:#C00;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-a3j2{background-color:#FFF;color:#222;text-align:center;vertical-align:middle}
+.tg .tg-lygy{background-color:#FFF;color:#222;text-align:center;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 816px">
+<colgroup>
+<col style="width: 382px">
+<col style="width: 434px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-xu5m">Name</th>
+    <th class="tg-xu5m">Position</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Joshua Ang Songrui</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Band Major</span></td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Matthias Tan</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Drum Major</span></td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Tang Chloe</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Concert Mistress</span></td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Muhamad Farid Abil Bin Muhamed Kiffli</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Recruiting Officers</span></td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Lau Yi Xuan</span><br><span style="color:#222;background-color:transparent"> Toh Kai Jin Lucas</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Asst. Recruiting Officer</span></td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> Alyssa Toh Wan Ling</span></td>
+    <td class="tg-lygy">Librarian (Head)<span style="color:#222;background-color:transparent"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-lygy"><span style="color:#222;background-color:transparent">Haris Nornilhakim</span><br><span style="color:#222;background-color:transparent"> Les Jing Xiang</span><br><span style="color:#222;background-color:transparent"> Ang Yi Lin </span></td>
+    <td class="tg-lygy">Librarian (Asst)<span style="color:#222;background-color:transparent"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-lygy"><span style="color:#222;background-color:transparent">Ng Zhi Yang </span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> Quarter Masters</span></td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> Seet Jun Xian</span><br><span style="color:#222;background-color:transparent">Lim Kay En</span><br><span style="color:#222;background-color:transparent"> Teo Hung Kai</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> Quarter Masters (Asst)</span></td>
+  </tr>
+</tbody>
+</table>
+
+
+**Seasonal Leaders**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-xu5m{background-color:#C00;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-a3j2{background-color:#FFF;color:#222;text-align:center;vertical-align:middle}
+.tg .tg-lygy{background-color:#FFF;color:#222;text-align:center;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 816px">
+<colgroup>
+<col style="width: 382px">
+<col style="width: 434px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-xu5m">Name</th>
+    <th class="tg-xu5m">Position</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">SL - Tang Chloe</span><br><span style="color:#222;background-color:transparent"> ASL - Vanessa Lee Jia En</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Flute</span></td>
+  </tr>
+  <tr>
+    <td class="tg-lygy">SL - Alyssa Toh Wan Ling<br>ASL - Matthias Tan <br> ASL - Eric Pai Yao Huang<br></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Clarinet</span></td>
+  </tr>
+  <tr>
+    <td class="tg-lygy"><span style="color:#222;background-color:transparent">SL - Muhamad Farid Abil Bin Muhamed Kiffli</span><br><span style="color:#222;background-color:transparent"> ASL - Yoon Kia Suan</span><br></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Saxophone</span></td>
+  </tr>
+  <tr>
+    <td class="tg-lygy">SL - Haris Nornilhakim <br> ASL - Eva Angelina Binte Jamal<br></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Horn</span></td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> SL - Teo Jun Kai Jakeem</span><br><span style="color:#222;background-color:transparent"> ASL - Ryan Tee Qing Kai</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Trumpet</span></td>
+  </tr>
+  <tr>
+    <td class="tg-lygy">SL - Seet Jun X<span style="background-color:transparent">ian</span>ASL - Poh Jo Zhi Wayne<span style="color:#222;background-color:transparent"> </span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Trombone</span></td>
+  </tr>
+  <tr>
+    <td class="tg-lygy"><span style="color:#222;background-color:transparent">Liaw Wei Tak </span></td>
+    <td class="tg-lygy">Euphonium<span style="color:#222;background-color:transparent"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-lygy"><span style="color:#222;background-color:transparent">SL - Teo Hung Kai</span><br><span style="color:#222;background-color:transparent"> ASL - Ng Yi Jie </span></td>
+    <td class="tg-lygy">Tuba<span style="color:#222;background-color:transparent"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-lygy"><span style="color:#222;background-color:transparent">SL - Lim Kay En</span><br><span style="color:#222;background-color:transparent"> ASL - Goh Seng Iu Jackal</span><br><span style="color:#222;background-color:transparent"> ASL - Tanisha Kaur D/O Harban Singh </span></td>
+    <td class="tg-lygy">Percussion<span style="color:#222;background-color:transparent"> </span></td>
+  </tr>
+</tbody>
+</table>
+
+### **Our Programmes**
+
+**SYF Arts Presentation**
+
+<p style="text-align: justify;">Once every two years, our members will gear up for the inaugural Singapore Youth Festival Arts Presentation.</p>
+
+|   |   |   |
+|:---:|:---:|:---:|
+|   ![](/images/Cca/Concert%20Band/2019%20SYF%20Band.jpg) SYF band  | <img src="/images/Cca/Concert%20Band/Band%20A%20practicing%20for%202021%20SYF.jpg" style="width:65%"> Band A practicing for SYF    |   ![](/images/Cca/Concert%20Band/Band%20B%20practicing%20for%202021%20SYF.jpg) Band B practicing for SYF   |
+|  ![](/images/Cca/Concert%20Band/Upclose%20of%20Band%20training%20for%20SYF.jpg) Up close of Band training for SYF	 | <img src="/images/Cca/Concert%20Band/SYF%202021%20performance.jpeg" style="width:80%">  SYF performance  |   |
+
+**Singapore International Band Festival**
+
+<p style="text-align: justify;">Singapore International Band Festival is a Band competition which has been carefully planned to enables band members to unleash their potential and creativity. With the various divisions, bands would be able to choose and perform within their most comfortable level, allowing them to focus well throughout the learning process.</p>
+
+|   |   |   |
+|:---:|:---:|:---:|
+|   <img src="/images/Cca/Concert%20Band/band01.png" style="width:100%">  Band in Action! |    ![](/images/Cca/Concert%20Band/band02.png)  Group Photo outside RP!|   ![](/images/Cca/Concert%20Band/band03.png) Pre-SIBF Concert!  |
+|   <img src="/images/Cca/Concert%20Band/band04.png" style="width:100%">  Rehearsing before actual SIBF! |  ![](/images/Cca/Concert%20Band/band05.png) SIBF 2014 |   |
+
+
+**Band Sectional Photos**
+
+Our Concert Band.
+
+|   |   |   |
+|:---:|:---:|:---:|
+|  <img src="/images/Cca/Concert%20Band/band06.png" style="width:100%">  Clarinettists! |    ![](/images/Cca/Concert%20Band/band07.png)  Flute Girls! |   <img src="/images/Cca/Concert%20Band/band08.png" style="width:100%">  Saxophonists!  |
+|   <img src="/images/Cca/Concert%20Band/band09.png" style="width:100%">  Trombone Girls!  |  ![](/images/Cca/Concert%20Band/band10.png) Trumpet Section!  |   <img src="/images/Cca/Concert%20Band/band11.png" style="width:100%"> Cool Leaders!  |

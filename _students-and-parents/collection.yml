@@ -1,0 +1,29 @@
+collections:
+  students-and-parents:
+    output: true
+    order:
+      - Home Based Learning (HBL).md
+      - National Digital Literacy Programme (NDLP).md
+      - Forms & Useful Links.md
+      - Timetable & Schedules.md
+      - Home School Partnership.md
+      - Textbooks & Uniforms.md
+      - Counselling Services.md
+      - Cyber Wellness.md
+      - Financial Assistance.md
+      - IMDA DigitalAccess@Home Scheme.md
+      - Meet The School (MTS)/.keep
+      - Meet The School (MTS)/Overview of MTS.md
+      - Meet The School (MTS)/Secondary One.md
+      - Meet The School (MTS)/Secondary Two.md
+      - Meet The School (MTS)/Secondary Three.md
+      - Meet The School (MTS)/Secondary Four and Five.md
+      - Parent Gateway.md
+      - PDPA in Publications.md
+      - Promotion.md
+      - Rules & Regulations.md
+      - Safety and Emergency/.keep
+      - Safety and Emergency/Road Safety.md
+      - Safety and Emergency/Safety Hot Spots Around Manjusri.md
+      - Safety and Emergency/Safety Messages.md
+      - SWN WI FI Network.md

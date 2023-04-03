@@ -1,15 +1,12 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/logo.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: Discover Manjusri
+    collection: discover-manjusri
+  - title: Passionate Learners
+    collection: passionate-learners
+  - title: Compassionate Leaders
+    collection: compassionate-leaders
+  - title: CCA
+    collection: cca
+  - title: Students and Parents
+    collection: students-and-parents

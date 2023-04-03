@@ -1,0 +1,16 @@
+---
+title: Our Principal's Message
+permalink: /discover-manjusri/our-principals-message/
+description: ""
+---
+# **Our Principal's Message**
+
+<p style="text-align: justify;">Welcome to the web-site of Manjusri Secondary School (MJR).  We are a government-aided school that enjoys the support of the Singapore Buddhist Federation in our holistic approach to educating students from varied backgrounds.  Our school sees its mission as nurturing <b>Passionate Learners</b> and <b>Compassionate Leaders</b> who are future-ready and anchored in values.  We aim to develop Manjusrians to be confident engaged learners who are able to face future challenges with courage and resilience; as well as responsible citizens who possess a moral compass and a sense of their purpose and place in society.</p>
+
+<p style="text-align: justify;">Our vision is to be a Vibrant Learning Community distinguished by Wisdom, Conduct, Benevolence and Aspiration.  Teachers strive to be respected for their professionalism, expertise and integrity (Wisdom & Conduct) in building a culture of learning.  As an educational institution, we seek to embody a spirit of charity and kindness balanced against the pursuit of excellence (Benevolence& Aspiration).</p>
+
+<p style="text-align: justify;">The school’s signature programmes include (1) <b>Smart City & Assistive Technologies</b> - introducing students through guided team projects to the use of electronics, computing and design engineering to improve the lives of the elderly and disabled; or to create a sustainable environment (2) <b>Learning Life-skills through the Arts</b> - strengthening students’ exposure to and appreciation of various art forms (music, art and drama) as an avenue for self-expression and to develop their confidence and imagination. Prestigious Mee Toh Foundation Arts Scholarships are awarded to students who are able to balance their studies with active contribution in the performing arts (Band, Chinese Dance, Chinese Orchestra, Choir); (3) <b>Mindfulness & Learning Power</b> – cultivation of habits and dispositions so that students become learners who can work together with peers in order to face challenges with greater confidence and composure.  Our teachers have also infused elements of Mindfulness in the character development curriculum. Through the teaching of both thinking skills and mindfulness strategies, students will be equipped with the tools for effective learning and to maintain their focus in spite of distractions.</p>
+
+<p style="text-align: justify;">We are happy to report that during the Sec 1 admission exercise, the school was posted seven classes for 2022: Four Express, Two Normal (Academic) and One Normal (Technical). 80% of our posted S1 students made MJR either their first or 2nd choice option.  The PSLE AL range of actual posted students for <b>affiliated</b> schools was Express 16–22, Normal (Academic) 23-25, Normal (Technical) 26-28.  From <b>non-affiliated</b> schools was Express 13–22, Normal (Academic) 21–25, Normal (Technical) 26–29.</p>
+
+<p style="text-align: justify;">The school looks forward to collaborating with parents and the community to provide a balanced all-round education for our pupils; and to ensure that they are ready for the future as morally upright individuals and responsible contributors in society.</p>

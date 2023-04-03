@@ -1,0 +1,19 @@
+collections:
+  discover-manjusri:
+    output: true
+    order:
+      - A Story on Manjusri Bodhisattva.md
+      - Our School.md
+      - Our Staff/.keep
+      - Our Staff/Executive Committee.md
+      - Our Staff/Teaching Staff.md
+      - Our Staff/Non Teaching Staff.md
+      - Our Principal's Message.md
+      - Our History, Crest & Songs/.keep
+      - Our History, Crest & Songs/Our History.md
+      - Our History, Crest & Songs/Our Crest.md
+      - Our History, Crest & Songs/Our Song.md
+      - Direct School Admission/.keep
+      - Direct School Admission/Introduction to DSA Sec@Manjusri.md
+      - Direct School Admission/Criteria and Selection Process.md
+      - Direct School Admission/Key Dates.md
