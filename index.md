@@ -30,14 +30,6 @@ sections:
       url: /spotlight/40th-school-anni/
       image: /images/Spotlight/Anniversary/ann9.png
       alt: Image alt text
-  - infobar:
-      title: Presentation of Commissioned Bronze Sculptures to Manjusri
-      subtitle: spotlight
-      description: A series of four bronze sculptures titled “Manjusrian Virtues” was
-        unveiled during our school’s 40th Anniversary Commemoration held on 18
-        November 2022...
-      button: Click here to read more
-      url: /spotlight/presentation-of-comm/
   - infopic:
       title: Presentation of Commissioned Bronze Sculptures to Manjusri
       subtitle: spotlight
