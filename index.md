@@ -14,10 +14,10 @@ sections:
           url: ""
         - title: Contact
           description: ""
-          url: ""
+          url: /contact-us/school-contact-details/
         - title: Calendar
           description: ""
-          url: ""
+          url: /hidden-pages/school-calendar/
   - infobar:
       button: School Calendar
       url: /hidden-pages/school-calendar/
