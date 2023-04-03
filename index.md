@@ -12,15 +12,15 @@ sections:
         - title: News
           description: ""
           url: /hidden-pages/permalink/news/
-        - title: Contact
-          description: ""
-          url: /contact-us/school-contact-details/
         - title: Calendar
           description: ""
           url: /hidden-pages/school-calendar/
         - title: Links
           description: ""
           url: /hidden-pages/links/
+        - title: Contact
+          description: ""
+          url: /contact-us/school-contact-details/
   - infobar:
       button: School Calendar
       url: /hidden-pages/school-calendar/
