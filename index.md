@@ -12,7 +12,13 @@ sections:
       url: https://manjusrisec.moe.edu.sg/
       key_highlights:
         - title: News
-          description: Key Highlight description
+          description: ""
+          url: ""
+        - title: Contact
+          description: ""
+          url: ""
+        - title: Calendar
+          description: ""
           url: ""
   - infobar:
       button: School Calendar
