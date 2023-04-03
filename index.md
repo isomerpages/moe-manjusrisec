@@ -22,12 +22,6 @@ sections:
           description: ""
           url: /contact-us/school-contact-details/
   - infobar:
-      button: School Calendar
-      url: /hidden-pages/school-calendar/
-  - infobar:
-      button: Links
-      url: /hidden-pages/links/
-  - infobar:
       title: Presentation of Commissioned Bronze Sculptures to Manjusri
       subtitle: spotlight
       description: A series of four bronze sculptures titled “Manjusrian Virtues” was
