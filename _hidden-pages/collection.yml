@@ -2,6 +2,7 @@ collections:
   hidden-pages:
     output: true
     order:
+      - News.md
       - Open House 2022.md
       - School Calendar.md
       - Links.md
