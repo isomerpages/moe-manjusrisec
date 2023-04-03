@@ -9,9 +9,10 @@ third_nav_title: Contact Us
 **Address**    
 20 Ubi Avenue 1   
 Singapore 408940
-   
+&nbsp;  
 
 **Contacts**
+
 |        |                        |
 |--------|------------------------|
 | Tel:   | 6842 4558              |
@@ -19,6 +20,6 @@ Singapore 408940
 | Email: | manjusri_ss@moe.edu.sg |
 
 
-View location map at <a href="http://www.onemap.sg/?SearchVal=408940&LW:Y&wO5d:IfYIR_J,IhqhI_f,Iaqbf_c,Ihacc_R,c" target="_blank">onemap.sg</a>
+View location map at&nbsp;<a href="http://www.onemap.sg/?SearchVal=408940&amp;LW:Y&amp;wO5d:IfYIR_J,IhqhI_f,Iaqbf_c,Ihacc_R,c" target="_blank">onemap.sg</a>
 
-<a href="http://www.onemap.sg/?SearchVal=408940&LW:Y&wO5d:IfYIR_J,IhqhI_f,Iaqbf_c,Ihacc_R,c" target = "_blank"> <img src="/images/Contact%20us/mjrmap.jpg"></a>
+<a href="http://www.onemap.sg/?SearchVal=408940&amp;LW:Y&amp;wO5d:IfYIR_J,IhqhI_f,Iaqbf_c,Ihacc_R,c" target="_blank"> <img src="/images/Contact%20us/mjrmap.jpg"></a>
