@@ -36,4 +36,13 @@ sections:
         elegant ceremony on 18 November...
       button: Click here to read more
       url: /spotlight/40th-school-anni/
+  - infopic:
+      title: 40th School Anniversary Commemorative Event
+      subtitle: spotlight
+      description: Infopic description
+      button: Button TeThe school celebrated its 40th school anniversary with a simple
+        and elegant ceremony on 18 November...xt
+      url: /spotlight/40th-school-anni/
+      image: /images/Spotlight/Anniversary/ann9.png
+      alt: Image alt text
 ---
