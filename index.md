@@ -18,6 +18,9 @@ sections:
         - title: Calendar
           description: ""
           url: /hidden-pages/school-calendar/
+        - title: Links
+          description: ""
+          url: /hidden-pages/links/
   - infobar:
       button: School Calendar
       url: /hidden-pages/school-calendar/
