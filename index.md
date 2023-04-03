@@ -8,6 +8,8 @@ notification: ""
 sections:
   - hero:
       background: /images/home.gif
+      button: Welcome to Manjusri Secondary School
+      url: https://manjusrisec.moe.edu.sg/
   - infobar:
       button: School Calendar
       url: /hidden-pages/school-calendar/
