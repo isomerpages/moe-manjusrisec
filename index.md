@@ -21,6 +21,15 @@ sections:
         - title: Contact
           description: ""
           url: /contact-us/school-contact-details/
+  - infopic:
+      title: 40th School Anniversary Commemorative Event
+      subtitle: spotlight
+      description: The school celebrated its 40th school anniversary with a simple and
+        elegant ceremony on 18 November...xt
+      button: Click here to read more
+      url: /spotlight/40th-school-anni/
+      image: /images/Spotlight/Anniversary/ann9.png
+      alt: Image alt text
   - infobar:
       title: Presentation of Commissioned Bronze Sculptures to Manjusri
       subtitle: spotlight
@@ -30,12 +39,13 @@ sections:
       button: Click here to read more
       url: /spotlight/presentation-of-comm/
   - infopic:
-      title: 40th School Anniversary Commemorative Event
+      title: Presentation of Commissioned Bronze Sculptures to Manjusri
       subtitle: spotlight
-      description: The school celebrated its 40th school anniversary with a simple and
-        elegant ceremony on 18 November...xt
+      description: A series of four bronze sculptures titled “Manjusrian Virtues” was
+        unveiled during our school’s 40th Anniversary Commemoration held on 18
+        November 2022...
       button: Click here to read more
-      url: /spotlight/40th-school-anni/
-      image: /images/Spotlight/Anniversary/ann9.png
+      url: /spotlight/presentation-of-comm/
+      image: /images/Spotlight/Wisdom/wisdom1.png
       alt: Image alt text
 ---
