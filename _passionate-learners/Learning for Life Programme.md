@@ -38,7 +38,7 @@ description: ""
 | ![](/images/Passionate%20Learners/Learning%20for%20Life%20Programme/Art1.jpg)  | ![](/images/Passionate%20Learners/Learning%20for%20Life%20Programme/Art2.jpg)  | ![](/images/Passionate%20Learners/Learning%20for%20Life%20Programme/Art3.jpg)  |
 
 
-**3\. Morning Jams @ MJR**
+**3\.&nbsp;Morning Jams @ MJR**
 
 
 <p style="text-align: justify;">Morning Jams @ MJR is a platform for students to showcase their talents in singing, music making and dance in performance. This allows students to perform in front of their peers in an informal setting to build up on their confidence.</p>
@@ -50,10 +50,10 @@ description: ""
 |   ![](/images/Passionate%20Learners/Learning%20for%20Life%20Programme/Clapper.jpg)   | ![](/images/Passionate%20Learners/Learning%20for%20Life%20Programme/Wushu.jpg)  | ![](/images/Passionate%20Learners/Learning%20for%20Life%20Programme/Precision%20Drill.jpg)  |
 
 
-**4\. Live @ MJR**
+**4\.&nbsp;Live @ MJR**
 
 <p style="text-align: justify;">Live @ MJR is a platform for the students to be exposed to various art forms through interactive assembly programmes.</p>
 
 |   |   |   |
 |:------:|:---:|:----:|
-|  ![](/images/Passionate%20Learners/Learning%20for%20Life%20Programme/Music%20Ensemble%20by%20Melting%20Pot%20Culture.jpg) Music Ensemble by Melting Pot Culture  |  ![](/images/Passionate%20Learners/Learning%20for%20Life%20Programme/Students%20participation.jpg)   Student participation   | ![](/images/Passionate%20Learners/Learning%20for%20Life%20Programme/Doodle%20Champs%20Programme.jpg)  Doodle Champs Assembly   |
+|  ![](/images/Passionate%20Learners/Learning%20for%20Life%20Programme/Music%20Ensemble%20by%20Melting%20Pot%20Culture.jpg)   |  ![](/images/Passionate%20Learners/Learning%20for%20Life%20Programme/Students%20participation.jpg)      | ![](/images/Passionate%20Learners/Learning%20for%20Life%20Programme/Doodle%20Champs%20Programme.jpg)     |
