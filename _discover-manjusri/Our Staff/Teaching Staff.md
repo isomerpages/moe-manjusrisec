@@ -167,13 +167,13 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td class="tg-0lax">2F</td>
-    <td class="tg-0lax">Mr Muhammad Khairul Ridhwan Bin Bohari</td>
-    <td class="tg-0lax">muhammad_khairul_ridhwan_bohari@moe.edu.sg</td>
+    <td class="tg-0lax">Mr Amit Kumar Sharma s/o Amber Nath</td>
+    <td class="tg-0lax">amit_kumar_sharma_amber@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-faf8"></td>
-    <td class="tg-9678">Mr Amit Kumar Sharma s/o Amber Nath </td>
-    <td class="tg-9678">amit_kumar_sharma_amber@moe.edu.sg</td>
+    <td class="tg-9678">-</td>
+    <td class="tg-9678">-</td>
   </tr>
   <tr>
     <td class="tg-0lax">2G</td>

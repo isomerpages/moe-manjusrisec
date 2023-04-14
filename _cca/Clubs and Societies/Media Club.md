@@ -53,10 +53,7 @@ Monday and Wednesday – 3pm–6pm
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> Mr Daniel Tay</span></td>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">tay_tse_min_daniel@moe.edu.sg </span></td>
   </tr>
-  <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Mr Khairul </span></td>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> muhammad_khairul_ridhwan_bohari@moe.edu.sg</span></td>
-  </tr>
+ 
 </tbody>
 </table>
 
