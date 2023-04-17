@@ -2,5 +2,6 @@ collections:
   spotlight:
     output: true
     order:
+      - Example Title.md
       - 40th School Anniversary Commemorative Event.md
       - Presentation of Commissioned Bronze Sculptures to Manjusri Sec.md
