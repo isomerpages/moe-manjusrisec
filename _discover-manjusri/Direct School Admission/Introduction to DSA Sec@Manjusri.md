@@ -19,8 +19,6 @@ Manjusri Secondary School admits students through the Direct School Admission â€
 5.  **<a href="/cca/sports/wushu" target="_blank">Wushu</a>** or
 6.  **<a href="/cca/sports/wushu" target="_blank">Chinese Calligraphy</a>**
 
-<p style="text-align: justify;">For more information in the&nbsp;DSA-Sec talent area, please click on the respective above link.</p>
-
-<p style="text-align: justify;">Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be opened from 5 May 2022, 11am to 1 Jun 2022, 3pm.</p>
-
-For more details, please refer to MOE website â€“&nbsp;<a href="https://www.moe.gov.sg/dsa-sec" target="_blank">https://www.moe.gov.sg/dsa-sec</a>
+<p style="text-align: justify;">For more information in the&nbsp;DSA-Sec talent area, please click on the respective above link.
+	
+The selection criteria and process for the talent areas will be updated from early-May. For more information DSA-Sec, please refer to MOE website at [https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec) </p>
