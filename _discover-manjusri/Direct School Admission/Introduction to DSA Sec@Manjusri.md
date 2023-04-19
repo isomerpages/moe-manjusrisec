@@ -12,12 +12,12 @@ Direct School Admission (DSA) scheme provides students with the opportunity to s
 
 Manjusri Secondary School admits students through the Direct School Admission – Secondary Schools exercise (DSA-Sec). Our DSA-Sec selection criteria is premised on the applicants’ aptitude and interests in either: </p>
 
-2.  **<a href="/cca/performing-arts/chinese-dance" target="_blank">Chinese Dance</a>**
-3.  <a href="/cca/performing-arts/chinese-orchestra" target="_blank"><b>Chinese Orchestra</b></a>
-4.  **<a href="/cca/performing-arts/choir" target="_blank">Choir</a>**
-5.  **<a href="/cca/performing-arts/concert-band" target="_blank">Concert Band</a>**
-6.  **<a href="/cca/sports/wushu" target="_blank">Wushu</a>** or
-7.  **<a href="/cca/sports/wushu" target="_blank">Chinese Calligraphy</a>**
+1.  **<a href="/cca/performing-arts/chinese-dance" target="_blank">Chinese Dance</a>**
+2.  <a href="/cca/performing-arts/chinese-orchestra" target="_blank"><b>Chinese Orchestra</b></a>
+3.  **<a href="/cca/performing-arts/choir" target="_blank">Choir</a>**
+4.  **<a href="/cca/performing-arts/concert-band" target="_blank">Concert Band</a>**
+5.  **<a href="/cca/sports/wushu" target="_blank">Wushu</a>** or
+6.  **<a href="/cca/sports/wushu" target="_blank">Chinese Calligraphy</a>**
 
 <p style="text-align: justify;">For more information in the&nbsp;DSA-Sec talent area, please click on the respective above link.</p>
 
