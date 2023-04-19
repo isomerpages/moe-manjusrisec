@@ -20,4 +20,5 @@ Manjusri Secondary School admits students through the Direct School Admission â€
 
 <p style="text-align: justify;">For more information in the&nbsp;DSA-Sec talent area, please click on the respective above link.
 	
-The selection criteria and process for the talent areas will be updated from early-May. For more information DSA-Sec, please refer to MOE website at [https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec) </p>
+The selection criteria and process for the talent areas will be updated from early-May. For more information DSA-Sec, please refer to MOE website at <a href="https://www.moe.gov.sg/dsa-sec" target="_blank"><b>https://www.moe.gov.sg/dsa-sec</b></a>
+	 </p>
