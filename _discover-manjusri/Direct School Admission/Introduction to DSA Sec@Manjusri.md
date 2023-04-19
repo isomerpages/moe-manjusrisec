@@ -18,7 +18,7 @@ Direct School Admission (DSA) scheme provides students with the opportunity to s
 5.  **<a href="/cca/sports/wushu" target="_blank">Wushu</a>**
 6.  **<a href="/cca/clubs-and-societies/chinese-calligraphy/" target="_blank">Chinese Calligraphy</a>**
 
-<p style="text-align: justify;">For more information in the&nbsp;DSA-Sec talent area, please click on the respective above link.
+<p style="text-align: justify;">For more information in the&nbsp;DSA-Sec talent area, please click on the respective above link.</p>
 	
-The selection criteria and process for the talent areas will be updated from early-May. For more information DSA-Sec, please refer to MOE website at <a href="https://www.moe.gov.sg/dsa-sec" target="_blank"><b>https://www.moe.gov.sg/dsa-sec</b></a>
+<p style="text-align: justify;">The selection criteria and process for the talent areas will be updated from early-May. For more information DSA-Sec, please refer to MOE website at <a href="https://www.moe.gov.sg/dsa-sec" target="_blank"><b>https://www.moe.gov.sg/dsa-sec</b></a>
 	 </p>
