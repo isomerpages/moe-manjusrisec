@@ -8,6 +8,8 @@ third_nav_title: Performing Arts
 
 <p style="text-align: justify;">The main aim of Choir is to develop a lifelong love for singing and to create lasting friendships among members. The CCA develops sound choral techniques and music literacy in each member via breathing techniques, voice projection, scale-singing and harmonic blending with part-singing. In addition to vocal training, we aim to instil perseverance among our members and creativity in expression.</p>
 
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/6GmgW5g8LnE" height="315" width="560"></iframe>
+
 ### **Training Schedule**  
 
 Every Monday and Wednesday
