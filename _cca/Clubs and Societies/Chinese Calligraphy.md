@@ -8,6 +8,8 @@ third_nav_title: Clubs and Societies
 
 <p style="text-align: justify;">The Manjusri Chinese Calligraphy club was set-up with the aim of embellishing the calligraphic skills in our students. We will foster a wider appreciation and a deeper understanding of calligraphy and its applications through the free interchange of techniques.</p>
 
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/lTp5SRdBpBU" height="315" width="560"></iframe>
+
 ### **Training Schedule**
 
 Monday: 3.00pm – 5.00 pm&nbsp;   
