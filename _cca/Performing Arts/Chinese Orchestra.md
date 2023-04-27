@@ -12,6 +12,8 @@ third_nav_title: Performing Arts
 
 The Manjusri Chinese Orchestra was formed in 1982. In Chinese Orchestra, we seek learning opportunities and performing experiences to improve our young members. Besides being actively involved in various school functions, we also organize and participate in various public performances and have received many positive feedbacks from the public.  
 
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/vIJ8jiSN7sg" height="315" width="560"></iframe>
+
 Training Schedule  
 
 Wednesday: 3.00pm - 6.00pm @ CO Room   

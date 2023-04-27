@@ -10,6 +10,8 @@ Founded in 1983, our dance group’s repertoire consists a wide variety of dance
 
 We are actively involved in many performances to provide platforms for our members to showcase their talents and creativity.
 
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/5Dk8OTTW2bI" height="315" width="560"></iframe>
+
 ### **Training Schedule**
 
 Monday: 3.00pm - 6.00pm @ AVA

@@ -10,6 +10,8 @@ third_nav_title: Performing Arts
 
 <p style="text-align: justify;">The band consists of passionate, dedicated budding musicians who love expressing themselves through music. With a comprehensive music curriculum ranging from band classics and symphonic masterpieces to well-loved popular favourites, the band strives hard to achieve its vision of musical excellence.</p>
 
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/ovvRhOLCTAY" height="315" width="560"></iframe>
+
 ### **Training Schedule**
 
 Monday and Thursday 3-6pm (Combined)    
