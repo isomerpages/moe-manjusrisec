@@ -98,20 +98,20 @@ Every Monday and Wednesday
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Assistant Training IC </span></td>
   </tr>
 	  <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> MEGAN MOK (MO YAQING)</span></td>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Assistant Training IC </span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">LOW YU CHUN (LIU YUCHUN)</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Logistics IC </span></td>
   </tr>
 	  <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> MEGAN MOK (MO YAQING)</span></td>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Assistant Training IC </span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> RANICE CHIN YOU YIN (CHEN ROU YING)</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Assistant Logistics IC </span></td>
   </tr>
 	  <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> MEGAN MOK (MO YAQING)</span></td>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Assistant Training IC </span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> ELENA TAN EN TING</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Outreach IC</span></td>
   </tr>
 	  <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> MEGAN MOK (MO YAQING)</span></td>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Assistant Training IC </span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> JENNA KOH LE EN</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Assistant Outreach IC </span></td>
   </tr>
   <tr>
     <td class="tg-lygy"><span style="background-color:#FFF">Nerissa Tan Lui Rong (Sunflower)</span><br><span style="background-color:transparent">Yeo Ga Yan (Yang Jia Yuan) (Jasmine)</span><br>Seah You En (Morning Glory)<span style="background-color:transparent">Aniqah Shafyrah Binte Zainal (Hibiscus)</span></td>
