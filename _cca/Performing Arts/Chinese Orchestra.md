@@ -103,7 +103,7 @@ Friday: 2.00pm - 5.00pm @ CO Room &amp; Classrooms
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Score Master</span></td>
   </tr>
   <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Sum Jia En</span><br><span style="color:#222;background-color:transparent">Ong Zi Zi</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Low Tze Ying</span></td>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Assistant Score Master</span></td>
   </tr>
   <tr>
