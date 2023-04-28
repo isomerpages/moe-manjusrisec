@@ -103,8 +103,8 @@ Boy’s training days: Tuesday &amp; Thursday (3 – 6pm)
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Vice-Captain (Girls) </span></td>
   </tr>
 	  <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Yap Yi Xuan </span></td>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Vice-Captain (Girls) </span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Xen Kwan Hui Wen </span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Exco (Girls) </span></td>
   </tr>
 </tbody>
 </table>
