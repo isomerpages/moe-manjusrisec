@@ -93,10 +93,8 @@ Every Monday and Wednesday
     <td class="tg-3lre"><span style="color:#222;background-color:transparent">Kok Zhi Yao, Lim Liew Le Estella</span><br></td>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Vice – Chairperson</span></td>
   </tr>
-  <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Young Jun Ting, Andes Quek Chee Hao</span></td>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Student Conductor </span></td>
-  </tr>
+
+  
 </tbody>
 </table>
 
@@ -145,7 +143,10 @@ Every Monday and Wednesday
     <td class="tg-3lre"><span style="color:#222;background-color:transparent">Wee Kai Yu Natalie </span></td>
     <td class="tg-3lre"><span style="color:#222;background-color:transparent">Librarian </span></td>
   </tr>
-</tbody>
+	  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Young Jun Ting, Andes Quek Chee Hao</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Student Conductor </span></td>
+</tr></tbody>
 </table>
 
 ### **Our Programmes**
