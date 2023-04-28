@@ -91,15 +91,15 @@ Friday: 2.00pm - 5.00pm @ CO Room &amp; Classrooms
 </thead>
 <tbody>
   <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Boh Duang Zen</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Ng Chew Ngee</span></td>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Chairperson</span></td>
   </tr>
   <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Estia Goh</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Ong Zi Nin</span></td>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Vice-Chairperson</span></td>
   </tr>
   <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Zhang Mingke</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Low Poh Yee Deline</span></td>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Score Master</span></td>
   </tr>
   <tr>
