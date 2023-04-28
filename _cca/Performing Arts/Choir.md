@@ -140,7 +140,7 @@ Every Monday and Wednesday
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Quarter Master/Mistress</span></td>
   </tr>
   <tr>
-    <td class="tg-3lre"><span style="color:#222;background-color:transparent">Wee Kai Yu Natalie </span></td>
+    <td class="tg-3lre"><span style="color:#222;background-color:transparent">Young Jun Ting </span></td>
     <td class="tg-3lre"><span style="color:#222;background-color:transparent">Student Conductor </span></td>
   </tr>
 
