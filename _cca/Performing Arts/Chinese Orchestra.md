@@ -107,16 +107,16 @@ Friday: 2.00pm - 5.00pm @ CO Room &amp; Classrooms
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Assistant Score Master</span></td>
   </tr>
   <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Darrion Bay</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Woon Cheng Tat</span></td>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Quarter Master (Instrument)</span></td>
   </tr>
   <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Lau Rong Ting Tricia</span><br></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Chua Zhuo Yu Joey</span><br></td>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Quarter Master (Costume) </span></td>
   </tr>
   <tr>
-    <td class="tg-3lre"><span style="color:#222;background-color:transparent">Regin Toh</span><br></td>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Assistant Quarter Master </span></td>
+    <td class="tg-3lre"><span style="color:#222;background-color:transparent">Charis Cheong Yi En</span><br></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Assistant Quarter Master (Instrument) </span></td>
   </tr>
 </tbody>
 </table>
