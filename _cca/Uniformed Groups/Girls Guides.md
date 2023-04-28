@@ -118,16 +118,16 @@ Every Monday and Wednesday
     <td class="tg-lygy">Patrol Leader (Sunflower)</td>
   </tr>
 	 <tr>
-    <td class="tg-lygy"><span style="background-color:#FFF">WEI JINGXUAN</span></td>
-    <td class="tg-lygy">Patrol Leader (Sunflower)</td>
+    <td class="tg-lygy"><span style="background-color:#FFF">QISTINA YURIEKA PUTERI SHAIFUL HERMI</span></td>
+    <td class="tg-lygy">Patrol Leader (Morning Glory)</td>
   </tr>
  <tr>
-    <td class="tg-lygy"><span style="background-color:#FFF">WEI JINGXUAN</span></td>
-    <td class="tg-lygy">Patrol Leader (Sunflower)</td>
+    <td class="tg-lygy"><span style="background-color:#FFF">REGINA HOE SI HUI</span></td>
+    <td class="tg-lygy">Patrol Leader (Hibiscus)</td>
   </tr>
 	 <tr>
-    <td class="tg-lygy"><span style="background-color:#FFF">WEI JINGXUAN</span></td>
-    <td class="tg-lygy">Patrol Leader (Sunflower)</td>
+    <td class="tg-lygy"><span style="background-color:#FFF">JANESS NG HUI XUAN (HUANG HUIXUAN)</span></td>
+    <td class="tg-lygy">Patrol Leader (Jasmine)</td>
   </tr>
 	 <tr>
     <td class="tg-lygy"><span style="background-color:#FFF">WEI JINGXUAN</span></td>
