@@ -93,10 +93,7 @@ Every Monday and Wednesday
     <td class="tg-3lre"><span style="color:#222;background-color:transparent">Kok Zhi Yao, Lim Liew Le Estella</span><br></td>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Vice – Chairperson</span></td>
   </tr>
-
-  
-</tbody>
-</table>
+</tbody></table>
 
 **Sectional Leaders**
 
@@ -122,8 +119,7 @@ Every Monday and Wednesday
     <th class="tg-xu5m">Position</th>
   </tr>
 </thead>
-<tbody>
-  <tr>
+  <tbody><tr>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Tan Jing Xuan Jacelyn</span><br><span style="color:#222;background-color:transparent">Eunice Tan Jia Yi </span></td>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Soprano</span></td>
   </tr>
@@ -143,9 +139,7 @@ Every Monday and Wednesday
     <td class="tg-3lre"><span style="color:#222;background-color:transparent">Young Jun Ting </span><br><span style="color:#222;background-color:transparent">Andes Quek Chee Hao</span><br><span style="color:#222;background-color:transparent">Gareth Yip</span><br></td>
     <td class="tg-3lre"><span style="color:#222;background-color:transparent">Student Conductor </span></td>
   </tr>
-
-	</tbody>
-</table>
+</tbody></table>
 
 ### **Our Programmes**
 
