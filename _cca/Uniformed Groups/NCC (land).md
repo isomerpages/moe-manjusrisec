@@ -83,12 +83,16 @@ Monday and Wednesday&nbsp;3.00pm - 6.00pm
 </thead>
 <tbody>
   <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Msg Wong Peng Jun Kieran</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">LIAN KAI JUN, KENJI</span></td>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Unit Sergeant Major</span></td>
   </tr>
   <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Msg Punnoose Gerard Danny Sungduan</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">KAELEN LIM JIA LE</span></td>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Assistant Sergeant Major</span></td>
+  </tr>
+	  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">CHENG JIAN YI, RYAN</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Regimental Sergeant Major</span></td>
   </tr>
 </tbody>
 </table>
