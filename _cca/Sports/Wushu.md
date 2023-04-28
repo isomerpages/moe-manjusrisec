@@ -36,7 +36,7 @@ Friday: 1-3pm
 .tg .tg-a3j2{background-color:#FFF;color:#222;text-align:center;vertical-align:middle}
 .tg .tg-lygy{background-color:#FFF;color:#222;text-align:center;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 700px">
+<table style="undefined;table-layout: fixed; width: 700px" class="tg">
 <colgroup>
 <col style="width: 350px">
 <col style="width: 350px">
@@ -57,7 +57,7 @@ Friday: 1-3pm
     <td class="tg-gktn"><span style="color:#222;background-color:transparent">sun_guangpu@moe.edu.sg</span><br></td>
   </tr>
   <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Mr Ong Boon Siong </span></td>
+    <td class="tg-a3j2" colspan=""><span style="color:#222;background-color:transparent">Mr Ong Boon Siong </span></td>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">ong_boon_siong@moe.edu.sg </span></td>
   </tr>
   <tr>
@@ -84,7 +84,7 @@ Vice-Captain : ONG WAN QING, RACHEL
 .tg .tg-gktn{background-color:#FFF;border-color:inherit;color:#222;text-align:center;vertical-align:middle}
 .tg .tg-a3j2{background-color:#FFF;color:#222;text-align:center;vertical-align:middle}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 700px">
+<table style="undefined;table-layout: fixed; width: 700px" class="tg">
 <colgroup>
 <col style="width: 192px">
 <col style="width: 177px">
@@ -118,7 +118,7 @@ Vice-Captain : ONG WAN QING, RACHEL
   </tr>
 	  <tr>
     <td class="tg-gktn"><span style="color:#222;background-color:transparent">Logistics</span></td>
-    <td class="tg-gktn"><span style="color:#222;background-color:transparent">TAN YAO JUN</span><br>TROY ANG<br>DILLON TAN QI RUI<br>KOH RONG XUAN JAYDEN</td>
+    <td class="tg-gktn" colspan="2"><span style="color:#222;background-color:transparent">TAN YAO JUN</span><br>TROY ANG<br>DILLON TAN QI RUI<br>KOH RONG XUAN JAYDEN</td>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent"></span></td>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">
 REINA TAN<br>LEE YI XIN<br>BERNICE LEE<br>DINAH</span></td>  </tr>
