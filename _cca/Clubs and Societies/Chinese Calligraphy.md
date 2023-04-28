@@ -88,6 +88,18 @@ Wednesday 3.00 – 5.00 pm
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">DANYA WEE JIA EN</span></td>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Vice – Chairperson</span></td>
   </tr>
+	 <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">DANYA WEE JIA EN</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Vice – Chairperson</span></td>
+  </tr>
+	 <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">DANYA WEE JIA EN</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Vice – Chairperson</span></td>
+  </tr>
+	 <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">DANYA WEE JIA EN</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Vice – Chairperson</span></td>
+  </tr>
 </tbody>
 </table>
 
