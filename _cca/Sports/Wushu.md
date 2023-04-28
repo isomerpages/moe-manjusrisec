@@ -15,7 +15,7 @@ Our Mission:&nbsp;To develop a passion for the sport and instil self-discipline.
 
 <p style="text-align: justify;">Over the years, Manjusri’s Wushu Team has groomed several of its students to be top performers in the sport. Our philosophy has always been to recognize and develop each individual to their fullest potential; training students with little or no exposure to the sport to become National athletes and competition medalists.</p>
 
-https://www.youtube.com/Cxa4Ba-4FCg
+[Wushu Video](https://www.youtube.com/watch?v=Cxa4Ba-4FCg)
 
 ### **Training days and time**
 
