@@ -67,7 +67,7 @@ Girls: Every Wednesday 3pm – 6pm and Friday 1pm-4pm
 |                   | Boys’ Team                | Girls’ Team     |
 |---------------|---------------------|--------------|
 | Captain           | COLEMAN YAM WING JIT| ONG CHENG YI |
-| Vice-Captain      | Lim Zhi Guang, Lorenz 3E  | Tan Si Ying 3D  |
+| Vice-Captain      | AFFAN HAZIQ PUTRA ISKANDAH  | NG JIA WEI  |
 | Logistic Manager  | Thomas Jonathan Austin 3D | Chong Le Jin 3C |
 | Publicity Manager | Le Thanh Duc 3D           | Seng Bao Er 3D  |
 
