@@ -124,16 +124,16 @@ Every Monday and Wednesday
 </thead>
 <tbody>
   <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">David Tan Thai Keat</span><br><span style="color:#222;background-color:transparent">Ho Jia Hui Chloe </span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Tan Jing Xuan Jacelyn</span><br><span style="color:#222;background-color:transparent">Eunice Tan Jia Yi </span></td>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Soprano</span></td>
   </tr>
   <tr>
-    <td class="tg-lygy">Zhang Jingwen<br>Athena Ng <br></td>
+    <td class="tg-lygy">Poon Zhi Yao<br>Charlene Cheok Eu Xing <br></td>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Alto</span></td>
   </tr>
   <tr>
-    <td class="tg-3lre"><span style="color:#222;background-color:transparent">Jovan Lee Jun Wei</span><br><span style="color:#222;background-color:transparent">Aceli Liew Yuxuan</span><br></td>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Baritone </span></td>
+    <td class="tg-3lre"><span style="color:#222;background-color:transparent">Chua Zhuo Yao</span><br><span style="color:#222;background-color:transparent">Toh Jun Le Xavier</span><br></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Bass </span></td>
   </tr>
   <tr>
     <td class="tg-lygy">    <span style="color:#222;background-color:transparent">Siew Yig Hoi</span><br><span style="color:#222;background-color:transparent">Wallace</span><br><span style="color:#222;background-color:transparent">Kellie Jiang Lixuan</span><br><span style="color:#222;background-color:transparent">Wee Kai Yu Natalie</span><br></td>
