@@ -90,7 +90,7 @@ Mondays and Wednesday 3pm-6pm
 </tbody>
 </table>
 
-**Secondary 3**
+**Secondary 4/5**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
