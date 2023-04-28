@@ -114,11 +114,11 @@ Mondays and Wednesday 3pm-6pm
 </thead>
 <tbody>
   <tr>
-    <td class="tg-gktn"><span style="color:#222;background-color:transparent">Mohammad Aefiqkri bin Mohammad Ansari</span><br></td>
+    <td class="tg-gktn"><span style="color:#222;background-color:transparent">NUR HAKIMAN BIN MOHAMED SALLEH</span><br></td>
     <td class="tg-gktn"><span style="color:#222;background-color:transparent">Captain</span></td>
   </tr>
   <tr>
-    <td class="tg-gktn"><span style="color:#222;background-color:transparent">Bryan Sim Zheng Yang</span><br></td>
+    <td class="tg-gktn"><span style="color:#222;background-color:transparent">JOHN KELVIN ROSETE RICAFORTE</span><br></td>
     <td class="tg-gktn"><span style="color:#222;background-color:transparent">Vice Captain</span></td>
   </tr>
 </tbody>
