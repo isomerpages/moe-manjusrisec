@@ -141,12 +141,10 @@ Every Monday and Wednesday
   </tr>
   <tr>
     <td class="tg-3lre"><span style="color:#222;background-color:transparent">Wee Kai Yu Natalie </span></td>
-    <td class="tg-3lre"><span style="color:#222;background-color:transparent">Librarian </span></td>
+    <td class="tg-3lre"><span style="color:#222;background-color:transparent">Student Conductor </span></td>
   </tr>
-	  <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Young Jun Ting, Andes Quek Chee Hao</span></td>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Student Conductor </span></td>
-</tr></tbody>
+
+	</tbody>
 </table>
 
 ### **Our Programmes**
