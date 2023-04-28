@@ -90,11 +90,19 @@ Boy’s training days: Tuesday &amp; Thursday (3 – 6pm)
     <td class="tg-gktn"><span style="color:#222;background-color:transparent">Ryan Tan Jun Ying</span></td>
     <td class="tg-gktn"><span style="color:#222;background-color:transparent">Vice-Captain (Boys)</span></td>
   </tr>
+	  <tr>
+    <td class="tg-gktn"><span style="color:#222;background-color:transparent">Brian Ting<br>Samuel Quek<br>Gary Woon</span></td>
+    <td class="tg-gktn"><span style="color:#222;background-color:transparent">Exco (Boys)</span></td>
+  </tr>
   <tr>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Ong Jing Xuan</span></td>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Captain (Girls) </span></td>
   </tr>
   <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Yap Yi Xuan </span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Vice-Captain (Girls) </span></td>
+  </tr>
+	  <tr>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Yap Yi Xuan </span></td>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Vice-Captain (Girls) </span></td>
   </tr>
