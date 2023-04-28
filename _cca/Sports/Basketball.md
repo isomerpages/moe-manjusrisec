@@ -70,7 +70,7 @@ Boy’s training days: Tuesday &amp; Thursday (3 – 6pm)
 .tg .tg-gktn{background-color:#FFF;border-color:inherit;color:#222;text-align:center;vertical-align:middle}
 .tg .tg-a3j2{background-color:#FFF;color:#222;text-align:center;vertical-align:middle}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 867px">
+<table class="tg" style="undefined;table-layout: fixed; width: 700px">
 <colgroup>
 <col style="width: 300px">
 <col style="width: 400px">
