@@ -136,7 +136,7 @@ Every Monday and Wednesday
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Bass </span></td>
   </tr>
   <tr>
-    <td class="tg-lygy">    <span style="color:#222;background-color:transparent">Siew Yig Hoi</span><br><span style="color:#222;background-color:transparent">Wallace</span><br><span style="color:#222;background-color:transparent">Kellie Jiang Lixuan</span><br><span style="color:#222;background-color:transparent">Wee Kai Yu Natalie</span><br></td>
+    <td class="tg-lygy">    <span style="color:#222;background-color:transparent">Chua Yang Chen</span><br><span style="color:#222;background-color:transparent">Ching Shi Jin Jardyne</span><br><span style="color:#222;background-color:transparent">Conrad Ong</span><br><span style="color:#222;background-color:transparent">Pang Rui Yi, Valerie</span><br></td>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Quarter Master/Mistress</span></td>
   </tr>
   <tr>
