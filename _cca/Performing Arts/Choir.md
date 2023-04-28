@@ -90,13 +90,11 @@ Every Monday and Wednesday
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Chairperson</span></td>
   </tr>
   <tr>
-    <td class="tg-3lre"><span style="color:#222;background-color:transparent">Kok Zhi Yao
-
-Lim Liew Le Estella</span><br></td>
+    <td class="tg-3lre"><span style="color:#222;background-color:transparent">Kok Zhi Yao, Lim Liew Le Estella</span><br></td>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Vice – Chairperson</span></td>
   </tr>
   <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> Nurul Aleeya Binte Mohd Zahrin </span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Young Jun Ting, Andes Quek Chee Hao</span></td>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Student Conductor </span></td>
   </tr>
 </tbody>
