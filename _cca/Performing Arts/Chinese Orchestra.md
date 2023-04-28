@@ -166,15 +166,15 @@ Friday: 2.00pm - 5.00pm @ CO Room &amp; Classrooms
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Yan Qing / Pipa</span></td>
   </tr>
   <tr>
-    <td class="tg-lygy">Chia Xin Rong (SL)<br>Joel Kwa Jun Hienn (ASL)</td>
+    <td class="tg-lygy">Leraine Ong Si Xuan (SL)<br>Lim Wen Fei Erin (ASL)</td>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Zhong Ruan / Liu Qin</span></td>
   </tr>
   <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Ng Qi Fang Gina(SL)</span><br><span style="color:#222;background-color:transparent">Jovan Soo (ASL)</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Loo Kai Cheng (SL)</span><br><span style="color:#222;background-color:transparent">Tan Yong Lin (ASL)</span></td>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Dizi</span></td>
   </tr>
   <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Woo Jia Jun(SL)</span><br><span style="color:#222;background-color:transparent">Tay Jia De (ASL)</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Ong Zi Nin (SL)</span><br><span style="color:#222;background-color:transparent">Low Wei Cheng (ASL)</span></td>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Sheng / Suona</span></td>
   </tr>
   <tr>
