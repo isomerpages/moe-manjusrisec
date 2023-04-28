@@ -178,11 +178,11 @@ Friday: 2.00pm - 5.00pm @ CO Room &amp; Classrooms
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Sheng / Suona</span></td>
   </tr>
   <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Adeline Seet(SL)</span><br><span style="color:#222;background-color:transparent">Tan Rui Han (ASL)</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Jaclyn Chua Hui Zhen (SL)</span><br><span style="color:#222;background-color:transparent">Chua Ming Hua (ASL)</span></td>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Cello / Bass</span></td>
   </tr>
   <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">See Jian Liang(SL)</span><br><span style="color:#222;background-color:transparent">See Jian Hong (ASL)</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Joey Gong Pei Shan (SL)</span><br><span style="color:#222;background-color:transparent">Wang Yu Han (ASL)</span></td>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Percussion</span></td>
   </tr>
   <tr>
