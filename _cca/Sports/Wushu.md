@@ -120,8 +120,9 @@ Vice-Captain : ONG WAN QING, RACHEL
     <td class="tg-gktn"><span style="color:#222;background-color:transparent">Logistics</span></td>
     <td class="tg-gktn"><span style="color:#222;background-color:transparent">TAN YAO JUN</span><br>TROY ANG<br>DILLON TAN QI RUI<br>KOH RONG XUAN JAYDEN</td>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent"></span></td>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">MARYAM</span></td>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">KAELEY ANG</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">
+REINA TAN<br>LEE YI XIN<br>BERNICE LEE<br>DINAH</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"></span></td>
   </tr>
 </tbody>
 </table>
