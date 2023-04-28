@@ -130,25 +130,22 @@ Every Monday and Wednesday
     <td class="tg-lygy">Patrol Leader (Jasmine)</td>
   </tr>
 	 <tr>
-    <td class="tg-lygy"><span style="background-color:#FFF">WEI JINGXUAN</span></td>
-    <td class="tg-lygy">Patrol Leader (Sunflower)</td>
+    <td class="tg-lygy"><span style="background-color:#FFF">SOH YU ANN</span></td>
+    <td class="tg-lygy">Patrol Second (Sunflower)</td>
   </tr>
 	 <tr>
-    <td class="tg-lygy"><span style="background-color:#FFF">WEI JINGXUAN</span></td>
-    <td class="tg-lygy">Patrol Leader (Sunflower)</td>
+    <td class="tg-lygy"><span style="background-color:#FFF">TONG KAR WENG (TANG JIAYING)</span></td>
+    <td class="tg-lygy">Patrol Second (Morning Glory)</td>
   </tr>
 	 <tr>
-    <td class="tg-lygy"><span style="background-color:#FFF">WEI JINGXUAN</span></td>
-    <td class="tg-lygy">Patrol Leader (Sunflower)</td>
+    <td class="tg-lygy"><span style="background-color:#FFF">LOH JESSE</span></td>
+    <td class="tg-lygy">Patrol Second (Hibiscus)</td>
   </tr>
 	 <tr>
-    <td class="tg-lygy"><span style="background-color:#FFF">WEI JINGXUAN</span></td>
-    <td class="tg-lygy">Patrol Leader (Sunflower)</td>
+    <td class="tg-lygy"><span style="background-color:#FFF">JENNA KOH LE EN</span></td>
+    <td class="tg-lygy">Patrol Second(Jasmine)</td>
   </tr>
-	 <tr>
-    <td class="tg-lygy"><span style="background-color:#FFF">WEI JINGXUAN</span></td>
-    <td class="tg-lygy">Patrol Leader (Sunflower)</td>
-  </tr>
+
 </tbody>
 </table>
 
