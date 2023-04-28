@@ -162,7 +162,7 @@ Friday: 2.00pm - 5.00pm @ CO Room &amp; Classrooms
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Hu Qin</span></td>
   </tr>
   <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Balerie Lim Xin En</span><br><span style="color:#222;background-color:transparent">Estia Goh (ASL)</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Ng Chi Ying (SL)</span><br><span style="color:#222;background-color:transparent">Tay Qi Xuan (ASL)</span></td>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Yan Qing / Pipa</span></td>
   </tr>
   <tr>
