@@ -114,8 +114,8 @@ Every Monday and Wednesday
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Assistant Outreach IC </span></td>
   </tr>
   <tr>
-    <td class="tg-lygy"><span style="background-color:#FFF">Nerissa Tan Lui Rong (Sunflower)</span><br><span style="background-color:transparent">Yeo Ga Yan (Yang Jia Yuan) (Jasmine)</span><br>Seah You En (Morning Glory)<span style="background-color:transparent">Aniqah Shafyrah Binte Zainal (Hibiscus)</span></td>
-    <td class="tg-lygy">Patrol Leaders</td>
+    <td class="tg-lygy"><span style="background-color:#FFF">WEI JINGXUAN</span><br><span style="background-color:transparent">Yeo Ga Yan (Yang Jia Yuan) (Jasmine)</span><br>Seah You En (Morning Glory)<span style="background-color:transparent">Aniqah Shafyrah Binte Zainal (Hibiscus)</span></td>
+    <td class="tg-lygy">Patrol Leader (Sunflower)</td>
   </tr>
   <tr>
     <td class="tg-lygy">Ong Yanzhi (Sunflower)<br>Geraldine See Yu Tong (Jasmine)<br>Nur Istifar Binte Abdullah (Morning Glory)<br><br>Qistina Yushini Puteri Shaiful Hermi (Hibiscus)</td>
