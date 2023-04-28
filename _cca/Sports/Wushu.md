@@ -122,7 +122,8 @@ Vice-Captain : ONG WAN QING, RACHEL
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent"></span></td>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">
 REINA TAN<br>LEE YI XIN<br>BERNICE LEE<br>DINAH</span></td>  </tr>
-</tbody>
+	   <tr><td class="tg-a3j2"><span style="color:#222;background-color:transparent"></span></td>
+</tr></tbody>
 </table>
 
 
