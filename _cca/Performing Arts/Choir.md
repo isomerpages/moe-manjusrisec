@@ -90,7 +90,7 @@ Every Monday and Wednesday
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Chairperson</span></td>
   </tr>
   <tr>
-    <td class="tg-3lre"><span style="color:#222;background-color:transparent">Kok Zhi Yao, Lim Liew Le Estella</span><br></td>
+    <td class="tg-3lre"><span style="color:#222;background-color:transparent">Kok Zhi Yao</span><br><span style="color:#222;background-color:transparent">Lim Liew Le Estella </span><br></td>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Vice – Chairperson</span></td>
   </tr>
 </tbody></table>
