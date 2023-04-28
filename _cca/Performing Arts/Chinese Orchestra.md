@@ -118,6 +118,18 @@ Friday: 2.00pm - 5.00pm @ CO Room &amp; Classrooms
     <td class="tg-3lre"><span style="color:#222;background-color:transparent">Charis Cheong Yi En</span><br></td>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Assistant Quarter Master (Instrument) </span></td>
   </tr>
+	  <tr>
+    <td class="tg-3lre"><span style="color:#222;background-color:transparent">Alycia Leong</span><br></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Assistant Quarter Master (Costume) </span></td>
+  </tr>
+	  <tr>
+    <td class="tg-3lre"><span style="color:#222;background-color:transparent">Charis Cheong Yi En</span><br></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Assistant Quarter Master (Instrument) </span></td>
+  </tr>
+	  <tr>
+    <td class="tg-3lre"><span style="color:#222;background-color:transparent">Charis Cheong Yi En</span><br></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Assistant Quarter Master (Instrument) </span></td>
+  </tr>
 </tbody>
 </table>
 
