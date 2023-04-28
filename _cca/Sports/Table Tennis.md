@@ -68,8 +68,8 @@ Girls: Every Wednesday 3pm – 6pm and Friday 1pm-4pm
 |---------------|---------------------|--------------|
 | Captain           | COLEMAN YAM WING JIT| ONG CHENG YI |
 | Vice-Captain      | AFFAN HAZIQ PUTRA ISKANDAH  | NG JIA WEI  |
-| Logistic Manager  | Thomas Jonathan Austin 3D | Chong Le Jin 3C |
-| Publicity Manager | Le Thanh Duc 3D           | Seng Bao Er 3D  |
+| Logistic Manager  | LAU ZHENG YUAN GAVIN | ZUANN CHAN XIN YI |
+| Publicity Manager | LOY GUAN QI           | TAN SI YI CLARISSA  |
 
 ### **Our Programmes**
 
