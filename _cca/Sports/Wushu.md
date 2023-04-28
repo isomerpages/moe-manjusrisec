@@ -111,10 +111,10 @@ Vice-Captain : ONG WAN QING, RACHEL
   </tr>
   <tr>
     <td class="tg-gktn"><span style="color:#222;background-color:transparent">Wushu Leaders</span></td>
-    <td class="tg-gktn"><span style="color:#222;background-color:transparent">Young Chan 3G</span></td>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Ling Zhe Xian 2G</span></td>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Cadence Goh Kar En 3E</span></td>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Tan Ya Hui 2F</span></td>
+    <td class="tg-gktn"><span style="color:#222;background-color:transparent">XAVIER YAM</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">GRANDAS</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">MARYAM</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">KAELEY ANG</span></td>
   </tr>
 </tbody>
 </table>
