@@ -6,11 +6,11 @@ third_nav_title: Uniformed Groups
 ---
 # **Girls Guides**
 
-<p style="text-align: justify;">The motto of Manjusri Girl Guides is “Be Prepared” as we hope our girls can be independent problem solvers who are able to think and respond promptly in everyday life situations. Manjusri Girl Guides is also part of the World Association of Girl Guides and Girl Scouts (WAGGGS) – working together to enable girls and young women to develop their fullest potential as responsible citizens of the world.</p>
+<p style="text-align: justify;">The motto of&nbsp;Manjusri Girl Guides is “Be Prepared” as we hope our girls can be independent problem solvers who are able to think and respond promptly in everyday life situations. Manjusri Girl Guides is also part of the World Association of Girl Guides and Girl Scouts (WAGGGS) – working together to enable girls and young women to develop their fullest potential as responsible citizens of the world.</p>
 
-<p style="text-align: justify;">Our Girl Guides programmes at Manjusri has been refined to align with MOE’s 21st Century Skills and Competencies and aims to stretch our Guides to their fullest potential. Under the supervision of the guiders, our Guides plan and execute CCA trainings to fulfil a comprehensive 5-point program which covers developmental aspects such as Personal & Social Development, Home, Outdoor, Community and International. This provides our Guides with necessary experiences that will enrich their learning beyond the classroom and develop our Guides such that they are able to negotiate the challenges and obstacles that they may face in future.  </p>
+<p style="text-align: justify;">Our Girl Guides programmes at Manjusri has been refined to align with MOE’s 21st&nbsp;Century Skills and Competencies and aims to stretch our Guides to their fullest potential. Under the supervision of the guiders, our Guides plan and execute CCA trainings to fulfil a comprehensive 5-point program which covers developmental aspects such as Personal &amp; Social Development, Home, Outdoor, Community and International. This provides our Guides with necessary experiences that will enrich their learning beyond the classroom and develop our Guides such that they are able to negotiate the challenges and obstacles that they may face in future.  </p>
 
-<p style="text-align: justify;">Manjusri Girl Guides has attained a Gold Award in Puan Nur Aishah Award for 2019 and 2018. The Girl Guides slogan “Once a Guide, Always a Guide”. </p>
+<p style="text-align: justify;">Manjusri Girl Guides has attained a Gold Award in Puan Nur Aishah Award for&nbsp;2019 and 2018.&nbsp;The Girl Guides slogan “Once a Guide, Always a Guide”.&nbsp;</p>
 
 ### **Training Schedule**  
 
@@ -82,29 +82,70 @@ Every Monday and Wednesday
 </thead>
 <tbody>
   <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Nur Umairah Binte Mohamad Razim </span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">TAMARA BINTE MOHAMED AMIN </span></td>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Company Leader</span></td>
   </tr>
   <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Noor Nabila Binte Gazali</span></td>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Assistant Company Leader</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">WONG YUE TING RACHEL</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Assistant Company Leader 1</span></td>
   </tr>
   <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Lim En Xin Shireen</span></td>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Quarter Mistress </span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">NG ZI YUE, GWYEN</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Assistant Company Leader 2/Training IC </span></td>
   </tr>
   <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> Reva Putriani Nurazizah Binte Mohamed Khermi</span></td>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Assistant Quarter Mistress </span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> MEGAN MOK (MO YAQING)</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Assistant Training IC </span></td>
+  </tr>
+	  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">LOW YU CHUN (LIU YUCHUN)</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Logistics IC </span></td>
+  </tr>
+	  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> RANICE CHIN YOU YIN (CHEN ROU YING)</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Assistant Logistics IC </span></td>
+  </tr>
+	  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> ELENA TAN EN TING</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Outreach IC</span></td>
+  </tr>
+	  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> JENNA KOH LE EN</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Assistant Outreach IC </span></td>
   </tr>
   <tr>
-    <td class="tg-lygy"><span style="background-color:#FFF">Nerissa Tan Lui Rong (Sunflower)</span><br><span style="background-color:transparent">Yeo Ga Yan (Yang Jia Yuan) (Jasmine)</span><br>Seah You En (Morning Glory)<span style="background-color:transparent">Aniqah Shafyrah Binte Zainal (Hibiscus)</span></td>
-    <td class="tg-lygy">Patrol Leaders</td>
+    <td class="tg-lygy"><span style="background-color:#FFF">WEI JINGXUAN</span></td>
+    <td class="tg-lygy">Patrol Leader (Sunflower)</td>
   </tr>
-  <tr>
-    <td class="tg-lygy">Ong Yanzhi (Sunflower)<br>Geraldine See Yu Tong (Jasmine)<br>Nur Istifar Binte Abdullah (Morning Glory)<br><br>Qistina Yushini Puteri Shaiful Hermi (Hibiscus)</td>
-    <td class="tg-lygy">Patrol Seconds</td>
+	 <tr>
+    <td class="tg-lygy"><span style="background-color:#FFF">QISTINA YURIEKA PUTERI SHAIFUL HERMI</span></td>
+    <td class="tg-lygy">Patrol Leader (Morning Glory)</td>
   </tr>
+ <tr>
+    <td class="tg-lygy"><span style="background-color:#FFF">REGINA HOE SI HUI</span></td>
+    <td class="tg-lygy">Patrol Leader (Hibiscus)</td>
+  </tr>
+	 <tr>
+    <td class="tg-lygy"><span style="background-color:#FFF">JANESS NG HUI XUAN (HUANG HUIXUAN)</span></td>
+    <td class="tg-lygy">Patrol Leader (Jasmine)</td>
+  </tr>
+	 <tr>
+    <td class="tg-lygy"><span style="background-color:#FFF">SOH YU ANN</span></td>
+    <td class="tg-lygy">Patrol Second (Sunflower)</td>
+  </tr>
+	 <tr>
+    <td class="tg-lygy"><span style="background-color:#FFF">TONG KAR WENG (TANG JIAYING)</span></td>
+    <td class="tg-lygy">Patrol Second (Morning Glory)</td>
+  </tr>
+	 <tr>
+    <td class="tg-lygy"><span style="background-color:#FFF">LOH JESSE</span></td>
+    <td class="tg-lygy">Patrol Second (Hibiscus)</td>
+  </tr>
+	 <tr>
+    <td class="tg-lygy"><span style="background-color:#FFF">JENNA KOH LE EN</span></td>
+    <td class="tg-lygy">Patrol Second(Jasmine)</td>
+  </tr>
+
 </tbody>
 </table>
 

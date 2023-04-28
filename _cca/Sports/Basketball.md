@@ -70,7 +70,7 @@ Boy’s training days: Tuesday &amp; Thursday (3 – 6pm)
 .tg .tg-gktn{background-color:#FFF;border-color:inherit;color:#222;text-align:center;vertical-align:middle}
 .tg .tg-a3j2{background-color:#FFF;color:#222;text-align:center;vertical-align:middle}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 867px">
+<table class="tg" style="undefined;table-layout: fixed; width: 700px">
 <colgroup>
 <col style="width: 300px">
 <col style="width: 400px">
@@ -83,20 +83,28 @@ Boy’s training days: Tuesday &amp; Thursday (3 – 6pm)
 </thead>
 <tbody>
   <tr>
-    <td class="tg-gktn"><span style="color:#222;background-color:transparent">Wong Hong Xun</span></td>
+    <td class="tg-gktn"><span style="color:#222;background-color:transparent">Hooi Sik Hong</span></td>
     <td class="tg-gktn"><span style="color:#222;background-color:transparent">Captain (Boys)</span></td>
   </tr>
   <tr>
-    <td class="tg-gktn"><span style="color:#222;background-color:transparent">Lee Zhen Kang</span></td>
+    <td class="tg-gktn"><span style="color:#222;background-color:transparent">Ryan Tan Jun Ying</span></td>
     <td class="tg-gktn"><span style="color:#222;background-color:transparent">Vice-Captain (Boys)</span></td>
   </tr>
+	  <tr>
+    <td class="tg-gktn"><span style="color:#222;background-color:transparent">Brian Ting<br>Samuel Quek<br>Gary Woon</span></td>
+    <td class="tg-gktn"><span style="color:#222;background-color:transparent">Exco (Boys)</span></td>
+  </tr>
   <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Katelyn Ng</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Ong Jing Xuan</span></td>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Captain (Girls) </span></td>
   </tr>
   <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Melvena Luthfiya </span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Yap Yi Xuan </span></td>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Vice-Captain (Girls) </span></td>
+  </tr>
+	  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Xen Kwan Hui Wen </span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Exco (Girls) </span></td>
   </tr>
 </tbody>
 </table>

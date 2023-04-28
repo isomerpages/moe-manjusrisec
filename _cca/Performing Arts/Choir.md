@@ -86,19 +86,14 @@ Every Monday and Wednesday
 </thead>
 <tbody>
   <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Chng Wee Kiat Joshua </span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Renji Hoo Zhe Jia</span></td>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Chairperson</span></td>
   </tr>
   <tr>
-    <td class="tg-3lre"><span style="color:#222;background-color:transparent">Zhang Jingwen</span><br></td>
+    <td class="tg-3lre"><span style="color:#222;background-color:transparent">Kok Zhi Yao</span><br><span style="color:#222;background-color:transparent">Lim Liew Le Estella </span><br></td>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Vice – Chairperson</span></td>
   </tr>
-  <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> Nurul Aleeya Binte Mohd Zahrin </span></td>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Student Conductor </span></td>
-  </tr>
-</tbody>
-</table>
+</tbody></table>
 
 **Sectional Leaders**
 
@@ -124,29 +119,27 @@ Every Monday and Wednesday
     <th class="tg-xu5m">Position</th>
   </tr>
 </thead>
-<tbody>
-  <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">David Tan Thai Keat</span><br><span style="color:#222;background-color:transparent">Ho Jia Hui Chloe </span></td>
+  <tbody><tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Tan Jing Xuan Jacelyn</span><br><span style="color:#222;background-color:transparent">Eunice Tan Jia Yi </span></td>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Soprano</span></td>
   </tr>
   <tr>
-    <td class="tg-lygy">Zhang Jingwen<br>Athena Ng <br></td>
+    <td class="tg-lygy">Poon Zhi Yao<br>Charlene Cheok Eu Xing <br></td>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Alto</span></td>
   </tr>
   <tr>
-    <td class="tg-3lre"><span style="color:#222;background-color:transparent">Jovan Lee Jun Wei</span><br><span style="color:#222;background-color:transparent">Aceli Liew Yuxuan</span><br></td>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Baritone </span></td>
+    <td class="tg-3lre"><span style="color:#222;background-color:transparent">Chua Zhuo Yao</span><br><span style="color:#222;background-color:transparent">Toh Jun Le Xavier</span><br></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Bass </span></td>
   </tr>
   <tr>
-    <td class="tg-lygy">    <span style="color:#222;background-color:transparent">Siew Yig Hoi</span><br><span style="color:#222;background-color:transparent">Wallace</span><br><span style="color:#222;background-color:transparent">Kellie Jiang Lixuan</span><br><span style="color:#222;background-color:transparent">Wee Kai Yu Natalie</span><br></td>
+    <td class="tg-lygy">    <span style="color:#222;background-color:transparent">Chua Yang Chen</span><br><span style="color:#222;background-color:transparent">Ching Shi Jin Jardyne</span><br><span style="color:#222;background-color:transparent">Conrad Ong</span><br><span style="color:#222;background-color:transparent">Pang Rui Yi, Valerie</span><br></td>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Quarter Master/Mistress</span></td>
   </tr>
   <tr>
-    <td class="tg-3lre"><span style="color:#222;background-color:transparent">Wee Kai Yu Natalie </span></td>
-    <td class="tg-3lre"><span style="color:#222;background-color:transparent">Librarian </span></td>
+    <td class="tg-3lre"><span style="color:#222;background-color:transparent">Young Jun Ting </span><br><span style="color:#222;background-color:transparent">Andes Quek Chee Hao</span><br><span style="color:#222;background-color:transparent">Gareth Yip</span><br></td>
+    <td class="tg-3lre"><span style="color:#222;background-color:transparent">Student Conductor </span></td>
   </tr>
-</tbody>
-</table>
+</tbody></table>
 
 ### **Our Programmes**
 

@@ -56,7 +56,7 @@ Mondays and Wednesday 3pm-6pm
 
 ### **Our Student Leaders**
 
-**Secondary 4**
+**Secondary 2**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -80,17 +80,17 @@ Mondays and Wednesday 3pm-6pm
 </thead>
 <tbody>
   <tr>
-    <td class="tg-gktn"><span style="color:#222;background-color:transparent">Muhammad Yasin bin Muhammad Yunos</span><br></td>
+    <td class="tg-gktn"><span style="color:#222;background-color:transparent">MOHAMMAD ISKANDAR SHA S/O RAMJANSHA</span><br></td>
     <td class="tg-gktn"><span style="color:#222;background-color:transparent">Captain</span></td>
   </tr>
   <tr>
-    <td class="tg-gktn"><span style="color:#222;background-color:transparent">Shashwat Gurung</span><br></td>
+    <td class="tg-gktn"><span style="color:#222;background-color:transparent">MOHAMED FIRAS IRSYAD BIN ALI AMRAN</span><br></td>
     <td class="tg-gktn"><span style="color:#222;background-color:transparent">Vice Captain</span></td>
   </tr>
 </tbody>
 </table>
 
-**Secondary 3**
+**Secondary 4/5**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -114,11 +114,11 @@ Mondays and Wednesday 3pm-6pm
 </thead>
 <tbody>
   <tr>
-    <td class="tg-gktn"><span style="color:#222;background-color:transparent">Mohammad Aefiqkri bin Mohammad Ansari</span><br></td>
+    <td class="tg-gktn"><span style="color:#222;background-color:transparent">NUR HAKIMAN BIN MOHAMED SALLEH</span><br></td>
     <td class="tg-gktn"><span style="color:#222;background-color:transparent">Captain</span></td>
   </tr>
   <tr>
-    <td class="tg-gktn"><span style="color:#222;background-color:transparent">Bryan Sim Zheng Yang</span><br></td>
+    <td class="tg-gktn"><span style="color:#222;background-color:transparent">JOHN KELVIN ROSETE RICAFORTE</span><br></td>
     <td class="tg-gktn"><span style="color:#222;background-color:transparent">Vice Captain</span></td>
   </tr>
 </tbody>

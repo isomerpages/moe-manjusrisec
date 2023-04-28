@@ -91,32 +91,44 @@ Friday: 2.00pm - 5.00pm @ CO Room &amp; Classrooms
 </thead>
 <tbody>
   <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Boh Duang Zen</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Ng Chew Ngee</span></td>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Chairperson</span></td>
   </tr>
   <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Estia Goh</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Ong Zi Nin</span></td>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Vice-Chairperson</span></td>
   </tr>
   <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Zhang Mingke</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Low Poh Yee Deline</span></td>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Score Master</span></td>
   </tr>
   <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Sum Jia En</span><br><span style="color:#222;background-color:transparent">Ong Zi Zi</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Low Tze Ying</span></td>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Assistant Score Master</span></td>
   </tr>
   <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Darrion Bay</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Woon Cheng Tat</span></td>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Quarter Master (Instrument)</span></td>
   </tr>
   <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Lau Rong Ting Tricia</span><br></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Chua Zhuo Yu Joey</span><br></td>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Quarter Master (Costume) </span></td>
   </tr>
   <tr>
-    <td class="tg-3lre"><span style="color:#222;background-color:transparent">Regin Toh</span><br></td>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Assistant Quarter Master </span></td>
+    <td class="tg-3lre"><span style="color:#222;background-color:transparent">Charis Cheong Yi En</span><br></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Assistant Quarter Master (Instrument) </span></td>
+  </tr>
+	  <tr>
+    <td class="tg-3lre"><span style="color:#222;background-color:transparent">Alycia Leong</span><br></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Assistant Quarter Master (Costume) </span></td>
+  </tr>
+	  <tr>
+    <td class="tg-3lre"><span style="color:#222;background-color:transparent">Yang Xinrong, Jazebel</span><br></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Logistics Head</span></td>
+  </tr>
+	  <tr>
+    <td class="tg-3lre"><span style="color:#222;background-color:transparent">Hailey Ong Li Wen</span><br></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Assistant Logistics Head </span></td>
   </tr>
 </tbody>
 </table>
@@ -146,37 +158,34 @@ Friday: 2.00pm - 5.00pm @ CO Room &amp; Classrooms
 </thead>
 <tbody>
   <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Samatha Ng Boon Hian (SL)</span><br><span style="color:#222;background-color:transparent">Liew Xuan Yin, Germaine (ASL)</span></td>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Er Hu</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Jaymee Sow Yi Jie (SL)</span><br><span style="color:#222;background-color:transparent">Lovelle Koh En Ning (ASL)</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Hu Qin</span></td>
   </tr>
   <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Balerie Lim Xin En</span><br><span style="color:#222;background-color:transparent">Estia Goh (ASL)</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Ng Chi Ying (SL)</span><br><span style="color:#222;background-color:transparent">Tay Qi Xuan (ASL)</span></td>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Yan Qing / Pipa</span></td>
   </tr>
   <tr>
-    <td class="tg-lygy">Chia Xin Rong (SL)<br>Joel Kwa Jun Hienn (ASL)</td>
+    <td class="tg-lygy">Leraine Ong Si Xuan (SL)<br>Lim Wen Fei Erin (ASL)</td>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Zhong Ruan / Liu Qin</span></td>
   </tr>
   <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Ng Qi Fang Gina(SL)</span><br><span style="color:#222;background-color:transparent">Jovan Soo (ASL)</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Loo Kai Cheng (SL)</span><br><span style="color:#222;background-color:transparent">Tan Yong Lin (ASL)</span></td>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Dizi</span></td>
   </tr>
   <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Woo Jia Jun(SL)</span><br><span style="color:#222;background-color:transparent">Tay Jia De (ASL)</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Ong Zi Nin (SL)</span><br><span style="color:#222;background-color:transparent">Low Wei Cheng (ASL)</span></td>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Sheng / Suona</span></td>
   </tr>
   <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Adeline Seet(SL)</span><br><span style="color:#222;background-color:transparent">Tan Rui Han (ASL)</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Jaclyn Chua Hui Zhen (SL)</span><br><span style="color:#222;background-color:transparent">Chua Ming Hua (ASL)</span></td>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Cello / Bass</span></td>
   </tr>
   <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">See Jian Liang(SL)</span><br><span style="color:#222;background-color:transparent">See Jian Hong (ASL)</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Joey Gong Pei Shan (SL)</span><br><span style="color:#222;background-color:transparent">Wang Yu Han (ASL)</span></td>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Percussion</span></td>
   </tr>
-  <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Tan Ying Xi Chloe (Head)</span><br><span style="color:#222;background-color:transparent">Eileen Tim (Asst Head)</span></td>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Logistics</span></td>
-  </tr>
+
 </tbody>
 </table>
 

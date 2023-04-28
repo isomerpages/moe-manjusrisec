@@ -81,12 +81,25 @@ Wednesday 3.00 – 5.00 pm
 </thead>
 <tbody>
   <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Zheng Xuan </span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">CHERYLL WONG EE SHYAN </span></td>
     <td class="tg-lygy">Chairperson<span style="color:#222;background-color:transparent"> </span></td>
   </tr>
   <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Lau Viee</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">DANYA WEE JIA EN</span></td>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Vice – Chairperson</span></td>
+  </tr>
+	 <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">TOH JIA NI</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Publicity Manager</span></td>
+  </tr>
+	 <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">ZHENG XINYI</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Events Manager
+</span></td>
+  </tr>
+	 <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">CHERYLL WONG EE SHYAN</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Logistics Manager</span></td>
   </tr>
 </tbody>
 </table>
