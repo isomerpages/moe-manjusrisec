@@ -117,10 +117,7 @@ Every Monday and Wednesday
     <td class="tg-lygy"><span style="background-color:#FFF">WEI JINGXUAN</span></td>
     <td class="tg-lygy">Patrol Leader (Sunflower)</td>
   </tr>
-  <tr>
-    <td class="tg-lygy">Ong Yanzhi (Sunflower)<br>Geraldine See Yu Tong (Jasmine)<br>Nur Istifar Binte Abdullah (Morning Glory)<br><br>Qistina Yushini Puteri Shaiful Hermi (Hibiscus)</td>
-    <td class="tg-lygy">Patrol Seconds</td>
-  </tr>
+
 </tbody>
 </table>
 
