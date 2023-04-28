@@ -185,10 +185,7 @@ Friday: 2.00pm - 5.00pm @ CO Room &amp; Classrooms
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Joey Gong Pei Shan (SL)</span><br><span style="color:#222;background-color:transparent">Wang Yu Han (ASL)</span></td>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Percussion</span></td>
   </tr>
-  <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Tan Ying Xi Chloe (Head)</span><br><span style="color:#222;background-color:transparent">Eileen Tim (Asst Head)</span></td>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Logistics</span></td>
-  </tr>
+
 </tbody>
 </table>
 
