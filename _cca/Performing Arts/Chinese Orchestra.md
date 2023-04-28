@@ -123,12 +123,12 @@ Friday: 2.00pm - 5.00pm @ CO Room &amp; Classrooms
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Assistant Quarter Master (Costume) </span></td>
   </tr>
 	  <tr>
-    <td class="tg-3lre"><span style="color:#222;background-color:transparent">Charis Cheong Yi En</span><br></td>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Assistant Quarter Master (Instrument) </span></td>
+    <td class="tg-3lre"><span style="color:#222;background-color:transparent">Yang Xinrong, Jazebel</span><br></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Logistics Head</span></td>
   </tr>
 	  <tr>
-    <td class="tg-3lre"><span style="color:#222;background-color:transparent">Charis Cheong Yi En</span><br></td>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Assistant Quarter Master (Instrument) </span></td>
+    <td class="tg-3lre"><span style="color:#222;background-color:transparent">Hailey Ong Li Wen</span><br></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Assistant Logistics Head </span></td>
   </tr>
 </tbody>
 </table>
