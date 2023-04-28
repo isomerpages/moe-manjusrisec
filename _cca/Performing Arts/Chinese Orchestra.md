@@ -158,8 +158,8 @@ Friday: 2.00pm - 5.00pm @ CO Room &amp; Classrooms
 </thead>
 <tbody>
   <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Samatha Ng Boon Hian (SL)</span><br><span style="color:#222;background-color:transparent">Liew Xuan Yin, Germaine (ASL)</span></td>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Er Hu</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Jaymee Sow Yi Jie (SL)</span><br><span style="color:#222;background-color:transparent">Lovelle Koh En Ning (ASL)</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Hu Qin</span></td>
   </tr>
   <tr>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Balerie Lim Xin En</span><br><span style="color:#222;background-color:transparent">Estia Goh (ASL)</span></td>
