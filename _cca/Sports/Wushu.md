@@ -69,8 +69,8 @@ Friday: 1-3pm
 
 ### **Our Student Leaders**
 
-Captain : FU CHUANZHI 3F   
-Vice-Captain : NG SHI QI 3F
+Captain : GAN CHENG YU   
+Vice-Captain : ONG WAN QING, RACHEL
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
