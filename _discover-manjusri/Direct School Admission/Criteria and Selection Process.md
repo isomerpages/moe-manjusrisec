@@ -34,7 +34,7 @@ Students who are successfully admitted to the school via DSA are expected to hon
 
 ##### **Chinese Calligraphy**  
 
-</p><p style="text-align: justify;">Applicants must be able to demonstrate an aptitude and interest in Chinese Calligraphy through one or more of the following ways:</p>
+</p><p style="text-align: justify;">Applicants must be able to demonstrate an aptitude and interest in **Chinese Calligraphy** through one or more of the following ways:</p>
 
 * Participated in local/international Chinese Calligraphy competition;
 * Sustained participation in Chinese Calligraphy Co-Curricular Activities;
