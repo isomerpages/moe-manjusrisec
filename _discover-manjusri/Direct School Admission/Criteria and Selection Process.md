@@ -32,8 +32,12 @@ Students who are successfully admitted to the school via DSA are expected to hon
 * Sustained participation in Wushu Co-Curricular Activities or enrichment programme.
 
 
-##### **-**  
+##### **Chinese Calligraphy**  
 
-</p><p style="text-align: justify;"></p>
+</p><p style="text-align: justify;">Applicants must be able to demonstrate an aptitude and interest in Chinese Calligraphy through one or more of the following ways:</p>
+
+* Participated in local/international Chinese Calligraphy competition;
+* Sustained participation in Chinese Calligraphy Co-Curricular Activities;
+* Sustained participation in Chinese Calligraphy enrichment programmes.
 
 <p style="text-align: justify;"></p>
