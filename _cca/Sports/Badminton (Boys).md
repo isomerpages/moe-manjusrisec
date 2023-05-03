@@ -75,11 +75,11 @@ Monday and Wednesday 2.30pm – 5.30pm
 </thead>
 <tbody>
   <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">DENG HUIGAN JONAS</span><br><span style="color:#222;background-color:transparent">TANISHA ZHENG NAIJIA</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">CHEN HONGRUI, DYLAN</span></td>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Captain</span></td>
   </tr>
   <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">AARON FIEZAN BIN JAMALUDIN JONATHAN TAN SUUN EU</span><br><span style="color:#222;background-color:transparent"> TRICIA CHUA YAN ROU</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">LIM HONG YI, CHEYDEN</span></td>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Vice Captain</span></td>
   </tr>
   <tr>
