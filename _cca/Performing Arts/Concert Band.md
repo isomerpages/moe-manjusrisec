@@ -88,19 +88,19 @@ Wednesday 3-5pm (Self-Practice)
 </thead>
 <tbody>
   <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Joshua Ang Songrui</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">KHANT THU JOHN</span></td>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Band Major</span></td>
   </tr>
   <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Matthias Tan</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">MOK HENG LEI</span></td>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Drum Major</span></td>
   </tr>
   <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Tang Chloe</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">LIAN TIAN HUI, RACHEL</span></td>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Concert Mistress</span></td>
   </tr>
   <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Muhamad Farid Abil Bin Muhamed Kiffli</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">DENISE NG WAI XIN&nbsp;<br>CHONG XI YUAN, CIDNEY</span></td>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Recruiting Officers</span></td>
   </tr>
   <tr>
@@ -108,7 +108,7 @@ Wednesday 3-5pm (Self-Practice)
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Asst. Recruiting Officer</span></td>
   </tr>
   <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> Alyssa Toh Wan Ling</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> AU YONG HUI LIN</span></td>
     <td class="tg-lygy">Librarian (Head)<span style="color:#222;background-color:transparent"> </span></td>
   </tr>
   <tr>
@@ -116,8 +116,8 @@ Wednesday 3-5pm (Self-Practice)
     <td class="tg-lygy">Librarian (Asst)<span style="color:#222;background-color:transparent"> </span></td>
   </tr>
   <tr>
-    <td class="tg-lygy"><span style="color:#222;background-color:transparent">Ng Zhi Yang </span></td>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> Quarter Masters</span></td>
+    <td class="tg-lygy"><span style="color:#222;background-color:transparent">TEO WEI JUN </span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> Head of Quarter Masters</span></td>
   </tr>
   <tr>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> Seet Jun Xian</span><br><span style="color:#222;background-color:transparent">Lim Kay En</span><br><span style="color:#222;background-color:transparent"> Teo Hung Kai</span></td>
