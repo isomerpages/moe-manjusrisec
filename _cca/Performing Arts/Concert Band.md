@@ -108,18 +108,12 @@ Wednesday 3-5pm (Self-Practice)
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> AU YONG HUI LIN</span></td>
     <td class="tg-lygy">Librarian (Head)<span style="color:#222;background-color:transparent"> </span></td>
   </tr>
-  <tr>
-    <td class="tg-lygy"><span style="color:#222;background-color:transparent">Haris Nornilhakim</span><br><span style="color:#222;background-color:transparent"> Les Jing Xiang</span><br><span style="color:#222;background-color:transparent"> Ang Yi Lin </span></td>
-    <td class="tg-lygy">Librarian (Asst)<span style="color:#222;background-color:transparent"> </span></td>
-  </tr>
+
   <tr>
     <td class="tg-lygy"><span style="color:#222;background-color:transparent">TEO WEI JUN </span></td>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> Head of Quarter Masters</span></td>
   </tr>
-  <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> Seet Jun Xian</span><br><span style="color:#222;background-color:transparent">Lim Kay En</span><br><span style="color:#222;background-color:transparent"> Teo Hung Kai</span></td>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> Quarter Masters (Asst)</span></td>
-  </tr>
+
 </tbody>
 </table>
 
