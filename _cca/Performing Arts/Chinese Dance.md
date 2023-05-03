@@ -62,7 +62,7 @@ Wednesday: 3.00pm - 6.00pm @ AVA
 
 
 ### **Our Student Leaders**
-(![](/images/Cca/Chinese%20dance/dance%20exco.JPG))
+![](/images/Cca/Chinese%20dance/dance%20exco.JPG)
 
 ### **Our Programmes**
 
