@@ -14,11 +14,13 @@ Students who are successfully admitted to the school via DSA are expected to hon
 
 <p style="text-align: justify;"></p>
 
-##### **-**  
+##### **Chinese Dance, Chinese Orchestra, Choir or Concert Band**  
 
-<p style="text-align: justify;">  </p>
+<p style="text-align: justify;">Applicants must be able to demonstrate an aptitude and interest in Chinese Dance, Chinese Orchestra, Choir or Concert Band through one or more of the following ways:  </p>
 
-<p style="text-align: justify;">  </p>
+* <p style="text-align: justify;"> Represented the school in Singapore Youth Festival (SYF) Arts Presentation Performance;
+* Represented school/external organisation at local/international Performing Arts event;
+* Sustained participation in Performing Arts Co-Curricular Activities. </p>
   
 ##### **-**  
 
