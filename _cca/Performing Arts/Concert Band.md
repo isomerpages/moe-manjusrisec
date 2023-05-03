@@ -103,10 +103,7 @@ Wednesday 3-5pm (Self-Practice)
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">DENISE NG WAI XIN&nbsp;<br>CHONG XI YUAN, CIDNEY</span></td>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Recruiting Officers</span></td>
   </tr>
-  <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Lau Yi Xuan</span><br><span style="color:#222;background-color:transparent"> Toh Kai Jin Lucas</span></td>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Asst. Recruiting Officer</span></td>
-  </tr>
+ 
   <tr>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> AU YONG HUI LIN</span></td>
     <td class="tg-lygy">Librarian (Head)<span style="color:#222;background-color:transparent"> </span></td>
