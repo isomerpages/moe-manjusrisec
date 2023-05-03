@@ -40,4 +40,10 @@ Students who are successfully admitted to the school via DSA are expected to hon
 * Sustained participation in Chinese Calligraphy Co-Curricular Activities;
 * Sustained participation in Chinese Calligraphy enrichment programmes.
 
+<p style="text-align: justify;">Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer.
+
+Only shortlisted applicants will be informed to attend an audition which comprises a short performance and panel interview in July or August, upon which successful applicants will be offered a place in Manjusri Secondary School through the DSA-Sec exercise.</p>
+
+
+
 <p style="text-align: justify;"></p>
