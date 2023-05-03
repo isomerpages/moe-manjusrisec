@@ -83,11 +83,11 @@ Monday and Wednesday 2.30pm – 5.30pm
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Vice Captain</span></td>
   </tr>
   <tr>
-    <td class="tg-3lre"><span style="color:#222;background-color:transparent">BEH JUN EN</span><br><span style="color:#222;background-color:transparent"> RACHEL ONG MIN KEE</span><br></td>
+    <td class="tg-3lre"><span style="color:#222;background-color:transparent">MUN YIXIN, MERVYN</span><br><span style="color:#222;background-color:transparent"> PANG JIAN KHAI EDWIN</span><br></td>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Logistics</span></td>
   </tr>
   <tr>
-    <td class="tg-3lre"><span style="color:#222;background-color:transparent">NG WEI XUAN</span><br><span style="color:#222;background-color:transparent"> ISHRA BINTE BANI MUHAMAD MALAYSIA</span><br></td>
+    <td class="tg-3lre"><span style="color:#222;background-color:transparent">JAYDEN ONG JUN HENG</span><br><span style="color:#222;background-color:transparent"> QUEK HAN XI</span><br></td>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Media Rep</span></td>
   </tr>
 </tbody>
