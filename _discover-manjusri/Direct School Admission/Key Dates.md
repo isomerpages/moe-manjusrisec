@@ -8,4 +8,7 @@ third_nav_title: Direct School Admission
 
 | Time Period         | Key Activity      |
 |-------------|------------------|
-| -                            | Details coming soon                                                                                                                   |
+|3 May 2023| DSA-Sec @ Manjusri Launched|
+| 4 May 2023, 11am- <br>31 May 2023, 3pm|Submission of Application via the online DSA-Sec Portal.<br><br>https://www.moe.gov.sg/dsa-sec|
+|26 Jun – 11 Sep 2023|
+
