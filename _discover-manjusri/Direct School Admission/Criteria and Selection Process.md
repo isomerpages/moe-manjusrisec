@@ -22,12 +22,18 @@ Students who are successfully admitted to the school via DSA are expected to hon
 * Represented school/external organisation at local/international Performing Arts event;
 * Sustained participation in Performing Arts Co-Curricular Activities. </p>
   
+##### **Wushu**  
+
+<p style="text-align: justify;">Applicants must be able to demonstrate an aptitude and interest in Wushu through one or more of the following ways:
+* </p>
+
+* <p style="text-align: justify;">  </p><p style="text-align: justify;"> Represented the school in National School Games Wushu Championships;
+* Represented school/external organisation at local/international Wushu event;
+* Sustained participation in Wushu Co-Curricular Activities or enrichment programme.
+
+
 ##### **-**  
 
-<p style="text-align: justify;"></p>
-
-##### **-**  
-
-<p style="text-align: justify;"></p>
+</p><p style="text-align: justify;"></p>
 
 <p style="text-align: justify;"></p>
