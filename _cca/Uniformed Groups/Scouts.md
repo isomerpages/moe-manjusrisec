@@ -90,7 +90,7 @@ Every Monday and Wednesday&nbsp;3.00pm - 6.00pm
   <tr>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Patrol Leaders</span></td>
     <td class="tg-3lre"><span style="color:#222;background-color:transparent">-</span></td>
-    <td class="tg-3lre"><span style="color:#222;background-color:transparent">Lee Kai Ge, Achilles</span></td>
+    <td class="tg-3lre"><span style="color:#222;background-color:transparent">Lee Kai Ge,Achilles</span></td>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">-</span></td>
     <td class="tg-3lre"><span style="color:#222;background-color:transparent">-</span></td>
   </tr>
