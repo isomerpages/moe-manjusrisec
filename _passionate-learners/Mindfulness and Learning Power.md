@@ -18,7 +18,7 @@ Our Mindfulness and Learning Power Framework guides us in designing teaching and
 *   provide students with opportunities to exercise these desired learning dispositions and
 *   develop teachers to bring mindful awareness into the classrooms and intentionally integrate learning power strategies in their lessons.
 
-<center><b>*Mindfulness and Learning Power Framework</b></center>
+<center><b>Mindfulness and Learning Power Framework</b></center>
 
 |             Focus Areas             | Attitudes of mindfulness &amp;<br>Learning Power dispositions         |
 |--------|:-------------------:|
