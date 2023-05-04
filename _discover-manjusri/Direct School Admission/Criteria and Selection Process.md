@@ -12,22 +12,22 @@ third_nav_title: Direct School Admission
 
 <p style="text-align: justify;">Applicants must be able to demonstrate an aptitude and interest in Chinese Dance, Chinese Orchestra, Choir or Concert Band through one or more of the following ways:  </p>
 
-* <p style="text-align: justify;"> Represented the school in Singapore Youth Festival (SYF) Arts Presentation Performance;
+*  Represented the school in Singapore Youth Festival (SYF) Arts Presentation Performance;
 * Represented school/external organisation at local/international Performing Arts event;
 * Sustained participation in Performing Arts Co-Curricular Activities.
   
 ##### **Wushu**  
 
-</p><p style="text-align: justify;">Applicants must be able to demonstrate an aptitude and interest in Wushu through one or more of the following ways:
+<p></p><p style="text-align: justify;">Applicants must be able to demonstrate an aptitude and interest in Wushu through one or more of the following ways:
  </p>
 
-* <p style="text-align: justify;"> Represented the school in National School Games Wushu Championships;
+* Represented the school in National School Games Wushu Championships;
 * Represented school/external organisation at local/international Wushu event;
 * Sustained participation in Wushu Co-Curricular Activities or enrichment programme.
 
 ##### **Chinese Calligraphy**  
 
-</p><p style="text-align: justify;">Applicants must be able to demonstrate an aptitude and interest in Chinese Calligraphy through one or more of the following ways:</p>
+<p></p><p style="text-align: justify;">Applicants must be able to demonstrate an aptitude and interest in Chinese Calligraphy through one or more of the following ways:</p>
 
 * Participated in local/international Chinese Calligraphy competition;
 * Sustained participation in Chinese Calligraphy Co-Curricular Activities;
