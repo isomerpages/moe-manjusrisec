@@ -96,10 +96,10 @@ Every Monday and Wednesday&nbsp;3.00pm - 6.00pm
   </tr>
   <tr>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Assistant Patrol Leaders</span></td>
-    <td class="tg-3lre"><br><br><span style="color:#222;background-color:transparent">Kieran Lim Jiang Ying</span><br></td>
-    <td class="tg-3lre"><br><br><span style="color:#222;background-color:transparent">Lee Kai Ge Achilles</span>    <br></td>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Gay Siaw Hung</span></td>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Tan Wei Wen, Kaven</span></td>
+    <td class="tg-3lre"><span style="color:#222;background-color:transparent">Lee Kang Quan<br>Seth Ong Zhiyi</span><br></td>
+    <td class="tg-3lre"><span style="color:#222;background-color:transparent">-</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Dave Low Yun Tak</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">How Weifan<br>Rayne Tok</span></td>
   </tr>
 </tbody>
 </table>
