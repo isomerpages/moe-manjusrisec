@@ -82,11 +82,11 @@ Monday &amp; Wednesday 3pm-6pm
 </thead>
 <tbody>
   <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Sow Hong Zhou Justin</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Darren Sin Jun An</span></td>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Chairperson</span></td>
   </tr>
   <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Hong Jun Kiat</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">See Hui Yee</span></td>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Vice-Chairpersons</span></td>
   </tr>
   <tr>
