@@ -90,12 +90,12 @@ Monday &amp; Wednesday 3pm-6pm
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Vice-Chairpersons</span></td>
   </tr>
   <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Maax Tan Ken Zo</span></td>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Logistics  Leader</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Chong Ming Xuan Carol</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Logistics and Events</span></td>
   </tr>
   <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Chok Yik Suen Zelia</span><br><span style="color:#222;background-color:transparent">Wang Xiang Ting</span></td>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Media and Publicity Leaders</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Lucas M Tok</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Publicity and Media</span></td>
   </tr>
 </tbody>
 </table>
