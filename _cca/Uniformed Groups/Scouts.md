@@ -89,10 +89,10 @@ Every Monday and Wednesday&nbsp;3.00pm - 6.00pm
 <tbody>
   <tr>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Patrol Leaders</span></td>
-    <td class="tg-3lre"><br><br><span style="color:#222;background-color:transparent">-</span></td>
-    <td class="tg-3lre"><br><br><span style="color:#222;background-color:transparent">Lee Kai Ge, Achilles</span></td>
-    <td class="tg-a3j2"><br><span style="color:#222;background-color:transparent">Tang Jing Yang</span><br><span style="color:#222;background-color:transparent">&amp;</span><br><span style="color:#222;background-color:transparent">Nicolas Ng Jia Le</span><br><br></td>
-    <td class="tg-3lre"><br><br><br><span style="color:#222;background-color:transparent">Lew Bo Rui</span><br></td>
+    <td class="tg-3lre"><span style="color:#222;background-color:transparent">-</span></td>
+    <td class="tg-3lre"><span style="color:#222;background-color:transparent">Lee Kai Ge, Achilles</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">-</span></td>
+    <td class="tg-3lre"><span style="color:#222;background-color:transparent">-</span></td>
   </tr>
   <tr>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Assistant Patrol Leaders</span></td>
