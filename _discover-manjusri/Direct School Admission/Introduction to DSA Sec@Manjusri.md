@@ -20,5 +20,7 @@ Direct School Admission (DSA) scheme provides students with the opportunity to s
 
 <p style="text-align: justify;">For more information in the&nbsp;DSA-Sec talent area, please click on the respective above link.</p>
 	
-<p style="text-align: justify;">The selection criteria and process for the talent areas will be updated from early-May. <br><br>For more information DSA-Sec, please refer to MOE website at <a href="https://www.moe.gov.sg/dsa-sec" target="_blank"><b>https://www.moe.gov.sg/dsa-sec</b></a>
+<p style="text-align: justify;">Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The
+application is free-of-charge and will be opened from <b>4 May 2023, 11am to 31 May 2023,
+	3pm.</b> <br><br>For more information DSA-Sec, please refer to MOE website at <a href="https://www.moe.gov.sg/dsa-sec" target="_blank"><b>https://www.moe.gov.sg/dsa-sec</b></a>
 	 </p>
