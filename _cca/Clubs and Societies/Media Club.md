@@ -82,11 +82,19 @@ Monday and Wednesday – 3pm–6pm
 </thead>
 <tbody>
   <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Goh Chiew Hong</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">PECK LOKE HSUAN, GENEVIEVE</span></td>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Chairperson</span></td>
   </tr>
   <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Muhammad Anaqy Bin Mohamed Zaidi</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">PANG SHAINE<br>GOH CHENG JUN (WU CHENGJUN)<br></span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Vice-Chairperson</span></td>
+  </tr>
+	 <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">RAY TAN JUN YOU</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Stage Manager</span></td>
+  </tr>
+	 <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">PANG SHAINE<br>GOH CHENG JUN (WU CHENGJUN)<br></span></td>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Vice-Chairperson</span></td>
   </tr>
 </tbody>
