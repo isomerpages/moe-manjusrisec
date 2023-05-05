@@ -5,6 +5,5 @@ description: ""
 ---
 #### School Bus Service
 
-**School Bus Services**
 
 *coming soon*
