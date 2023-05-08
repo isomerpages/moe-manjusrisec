@@ -49,4 +49,19 @@ sections:
       url: /spotlight/presentation-of-comm/
       image: /images/Spotlight/Wisdom/wisdom1.png
       alt: Image alt text
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
+  - infopic:
+      title: MJR @ SYF Arts Presentations 2023
+      subtitle: Spotlight
+      description: Manjusri Sec celebrates the achievements of our performing arts
+        groups at the Singapore Youth Festival Arts Presentations...
+      button: Click here to read more
+      url: /spotlight/permalink/mjr-syf-2023/
+      image: /images/Spotlight/chinese orchestra.png
+      alt: Image alt text
 ---
