@@ -48,4 +48,5 @@ sections:
       url: /spotlight/permalink/mjr-syf-2023/
       alt: Image alt text
       title: Excellence in Uniformed Groups 2023
+      image: /images/Spotlight/combined ug2.jpg
 ---
