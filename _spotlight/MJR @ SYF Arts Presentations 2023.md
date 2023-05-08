@@ -9,4 +9,4 @@ Manjusri Sec celebrates the achievements of our performing arts groups at the Si
 |  |  |
 | -------- | -------- | 
 |![](/images/Spotlight/chinese%20orchestra.png)Chinese Orchestra – Certificate of Distinction|![](/images/Spotlight/chinese%20dance.jpg)Chinese Dance – Certificate of Accomplishment|
-|![](/images/Spotlight/choir1.jpg)Choir – Certificate of Distinction | ![](/images/Spotlight/concert%20band.jpg)Concert Band – Certificate of Distinction|oir – Certificate of Distinction |Concert Band – Certificate of Distinction
+|![](/images/Spotlight/choir1.jpg)Choir – Certificate of Distinction | ![](/images/Spotlight/concert%20band.jpg)Concert Band – Certificate of Distinction
