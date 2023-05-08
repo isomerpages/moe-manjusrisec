@@ -22,6 +22,15 @@ sections:
           description: ""
           url: /contact-us/school-contact-details/
   - infopic:
+      subtitle: Spotlight
+      description: The uniformed groups of Manjusri Sec held their combined Passing
+        Out Parade for Sec 4 cadets on Wednesday 19 April 2023...
+      button: Click here to read more
+      url: /spotlight/permalink/mjr-syf-2023/
+      alt: Image alt text
+      title: Excellence in Uniformed Groups 2023
+      image: /images/Spotlight/combined ug2.jpg
+  - infopic:
       title: 40th School Anniversary Commemorative Event
       subtitle: spotlight
       description: The school celebrated its 40th school anniversary with a simple and
@@ -40,13 +49,4 @@ sections:
       url: /spotlight/presentation-of-comm/
       image: /images/Spotlight/Wisdom/wisdom1.png
       alt: Image alt text
-  - infopic:
-      subtitle: Spotlight
-      description: The uniformed groups of Manjusri Sec held their combined Passing
-        Out Parade for Sec 4 cadets on Wednesday 19 April 2023...
-      button: Click here to read more
-      url: /spotlight/permalink/mjr-syf-2023/
-      alt: Image alt text
-      title: Excellence in Uniformed Groups 2023
-      image: /images/Spotlight/combined ug2.jpg
 ---
