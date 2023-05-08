@@ -58,10 +58,4 @@ sections:
       url: /spotlight/presentation-of-comm/
       image: /images/Spotlight/Wisdom/wisdom1.png
       alt: Image alt text
-  - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
 ---
