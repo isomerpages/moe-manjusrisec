@@ -40,4 +40,11 @@ sections:
       url: /spotlight/presentation-of-comm/
       image: /images/Spotlight/Wisdom/wisdom1.png
       alt: Image alt text
+  - infopic:
+      subtitle: Excellence in Uniformed Groups
+      description: The uniformed groups of Manjusri Sec held their combined Passing
+        Out Parade for Sec 4 cadets on Wednesday 19 April 2023...
+      button: Click here to read more
+      url: /spotlight/permalink/mjr-syf-2023/
+      alt: Image alt text
 ---
