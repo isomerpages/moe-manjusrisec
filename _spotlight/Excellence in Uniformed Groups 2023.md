@@ -9,7 +9,7 @@ The uniformed groups of Manjusri Sec held their combined Passing Out Parade for 
 | -------- | -------- |
 |![](/images/Spotlight/combined%20ug1.jpg)|![](/images/Spotlight/combined%20ug2.jpg)
 
-<p style="text-align: center;"><b>Combined UG Passing-Out Parade</b></p>
+<p style="text-align: center;"><b><i>Combined UG Passing-Out Parade</i></b></p>
 
 |Uniformed Group / Award 2023 | Unit Achievement |  
 | -------- | -------- | 
