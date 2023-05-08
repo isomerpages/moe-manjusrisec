@@ -26,10 +26,19 @@ sections:
       description: The uniformed groups of Manjusri Sec held their combined Passing
         Out Parade for Sec 4 cadets on Wednesday 19 April 2023...
       button: Click here to read more
-      url: /spotlight/permalink/mjr-syf-2023/
+      url: /spotlight/permalink/excellence-uniform-groups-2023/
       alt: Image alt text
       title: Excellence in Uniformed Groups 2023
       image: /images/Spotlight/combined ug2.jpg
+  - infopic:
+      title: MJR @ SYF Arts Presentations 2023
+      subtitle: Spotlight
+      description: Manjusri Sec celebrates the achievements of our performing arts
+        groups at the Singapore Youth Festival Arts Presentations...
+      button: Click here to read more
+      url: /spotlight/permalink/mjr-syf-2023/
+      image: /images/Spotlight/chinese orchestra.png
+      alt: Image alt text
   - infopic:
       title: 40th School Anniversary Commemorative Event
       subtitle: spotlight
@@ -54,14 +63,5 @@ sections:
       subtitle: Infopic Subtitle
       description: Infopic description
       button: Button Text
-      alt: Image alt text
-  - infopic:
-      title: MJR @ SYF Arts Presentations 2023
-      subtitle: Spotlight
-      description: Manjusri Sec celebrates the achievements of our performing arts
-        groups at the Singapore Youth Festival Arts Presentations...
-      button: Click here to read more
-      url: /spotlight/permalink/mjr-syf-2023/
-      image: /images/Spotlight/chinese orchestra.png
       alt: Image alt text
 ---
