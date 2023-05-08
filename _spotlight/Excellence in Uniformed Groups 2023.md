@@ -7,7 +7,9 @@ The uniformed groups of Manjusri Sec held their combined Passing Out Parade for 
 
 |||
 | -------- | -------- |
-| Combined UG Passing-Out Parade  |  |
+|![](/images/Spotlight/combined%20ug1.jpg)|![](/images/Spotlight/combined%20ug2.jpg)
+
+Combined UG Passing-Out Parade
 
 
 | |  |  
@@ -16,4 +18,3 @@ The uniformed groups of Manjusri Sec held their combined Passing Out Parade for 
 | National Police Cadet Corps – Unit Overall Proficiency Award | Gold|
 |Girl Guides – Puan Noor Aishah Award|Gold|
 |Scouts – Frank Cooper Sands Award|Gold|
-
