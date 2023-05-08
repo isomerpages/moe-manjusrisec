@@ -9,10 +9,12 @@ The uniformed groups of Manjusri Sec held their combined Passing Out Parade for 
 | -------- | -------- |
 |![](/images/Spotlight/combined%20ug1.jpg)|![](/images/Spotlight/combined%20ug2.jpg)
 
-Combined UG Passing-Out Parade
+***Combined UG Passing-Out Parade***
 
 
-| |  |  
+
+
+|Uniformed Group / Award 2023 | Unit Achievement |  
 | -------- | -------- | 
 | National Cadet Corps – Unit Recognition Award  | Distinction     | 
 | National Police Cadet Corps – Unit Overall Proficiency Award | Gold|
