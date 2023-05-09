@@ -18,6 +18,4 @@ We congratulate our graduated students (2022) on achieving laudable results at t
 
 ![Top Performing Students from the Graduating Class of 2022](/images/Spotlight/gce-o-2022-pic.jpg)Top Performing Students from the Graduating Class of 2022
 
-The school wishes our graduates the best in their further studies and future endeavours.  
-
-
+The school wishes our graduates the best in their further studies and future endeavours.
