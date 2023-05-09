@@ -10,9 +10,12 @@ We congratulate our graduated students (2022) on achieving laudable results at t
 | Express Course|  |  Normal Course | 
 | -------- | ---------| -------- | 
 | Fang Zhiyi (4D) | Myori Hoo Yuan Ting (4D) | See Jian Liang (5A) |
+|Ki’en Lim (4D) |Tang Chloe (4D) | Sim Yue Ling Corliss (5A) |
+|Le Thanh Duc (4D) | Sim Yu Xuan (4D)||
+|Lye Jing Wen (4D) | Zeng Minghao (4D) ||
+|Loo Sok Han (4D) | Jomon Joshua (4E) | |
+|Merissa Koo Hui Yun (4D) | Matthias Tan  (4F) ||
+
+
+
 |
-
-
-
-
-
