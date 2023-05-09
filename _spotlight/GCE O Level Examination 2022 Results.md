@@ -16,6 +16,8 @@ We congratulate our graduated students (2022) on achieving laudable results at t
 |Loo Sok Han (4D) | Jomon Joshua (4E) | |
 |Merissa Koo Hui Yun (4D) | Matthias Tan  (4F) ||
 
+![]()
+The school wishes our graduates the best in their further studies and future endeavours.  
 
 
 |
