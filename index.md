@@ -22,7 +22,7 @@ sections:
           description: ""
           url: /contact-us/school-contact-details/
   - infopic:
-      title: 2023 Road Run
+      title: Road Run 2023
       subtitle: Spotlight
       description: This year's MJR Road Run marked an exciting milestone for the
         school community as it was the first physical road run organised since
