@@ -32,12 +32,12 @@ Our Mindfulness and Learning Power Framework guides us in designing teaching and
 <table>
 <tbody>
 <tr>
-	<td style="width:55%"><img src="/images/Passionate%20Learners/Mindfulness%20and%20Learning%20Power/Sorting%20Beans%20%20Absorption.jpg"><figcaption>Sorting Beans &amp; Absorption</figcaption></td>
-	<td style="width:45%"><img src="/images/Passionate%20Learners/Mindfulness%20and%20Learning%20Power/Empathy%20%20Listening.jpg"><figcaption>Empathy &amp; Listening </figcaption></td>
+	<td style="width:52%"><img src="/images/Passionate%20Learners/Mindfulness%20and%20Learning%20Power/Sorting%20Beans%20%20Absorption.jpg"><figcaption>Sorting Beans &amp; Absorption</figcaption></td>
+	<td style="width:50%"><img src="/images/Passionate%20Learners/Mindfulness%20and%20Learning%20Power/Empathy%20%20Listening.jpg"><figcaption>Empathy &amp; Listening </figcaption></td>
 </tr>
 <tr>
-	<td style="width:45%"><img src="/images/Passionate%20Learners/Mindfulness%20and%20Learning%20Power/Sport%20Stacking%20%20Learning%20to%20Learn.jpg"><figcaption>Sport Stacking &amp; Learning to Learn </figcaption></td>
-	<td style="width:55%"><img src="/images/Passionate%20Learners/Mindfulness%20and%20Learning%20Power/Study%20Skills%20Workshop.jpg"><figcaption>Study Skills Workshop </figcaption></td>
+	<td style="width:50%"><img src="/images/Passionate%20Learners/Mindfulness%20and%20Learning%20Power/Sport%20Stacking%20%20Learning%20to%20Learn.jpg"><figcaption>Sport Stacking &amp; Learning to Learn </figcaption></td>
+	<td style="width:50%"><img src="/images/Passionate%20Learners/Mindfulness%20and%20Learning%20Power/Study%20Skills%20Workshop.jpg"><figcaption>Study Skills Workshop </figcaption></td>
 </tr>
 </tbody>
 </table>
