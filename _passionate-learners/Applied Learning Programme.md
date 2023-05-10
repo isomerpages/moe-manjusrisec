@@ -55,10 +55,14 @@ Manjusri Secondary School admits students through the Direct School Admission â€
 <b><u>Secondary 2 - Design Thinking In Smart City
 </u></b>
 
-|   |   |   |
-|-----|-----|------|
-|![](/images/Passionate%20Learners/Applied%20Learning%20Programme/alp_new4.png)Sharing the smart assistive technologies to the peers	  |![](/images/Passionate%20Learners/Applied%20Learning%20Programme/alp_new5b.png)Showcasing innovative smart assistive technologies to school  | ![](/images/Passionate%20Learners/Applied%20Learning%20Programme/alp_new6.png)Exploring STEM applications in the design of the F1 car     |
 
+<table>
+	<tbody><tr>
+	<td style="width:33%"><img src="/images/Passionate%20Learners/Applied%20Learning%20Programme/alp_new4.png"><figcaption>Sharing the smart assistive technologies to the peers</figcaption></td>
+	<td style="width:33%"><img src="/images/Passionate%20Learners/Applied%20Learning%20Programme/alp_new5b.png"><figcaption>Showcasing innovative smart assistive technologies to school </figcaption></td>
+	<td style="width:33%"><img src="/images/Passionate%20Learners/Applied%20Learning%20Programme/alp_new6.png"><figcaption>Exploring STEM applications in the design of the F1 car</figcaption></td>
+	</tr></tbody>
+</table>
 <b><u>Secondary 3 and Beyond - Talent Development
 </u></b>
 
