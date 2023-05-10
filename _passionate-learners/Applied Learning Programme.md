@@ -50,13 +50,7 @@ Manjusri Secondary School admits students through the Direct School Admission â€
 	<tbody><tr><td style="width:33%"><img src="/images/Passionate%20Learners/Applied%20Learning%20Programme/alp_new1.png"><figcaption>Developing computational thinking through Potato Pirate Card game</figcaption></td>
 	<td style="width:33%"><img src="/images/Passionate%20Learners/Applied%20Learning%20Programme/alp_new2b.png"><figcaption>Discovering microcontroller (Microbits) connections and coding </figcaption></td>
 	<td style="width:33%"><img src="/images/Passionate%20Learners/Applied%20Learning%20Programme/alp_new3b.png"><figcaption>Appreciating the needs of the elderly or less-abled</figcaption></td>
-	</tr></tbody></table> New Table on Top ^
-
-
-|   |   |   |
-|---|-----|------|
-| ![](/images/Passionate%20Learners/Applied%20Learning%20Programme/alp_new1.png)Developing computational thinking through Potato Pirate Card game | ![](/images/Passionate%20Learners/Applied%20Learning%20Programme/alp_new2b.png)Discovering microcontroller (Microbits) connections and coding 	  | ![](/images/Passionate%20Learners/Applied%20Learning%20Programme/alp_new3b.png) Appreciating the needs of the elderly or less-abled |
-
+	</tr></tbody></table> 
 
 <b><u>Secondary 2 - Design Thinking In Smart City
 </u></b>
