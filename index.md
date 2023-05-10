@@ -67,4 +67,14 @@ sections:
       url: /spotlight/presentation-of-comm/
       image: /images/Spotlight/Wisdom/wisdom1.png
       alt: Image alt text
+  - infopic:
+      title: 2023 Road Run
+      subtitle: Spotlight
+      description: This year's MJR Road Run marked an exciting milestone for the
+        school community as it was the first physical road run organised since
+        the COVID-19 pandemic...
+      button: Click here to read more
+      url: /spotlight/permlink/road-run
+      image: /images/2023 Road Run/roadrun1 (1).jpg
+      alt: Image alt text
 ---
