@@ -29,11 +29,18 @@ Our Mindfulness and Learning Power Framework guides us in designing teaching and
 
 <center><b><u>Our Learning Experiences<br>MJR SPARKS - How Are We Learning Mindfully?</u></b></center>
 	
-|   |   |
-|:----:|:---:|
-|  ![](/images/Passionate%20Learners/Mindfulness%20and%20Learning%20Power/Sorting%20Beans%20%20Absorption.jpg) 	<span style="color:#0000ff"><i>Sorting Beans &amp; Absorption</i></span> |  ![](/images/Passionate%20Learners/Mindfulness%20and%20Learning%20Power/Empathy%20%20Listening.jpg) <span style="color:#0000ff"><i>Empathy &amp; Listening</i></span>  | 
-|  ![](/images/Passionate%20Learners/Mindfulness%20and%20Learning%20Power/Sport%20Stacking%20%20Learning%20to%20Learn.jpg) <span style="color:#0000ff"><i>Sport Stacking &amp; Learning to Learn</i></span>   | ![](/images/Passionate%20Learners/Mindfulness%20and%20Learning%20Power/Study%20Skills%20Workshop.jpg)<span style="color:#0000ff"><i>Study Skills Workshop</i></span>   |
-
+<table>
+<tbody>
+<tr>
+	<td style="width:50%"><img src="/images/Passionate%20Learners/Mindfulness%20and%20Learning%20Power/Sorting%20Beans%20%20Absorption.jpg"><figcaption>Sorting Beans &amp; Absorption</figcaption></td>
+	<td style="width:50%"><img src="/images/Passionate%20Learners/Mindfulness%20and%20Learning%20Power/Empathy%20%20Listening.jpg"><figcaption>Empathy &amp; Listening </figcaption></td>
+</tr>
+<tr>
+	<td style="width:50%"><img src="/images/Passionate%20Learners/Mindfulness%20and%20Learning%20Power/Sport%20Stacking%20%20Learning%20to%20Learn.jpg"><figcaption>Sport Stacking &amp; Learning to Learn </figcaption></td>
+	<td style="width:50%"><img src="/images/Passionate%20Learners/Mindfulness%20and%20Learning%20Power/Study%20Skills%20Workshop.jpg"><figcaption>Study Skills Workshop </figcaption></td>
+</tr>
+</tbody>
+</table>
 
 <p style="text-align: justify;">Our programme will also involve our parents to provide resources so they can play a role to support their child in strengthening the adoption of learning dispositions beyond the classrooms.</p>
 
