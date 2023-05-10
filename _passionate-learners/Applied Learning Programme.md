@@ -55,7 +55,6 @@ Manjusri Secondary School admits students through the Direct School Admission â€
 <b><u>Secondary 2 - Design Thinking In Smart City
 </u></b>
 
-
 <table>
 	<tbody><tr>
 	<td style="width:33%"><img src="/images/Passionate%20Learners/Applied%20Learning%20Programme/alp_new4.png"><figcaption>Sharing the smart assistive technologies to the peers</figcaption></td>
@@ -66,9 +65,13 @@ Manjusri Secondary School admits students through the Direct School Admission â€
 <b><u>Secondary 3 and Beyond - Talent Development
 </u></b>
 
-|   |   |   |
-|---|---|---|
-|![](/images/Passionate%20Learners/Applied%20Learning%20Programme/alp_new7.png)STEM application in monitoring production processes at Infineon Technologies | ![](/images/Passionate%20Learners/Applied%20Learning%20Programme/alp_new8.png)Smart gadgets design during Advanced Elective Module in Singapore Polytechnics   | ![](/images/Passionate%20Learners/Applied%20Learning%20Programme/alp_new9.png)Job shadowing programme with engineers at Rohde &amp; Schwarz Asia  |
+<table>
+	<tbody><tr>
+	<td style="width:33%"><img src="/images/Passionate%20Learners/Applied%20Learning%20Programme/alp_new7.png"><figcaption>STEM application in monitoring production processes at Infineon Technologies</figcaption></td>
+	<td style="width:33%"><img src="/images/Passionate%20Learners/Applied%20Learning%20Programme/alp_new8.png"><figcaption>Smart gadgets design during Advanced Elective Module in Singapore Polytechnics </figcaption></td>
+	<td style="width:33%"><img src="/images/Passionate%20Learners/Applied%20Learning%20Programme/alp_new9.png"><figcaption>Job shadowing programme with engineers at Rohde &amp; Schwarz Asia</figcaption></td>
+	</tr></tbody>
+</table>
 
 ##### Our Industrial Partners
 
