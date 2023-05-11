@@ -75,6 +75,6 @@ sections:
         November 2022...
       button: Click here to read more
       url: /spotlight/presentation-of-comm/
-      image: /images/Spotlight/Wisdom/wisdom1.png
+      image: /images/Spotlight/Wisdom/wisdom1.jpg
       alt: Image alt text
 ---
