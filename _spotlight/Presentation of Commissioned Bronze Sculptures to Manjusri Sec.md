@@ -12,7 +12,7 @@ description: ""
 	
 |  |  |
 | -------- | -------- | 
-| ![](/images/Spotlight/Wisdom/wisdom1.png)   |    ![](/images/Spotlight/Wisdom/wisdom2.png)|
+| ![](/images/Spotlight/Wisdom/wisdom1.jpg)   |    ![](/images/Spotlight/Wisdom/wisdom2.jpg)|
 
 <p style="text-align: justify;">This sculpture was unveiled by Speaker of Parliament Tan Chuan-Jin and Venerable Sik Kwang Sheng, Chairman of Manjusri Secondary’s Management Committee.</p>
   
@@ -23,7 +23,7 @@ The gesture of the palms of the hands placed together in front (Namaste) is an a
 
 |  |  |
 | -------- | -------- | 
-| ![](/images/Spotlight/Wisdom/wisdom3.png)   |    ![](/images/Spotlight/Wisdom/wisdom4.png)|
+| ![](/images/Spotlight/Wisdom/wisdom3.jpg)   |    ![](/images/Spotlight/Wisdom/wisdom4.jpg)|
 
 This sculpture was unveiled by Venerable Seck Kwang Phing, President of Singapore Buddhist Federation &amp; Supervisor School Management Committee; together with Principal Mr Sim Chong Boon.
 
@@ -34,7 +34,7 @@ The virtue of Benevolence is represented by hands cradling the heart at the cent
 	
 |  |  |
 | -------- | -------- | 
-| ![](/images/Spotlight/Wisdom/wisdom5.png)   |    ![](/images/Spotlight/Wisdom/wisdom6.png)|
+| ![](/images/Spotlight/Wisdom/wisdom5.jpg)   |    ![](/images/Spotlight/Wisdom/wisdom6.jpg)|
 
 The sculpture was unveiled by Mr Tan Yew Beng, Secretary of School Management Committee and former Manjusri Sec Principal (2004-2011) Mrs Tay Yang Fern.
   
@@ -45,7 +45,7 @@ Aspiration takes flight in the form of an origami plane headed towards a bright 
 	
 |  |  |
 | -------- | -------- | 
-| ![](/images/Spotlight/Wisdom/wisdom7.png)   |    ![](/images/Spotlight/Wisdom/wisdom8.png)|
+| ![](/images/Spotlight/Wisdom/wisdom7.jpg)   |    ![](/images/Spotlight/Wisdom/wisdom8.jpg)|
 	
 The sculpture was unveiled by Mdm Chan Poh Swee, Treasurer of School Management Committee and former Manjusri Sec Principal (1998-2004) Mdm Heng Sen Mee.<p></p>
 <p></p>

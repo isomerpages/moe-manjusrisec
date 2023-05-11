@@ -65,7 +65,7 @@ sections:
         elegant ceremony on 18 November...
       button: Click here to read more
       url: /spotlight/40th-school-anni/
-      image: /images/Spotlight/Anniversary/ann9.png
+      image: /images/Spotlight/Anniversary/anniv10.jpg
       alt: Image alt text
   - infopic:
       title: Presentation of Commissioned Bronze Sculptures to Manjusri
@@ -75,6 +75,6 @@ sections:
         November 2022...
       button: Click here to read more
       url: /spotlight/presentation-of-comm/
-      image: /images/Spotlight/Wisdom/wisdom1.png
+      image: /images/Spotlight/Wisdom/wisdom1.jpg
       alt: Image alt text
 ---

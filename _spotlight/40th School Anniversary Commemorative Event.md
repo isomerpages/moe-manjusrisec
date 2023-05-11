@@ -12,11 +12,10 @@ It also marked the opening of an upgraded school library by Mr Tan Chuan-Jin, wi
 	
 |  |  |  
 | -------- | -------- | 
-|![](/images/Spotlight/Anniversary/ann1.png)|![](/images/Spotlight/Anniversary/ann2.png)|
-![](/images/Spotlight/Anniversary/ann3.png)|![](/images/Spotlight/Anniversary/ann4.png)|
-![](/images/Spotlight/Anniversary/ann5.png)|![](/images/Spotlight/Anniversary/ann6.png)|
-![](/images/Spotlight/Anniversary/ann7.png)|![](/images/Spotlight/Anniversary/ann8.png)|
-![](/images/Spotlight/Anniversary/ann9.png)|![](/images/Spotlight/Anniversary/ann10.png)|
-![](/images/Spotlight/Anniversary/ann11.png)|![](/images/Spotlight/Anniversary/ann12.png)|
-![](/images/Spotlight/Anniversary/ann13.png)|![](/images/Spotlight/Anniversary/ann14.png)|
-|<p></p>
+|![](/images/Spotlight/Anniversary/anniv1.jpg)|![](/images/Spotlight/Anniversary/anniv2.jpg)|
+![](/images/Spotlight/Anniversary/anniv3.jpg)|![](/images/Spotlight/Anniversary/anniv4.jpg)|
+![](/images/Spotlight/Anniversary/anniv5.jpg)|![](/images/Spotlight/Anniversary/anniv6.jpg)|
+![](/images/Spotlight/Anniversary/anniv7.jpg)|![](/images/Spotlight/Anniversary/anniv8.jpg)|
+![](/images/Spotlight/Anniversary/anniv9.jpg)|![](/images/Spotlight/Anniversary/anniv10.jpg)|
+![](/images/Spotlight/Anniversary/anniv11.jpg)|![](/images/Spotlight/Anniversary/anniv12.JPG)|
+![](/images/Spotlight/Anniversary/anniv13.jpg)|![](/images/Spotlight/Anniversary/anniv14.jpg)|
