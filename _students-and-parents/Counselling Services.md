@@ -20,7 +20,7 @@ To provide counselling support for our students with social and emotional issues
 
 |   |   |
 |---|---|
-|  ![](/images/Students%20and%20Parents/Counselling%20Services/counselling01.png) Counselling Room 1<br>  (ST-01-05, Level 1, Special Block) | ![](/images/Students%20and%20Parents/Counselling%20Services/counselling02.png)  Counselling Room 1 |
+|  ![](/images/Students%20and%20Parents/Counselling%20Services/counselling01.png) Counselling Room 1<br>( Special Block) | ![](/images/Students%20and%20Parents/Counselling%20Services/counselling02.png)  Counselling Room 1 |
 |  ![](/images/Students%20and%20Parents/Counselling%20Services/counselling03.png)  Counselling Room 2<br> (CS-01-02, Level 1, CCA Block)  | ![](/images/Students%20and%20Parents/Counselling%20Services/counselling04.png) Counselling Room 2	 |
 
 
@@ -42,13 +42,13 @@ Counselling Rm 2 Office: 68424558 Ext 119
 
 ### **Education and Career Guidance (ECG) Counselling**
 
-Our ECG Counsellor, Ms Samantha Woo, supports students (individually or in small groups) with the necessary knowledge and skills to make informed decisions for a smoother transition to further education or work. 
+Our ECG Counsellor, Ms Samantha Woo, supports students (individually or in small groups) with the necessary knowledge and skills to make informed decisions for a&nbsp;smoother transition to further education or work.&nbsp;
 
-Students who would like to explore more about subject choices, ask about post-secondary education options, or find out more about their career interests, strengths and passions can make an appointment to have a chat with her every **Wednesday**. 
+Students who would like to&nbsp;explore more about subject choices, ask about post-secondary education options, or find out more about&nbsp;their career interests, strengths and passions can make an appointment to have a chat with her every&nbsp;**Wednesday**.&nbsp;
 
-Please email her at [Woo\_WAI\_YENG@schools.gov.sg](mailto:Woo_WAI_YENG@schools.gov.sg) and indicate your name, class and school in the email.
+Please email her at&nbsp;[Woo\_WAI\_YENG@schools.gov.sg](mailto:Woo_WAI_YENG@schools.gov.sg)&nbsp;and indicate your name, class and school in the email.
 
-Alternatively, you can book an appointment at <a href="https://tinyurl.com/ecgmanjusri" target="_blank">https://tinyurl.com/ecgmanjusri</a> or scan the QR code below.
+Alternatively, you can book an appointment at&nbsp;<a href="https://tinyurl.com/ecgmanjusri" target="_blank">https://tinyurl.com/ecgmanjusri</a>&nbsp;or scan the QR code below.
 
 <img src="/images/Students%20and%20Parents/Counselling%20Services/QR_CODE_ECG.png" style="width:25%">
 
@@ -97,7 +97,7 @@ The school counsellors responsive services are as follows:
 
 Examples of counselling case are as follow:
 
-* Emotional & Behavioural Difficulties (EBD)
+* Emotional &amp; Behavioural Difficulties (EBD)
 * Anger Issues
 * Grief / Loss
 * Relationship Issues: Peers ,Boy-Girl, Family, Teachers
@@ -119,7 +119,7 @@ Many students experience the negative effects of excessive parental attention.Pa
 
 An example of how parents can allow their children to develop decision-making skills is in the selection of subjects at the end of Secondary 2. Here is what we can practise.
 
-Parents can encourage their Kid to do their own subject selection. Parents may want to ask their kids to seek clarification from their teachers and school counsellors. Be there to discuss the option and let them know that the choice they make should serve their needs. Tell them that secondary school is the time for them to continue to learn to pick themselves up when things go wrong, learn from the experience, and move on. As a parent, we can tell them that at their age, they need to take these opportunities to learn, grow, change and at the same time be mindful of the dangers and distractions in today’s world. Hence the need for **LIMITS** . Tell them how much you believe in them and **LOVE** them, and prove it by practising the art of **LETTING GO** . This does not mean going away; it means responding to their needs appropriately, respectfully and non-intrusively.
+Parents can encourage their Kid to do their own subject selection. Parents may want to ask their kids to seek clarification from their teachers and school counsellors. Be there to discuss the option and let them know that the choice they make should serve their needs. Tell them that secondary school is the time for them to continue to learn to pick themselves up when things go wrong, learn from the experience, and move on. As a parent, we can tell them that at their age, they need to take these opportunities to learn, grow, change and at the same time be mindful of the dangers and distractions in today’s world. Hence the need for&nbsp;**LIMITS**&nbsp;. Tell them how much you believe in them and&nbsp;**LOVE**&nbsp;them, and prove it by practising the art of&nbsp;**LETTING GO**&nbsp;. This does not mean going away; it means responding to their needs appropriately, respectfully and non-intrusively.
 
 ![](/images/Students%20and%20Parents/Counselling%20Services/counselling09.png)
 
@@ -244,7 +244,7 @@ _Below are the feedback shared by some ex- and current Manjusrians from differen
 
 “Counselling sometimes can be scary for me because I'm afraid of being judged after sharing my thoughts and feelings. However, after each session, I find counselling to be beneficial”
 
-“I learned how to schedule my plans and change my attitudes. Can easily speak to the counsellor about heart problems, at least we don't need to keep our problems in our hearts. Sharing our thoughts and ideas are ok and good”
+“I learned how to schedule my plans and change my attitudes. Can easily speak to the&nbsp;counsellor about heart problems, at least we don't need to keep our problems in our hearts. Sharing our thoughts and ideas are ok and good”
 
 **Recommended Books**
 
@@ -252,9 +252,9 @@ _Below are the feedback shared by some ex- and current Manjusrians from differen
 
 **For Students :**
 
-*   How to take the grrr out of anger by Elizabeth Verdick & Marjoire Lisovskis
+*   How to take the grrr out of anger by Elizabeth Verdick &amp; Marjoire Lisovskis
     
-*   Good and Mad : Transform anger using mind, body, soul and humour by Jane Middelton-Moz, Lisa Tener & Peaco Todd
+*   Good and Mad : Transform anger using mind, body, soul and humour by Jane Middelton-Moz, Lisa Tener &amp; Peaco Todd
     
 *   How to control your anger before it controls you by Albert Ellis
     
@@ -266,17 +266,17 @@ _Below are the feedback shared by some ex- and current Manjusrians from differen
     
 *   Change 101 : a practical guide to creating change in life or therapy by Bill O Hanlon
     
-*   The hidden messages in water by Masaru Emoto & translated by David A Thayne
+*   The hidden messages in water by Masaru Emoto &amp; translated by David A Thayne
     
 *   The last lecture by Randy Pausch
     
 *   Tuesdays with Morrie by Mitch Albom
     
-*   Change your mind, change your life by Gerald G Jampolsky M.D & Diane V Cirincione
+*   Change your mind, change your life by Gerald G Jampolsky M.D &amp; Diane V Cirincione
     
-*   Making the brain body connection : a playful guide to releasing mental, physical & emotional blocks to success by Sharon Promislow
+*   Making the brain body connection : a playful guide to releasing mental, physical &amp; emotional blocks to success by Sharon Promislow
     
-*   Stress can really get on your nerves! by Trevor Romain & Elizabeth Verdick
+*   Stress can really get on your nerves! by Trevor Romain &amp; Elizabeth Verdick
     
 *   The little book of coaching by Ken Blanchard
     
@@ -297,11 +297,11 @@ _Below are the feedback shared by some ex- and current Manjusrians from differen
     
 *   Change 101 : a practical guide to creating change in life or therapy by Bill O Hanlon
     
-*   The hidden messages in water by Masaru Emoto & translated by David A Thayne
+*   The hidden messages in water by Masaru Emoto &amp; translated by David A Thayne
     
-*   Change your mind, change your life by Gerald G Jampolsky M.D & Diane V Cirincione
+*   Change your mind, change your life by Gerald G Jampolsky M.D &amp; Diane V Cirincione
     
-*   Making the brain body connection : a playful guide to releasing mental, physical & emotional blocks to success by Sharon Promislow
+*   Making the brain body connection : a playful guide to releasing mental, physical &amp; emotional blocks to success by Sharon Promislow
     
 *   The don't sweat guide for parents : reduce stress and enjoy your kids more by the editors ofDon't Sweat Press
     
@@ -313,7 +313,7 @@ _Below are the feedback shared by some ex- and current Manjusrians from differen
     
 *   For parents and teenagers : dissolving the barrier between you and your teen by William Glasser
     
-*   Raising a responsible child by Dr Don Dinkmeyer & Dr Gary D McKay
+*   Raising a responsible child by Dr Don Dinkmeyer &amp; Dr Gary D McKay
     
 *   Take back your kids by William J Doterty PhD
     
@@ -342,11 +342,11 @@ _Below are the feedback shared by some ex- and current Manjusrians from differen
     
 *   Change 101 : a practical guide to creating change in life or therapy by Bill O Hanlon
     
-*   The hidden messages in water by Masaru Emoto & translated by David A Thayne
+*   The hidden messages in water by Masaru Emoto &amp; translated by David A Thayne
     
-*   Change your mind, change your life by Gerald G Jampolsky M.D & Diane V Cirincione
+*   Change your mind, change your life by Gerald G Jampolsky M.D &amp; Diane V Cirincione
     
-*   Making the brain body connection : a playful guide to releasing mental, physical & emotional blocks to success by Sharon Promislow
+*   Making the brain body connection : a playful guide to releasing mental, physical &amp; emotional blocks to success by Sharon Promislow
     
 *   The language of choice theory by William Glasser
     
