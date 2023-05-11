@@ -7,7 +7,7 @@ description: ""
 
 **School Timetables**   
 
-* [2023 June Extended Timetable]()
+* [2023 June Extended Timetable]([](/files/Timetable%20&%20Schedules/june%20extended%20timetable%202023%20(by%20class).pdf)
 *   [2023 Sem 1 Timetable for Sec 1](/files/Timetable%20&%20Schedules/2023%20Sem%201%20Sec%201.pdf)
 
 *   [2023 Sem 1 Timetable for Sec 2](/files/Timetable%20&%20Schedules/2023%20Sem%201%20Sec%202.pdf)
