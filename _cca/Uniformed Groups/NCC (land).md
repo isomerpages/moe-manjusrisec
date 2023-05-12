@@ -104,17 +104,17 @@ Monday and Wednesday&nbsp;3.00pm - 6.00pm
 The cadets undergo regimentation and discipline to prepare them for the assessment to achieve their Sergeant ranks. They will be tested and assessed on Individual Field Craft, Command and Control, Foot and Arms Drills, etc. Students are also involved in various school events such as the Secondary One CCA Orientation and CNY Hamper Project to nurture into empathetic and disciplined leaders.
 
 
-|   |   |   |
-|:---:|:---:|:---:|
-|  <img src="/images/Cca/NCC%20(land)/Training.jpeg" style="width:85%"> Cadets preparing for training  |    <img src="/images/Cca/NCC%20(land)/Sec%20One%20Orientation.jpeg" style="width:78%"> Secondary One CCA Orientation  |   ![](/images/Cca/NCC%20(land)/CNY%20hamper.jpeg) CNY Hamper Project |
+|   |   |   
+|:---:|:---:|
+|     ![](/images/Cca/NCC%20(land)/Sec%20One%20Orientation.jpeg)   |   ![](/images/Cca/NCC%20(land)/CNY%20hamper.jpeg)  |
 
 **Precision Drill Squad (PDS) &amp; Freestyle Drill (FSD) Activities**  
 
 <p style="text-align: justify;">Events such as the MJR Jam provide a good platform for the cadets to demonstrate what they have learnt during the trainings such as arms and foot drills, precision and freestyle drills. Always a strong force in any parades, our cadets never fail to impress with their strong sense of discipline and camaraderie.</p>
 
-|   |   |   |
-|:---:|:---:|:---:|
-|   ![](/images/Cca/NCC%20(land)/FSD.jpeg) MJR Free-style Drill |  <img src="/images/Cca/NCC%20(land)/MJR%20Jam.jpeg" style="width:70%"> Practising hard to put up a good performance for MJR JAM |  ![](/images/Cca/NCC%20(land)/PDS.jpeg)  MJR Precision Drill Squad  |
+|   |   |   
+|:---:|:---:|
+|   ![](/images/Cca/NCC%20(land)/FSD.jpeg)  |  ![](/images/Cca/NCC%20(land)/MJR%20Jam.jpeg)  |    
 
 
 **Other Highlights**
@@ -124,4 +124,4 @@ The cadets undergo regimentation and discipline to prepare them for the assessme
 
 |   |   |   |
 |:---:|:---:|:---:|
-| ![](/images/Cca/NCC%20(land)/Brandon%20Choo.png) Outstanding Cadet Award: Brandon Choo |  ![](/images/Cca/NCC%20(land)/Ho%20Zhe%20Ming.png) Outstanding Cadet Award: Ho Zhe Ming | <img src="/images/Cca/NCC%20(land)/Gerard%20Danny.jpeg" style="width:90%"> Participation in NCC 120 Anniversary Tiles: Gerard Danny |
+| ![](/images/Cca/NCC%20(land)/Brandon%20Choo.png)  |![](/images/Cca/NCC%20(land)/ho%20zhe%20ming.png)| ![](/images/Cca/NCC%20(land)/gerard%20danny.jpeg)|

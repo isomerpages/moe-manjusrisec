@@ -72,20 +72,17 @@ It is an honour for our dancers to showcase their gracefulness in the annual sch
 
 |   |   |   |
 |---|---|---|
-|  ![](/images/Cca/Chinese%20dance/chinese_dance01.png)  Dancers performing a Spring Rain Dance  |  ![](/images/Cca/Chinese%20dance/chinese_dance02.png)  Dance performance at La Salle for Anniversary   |  ![](/images/Cca/Chinese%20dance/chinese_dance03.png) Elegance    |
-|  ![](/images/Cca/Chinese%20dance/chinese_dance04.png)Dancers performing a Malay traditional dance     |  ![](/images/Cca/Chinese%20dance/chinese_dance05.png) Dancers striking a final pose!    |  ![](/images/Cca/Chinese%20dance/chinese_dance06.png)  Dancers performing a contemporary dance  |
+|  ![](/images/Cca/Chinese%20dance/chinese_dance01.png)    |  ![](/images/Cca/Chinese%20dance/chinese_dance02.png)    |  ![](/images/Cca/Chinese%20dance/chinese_dance03.png)     |
+|  ![](/images/Cca/Chinese%20dance/chinese_dance04.png)     |  ![](/images/Cca/Chinese%20dance/chinese_dance05.png)   |  ![](/images/Cca/Chinese%20dance/chinese_dance06.png)    |
 
 **Open House**
 
 
 Dancers will perform to selected music in order to pique interest in dancing for potential new students!
 
-
-|   |   |   
-|---|---|
-|  <img src="/images/Cca/Chinese%20dance/chinese_dance07.png" style="width:85%">  Dancers extending their arms |![](/images/Cca/Chinese%20dance/chinese_dance09.png)   Dancers kicking it up| 
-<img src="/images/Cca/Chinese%20dance/chinese_dance08.png" style="width:85%"> Dancers and their elegant Ballet steps   |![](/images/Cca/Chinese%20dance/chinese_dance10.png)  Dancers levitating! |
-
+|   |  | |   
+|---|-|----|
+|  ![](/images/Cca/Chinese%20dance/chinese_dance09.png)  | ![](/images/Cca/Chinese%20dance/chinese_dance08.png)  |![](/images/Cca/Chinese%20dance/chinese_dance10.png)   |
 
 **Singapore Youth Festival Arts Presentation**
 
@@ -93,13 +90,8 @@ Once every two years, our dancers will gear up for the inaugural Singapore Youth
 
 |   |   |   |
 |---|---|---|
-|  <img src="/images/Cca/Chinese%20dance/chinese_dance11.png" style="width:90%"> Dancers performing a Tibetan dance  |  ![](/images/Cca/Chinese%20dance/chinese_dance12.png) Dancers performing Tibetan dance part 3   | ![](/images/Cca/Chinese%20dance/chinese_dance13.png)    Dancers twirling around with their fans |
-| <img src="/images/Cca/Chinese%20dance/chinese_dance14.png" style="width:90%">  Dancers performing a fan dance during SYF competition   |  ![](/images/Cca/Chinese%20dance/chinese_dance15.png) Dancers as beautiful lotus!  |  ![](/images/Cca/Chinese%20dance/chinese_dance16.png)  Dancers during SYF competition part 3 |
-
-<br>
-
-
-
+| ![](/images/Cca/Chinese%20dance/chinese_dance11.png) |  ![](/images/Cca/Chinese%20dance/chinese_dance12.png)    | ![](/images/Cca/Chinese%20dance/chinese_dance13.png)     |
+| ![](/images/Cca/Chinese%20dance/chinese_dance14.png)     |  ![](/images/Cca/Chinese%20dance/chinese_dance15.png)   |  ![](/images/Cca/Chinese%20dance/chinese_dance16.png)  |
 
 **SYF Arts Celebration**
 

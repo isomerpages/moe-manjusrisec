@@ -112,8 +112,8 @@ Every Monday and Wednesday&nbsp;3.00pm - 6.00pm
 
 |   |   |   
 |:-:|:-:|
-| ![](/images/Cca/Scouts/scouts02.png) Flag	 |   ![](/images/Cca/Scouts/scouts04.png) Moment of Silence |   
-| ![](/images/Cca/Scouts/The%20Scout%20Salute.jpeg) The Scout Salute | ![](/images/Cca/Scouts/The%20Scout%20Promise.jpeg) The Scout Promise |
+| ![](/images/Cca/Scouts/scouts02.png) 	 |   ![](/images/Cca/Scouts/scouts04.png)  |   
+| ![](/images/Cca/Scouts/The%20Scout%20Salute.jpeg)  | ![](/images/Cca/Scouts/The%20Scout%20Promise.jpeg)  |
 
 
 
@@ -123,13 +123,13 @@ Every Monday and Wednesday&nbsp;3.00pm - 6.00pm
 
 |   |   |   |
 |:-:|:-:|:-:|
-|    ![](/images/Cca/Scouts/scouts05.png) National Patrol Camp	 |  ![](/images/Cca/Scouts/scouts06.png)  Uniform Inspection	 |   ![](/images/Cca/Scouts/scouts07.png) Living Quarters  |
-|    ![](/images/Cca/Scouts/scouts08.png)  Pioneering |    ![](/images/Cca/Scouts/scouts09.png)  Bonding	  |   |
+|    ![](/images/Cca/Scouts/scouts05.png)  |  ![](/images/Cca/Scouts/scouts06.png) 	 |   ![](/images/Cca/Scouts/scouts07.png)  |
+|    ![](/images/Cca/Scouts/scouts08.png)   |    ![](/images/Cca/Scouts/scouts09.png)  	  |   |
 
 **Outdoor Activities**
 
 
 |   |   |   |
 |:-:|:-:|:-:|
-|  ![](/images/Cca/Scouts/Safety%20Briefing.jpeg) Safety Briefing 	   | ![](/images/Cca/Scouts/Quick%20photo%20before%20the%20hike.jpeg)  Quick photo before the hike 	  | <img src="/images/Cca/Scouts/Patrol%20Leaders%20taking%20the%20lead.jpeg" style="width:85%">  Patrol Leaders taking the lead   |
-|   ![](/images/Cca/Scouts/Appreciating%20Nature.jpeg)  Appreciating Nature | ![](/images/Cca/Scouts/Exploring%20Nature.jpeg)   Exploring Nature |  ![](/images/Cca/Scouts/Teacher-Scout%20Bonding.jpeg)   Teacher-Scout Bonding |
+|  ![](/images/Cca/Scouts/Safety%20Briefing.jpeg)  	   | ![](/images/Cca/Scouts/Quick%20photo%20before%20the%20hike.jpeg)   	  | ![](/images/Cca/Scouts/Patrol%20Leaders%20taking%20the%20lead.jpeg)    |
+|   ![](/images/Cca/Scouts/Appreciating%20Nature.jpeg)   | ![](/images/Cca/Scouts/Exploring%20Nature.jpeg)   | |
