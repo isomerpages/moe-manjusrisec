@@ -121,9 +121,8 @@ Wednesday 3.00 – 5.00 pm
 |:---:|:---:|
 |  <img src="/images/Cca/Chinese%20Calligraphy/orientation%20%201.jpg" style="width:60%"> |      ![](/images/Cca/Chinese%20Calligraphy/orientation%20%203.jpg) |
 
-
 **Our Work**
 
 |   |   | 
 |:---:|:---:|
-|  ![](/images/Cca/Chinese%20Calligraphy/our%20work%20%201.png) |   ![](/images/Cca/Chinese%20Calligraphy/our%20work%20%202.png)   | 
+|  ![](/images/Cca/Chinese%20Calligraphy/our%20work%20%201.png) |   ![](/images/Cca/Chinese%20Calligraphy/our%20work%20%202.png)   |
