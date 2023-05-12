@@ -108,22 +108,18 @@ Monday &amp; Wednesday 3pm-6pm
 
 |   |   |   |
 |:---:|:---:|:---:|
-|  ![](/images/Cca/Buddhist%20Interact%20Club/1_1_Dharma%20session.jpg)  Dharma Session 	 |  ![](/images/Cca/Buddhist%20Interact%20Club/1-2_Meditation.jpeg)   Meditation   |  ![](/images/Cca/Buddhist%20Interact%20Club/1-3_Mindfulness%20Course%20by%20Mr%20Ong%20Pee%20Eng.jpeg)  Mindfulness Course by Mr Ong Pee Eng   |
-|  ![](/images/Cca/Buddhist%20Interact%20Club/1-4_Online%20Mindfulness%20Course%20by%20Brahm%20Centre.jpeg)  Online Mindfulness Course by Brahm Centre |    ![](/images/Cca/Buddhist%20Interact%20Club/1-5_Architecture%20of%20Buddhist%20Temples.jpg) Architecture of Buddhist Temples  |  ![](/images/Cca/Buddhist%20Interact%20Club/1-6_Drawing%20by%20Hong%20Jun%20Kiat.jpeg)  Drawing by Hong Jun Kiat  |
-
+|  ![](/images/Cca/Buddhist%20Interact%20Club/1_1_Dharma%20session.jpg)   	 |  ![](/images/Cca/Buddhist%20Interact%20Club/1-2_Meditation.jpeg)     |  ![](/images/Cca/Buddhist%20Interact%20Club/1-3_Mindfulness%20Course%20by%20Mr%20Ong%20Pee%20Eng.jpeg)    |
 
 **Competitions/Performance**
 
 |   |   |   |
 |:---:|:---:|:---:|
-| ![](/images/Cca/Buddhist%20Interact%20Club/2-1_Sign%20Language%20Song%20Practice.jpg)  Sign Language Song Practice | ![](/images/Cca/Buddhist%20Interact%20Club/2-3_Harmony%20Game.jpg) Harmony Game|
-|
-![](/images/Cca/Buddhist%20Interact%20Club/2-4_NYBC.jpg) NYBC  |![](/images/Cca/Buddhist%20Interact%20Club/2-5_VIA_Performance.jpeg) VIA Performance  | ![](/images/Cca/Buddhist%20Interact%20Club/2-2_Sign%20Language%20Song%20Recording.jpeg)  Sign Language Song Recording   |
+![](/images/Cca/Buddhist%20Interact%20Club/2-4_NYBC.jpg)  |![](/images/Cca/Buddhist%20Interact%20Club/2-5_VIA_Performance.jpeg)   | ![](/images/Cca/Buddhist%20Interact%20Club/2-2_Sign%20Language%20Song%20Recording.jpeg)    |
 
 
 **Activities**
 
 |   |   |   |
 |:---:|:---:|:---:|
-|  ![](/images/Cca/Buddhist%20Interact%20Club/3-1_Vesak_Celebration.jpg) Vesak Celebration	 | ![](/images/Cca/Buddhist%20Interact%20Club/3-2_CCA%20Orientation.jpeg) CCA Orientation 	 | ![](/images/Cca/Buddhist%20Interact%20Club/3-3_Spray%20Paint%20on%20Little%20Buddha%20Statue.jpg) Spray paint on Little Buddha statue |
-|  ![](/images/Cca/Buddhist%20Interact%20Club/3-4_Origami%20Seesion.jpg)  Origami Session  |  ![](/images/Cca/Buddhist%20Interact%20Club/3-5_CNY%20Angbao%20Crafts.jpeg) CNY Angbao   |   ![](/images/Cca/Buddhist%20Interact%20Club/3-6_Discussion.jpeg) Discussion  |
+|   ![](/images/Cca/Buddhist%20Interact%20Club/3-5_CNY%20Angbao%20Crafts.jpeg)	 | ![](/images/Cca/Buddhist%20Interact%20Club/3-2_CCA%20Orientation.jpeg) 	 | ![](/images/Cca/Buddhist%20Interact%20Club/3-3_Spray%20Paint%20on%20Little%20Buddha%20Statue.jpg)  |
+|  ![](/images/Cca/Buddhist%20Interact%20Club/3-4_Origami%20Seesion.jpg)    |    ![](/images/Cca/Buddhist%20Interact%20Club/3-6_Discussion.jpeg) 
