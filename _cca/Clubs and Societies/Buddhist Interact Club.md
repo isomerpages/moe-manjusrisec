@@ -114,7 +114,7 @@ Monday &amp; Wednesday 3pm-6pm
 
 |   |   |   |
 |:---:|:---:|:---:|
-![](/images/Cca/Buddhist%20Interact%20Club/2-4_NYBC.jpg)  |![](/images/Cca/Buddhist%20Interact%20Club/2-5_VIA_Performance.jpeg)   | ![](/images/Cca/Buddhist%20Interact%20Club/2-2_Sign%20Language%20Song%20Recording.jpeg)    |
+|![](/images/Cca/Buddhist%20Interact%20Club/2-4_NYBC.jpg)  |![](/images/Cca/Buddhist%20Interact%20Club/2-5_VIA_Performance.jpeg)   | ![](/images/Cca/Buddhist%20Interact%20Club/2-2_Sign%20Language%20Song%20Recording.jpeg)    |
 
 
 **Activities**
@@ -122,4 +122,4 @@ Monday &amp; Wednesday 3pm-6pm
 |   |   |   |
 |:---:|:---:|:---:|
 |   ![](/images/Cca/Buddhist%20Interact%20Club/3-5_CNY%20Angbao%20Crafts.jpeg)	 | ![](/images/Cca/Buddhist%20Interact%20Club/3-2_CCA%20Orientation.jpeg) 	 | ![](/images/Cca/Buddhist%20Interact%20Club/3-3_Spray%20Paint%20on%20Little%20Buddha%20Statue.jpg)  |
-|  ![](/images/Cca/Buddhist%20Interact%20Club/3-4_Origami%20Seesion.jpg)    |    ![](/images/Cca/Buddhist%20Interact%20Club/3-6_Discussion.jpeg) 
+|  ![](/images/Cca/Buddhist%20Interact%20Club/3-4_Origami%20Seesion.jpg)    |    ![](/images/Cca/Buddhist%20Interact%20Club/3-6_Discussion.jpeg)
