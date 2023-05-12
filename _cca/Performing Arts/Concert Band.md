@@ -197,9 +197,7 @@ Wednesday 3-5pm (Self-Practice)
 
 |   |   |   |
 |:---:|:---:|:---:|
-|   <img src="/images/Cca/Concert%20Band/band01.png" style="width:100%">  Band in Action! |    ![](/images/Cca/Concert%20Band/band02.png)  Group Photo outside RP!|   ![](/images/Cca/Concert%20Band/band03.png) Pre-SIBF Concert!  |
-|   <img src="/images/Cca/Concert%20Band/band04.png" style="width:100%">  Rehearsing before actual SIBF! |  ![](/images/Cca/Concert%20Band/band05.png) SIBF 2014 |   |
-
+|  ![](/images/Cca/Concert%20Band/band01.png)   |    ![](/images/Cca/Concert%20Band/band02.png)  |   ![](/images/Cca/Concert%20Band/band03.png)  | 
 
 **Band Sectional Photos**
 
@@ -207,5 +205,5 @@ Our Concert Band.
 
 |   |   |   |
 |:---:|:---:|:---:|
-|  <img src="/images/Cca/Concert%20Band/band06.png" style="width:100%">  Clarinettists! |    ![](/images/Cca/Concert%20Band/band07.png)  Flute Girls! |   <img src="/images/Cca/Concert%20Band/band08.png" style="width:100%">  Saxophonists!  |
-|   <img src="/images/Cca/Concert%20Band/band09.png" style="width:100%">  Trombone Girls!  |  ![](/images/Cca/Concert%20Band/band10.png) Trumpet Section!  |   <img src="/images/Cca/Concert%20Band/band11.png" style="width:100%"> Cool Leaders!  |
+|  <img src="/images/Cca/Concert%20Band/band06.png" style="width:100%"> |    ![](/images/Cca/Concert%20Band/band07.png)   |   <img src="/images/Cca/Concert%20Band/band08.png" style="width:100%">    |
+|   <img src="/images/Cca/Concert%20Band/band09.png" style="width:100%">  |  ![](/images/Cca/Concert%20Band/band10.png)   |   <img src="/images/Cca/Concert%20Band/band11.png" style="width:100%"> 
