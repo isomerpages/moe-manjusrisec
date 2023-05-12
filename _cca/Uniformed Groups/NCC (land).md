@@ -112,9 +112,9 @@ The cadets undergo regimentation and discipline to prepare them for the assessme
 
 <p style="text-align: justify;">Events such as the MJR Jam provide a good platform for the cadets to demonstrate what they have learnt during the trainings such as arms and foot drills, precision and freestyle drills. Always a strong force in any parades, our cadets never fail to impress with their strong sense of discipline and camaraderie.</p>
 
-|   |   |   |
-|:---:|:---:|:---:|
-|   ![](/images/Cca/NCC%20(land)/FSD.jpeg) MJR Free-style Drill |  <img src="/images/Cca/NCC%20(land)/MJR%20Jam.jpeg" style="width:70%"> Practising hard to put up a good performance for MJR JAM |  ![](/images/Cca/NCC%20(land)/PDS.jpeg)  MJR Precision Drill Squad  |
+|   |   |   
+|:---:|:---:|
+|   ![](/images/Cca/NCC%20(land)/FSD.jpeg)  |  ![](/images/Cca/NCC%20(land)/MJR%20Jam.jpeg)  |    
 
 
 **Other Highlights**
