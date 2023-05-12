@@ -104,9 +104,9 @@ Monday and Wednesday&nbsp;3.00pm - 6.00pm
 The cadets undergo regimentation and discipline to prepare them for the assessment to achieve their Sergeant ranks. They will be tested and assessed on Individual Field Craft, Command and Control, Foot and Arms Drills, etc. Students are also involved in various school events such as the Secondary One CCA Orientation and CNY Hamper Project to nurture into empathetic and disciplined leaders.
 
 
-|   |   |   |
-|:---:|:---:|:---:|
-|  <img src="/images/Cca/NCC%20(land)/Training.jpeg" style="width:85%"> Cadets preparing for training  |    <img src="/images/Cca/NCC%20(land)/Sec%20One%20Orientation.jpeg" style="width:78%"> Secondary One CCA Orientation  |   ![](/images/Cca/NCC%20(land)/CNY%20hamper.jpeg) CNY Hamper Project |
+|   |   |   
+|:---:|:---:|
+|     ![](/images/Cca/NCC%20(land)/Sec%20One%20Orientation.jpeg)   |   ![](/images/Cca/NCC%20(land)/CNY%20hamper.jpeg)  |
 
 **Precision Drill Squad (PDS) &amp; Freestyle Drill (FSD) Activities**  
 
