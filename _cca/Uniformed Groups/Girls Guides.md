@@ -157,8 +157,8 @@ Every Monday and Wednesday
 
 |   |   |   |
 |---|---|---|
-|  ![](/images/Cca/Girls%20Guides/Girl%20Guides.jpg)   |   ![](/images/Cca/Girls%20Guides/gg4.png)  |    ![](/images/Cca/Girls%20Guides/gg5.png)  |
-  |  |  ![](/images/Cca/Girls%20Guides/gg6.png)  |<img src="/images/Cca/Girls%20Guides/gg3.jpg" style="width:%">|
+|  ![](/images/Cca/Girls%20Guides/gg6.png) |   ![](/images/Cca/Girls%20Guides/gg4.png)  |    ![](/images/Cca/Girls%20Guides/gg5.png)  |
+  |   ![](/images/Cca/Girls%20Guides/Girl%20Guides.jpg)   |   ![](/images/Cca/Girls%20Guides/gg3.jpg)||
 
 **World Thinking Day**
 
