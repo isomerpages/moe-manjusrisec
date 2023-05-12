@@ -201,8 +201,6 @@ Wednesday 3-5pm (Self-Practice)
 
 **Band Sectional Photos**
 
-Our Concert Band.
-
 |   |   |   |
 |:---:|:---:|:---:|
 |  ![](/images/Cca/Concert%20Band/band06.png) |    ![](/images/Cca/Concert%20Band/band07.png)   |   <img src="/images/Cca/Concert%20Band/band08.png" style="width:100%">    |
