@@ -124,4 +124,4 @@ The cadets undergo regimentation and discipline to prepare them for the assessme
 
 |   |   |   |
 |:---:|:---:|:---:|
-| ![](/images/Cca/NCC%20(land)/Brandon%20Choo.png)  |  ![](/images/Cca/NCC%20(land)/Ho%20Zhe%20Ming.png)  | <img src="/images/Cca/NCC%20(land)/Gerard%20Danny.jpeg" style="width:90%"> 
+| ![](/images/Cca/NCC%20(land)/Brandon%20Choo.png)  |![](/images/Cca/NCC%20(land)/ho%20zhe%20ming.png)| ![](/images/Cca/NCC%20(land)/gerard%20danny.jpeg)|
