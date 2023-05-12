@@ -129,9 +129,9 @@ Monday and Wednesday&nbsp;3.00pm - 6.00pm
 
 Outdoor trainings at NPCC Camp Resilience in Pulau Ubin.
 
-|   |   |   |
-|:---:|:---:|:---:|
-|	  ![](/images/Cca/NPCC/Ferry%20ride%20to%20Pulau%20Ubin.jpg)| ![](/images/Cca/NPCC/Time%20for%20some%20outdoor%20cooking.jpg)    |   ![](/images/Cca/NPCC/New%20friendships%20forged%20with%20cadets%20from%20other%20schools.jpg)  |
+|   |   |   
+|:---:|:---:|
+|	 ![](/images/Cca/NPCC/Time%20for%20some%20outdoor%20cooking.jpg)    |   ![](/images/Cca/NPCC/New%20friendships%20forged%20with%20cadets%20from%20other%20schools.jpg)  |
 |     ![](/images/Cca/NPCC/Rock%20Climbing.jpg) |
 
 
