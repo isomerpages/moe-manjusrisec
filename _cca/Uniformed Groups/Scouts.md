@@ -112,8 +112,8 @@ Every Monday and Wednesday&nbsp;3.00pm - 6.00pm
 
 |   |   |   
 |:-:|:-:|
-| ![](/images/Cca/Scouts/scouts02.png) Flag	 |   ![](/images/Cca/Scouts/scouts04.png) Moment of Silence |   
-| ![](/images/Cca/Scouts/The%20Scout%20Salute.jpeg) The Scout Salute | ![](/images/Cca/Scouts/The%20Scout%20Promise.jpeg) The Scout Promise |
+| ![](/images/Cca/Scouts/scouts02.png) 	 |   ![](/images/Cca/Scouts/scouts04.png)  |   
+| ![](/images/Cca/Scouts/The%20Scout%20Salute.jpeg)  | ![](/images/Cca/Scouts/The%20Scout%20Promise.jpeg)  |
 
 
 
