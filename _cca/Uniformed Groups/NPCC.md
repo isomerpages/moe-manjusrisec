@@ -129,10 +129,10 @@ Monday and Wednesday&nbsp;3.00pm - 6.00pm
 
 Outdoor trainings at NPCC Camp Resilience in Pulau Ubin.
 
-|   |   |   |
-|:---:|:---:|:---:|
-| <img src="/images/Cca/NPCC/Time%20for%20some%20outdoor%20cooking.jpg" style="width:85%"> Time for some outdoor cooking	 | ![](/images/Cca/NPCC/Ferry%20ride%20to%20Pulau%20Ubin.jpg)   Ferry Ride to Pulau Ubin  | ![](/images/Cca/NPCC/Rock%20Climbing.jpg)   Rock Climbing  |
-| ![](/images/Cca/NPCC/New%20friendships%20forged%20with%20cadets%20from%20other%20schools.jpg) New friendships forged with cadets from other schools |  <img src="/images/Cca/NPCC/Ready%20to%20climb.jpg" style="width:50%"> Ready to climb! |   |
+|   |   |   
+|:---:|:---:|
+|	 ![](/images/Cca/NPCC/Time%20for%20some%20outdoor%20cooking.jpg)    |   ![](/images/Cca/NPCC/New%20friendships%20forged%20with%20cadets%20from%20other%20schools.jpg)  |
+|     ![](/images/Cca/NPCC/Rock%20Climbing.jpg) |
 
 
 **Camp Craft Training**
@@ -141,8 +141,8 @@ Training for Inter-Unit Camp Craft Competition.
 
 |   |   |   
 |:---:|:---:|
-| ![](/images/Cca/NPCC/npcc05.png) A successful team is a group of many hands but of one mind – Bill Bethel	 | <img src="/images/Cca/NPCC/npcc06.png" style="width:70%"> TEAM – Together Everyone Achieve More	 |
-| ![](/images/Cca/NPCC/Tent%20Pitching.jpg) Tent Pitching |	  <img src="/images/Cca/NPCC/Representing%20Manjusri%20Secondary%20in%20Campcraft%20competition.jpg" style="width:60%"> Representing Manjusri Secondary in Campcraft competition	 |   
+| ![](/images/Cca/NPCC/npcc05.png)  |![](/images/Cca/NPCC/npcc06.png) |
+
 
 
 **Visits to Police Establishments**
@@ -150,5 +150,5 @@ Training for Inter-Unit Camp Craft Competition.
 
 |   |   |   |
 |:---:|:---:|:---:|
-|  <img src="/images/Cca/NPCC/Geylang%20NPC%20visit.jpeg" style="width:100%">  Geylang NPC visit	 |  ![](/images/Cca/NPCC/ICA%20Visit.jpg) ICA Visit	 |  <img src="/images/Cca/NPCC/Learning%20more%20about%20ICA.jpg" style="width:75%">  Learning more about ICA  |
-|  ![](/images/Cca/NPCC/Police%20Heritage%20Centre%20Visit.jpeg)  Police Heritage Centre Visit    |   ![](/images/Cca/NPCC/Learning%20more%20about%20the%20history%20of%20SPF%20during%20our%20Police%20Heritage%20Centre%20Visit.jpeg) Learning more about the history of SPF during our Police Heritage Centre Visit  |  <img src="/images/Cca/NPCC/Appreciating%20how%20ICA%20keeps%20Singapore%20safe.jpg" style="width:60%">   Appreciating how ICA keeps Singapore safe |
+|  ![](/images/Cca/NPCC/Geylang%20NPC%20visit.jpeg)  	 |  ![](/images/Cca/NPCC/ICA%20Visit.jpg)  |  ![](/images/Cca/NPCC/Learning%20more%20about%20ICA.jpg)  |
+|  ![](/images/Cca/NPCC/Police%20Heritage%20Centre%20Visit.jpeg)     |   ![](/images/Cca/NPCC/Learning%20more%20about%20the%20history%20of%20SPF%20during%20our%20Police%20Heritage%20Centre%20Visit.jpeg) |  <img src="/images/Cca/NPCC/Appreciating%20how%20ICA%20keeps%20Singapore%20safe.jpg" style="width:60%">
