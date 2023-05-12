@@ -187,9 +187,9 @@ Wednesday 3-5pm (Self-Practice)
 
 <p style="text-align: justify;">Once every two years, our members will gear up for the inaugural Singapore Youth Festival Arts Presentation.</p>
 
-|   |   |   |
-|:---:|:---:|:---:|
-|  ![](/images/Cca/Concert%20Band/Upclose%20of%20Band%20training%20for%20SYF.jpg) 	 | <img src="/images/Cca/Concert%20Band/SYF%202021%20performance.jpeg" style="width:70%">  |   |
+|   |   |   
+|:---:|:---:|
+|  ![](/images/Cca/Concert%20Band/Upclose%20of%20Band%20training%20for%20SYF.jpg) 	 | <img src="/images/Cca/Concert%20Band/SYF%202021%20performance.jpeg" style="width:70%">  |   
 
 **Singapore International Band Festival**
 
