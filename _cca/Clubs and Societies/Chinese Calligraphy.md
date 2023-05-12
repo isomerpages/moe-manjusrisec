@@ -110,20 +110,20 @@ Wednesday 3.00 – 5.00 pm
 **Chinese Calligraphy Competition**
 
 
-|   |   |   |
-|:---:|:---:|:---:|
+|   |   | 
+|:---:|:---:|
 | <img src="/images/Cca/Chinese%20Calligraphy/achievement%202.jpg" style="width:60%">   | ![](/images/Cca/Chinese%20Calligraphy/achievement%203.jpg)   |
 
 
 **Sec 1 Orientation**
 
-|   |   |   |
-|:---:|:---:|:---:|
+|   |   |   
+|:---:|:---:|
 |  <img src="/images/Cca/Chinese%20Calligraphy/orientation%20%201.jpg" style="width:60%"> |      ![](/images/Cca/Chinese%20Calligraphy/orientation%20%203.jpg) |
 
 
 **Our Work**
 
-|   |   |   |
-|:---:|:---:|:---:|
-|  ![](/images/Cca/Chinese%20Calligraphy/our%20work%20%201.png) |   ![](/images/Cca/Chinese%20Calligraphy/our%20work%20%202.png)   |   <img src="/images/Cca/Chinese%20Calligraphy/our%20work%203.jpg" style="width:55%">   |
+|   |   | 
+|:---:|:---:|
+|  ![](/images/Cca/Chinese%20Calligraphy/our%20work%20%201.png) |   ![](/images/Cca/Chinese%20Calligraphy/our%20work%20%202.png)   | 
