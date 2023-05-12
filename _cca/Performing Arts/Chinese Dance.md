@@ -80,12 +80,9 @@ It is an honour for our dancers to showcase their gracefulness in the annual sch
 
 Dancers will perform to selected music in order to pique interest in dancing for potential new students!
 
-
-|   |   |   
-|---|---|
-|  <img src="/images/Cca/Chinese%20dance/chinese_dance07.png" style="width:85%">  Dancers extending their arms |![](/images/Cca/Chinese%20dance/chinese_dance09.png)   Dancers kicking it up| 
-<img src="/images/Cca/Chinese%20dance/chinese_dance08.png" style="width:85%"> Dancers and their elegant Ballet steps   |![](/images/Cca/Chinese%20dance/chinese_dance10.png)  Dancers levitating! |
-
+|   |  | |   
+|---|-|----|
+|  ![](/images/Cca/Chinese%20dance/chinese_dance09.png)  | ![](/images/Cca/Chinese%20dance/chinese_dance08.png)  |![](/images/Cca/Chinese%20dance/chinese_dance10.png)   |
 
 **Singapore Youth Festival Arts Presentation**
 
@@ -95,11 +92,6 @@ Once every two years, our dancers will gear up for the inaugural Singapore Youth
 |---|---|---|
 | ![](/images/Cca/Chinese%20dance/chinese_dance11.png) |  ![](/images/Cca/Chinese%20dance/chinese_dance12.png)    | ![](/images/Cca/Chinese%20dance/chinese_dance13.png)     |
 | ![](/images/Cca/Chinese%20dance/chinese_dance14.png)     |  ![](/images/Cca/Chinese%20dance/chinese_dance15.png)   |  ![](/images/Cca/Chinese%20dance/chinese_dance16.png)  |
-
-<br>
-
-
-
 
 **SYF Arts Celebration**
 
