@@ -127,7 +127,4 @@ Monday and Wednesday – 3pm–6pm
 |:---:|:---:|:---:|
 | ![](/images/Cca/Media%20Club/Discussion%20with%20CCAs%20teachers.jpg)  | ![](/images/Cca/Media%20Club/Media%201.jpg)  | <img src="/images/Cca/Media%20Club/Media%202.jpg" style="width:90%">  |
 |  ![](/images/Cca/Media%20Club/Media%206.jpg) | ![](/images/Cca/Media%20Club/Media%20Club%20managing%20equipment.jpg)  |    <img src="/images/Cca/Media%20Club/Media%205.jpg" style="width:90%"> |
-
-|   |   |   |
-|:---:|:---:|:---:|
 | ![](/images/Cca/Media%20Club/Media%20Club%20training.jpeg)  | ![](/images/Cca/Media%20Club/student%20posing.jpg)  | ![](/images/Cca/Media%20Club/Media%20Club%20during%20CCA%20Orientation.jpeg)  |
