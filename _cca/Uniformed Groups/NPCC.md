@@ -131,7 +131,7 @@ Outdoor trainings at NPCC Camp Resilience in Pulau Ubin.
 
 |   |   |   |
 |:---:|:---:|:---:|
-| <img src="/images/Cca/NPCC/Time%20for%20some%20outdoor%20cooking.jpg" style="width:85%">	 | ![](/images/Cca/NPCC/Ferry%20ride%20to%20Pulau%20Ubin.jpg)    | ![](/images/Cca/NPCC/Rock%20Climbing.jpg)    |
+| ![](/images/Cca/NPCC/Time%20for%20some%20outdoor%20cooking.jpg)	 | ![](/images/Cca/NPCC/Ferry%20ride%20to%20Pulau%20Ubin.jpg)    | ![](/images/Cca/NPCC/Rock%20Climbing.jpg)    |
 | ![](/images/Cca/NPCC/New%20friendships%20forged%20with%20cadets%20from%20other%20schools.jpg)  |  <img src="/images/Cca/NPCC/Ready%20to%20climb.jpg" style="width:50%">  |   |
 
 
@@ -151,4 +151,4 @@ Training for Inter-Unit Camp Craft Competition.
 |   |   |   |
 |:---:|:---:|:---:|
 |  <img src="/images/Cca/NPCC/Geylang%20NPC%20visit.jpeg" style="width:100%">  	 |  ![](/images/Cca/NPCC/ICA%20Visit.jpg)  |  <img src="/images/Cca/NPCC/Learning%20more%20about%20ICA.jpg" style="width:75%">  |
-|  ![](/images/Cca/NPCC/Police%20Heritage%20Centre%20Visit.jpeg)     |   ![](/images/Cca/NPCC/Learning%20more%20about%20the%20history%20of%20SPF%20during%20our%20Police%20Heritage%20Centre%20Visit.jpeg) |  <img src="/images/Cca/NPCC/Appreciating%20how%20ICA%20keeps%20Singapore%20safe.jpg" style="width:60%">   
+|  ![](/images/Cca/NPCC/Police%20Heritage%20Centre%20Visit.jpeg)     |   ![](/images/Cca/NPCC/Learning%20more%20about%20the%20history%20of%20SPF%20during%20our%20Police%20Heritage%20Centre%20Visit.jpeg) |  <img src="/images/Cca/NPCC/Appreciating%20how%20ICA%20keeps%20Singapore%20safe.jpg" style="width:60%">
