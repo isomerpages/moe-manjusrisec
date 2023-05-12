@@ -166,8 +166,8 @@ Every Monday and Wednesday
 
 |   |   |   |
 |---|---|---|
-| <img src="/images/Cca/Girls%20Guides/GG%20World1.jpeg" style="width:50%"> The Guides doing preparatory work |   ![](/images/Cca/Girls%20Guides/GG%20World2.jpeg) Virtual World Thinking Day	  |  ![](/images/Cca/Girls%20Guides/GG%20World6.jpeg)  Patrol Sunflower |
-|  ![](/images/Cca/Girls%20Guides/GG%20World3.jpeg) Patrol Morning Glory |  ![](/images/Cca/Girls%20Guides/GG%20World4.jpeg) Jasmine Patrol	 |   ![](/images/Cca/Girls%20Guides/GG%20World5.jpeg)  Patrol Hibiscus  |
+| <img src="/images/Cca/Girls%20Guides/GG%20World1.jpeg" style="width:50%">  |   ![](/images/Cca/Girls%20Guides/GG%20World2.jpeg)   |  ![](/images/Cca/Girls%20Guides/GG%20World6.jpeg)   |
+|  ![](/images/Cca/Girls%20Guides/GG%20World3.jpeg)  |  ![](/images/Cca/Girls%20Guides/GG%20World4.jpeg) 	 |   ![](/images/Cca/Girls%20Guides/GG%20World5.jpeg)   |
 
 **East Division Day**
 
@@ -176,5 +176,5 @@ Every Monday and Wednesday
 
 |   |   |   |
 |---|---|---|
-|  ![](/images/Cca/Girls%20Guides/gg12.png)  Our Guides taking part in mixed media art competition at East Division Day  |  ![](/images/Cca/Girls%20Guides/gg13.png)  Manjusri Girl Guides at East Division Day |  ![](/images/Cca/Girls%20Guides/gg14.png) Our Guides receiving third place for Recycled Toy Making Competition |
-|  ![](/images/Cca/Girls%20Guides/gg15.png) Our Guides receiving third place at the Cheerleading Competition | ![](/images/Cca/Girls%20Guides/gg16.png) Our Guides receiving first place for Mini Gadget Competition |  ![](/images/Cca/Girls%20Guides/gg17.png) Our Guides at East Division Day Cheerleading Competition  |
+|  ![](/images/Cca/Girls%20Guides/gg12.png)    |  ![](/images/Cca/Girls%20Guides/gg13.png)   |  ![](/images/Cca/Girls%20Guides/gg14.png)  |
+|  ![](/images/Cca/Girls%20Guides/gg15.png)  | ![](/images/Cca/Girls%20Guides/gg16.png) |  ![](/images/Cca/Girls%20Guides/gg17.png)  
