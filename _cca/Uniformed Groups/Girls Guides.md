@@ -176,5 +176,5 @@ Every Monday and Wednesday
 
 |   |   |   |
 |---|---|---|
-|  ![](/images/Cca/Girls%20Guides/gg12.png)    |  ![](/images/Cca/Girls%20Guides/gg13.png)   |  ![](/images/Cca/Girls%20Guides/gg14.png)  |
+|  ![](/images/Cca/Girls%20Guides/gg12.png)    |  ![](/images/Cca/Girls%20Guides/gg13.png)   |    |
 |  ![](/images/Cca/Girls%20Guides/gg16.png) |  ![](/images/Cca/Girls%20Guides/gg17.png)|
