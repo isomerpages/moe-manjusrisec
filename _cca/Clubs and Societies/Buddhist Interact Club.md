@@ -110,13 +110,6 @@ Monday &amp; Wednesday 3pm-6pm
 |:---:|:---:|:---:|
 |  ![](/images/Cca/Buddhist%20Interact%20Club/1_1_Dharma%20session.jpg)   	 |  ![](/images/Cca/Buddhist%20Interact%20Club/1-2_Meditation.jpeg)     |  ![](/images/Cca/Buddhist%20Interact%20Club/1-3_Mindfulness%20Course%20by%20Mr%20Ong%20Pee%20Eng.jpeg)    |
 
-**Competitions/Performance**
-
-|   |   |   |
-|:---:|:---:|:---:|
-|  |![](/images/Cca/Buddhist%20Interact%20Club/2-5_VIA_Performance.jpeg)   | ![](/images/Cca/Buddhist%20Interact%20Club/2-2_Sign%20Language%20Song%20Recording.jpeg)    |
-
-
 **Activities**
 
 |   |   |   |
