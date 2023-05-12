@@ -132,4 +132,4 @@ Every Monday and Wednesday&nbsp;3.00pm - 6.00pm
 |   |   |   |
 |:-:|:-:|:-:|
 |  ![](/images/Cca/Scouts/Safety%20Briefing.jpeg)  	   | ![](/images/Cca/Scouts/Quick%20photo%20before%20the%20hike.jpeg)   	  | ![](/images/Cca/Scouts/Patrol%20Leaders%20taking%20the%20lead.jpeg)    |
-|   ![](/images/Cca/Scouts/Appreciating%20Nature.jpeg)   | ![](/images/Cca/Scouts/Exploring%20Nature.jpeg)   ||
+|   ![](/images/Cca/Scouts/Appreciating%20Nature.jpeg)   | ![](/images/Cca/Scouts/Exploring%20Nature.jpeg)   | |
