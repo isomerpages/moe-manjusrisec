@@ -131,8 +131,8 @@ Outdoor trainings at NPCC Camp Resilience in Pulau Ubin.
 
 |   |   |   |
 |:---:|:---:|:---:|
-| <img src="/images/Cca/NPCC/Time%20for%20some%20outdoor%20cooking.jpg" style="width:85%"> Time for some outdoor cooking	 | ![](/images/Cca/NPCC/Ferry%20ride%20to%20Pulau%20Ubin.jpg)   Ferry Ride to Pulau Ubin  | ![](/images/Cca/NPCC/Rock%20Climbing.jpg)   Rock Climbing  |
-| ![](/images/Cca/NPCC/New%20friendships%20forged%20with%20cadets%20from%20other%20schools.jpg) New friendships forged with cadets from other schools |  <img src="/images/Cca/NPCC/Ready%20to%20climb.jpg" style="width:50%"> Ready to climb! |   |
+| <img src="/images/Cca/NPCC/Time%20for%20some%20outdoor%20cooking.jpg" style="width:85%">	 | ![](/images/Cca/NPCC/Ferry%20ride%20to%20Pulau%20Ubin.jpg)    | ![](/images/Cca/NPCC/Rock%20Climbing.jpg)    |
+| ![](/images/Cca/NPCC/New%20friendships%20forged%20with%20cadets%20from%20other%20schools.jpg)  |  <img src="/images/Cca/NPCC/Ready%20to%20climb.jpg" style="width:50%">  |   |
 
 
 **Camp Craft Training**
@@ -141,8 +141,8 @@ Training for Inter-Unit Camp Craft Competition.
 
 |   |   |   
 |:---:|:---:|
-| ![](/images/Cca/NPCC/npcc05.png) A successful team is a group of many hands but of one mind – Bill Bethel	 | <img src="/images/Cca/NPCC/npcc06.png" style="width:70%"> TEAM – Together Everyone Achieve More	 |
-| ![](/images/Cca/NPCC/Tent%20Pitching.jpg) Tent Pitching |	  <img src="/images/Cca/NPCC/Representing%20Manjusri%20Secondary%20in%20Campcraft%20competition.jpg" style="width:60%"> Representing Manjusri Secondary in Campcraft competition	 |   
+| ![](/images/Cca/NPCC/npcc05.png)  |![](/images/Cca/NPCC/npcc06.png) |
+| ![](/images/Cca/NPCC/Tent%20Pitching.jpg)  |	  ![](/images/Cca/NPCC/Representing%20Manjusri%20Secondary%20in%20Campcraft%20competition.jpg)  |   
 
 
 **Visits to Police Establishments**
