@@ -162,15 +162,11 @@ Wednesday 3-5pm (Self-Practice)
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Saxophone</span></td>
   </tr>
   <tr>
-    <td class="tg-lygy">SL - Haris Nornilhakim <br> ASL - Eva Angelina Binte Jamal<br></td>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Horn</span></td>
+    <td class="tg-lygy">CHONG XI YUAN, CIDNEY (SL)<br> WONG WAN YU (ASL)</td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Trumpet / French Horn</span></td>
   </tr>
   <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> SL - Teo Jun Kai Jakeem</span><br><span style="color:#222;background-color:transparent"> ASL - Ryan Tee Qing Kai</span></td>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Trumpet</span></td>
-  </tr>
-  <tr>
-    <td class="tg-lygy">SL - Seet Jun X<span style="background-color:transparent">ian</span>ASL - Poh Jo Zhi Wayne<span style="color:#222;background-color:transparent"> </span></td>
+    <td class="tg-lygy"><span style="background-color:transparent"></span>WONG ZI TING (SL)<br>MUHAMMAD NABIL BIN ASMADI (ASL)<span style="color:#222;background-color:transparent"> </span></td>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Trombone</span></td>
   </tr>
   <tr>
