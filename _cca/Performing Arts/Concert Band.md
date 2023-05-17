@@ -106,14 +106,21 @@ Wednesday 3-5pm (Self-Practice)
  
   <tr>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> AU YONG HUI LIN</span></td>
-    <td class="tg-lygy">Librarian (Head)<span style="color:#222;background-color:transparent"> </span></td>
+    <td class="tg-lygy">Head of Librarian<span style="color:#222;background-color:transparent"> </span></td>
+  </tr>
+	 <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> LEW JING YU VERA<br>NNG KAI LUN, JALLEN<br>GUN JIA JUN </span></td>
+     <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> Assistant Librarian</span></td>
   </tr>
 
   <tr>
     <td class="tg-lygy"><span style="color:#222;background-color:transparent">TEO WEI JUN </span></td>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> Head of Quarter Masters</span></td>
   </tr>
-
+	 <tr>
+    <td class="tg-lygy"><span style="color:#222;background-color:transparent">FUN XUE YI <br>HAN JUN XU DARYL<br>LIM ZI EN EVAN</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> Assistant Quarter Masters</span></td>
+  </tr>
 </tbody>
 </table>
 
@@ -143,41 +150,36 @@ Wednesday 3-5pm (Self-Practice)
 </thead>
 <tbody>
   <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">SL - Tang Chloe</span><br><span style="color:#222;background-color:transparent"> ASL - Vanessa Lee Jia En</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">LIM SHI MIN (SL)</span><br><span style="color:#222;background-color:transparent"> TEO CI EN (ASL)</span></td>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Flute</span></td>
   </tr>
   <tr>
-    <td class="tg-lygy">SL - Alyssa Toh Wan Ling<br>ASL - Matthias Tan <br> ASL - Eric Pai Yao Huang<br></td>
+    <td class="tg-lygy">DENISE NG WAI XIN&nbsp;(SL) <br>WONG MING LUN (ASL) </td>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Clarinet</span></td>
   </tr>
   <tr>
-    <td class="tg-lygy"><span style="color:#222;background-color:transparent">SL - Muhamad Farid Abil Bin Muhamed Kiffli</span><br><span style="color:#222;background-color:transparent"> ASL - Yoon Kia Suan</span><br></td>
+    <td class="tg-lygy"><span style="color:#222;background-color:transparent">AU YONG HUI LIN (SL)</span><br><span style="color:#222;background-color:transparent"> CHONG ZI SHAN ALICIA (ASL)</span><br></td>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Saxophone</span></td>
   </tr>
   <tr>
-    <td class="tg-lygy">SL - Haris Nornilhakim <br> ASL - Eva Angelina Binte Jamal<br></td>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Horn</span></td>
+    <td class="tg-lygy">CHONG XI YUAN, CIDNEY (SL)<br> WONG WAN YU (ASL)</td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Trumpet / French Horn</span></td>
   </tr>
   <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> SL - Teo Jun Kai Jakeem</span><br><span style="color:#222;background-color:transparent"> ASL - Ryan Tee Qing Kai</span></td>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Trumpet</span></td>
-  </tr>
-  <tr>
-    <td class="tg-lygy">SL - Seet Jun X<span style="background-color:transparent">ian</span>ASL - Poh Jo Zhi Wayne<span style="color:#222;background-color:transparent"> </span></td>
+    <td class="tg-lygy"><span style="background-color:transparent"></span>WONG ZI TING (SL)<br>MUHAMMAD NABIL BIN ASMADI (ASL)<span style="color:#222;background-color:transparent"> </span></td>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Trombone</span></td>
   </tr>
   <tr>
-    <td class="tg-lygy"><span style="color:#222;background-color:transparent">Liaw Wei Tak </span></td>
-    <td class="tg-lygy">Euphonium<span style="color:#222;background-color:transparent"> </span></td>
+    <td class="tg-lygy"><span style="color:#222;background-color:transparent">WONG HAO ZHE (SL)<br>ANDRI BIN ANDI HIDAYAT (ASL)</span></td>
+		  <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Euphonium / Tuba</span></td>
   </tr>
+  
+
   <tr>
-    <td class="tg-lygy"><span style="color:#222;background-color:transparent">SL - Teo Hung Kai</span><br><span style="color:#222;background-color:transparent"> ASL - Ng Yi Jie </span></td>
-    <td class="tg-lygy">Tuba<span style="color:#222;background-color:transparent"> </span></td>
+    <td class="tg-lygy"><span style="color:#222;background-color:transparent">TAN HAN YU (SL)/ HAY RUI, HEIDI (SL)</span><br><span style="color:#222;background-color:transparent"> NOOR MUAMMAD DANISH BIN NOOR HIDAYAT (ASL)</span></td>
+  <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Percussion</span></td>
   </tr>
-  <tr>
-    <td class="tg-lygy"><span style="color:#222;background-color:transparent">SL - Lim Kay En</span><br><span style="color:#222;background-color:transparent"> ASL - Goh Seng Iu Jackal</span><br><span style="color:#222;background-color:transparent"> ASL - Tanisha Kaur D/O Harban Singh </span></td>
-    <td class="tg-lygy">Percussion<span style="color:#222;background-color:transparent"> </span></td>
-  </tr>
+  
 </tbody>
 </table>
 
