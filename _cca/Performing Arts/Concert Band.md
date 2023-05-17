@@ -175,7 +175,7 @@ Wednesday 3-5pm (Self-Practice)
   </tr>
 
   <tr>
-    <td class="tg-lygy"><span style="color:#222;background-color:transparent">SL - Lim Kay En</span><br><span style="color:#222;background-color:transparent"> ASL - Goh Seng Iu Jackal</span><br><span style="color:#222;background-color:transparent"> ASL - Tanisha Kaur D/O Harban Singh </span></td>
+    <td class="tg-lygy"><span style="color:#222;background-color:transparent">TAN HAN YU (SL)/ HAY RUI, HEIDI (SL)</span><br><span style="color:#222;background-color:transparent"> NOOR MUAMMAD DANISH BIN NOOR HIDAYAT (ASL)</span></td>
     <td class="tg-lygy">Percussion<span style="color:#222;background-color:transparent"> </span></td>
   </tr>
 </tbody>
