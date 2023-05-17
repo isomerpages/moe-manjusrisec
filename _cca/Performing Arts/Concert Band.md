@@ -106,7 +106,11 @@ Wednesday 3-5pm (Self-Practice)
  
   <tr>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> AU YONG HUI LIN</span></td>
-    <td class="tg-lygy">Librarian (Head)<span style="color:#222;background-color:transparent"> </span></td>
+    <td class="tg-lygy">Head of Librarian<span style="color:#222;background-color:transparent"> </span></td>
+  </tr>
+	 <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> LEW JING YU VERA<br>NNG KAI LUN, JALLEN<br>GUN JIA JUN </span></td>
+    <td class="tg-lygy">Assistant Librarian<span style="color:#222;background-color:transparent"> </span></td>
   </tr>
 
   <tr>
