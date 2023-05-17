@@ -117,6 +117,10 @@ Wednesday 3-5pm (Self-Practice)
     <td class="tg-lygy"><span style="color:#222;background-color:transparent">TEO WEI JUN </span></td>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> Head of Quarter Masters</span></td>
   </tr>
+	 <tr>
+    <td class="tg-lygy"><span style="color:#222;background-color:transparent">FUN XUE YI <br>HAN JUN XU DARYL<br>LIM ZI EN EVAN</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> Head of Quarter Masters</span></td>
+  </tr>
 
 </tbody>
 </table>
