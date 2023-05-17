@@ -176,8 +176,9 @@ Wednesday 3-5pm (Self-Practice)
 
   <tr>
     <td class="tg-lygy"><span style="color:#222;background-color:transparent">TAN HAN YU (SL)/ HAY RUI, HEIDI (SL)</span><br><span style="color:#222;background-color:transparent"> NOOR MUAMMAD DANISH BIN NOOR HIDAYAT (ASL)</span></td>
-    <td class="tg-lygy"><span style="color:#222;background-color:transparent"> Percussion</span></td>
+  <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Percussion</span></td>
   </tr>
+  
 </tbody>
 </table>
 
