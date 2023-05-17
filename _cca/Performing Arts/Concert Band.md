@@ -110,7 +110,7 @@ Wednesday 3-5pm (Self-Practice)
   </tr>
 	 <tr>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> LEW JING YU VERA<br>NNG KAI LUN, JALLEN<br>GUN JIA JUN </span></td>
-    <td class="tg-lygy">Assistant Librarian<span style="color:#222;background-color:transparent"> </span></td>
+     <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> Assistant Librarian</span></td>
   </tr>
 
   <tr>
@@ -121,7 +121,6 @@ Wednesday 3-5pm (Self-Practice)
     <td class="tg-lygy"><span style="color:#222;background-color:transparent">FUN XUE YI <br>HAN JUN XU DARYL<br>LIM ZI EN EVAN</span></td>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> Assistant Quarter Masters</span></td>
   </tr>
-
 </tbody>
 </table>
 
