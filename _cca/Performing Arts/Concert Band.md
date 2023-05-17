@@ -150,15 +150,15 @@ Wednesday 3-5pm (Self-Practice)
 </thead>
 <tbody>
   <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">SL - Tang Chloe</span><br><span style="color:#222;background-color:transparent"> ASL - Vanessa Lee Jia En</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">LIM SHI MIN (SL)</span><br><span style="color:#222;background-color:transparent"> TEO CI EN (ASL)</span></td>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Flute</span></td>
   </tr>
   <tr>
-    <td class="tg-lygy">SL - Alyssa Toh Wan Ling<br>ASL - Matthias Tan <br> ASL - Eric Pai Yao Huang<br></td>
+    <td class="tg-lygy">DENISE NG WAI XIN&nbsp;(SL) <br>WONG MING LUN (ASL) </td>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Clarinet</span></td>
   </tr>
   <tr>
-    <td class="tg-lygy"><span style="color:#222;background-color:transparent">SL - Muhamad Farid Abil Bin Muhamed Kiffli</span><br><span style="color:#222;background-color:transparent"> ASL - Yoon Kia Suan</span><br></td>
+    <td class="tg-lygy"><span style="color:#222;background-color:transparent">AU YONG HUI LIN (SL)</span><br><span style="color:#222;background-color:transparent"> CHONG ZI SHAN ALICIA (ASL)</span><br></td>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Saxophone</span></td>
   </tr>
   <tr>
