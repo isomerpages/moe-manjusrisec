@@ -170,13 +170,10 @@ Wednesday 3-5pm (Self-Practice)
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Trombone</span></td>
   </tr>
   <tr>
-    <td class="tg-lygy"><span style="color:#222;background-color:transparent">Liaw Wei Tak </span></td>
-    <td class="tg-lygy">Euphonium<span style="color:#222;background-color:transparent"> </span></td>
+    <td class="tg-lygy"><span style="color:#222;background-color:transparent">WONG HAO ZHE (SL)<br>ANDRI BIN ANDI HIDAYAT (ASL)</span></td>
+    <td class="tg-lygy">Euphonium / Tuba<span style="color:#222;background-color:transparent"> </span></td>
   </tr>
-  <tr>
-    <td class="tg-lygy"><span style="color:#222;background-color:transparent">SL - Teo Hung Kai</span><br><span style="color:#222;background-color:transparent"> ASL - Ng Yi Jie </span></td>
-    <td class="tg-lygy">Tuba<span style="color:#222;background-color:transparent"> </span></td>
-  </tr>
+
   <tr>
     <td class="tg-lygy"><span style="color:#222;background-color:transparent">SL - Lim Kay En</span><br><span style="color:#222;background-color:transparent"> ASL - Goh Seng Iu Jackal</span><br><span style="color:#222;background-color:transparent"> ASL - Tanisha Kaur D/O Harban Singh </span></td>
     <td class="tg-lygy">Percussion<span style="color:#222;background-color:transparent"> </span></td>
