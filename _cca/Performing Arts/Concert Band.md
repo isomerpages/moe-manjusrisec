@@ -171,8 +171,9 @@ Wednesday 3-5pm (Self-Practice)
   </tr>
   <tr>
     <td class="tg-lygy"><span style="color:#222;background-color:transparent">WONG HAO ZHE (SL)<br>ANDRI BIN ANDI HIDAYAT (ASL)</span></td>
-    <td class="tg-lygy">Euphonium / Tuba<span style="color:#222;background-color:transparent"> </span></td>
+		  <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Euphonium / Tuba</span></td>
   </tr>
+  
 
   <tr>
     <td class="tg-lygy"><span style="color:#222;background-color:transparent">TAN HAN YU (SL)/ HAY RUI, HEIDI (SL)</span><br><span style="color:#222;background-color:transparent"> NOOR MUAMMAD DANISH BIN NOOR HIDAYAT (ASL)</span></td>
