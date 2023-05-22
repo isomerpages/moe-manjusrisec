@@ -33,7 +33,7 @@ description: ""
 
 **CCA Schedules**
 
-* [CCA June Holiday Training Schedule 2023](/files/Timetable%20&%20Schedules/cca%20jun%20holiday%20training%20schedule%202023.pdf)
+* [CCA June Holiday Training Schedule 2023](/files/Timetable%20&%20Schedules/cca%20jun%20holiday%20training%20schedule%202023_v2.pdf)
 *   [CCA Mar Holiday Training Schedule 2023](/files/Timetable%20&%20Schedules/MJS_CCA%20Mar%20Holiday%20Training%20Schedule%202023.pdf)
     
 *   [2023 CCA Schedule](/files/Timetable%20&%20Schedules/MJS_CCA%20Schedule%202023.pdf)
