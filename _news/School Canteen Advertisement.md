@@ -43,4 +43,3 @@ description: ""
 * Understands and reads English, for e.g. WhatsApp messages.
 
 *Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's own expense.  Applicant’s NRIC (photocopy with front and back on same page) will be required if applicant is shortlisted for interview. *
-
