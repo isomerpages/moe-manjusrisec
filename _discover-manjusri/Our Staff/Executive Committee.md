@@ -173,7 +173,7 @@ third_nav_title: Our Staff
   <tr>
     <td class="tg-pz2b">Mr Neo Wee Kian (Travis)</td>
     <td class="tg-pz2b">HOD, Educational Support </td>
-    <td class="tg-pz2b"> neo_we_kian@moe.edu.sg</td>
+    <td class="tg-pz2b"> neo_wee_kian@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-citn">Mr Qamarul Arifin Bin Abd Rashid </td>
