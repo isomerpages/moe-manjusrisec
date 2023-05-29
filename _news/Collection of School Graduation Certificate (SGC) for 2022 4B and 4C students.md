@@ -9,4 +9,5 @@ You are to bring along your NRIC or student concession card for verification pur
 
 * Collection Day: Monday – Friday (except Public Holidays)
 * Collection Time: 0900 – 1700 
+* 
 Venue: General Office
