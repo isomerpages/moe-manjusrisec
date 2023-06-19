@@ -10,7 +10,7 @@ description: ""
 
 <table>
 	<tbody>
-				<tr>
+				<tr>			<td style="width:10%"><figcaption></figcaption></td>
 	<td style="width:25%"><img src="/images/Discover%20Manjusri/Smc/picture1.jpg"><figcaption>Ven Seck Kwang Phing<br>SMC Supervisor</figcaption></td>
 	<td style="width:25%"><img src="/images/Discover%20Manjusri/Smc/picture2.jpg"><figcaption>Ven Sik Kwang Sheng<br>SMC Chairman</figcaption></td>
 	<td style="width:25%"><img src="/images/Discover%20Manjusri/Smc/picture3.jpg"><figcaption>Ven N Sumana Thero<br>SMC Vice-Chairman</figcaption></td>
