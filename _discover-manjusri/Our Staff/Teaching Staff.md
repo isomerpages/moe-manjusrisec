@@ -242,8 +242,8 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td class="tg-faf8"></td>
-    <td class="tg-9678">Ms Eileen Ong Ah Buan </td>
-    <td class="tg-9678">eileen_ong_ah_buan@moe.edu.sg</td>
+    <td class="tg-9678">-</td>
+    <td class="tg-9678">-</td>
   </tr>
   <tr>
     <td class="tg-0lax">3G</td>
@@ -252,13 +252,13 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td class="tg-faf8"></td>
-    <td class="tg-9678">Ms Leong Hui Lin Melcia </td>
-    <td class="tg-9678">hui_lin_melcia_leong@moe.edu.sg</td>
+    <td class="tg-9678">Ms Bao Bing Qing</td>
+    <td class="tg-9678">bao_bingqing@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-cly1"></td>
-    <td class="tg-0lax">Ms Bao Bing Qing</td>
-    <td class="tg-0lax">bao_bingqing@moe.edu.sg</td>
+    <td class="tg-0lax">-</td>
+    <td class="tg-0lax">-</td>
   </tr>
   <tr>
     <td class="tg-9678">4A</td>

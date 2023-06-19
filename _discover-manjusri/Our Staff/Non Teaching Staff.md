@@ -147,8 +147,8 @@ third_nav_title: Our Staff
     <td class="tg-pz2b">Desktop Engineer<br></td>
   </tr>
   <tr>
-    <td class="tg-citn"><span style="background-color:transparent">Ms Tan Jue Ting Zolynne</span><br></td>
-    <td class="tg-citn">School Health Advisor<br></td>
+    <td class="tg-citn"><span style="background-color:transparent"> </span><br></td>
+    <td class="tg-citn"> <br></td>
   </tr>
   <tr>
     <td class="tg-4hq5"> </td>
