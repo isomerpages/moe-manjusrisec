@@ -29,6 +29,3 @@ description: ""
 	<td style="width:25%"><img src="/images/Discover%20Manjusri/Smc/picture11.jpg"><figcaption>Mr Loh Rong Shun<br>SMC Member (Alumni)</figcaption></td>
 	</tr></tbody>
 </table>
-
-
- | Text     |
