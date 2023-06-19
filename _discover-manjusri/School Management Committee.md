@@ -10,4 +10,4 @@ description: ""
 
 | Column 1 | Column 2 | Column 3 |
 | -------- | -------- | -------- |
-| Text     | Text     | Text     |
+| ![Ven Seck Kwang Phing - SMC Supervisor](/images/Discover%20Manjusri/Smc/picture1.jpg)  | Text     | Text     |
