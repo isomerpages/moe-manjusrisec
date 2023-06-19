@@ -22,7 +22,7 @@ description: ""
 	<td style="width:25%"><img src="/images/Discover%20Manjusri/Smc/picture7.jpg"><figcaption>Ven Sek Bao - SMC Member</figcaption></td>
 	</tr>
 	<tr>
-	<td style="width:25%"><img src="/images/Discover%20Manjusri/Smc/picture8.jpg"><figcaption>Ven Seck Kwang Phing - SMC Supervisor</figcaption></td>
+	<td style="width:25%"><img src="/images/Discover%20Manjusri/Smc/picture8.jpg"><figcaption>Dr Tan Choon Kim - SMC Member</figcaption></td>
 	<td style="width:25%"><img src="/images/Discover%20Manjusri/Smc/picture9.jpg"><figcaption>Ven Sik Kwang Sheng - SMC Chairman</figcaption></td>
 	<td style="width:25%"><img src="/images/Discover%20Manjusri/Smc/picture10.jpg"><figcaption>Ven N Sumana Thero - SMC Vice-Chairman</figcaption></td>
 	<td style="width:25%"><img src="/images/Discover%20Manjusri/Smc/picture11.jpg"><figcaption>Ven N Sumana Thero - SMC Vice-Chairman</figcaption></td>
