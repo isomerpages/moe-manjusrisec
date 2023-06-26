@@ -3,7 +3,6 @@ title: National Digital Literacy Programme (NDLP)
 permalink: /students-and-parents/national-digital-literacy-programme-ndlp/
 description: ""
 ---
-
 ## **National Digital Literacy (NDLP)**
 
 **Background**&nbsp;&nbsp;  
@@ -104,7 +103,7 @@ Student who encounters technical difficulties could seek help at MJR Helpdesk. A
 |-------------------|----------------|
 | Personal Learning Device (PLD)      | <a href="/files/Ndlp/Parent%20Handbook%20I%20on%20Learning%20with%20a%20PLD.pdf">Parent Handbook (I) on Learning with a PLD</a><br><a href="">Parent Handbook (II) on Learning with a PLD</a><br><a href="/files/Ndlp/Student%20Device%20Information%20Kit%20student%20and%20parent.pdf">Student Device Information Kit (student &amp; parent)</a><br><a href="">Lenovo Chromebook 500e User Guide</a>                              |
 | Device Management Application (DMA) | Chrome OS:<br><a href="/files/Ndlp/DMA%20Parent%20Guide%20v2%20-%20Option%20A%20Chrome%20OS.pdf">DMA Parent Guide v2.0 - Option A (Chrome OS)</a><br><a href="/files/Ndlp/DMA%20Parent%20Guide%20v2%20-%20Option%20B%20Chrome%20OS.pdf">DMA Parent Guide v2.0 - Option B (Chrome OS)</a><br> iPad:<br><a href="/files/Ndlp/DMA%20Parent%20Guide%20v2%20-%20Option%20A%20iPad%20OS.pdf">DMA Parent Guide v2.0 - Option A (iPad OS)</a><br><a href="/files/Ndlp/DMA%20Parent%20Guide%20v2%20-%20Option%20B%20iPad%20OS.pdf">DMA Parent Guide v2.0 - Option B (iPad OS)</a> |
-| Student ICON                        | <a href="/files/Ndlp/Student%20iCON%20Onboarding%20Instructions.pdf">Student iCON Onboarding Instructions</a>          |
+| Student ICON                        | <a href="/files/Ndlp/Student%20iCON%20Onboarding%20Instructions.pdf">Student iCON Onboarding Instructions</a><br><a href="/files/Ndlp/(for_student)_data_management_edm_for_student_icon.pdf">Data Management for Student Icon</a>          |
 | Student Zoom                | <a href="/files/Ndlp/Student%20Zoom%20Onboarding%20Guide.pdf">Student Zoom Onboarding Guide</a>           |
 | Password reset and account unlock   | <a href="https://form.gov.sg/#!/5d01dc550816b400111ce980">fill in this form</a>    |
 | PLD Repair Process         | <a href="/files/Ndlp/PLD%20Repair%20Process.pdf">PLD Repair Process</a>         |
