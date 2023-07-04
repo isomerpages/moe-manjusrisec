@@ -252,8 +252,8 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td class="tg-faf8"></td>
-    <td class="tg-9678">-</td>
-    <td class="tg-9678">-</td>
+    <td class="tg-9678">Mdm Cheong Siew Yie (FAJT)</td>
+    <td class="tg-9678">cheong_siew_yie@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-0lax">3G</td>
