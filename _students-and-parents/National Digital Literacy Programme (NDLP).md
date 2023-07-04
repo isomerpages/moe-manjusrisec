@@ -59,7 +59,7 @@ Parents/Guardians who prefer alternative DMA settings can choose from the follow
 *   Option B: DMA will be disabled after school hours &nbsp;
 
   
-Parents/Guardians can request to change your choice of After-School DMA Parent Options&nbsp; through the FormSG link go.gov.sg/mjr-dma at any time. However, changes to the After-School DMA Options will only take effect at the end of every month if the form is submitted by the 25th day of the month. Submissions after the 25th of the month will take effect in the following month.  
+Parents/Guardians can request to change your choice of After-School DMA Parent Options&nbsp; here <a href="https://go.gov.sg/mjr-dma">https://go.gov.sg/mjr-dma</a> at any time. However, changes to the After-School DMA Options will only take effect at the end of every month if the form is submitted by the 25th day of the month. Submissions after the 25th of the month will take effect in the following month.  
   
 More details regarding after school DMA parent options will be shared with the parents via Parent’s Gateway.  
   

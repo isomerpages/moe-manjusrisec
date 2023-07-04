@@ -62,23 +62,23 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td class="tg-faf8"></td>
-    <td class="tg-9678">Mr Chua Soon Huat Jason</td>
-    <td class="tg-9678">chua_soon_huat_jason@moe.edu.sg</td>
+    <td class="tg-9678">Ms Tee Beng Lian Serene</td>
+    <td class="tg-9678">tee_beng_lian@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">1-4</td>
+    <td class="tg-0lax">Mr Shuai Dong Xing</td>
+    <td class="tg-0lax">shuai_dongxing@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-9678"></td>
+    <td class="tg-9678">Ms Nurjannah Binte Othman</td>
+    <td class="tg-9678">nurjannah_othman@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-cly1"></td>
-    <td class="tg-0lax">Ms Tee Beng Lian Serene</td>
-    <td class="tg-0lax">tee_beng_lian@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-9678">1-4</td>
-    <td class="tg-9678">Mr Shuai Dong Xing</td>
-    <td class="tg-9678">shuai_dongxing@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1"></td>
-    <td class="tg-0lax">Ms Nurjannah Binte Othman </td>
-    <td class="tg-0lax">nurjannah_othman@moe.edu.sg</td>
+    <td class="tg-0lax">Mr Izham Sidek (FAJT)  </td>
+    <td class="tg-0lax">izham_sidek@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-9678">1-5</td>
@@ -135,6 +135,11 @@ third_nav_title: Our Staff
     <td class="tg-9678">Mr Hafiz Emran Khan</td>
     <td class="tg-9678">hafiz_emran_khan@moe.edu.sg</td>
   </tr>
+	 <tr>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax">Md Mok Yee Wan (Mrs Lai) (FAJT)</td>
+    <td class="tg-0lax">lai_kin_sen@moe.edu.sg</td>
+  </tr>
   <tr>
     <td class="tg-0lax">2C</td>
     <td class="tg-0lax">Mr Tay Tse Min Daniel</td>
@@ -174,6 +179,11 @@ third_nav_title: Our Staff
     <td class="tg-faf8"></td>
     <td class="tg-9678">Mr Amit Kumar Sharma s/o Amber Nath</td>
     <td class="tg-9678">amit_kumar_sharma_amber@moe.edu.sg</td>
+  </tr>
+	  <tr>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax">Ms Wong Sook Fong Shirley (FAJT)</td>
+    <td class="tg-0lax">wong_sook_fong@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-0lax">2G</td>
@@ -242,8 +252,8 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td class="tg-faf8"></td>
-    <td class="tg-9678">-</td>
-    <td class="tg-9678">-</td>
+    <td class="tg-9678">Mdm Cheong Siew Yie (FAJT)</td>
+    <td class="tg-9678">cheong_siew_yie@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-0lax">3G</td>
@@ -297,8 +307,8 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td class="tg-cly1"></td>
-    <td class="tg-0lax">-</td>
-    <td class="tg-0lax">-</td>
+    <td class="tg-0lax">Ms Winnie Lee Wai Ying (FAJT)</td>
+    <td class="tg-0lax">winnie_lee_wai_ying_a@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-9678">4E</td>
@@ -477,13 +487,21 @@ third_nav_title: Our Staff
     <td class="tg-citn">Ms Fang Chunhua Helen</td>
     <td class="tg-citn">fang_chunhua_helen@moe.edu.sg</td>
   </tr>
-  <tr>
+	  <tr>
     <td class="tg-pz2b">Ms Rubiyah Binte Mohd Ghavs</td>
     <td class="tg-pz2b">rubiyah_mohd_ghavs@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-citn">Mdm Mok Yee Wan (Mrs Lai)</td>
     <td class="tg-citn">lai_kin_sen@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-pz2b">Ms Ho Poh Choo Adrienne</td>
+    <td class="tg-pz2b">adrienne_ho_poh_choo@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-citn">Ms Lee Wai Ying Winnie</td>
+    <td class="tg-citn">winnie_lee_wai_ying_a@moe.edu.sg</td>
   </tr>
  
 </tbody>
