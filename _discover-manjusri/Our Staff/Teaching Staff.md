@@ -62,18 +62,18 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td class="tg-faf8"></td>
-    <td class="tg-9678">Mr Chua Soon Huat Jason</td>
-    <td class="tg-9678">chua_soon_huat_jason@moe.edu.sg</td>
+    <td class="tg-9678">Ms Tee Beng Lian Serene</td>
+    <td class="tg-9678">tee_beng_lian@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-cly1"></td>
-    <td class="tg-0lax">Ms Tee Beng Lian Serene</td>
-    <td class="tg-0lax">tee_beng_lian@moe.edu.sg</td>
+    <td class="tg-cly1">1-4</td>
+    <td class="tg-0lax">Mr Shuai Dong Xing</td>
+    <td class="tg-0lax">shuai_dongxing@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-9678">1-4</td>
-    <td class="tg-9678">Mr Shuai Dong Xing</td>
-    <td class="tg-9678">shuai_dongxing@moe.edu.sg</td>
+    <td class="tg-9678"></td>
+    <td class="tg-9678"></td>
+    <td class="tg-9678"></td>
   </tr>
   <tr>
     <td class="tg-cly1"></td>
