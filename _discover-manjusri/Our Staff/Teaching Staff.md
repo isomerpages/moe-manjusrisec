@@ -180,6 +180,11 @@ third_nav_title: Our Staff
     <td class="tg-9678">Mr Amit Kumar Sharma s/o Amber Nath</td>
     <td class="tg-9678">amit_kumar_sharma_amber@moe.edu.sg</td>
   </tr>
+	  <tr>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax">Ms Wong Sook Fong Shirley (FAJT)</td>
+    <td class="tg-0lax">wong_sook_fong@moe.edu.sg</td>
+  </tr>
   <tr>
     <td class="tg-0lax">2G</td>
     <td class="tg-0lax">Mr Wong Chun Meng Victor</td>
