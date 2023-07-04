@@ -487,13 +487,21 @@ third_nav_title: Our Staff
     <td class="tg-citn">Ms Fang Chunhua Helen</td>
     <td class="tg-citn">fang_chunhua_helen@moe.edu.sg</td>
   </tr>
-  <tr>
+	  <tr>
     <td class="tg-pz2b">Ms Rubiyah Binte Mohd Ghavs</td>
     <td class="tg-pz2b">rubiyah_mohd_ghavs@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-citn">Mdm Mok Yee Wan (Mrs Lai)</td>
     <td class="tg-citn">lai_kin_sen@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-pz2b">Ms Ho Poh Choo Adrienne</td>
+    <td class="tg-pz2b">adrienne_ho_poh_choo@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-citn">Ms Lee Wai Ying Winnie</td>
+    <td class="tg-citn">winnie_lee_wai_ying_a@moe.edu.sg</td>
   </tr>
  
 </tbody>
