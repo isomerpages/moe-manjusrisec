@@ -135,6 +135,11 @@ third_nav_title: Our Staff
     <td class="tg-9678">Mr Hafiz Emran Khan</td>
     <td class="tg-9678">hafiz_emran_khan@moe.edu.sg</td>
   </tr>
+	 <tr>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax">Md Mok Yee Wan (Mrs Lai) (FAJT)</td>
+    <td class="tg-0lax">lai_kin_sen@moe.edu.sg</td>
+  </tr>
   <tr>
     <td class="tg-0lax">2C</td>
     <td class="tg-0lax">Mr Tay Tse Min Daniel</td>
