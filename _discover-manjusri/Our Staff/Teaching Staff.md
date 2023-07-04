@@ -72,13 +72,13 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td class="tg-9678"></td>
-    <td class="tg-9678"></td>
-    <td class="tg-9678"></td>
+    <td class="tg-9678">Ms Nurjannah Binte Othman</td>
+    <td class="tg-9678">nurjannah_othman@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-cly1"></td>
-    <td class="tg-0lax">Ms Nurjannah Binte Othman </td>
-    <td class="tg-0lax">nurjannah_othman@moe.edu.sg</td>
+    <td class="tg-0lax">Mr Izham Sidek (FAJT)  </td>
+    <td class="tg-0lax">izham_sidek@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-9678">1-5</td>
