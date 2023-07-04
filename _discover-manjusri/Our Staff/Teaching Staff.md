@@ -307,8 +307,8 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td class="tg-cly1"></td>
-    <td class="tg-0lax">-</td>
-    <td class="tg-0lax">-</td>
+    <td class="tg-0lax">Ms Winnie Lee Wai Ying (FAJT)</td>
+    <td class="tg-0lax">winnie_lee_wai_ying_a@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-9678">4E</td>
