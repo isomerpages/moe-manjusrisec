@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/homepage1.gif
+      background: /images/hero-banner.png
       key_highlights:
         - title: News
           description: ""
