@@ -20,6 +20,7 @@ sections:
         - title: Contact
           description: ""
           url: /contact-us/school-contact-details/
+      background: /images/homepage3.gif
   - infopic:
       title: Road Run 2023
       subtitle: Spotlight
