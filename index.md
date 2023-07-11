@@ -29,7 +29,7 @@ sections:
         the COVID-19 pandemic...
       button: Click here to read more
       url: /spotlight/permalink/road-run/
-      image: /images/2023 Road Run/roadrun1 (1).jpg
+      image: /images/2023 Road Run/roadrun1 (3).JPG
       alt: Image alt text
   - infopic:
       subtitle: Spotlight
