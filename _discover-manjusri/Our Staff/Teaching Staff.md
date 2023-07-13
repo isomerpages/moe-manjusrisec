@@ -481,7 +481,7 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td class="tg-pz2b">Mr Lian Shunk Tian Benjamin</td>
-    <td class="tg-pz2b">lian_shunk_tian_benjamin_a@moe.edu.sg</td>
+    <td class="tg-pz2b">lian_shunk_tian_benjamin@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-citn">Ms Fang Chunhua Helen</td>
