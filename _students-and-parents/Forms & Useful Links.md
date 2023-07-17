@@ -1,5 +1,5 @@
 ---
-title: Forms &amp; Useful Links
+title: Forms & Useful Links
 permalink: /students-and-parents/forms-n-useful-links/
 description: ""
 ---
@@ -50,14 +50,10 @@ description: ""
 <tbody>
   <tr>
     <td class="tg-vf55"><a href="https://www.moe.gov.sg/"><span style="text-decoration:underline;color:#B42025">MOE - Ministry of Education</span></a></td>
-    <td class="tg-vf55"><a href="https://schoolibrary.moe.edu.sg/manjusrisec/spydus"><span style="text-decoration:underline;color:#B42025">Library System (Spydus)</span></a><br></td>
+    <td class="tg-vf55"><a href="https://sites.google.com/a/moe.edu.sg/cpa-learning-resources/google/calendar"><span style="text-decoration:underline;color:#B42025">CPA Learning Resources</span></a><br></td>
     <td class="tg-vf55"><a href="https://www.mesrc.net/"><span style="text-decoration:underline;color:#B42025">MOE Sports and Recreation Club</span></a></td>
   </tr>
-  <tr>
-    <td class="tg-vf55"></td>
-    <td class="tg-vf55"></td>
-  
-  </tr>
+
   <tr>
     <td class="tg-vf55"><a href="https://schoolbag.sg/"><span style="text-decoration:underline;color:#B42025">School Bag</span></a></td>
     <td class="tg-vf55"><a href="https://schoolibrary.moe.edu.sg/manjusrisec/"><span style="text-decoration:underline;color:#B42025">OPAC</span></a></td>
@@ -76,7 +72,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-vf55"><a href="https://studentgpa.incomegroupins.com.sg/#/"><span style="text-decoration:underline;color:#B42025">Group Personal Accident Insurance Plan for Students – Online Submission of Claims</span></a><br></td>
-    <td class="tg-vf55"><a href="https://sites.google.com/a/moe.edu.sg/cpa-learning-resources/google/calendar"><span style="text-decoration:underline;color:#B42025">CPA Learning Resources</span></a><span style="color:#222;background-color:transparent"> </span></td>
+    <td class="tg-vf55"><a href="https://sites.google.com/a/moe.edu.sg/cpa-learning-resources/google/calendar"><span style="text-decoration:underline;color:#B42025"></span></a><span style="color:#222;background-color:transparent"> </span></td>
     <td class="tg-vf55"></td>
   </tr>
   <tr>
