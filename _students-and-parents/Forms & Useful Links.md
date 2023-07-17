@@ -53,11 +53,7 @@ description: ""
     <td class="tg-vf55"><a href="https://sites.google.com/a/moe.edu.sg/cpa-learning-resources/google/calendar"><span style="text-decoration:underline;color:#B42025">CPA Learning Resources</span></a><br></td>
     <td class="tg-vf55"><a href="https://www.mesrc.net/"><span style="text-decoration:underline;color:#B42025">MOE Sports and Recreation Club</span></a></td>
   </tr>
-  <tr>
-    <td class="tg-vf55"></td>
-    <td class="tg-vf55"></td>
-  
-  </tr>
+
   <tr>
     <td class="tg-vf55"><a href="https://schoolbag.sg/"><span style="text-decoration:underline;color:#B42025">School Bag</span></a></td>
     <td class="tg-vf55"><a href="https://schoolibrary.moe.edu.sg/manjusrisec/"><span style="text-decoration:underline;color:#B42025">OPAC</span></a></td>
