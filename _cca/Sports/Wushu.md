@@ -128,14 +128,15 @@ REINA TAN<br>LEE YI XIN<br>BERNICE LEE<br>DINAH</span></td>  </tr>
 
 ### **Our Programmes**
 
-**Secondary One Orientation**
+**Training**
 
-The Wushu Team welcomed the Secondary One students with an exciting performance.
 
-|   |   |   
-|:-:|:-:|
-| ![](/images/Cca/Wushu/wushu01.png)  | ![](/images/Cca/Wushu/wushu02.png)   | 
-| ![](/images/Cca/Wushu/wushu03.png)|  ![](/images/Cca/Wushu/wushu04.png)     |  
+
+| ![](/images/Cca/Wushu/20220602_105642.jpg) | ![]()| ![](/images/Cca/Wushu/20220602_110608.jpg) |
+| -------- | -------- | -------- |
+| Text     | Text     | Text     |
+
+
 
 
 **Performance @ Chinese New Year Celebration**
