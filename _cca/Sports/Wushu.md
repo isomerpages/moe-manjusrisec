@@ -130,23 +130,20 @@ REINA TAN<br>LEE YI XIN<br>BERNICE LEE<br>DINAH</span></td>  </tr>
 
 **Training**
 
-
-
 | ![](/images/Cca/Wushu/20220602_105642.jpg) | ![](/images/Cca/Wushu/20220602_110018.jpg)| ![](/images/Cca/Wushu/20220602_110608.jpg) |
 | -------- | -------- | -------- |
 
 
 
 
-**Performance @ Chinese New Year Celebration**
+**Competition**
+
+| ![](/images/Cca/Wushu/dsc_0720.JPG) | ![](/images/Cca/Wushu/dsc_0775.JPG) | ![](/images/Cca/Wushu/dsc_0752.JPG) |
+| -------- | -------- | -------- |
+|     |     |    |
 
 
-The Wushu team put up a spectacular performance at this year’s Chinese New Year Celebration.
 
-|   |   |   
-|:-:|:-:|
-|  ![](/images/Cca/Wushu/wushu05.png)    |   ![](/images/Cca/Wushu/wushu06.png) 	  | 	  
-|   ![](/images/Cca/Wushu/wushu08.png)   |  ![](/images/Cca/Wushu/wushu09.png)   	 |   	 
 
 
 **National School Games (NSG) Wushu Championships**
