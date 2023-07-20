@@ -60,10 +60,7 @@ Friday: 1-3pm
     <td class="tg-a3j2" colspan=""><span style="color:#222;background-color:transparent">Mr Ong Boon Siong </span></td>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">ong_boon_siong@moe.edu.sg </span></td>
   </tr>
-  <tr>
-    <td class="tg-lygy"><span style="color:#222;background-color:transparent">Ms Eileen Ong Ah Buan</span><br></td>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">eileen_ong_ah_buan@moe.edu.sg</span></td>
-  </tr>
+
 </tbody>
 </table>
 
@@ -128,33 +125,17 @@ REINA TAN<br>LEE YI XIN<br>BERNICE LEE<br>DINAH</span></td>  </tr>
 
 ### **Our Programmes**
 
-**Secondary One Orientation**
-
-The Wushu Team welcomed the Secondary One students with an exciting performance.
-
-|   |   |   
-|:-:|:-:|
-| ![](/images/Cca/Wushu/wushu01.png)  | ![](/images/Cca/Wushu/wushu02.png)   | 
-| ![](/images/Cca/Wushu/wushu03.png)|  ![](/images/Cca/Wushu/wushu04.png)     |  
+**Training**
 
 
-**Performance @ Chinese New Year Celebration**
+
+| ![](/images/Cca/Wushu/20220602_105642.jpg) |![](/images/Cca/Wushu/20220602_110018.jpg) | ![](/images/Cca/Wushu/20220602_110608.jpg) |
+| -------- | -------- | -------- |
+|     |     |      |
 
 
-The Wushu team put up a spectacular performance at this year’s Chinese New Year Celebration.
+**Competition**
 
-|   |   |   
-|:-:|:-:|
-|  ![](/images/Cca/Wushu/wushu05.png)    |   ![](/images/Cca/Wushu/wushu06.png) 	  | 	  
-|   ![](/images/Cca/Wushu/wushu08.png)   |  ![](/images/Cca/Wushu/wushu09.png)   	 |   	 
-
-
-**National School Games (NSG) Wushu Championships**
-
-An unforgettable experience of sweat, tears and joy at the National Wushu Competition.
-
-
-|   |   |   
-|:-:|:-:|
-| ![](/images/Cca/Wushu/wushu_game1.jpg)  |    ![](/images/Cca/Wushu/wushu_game2.jpg)  |
-| ![](/images/Cca/Wushu/wushu_game3.jpg)|   ![](/images/Cca/Wushu/wushu_game4.jpg)  |      |
+| ![](/images/Cca/Wushu/dsc_0720.JPG) | ![](/images/Cca/Wushu/dsc_0775.JPG) | ![](/images/Cca/Wushu/dsc_0752.JPG) |
+| -------- | -------- | -------- |
+|     |     |    |
