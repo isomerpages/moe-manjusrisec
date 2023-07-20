@@ -60,10 +60,7 @@ Friday: 1-3pm
     <td class="tg-a3j2" colspan=""><span style="color:#222;background-color:transparent">Mr Ong Boon Siong </span></td>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">ong_boon_siong@moe.edu.sg </span></td>
   </tr>
-  <tr>
-    <td class="tg-lygy"><span style="color:#222;background-color:transparent">Ms Eileen Ong Ah Buan</span><br></td>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">eileen_ong_ah_buan@moe.edu.sg</span></td>
-  </tr>
+
 </tbody>
 </table>
 
@@ -141,4 +138,3 @@ REINA TAN<br>LEE YI XIN<br>BERNICE LEE<br>DINAH</span></td>  </tr>
 | ![](/images/Cca/Wushu/dsc_0720.JPG) | ![](/images/Cca/Wushu/dsc_0775.JPG) | ![](/images/Cca/Wushu/dsc_0752.JPG) |
 | -------- | -------- | -------- |
 |     |     |    |
-
