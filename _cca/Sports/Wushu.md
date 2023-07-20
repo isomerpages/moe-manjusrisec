@@ -127,10 +127,11 @@ REINA TAN<br>LEE YI XIN<br>BERNICE LEE<br>DINAH</span></td>  </tr>
 
 **Training**
 
-| ![](/images/Cca/Wushu/20220602_105642.jpg) | ![](/images/Cca/Wushu/20220602_110018.jpg)| ![](/images/Cca/Wushu/20220602_110608.jpg) |
+
+
+| ![](/images/Cca/Wushu/20220602_105642.jpg) |![](/images/Cca/Wushu/20220602_110018.jpg) | ![](/images/Cca/Wushu/20220602_110608.jpg) |
 | -------- | -------- | -------- |
-
-
+|     |     |      |
 
 
 **Competition**
