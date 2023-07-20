@@ -142,16 +142,3 @@ REINA TAN<br>LEE YI XIN<br>BERNICE LEE<br>DINAH</span></td>  </tr>
 | -------- | -------- | -------- |
 |     |     |    |
 
-
-
-
-
-**National School Games (NSG) Wushu Championships**
-
-An unforgettable experience of sweat, tears and joy at the National Wushu Competition.
-
-
-|   |   |   
-|:-:|:-:|
-| ![](/images/Cca/Wushu/wushu_game1.jpg)  |    ![](/images/Cca/Wushu/wushu_game2.jpg)  |
-| ![](/images/Cca/Wushu/wushu_game3.jpg)|   ![](/images/Cca/Wushu/wushu_game4.jpg)  |      |
