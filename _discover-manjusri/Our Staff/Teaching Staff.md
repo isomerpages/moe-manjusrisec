@@ -92,7 +92,7 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td class="tg-9678">1-6</td>
-    <td class="tg-9678">Mr Sulaiman Bin Zainal </td>
+    <td class="tg-9678">Mr Sulaiman Bin Zainal (Senior Teacher) </td>
     <td class="tg-9678">sulaiman_zainal@moe.edu.sg</td>
   </tr>
   <tr>
@@ -162,7 +162,7 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td class="tg-0lax">2E</td>
-    <td class="tg-0lax">Ms Salina Binte Abdul Majid</td>
+    <td class="tg-0lax">Ms Salina Binte Abdul Majid (Senior Teacher)</td>
     <td class="tg-0lax">salina_abdul_majid@moe.edu.sg</td>
   </tr>
   <tr>
@@ -332,7 +332,7 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td class="tg-9678">4G</td>
-    <td class="tg-9678">Ms Faith Kaylie Ong Yi Cheng</td>
+    <td class="tg-9678">Ms Faith Kaylie Ong Yi Cheng (Senior Teacher)</td>
     <td class="tg-9678">faith_kaylie_ong@moe.edu.sg</td>
   </tr>
   <tr>
