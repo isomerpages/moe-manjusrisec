@@ -52,8 +52,8 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td class="tg-faf8"></td>
-    <td class="tg-9678">Mr Ya'acob B Abu Bakar</td>
-    <td class="tg-9678">yaacob_b_abu_bakar@moe.edu.sg</td>
+    <td class="tg-9678">Ms Adrienne Ho Poh Choo (FAJT)</td>
+    <td class="tg-9678">adrienne_ho_poh_choo@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-0lax">1/3</td>
