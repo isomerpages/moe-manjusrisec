@@ -7,7 +7,7 @@ description: ""
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Vegetarian Food Stall (Buddhist)| 26 Jun 2023 | Rice and Noodles acceptable |
+| Vegetarian Food Stall (Buddhist)| 31 Oct 2023 | Rice and Noodles acceptable |
 
 **Application Procedure**
 
@@ -20,7 +20,7 @@ description: ""
 3. Submit the completed application form and documents by closing date via email OR to the School's General Office.
 
 * Address: Manjusri Secondary School, 20 Ubi Ave 1. Singapore 408940
-* Contact No: 6842 4558 
+* Contact No: 6842 4558&nbsp;
 * Email: manjusri_ss@moe.edu.sg
 * Contact Person: Mrs Wang Boon Lian
 
@@ -35,7 +35,7 @@ description: ""
 * Able to maintain high standard of food safety and personal hygiene.
 * Healthy and fit to operate the stall.
 * Must be in personal attendance at the stall during operation hours
-* Applicant must abide by the rules and regulations set by the school
+* Applicant must abide by the rules and regulations set by the school<br>
 **Applicants should preferably fulfil the following criteria:**
 * Successful applicant and stall assistant(s) must possess the WSQ Basic Food Hygiene Certificate.
 * Possess catering experience or experience operating in a school environment.
