@@ -8,4 +8,3 @@ description: ""
 [Mid-Year GCE O Level MTL Exam 2023 Results](https://manjusrisec.moe.edu.sg/news/permalink/mtl-exam-results)
 
 [School Canteen Advertisement](https://manjusrisec.moe.edu.sg/news/permalink/canteen/)
-
