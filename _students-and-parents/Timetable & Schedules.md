@@ -16,7 +16,7 @@ description: ""
 
 **End-of-Year Examination Topics**
 
-[2023 Sec 1 End-of-Year Examination Topics]()
+[2023 Sec 1 End-of-Year Examination Topics]((/files/Timetable%20&%20Schedules/2023%20SEM2/2023%20sec%202%20end-of-year%20examination%20topics.pdf))
 [2023 Sec 2 End-of-Year Examination Topics](/files/Timetable%20&%20Schedules/2023%20SEM2/2023%20sec%202%20end-of-year%20examination%20topics.pdf)
 
   
