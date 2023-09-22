@@ -14,11 +14,9 @@ description: ""
 
 * [2023 Sem 2 Timetable for Sec 4&5](/files/Timetable%20&%20Schedules/2023%20SEM2/2023%20sem%202%20class%20sec%2045.pdf)
 
-**End-of-Year Examination Topics**
+**End-of-Year Examination Timetables**
 
-[2023 Sec 1 End-of-Year Examination Topics]((/files/Timetable%20&%20Schedules/2023%20SEM2/2023%20sec%201%20end-of-year%20examination%20topics.pdf))
 
-[2023 Sec 2 End-of-Year Examination Topics](/files/Timetable%20&%20Schedules/2023%20SEM2/2023%20sec%202%20end-of-year%20examination%20topics.pdf)
 
   
 **HBL Timetables**
