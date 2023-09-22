@@ -18,7 +18,7 @@ description: ""
 
 * [2023 Sec 1 End-Of-Year Exam Timetable](/files/Timetable%20&%20Schedules/2023%20SEM2/(revised)%202023%20s1%20eye%20letter.pdf)
 * [2023 Sec 2 End-Of-Year Exam Timetable](/files/Timetable%20&%20Schedules/2023%20SEM2/(revised)%202023%20s2%20eye%20letter.pdf)
-* [2023 Sec 3 End-Of-Year Exam Timetable](/files/Timetable%20&%20Schedules/2023%20SEM2/(revised)%202023%20s2%20eye%20letter.pdf)
+* [2023 Sec 3 End-Of-Year Exam Timetable](/files/Timetable%20&%20Schedules/2023%20SEM2/(revised)%202023%20s3%20eye%20letter.pdf)
 
 
   
