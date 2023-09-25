@@ -17,7 +17,7 @@ description: ""
 
 |                      |             |                  |
 |:---------------:|:-----------:|:------------:|
-|  <a href="https://pg.moe.edu.sg/" target="_blank">Parents Gateway Portal </a>    <br>(for staff only)          |  <a href="http://n7307sadmw01460/ras" target="_blank">FiGi RAS Portal</a>   <br>(for staff only - access from school) |          <a href="https://scmobile.moe.edu.sg/" target="_blank">SC Mobile</a>                          |
+|  <a href="https://pg.moe.edu.sg/" target="_blank">Parents Gateway Portal </a>    <br>(for staff only)          |  <a href="http://n7307sadmw01482/ras" target="_blank">FiGi RAS Portal</a>   <br>(for staff only - access from school) |          <a href="https://scmobile.moe.edu.sg/" target="_blank">SC Mobile</a>                          |
 |  <a href="http://www.ace-learning.com/" target="_blank">Ace-Learning Math e-Learning Portal</a>  |       |  |
 
 **Useful Links**
