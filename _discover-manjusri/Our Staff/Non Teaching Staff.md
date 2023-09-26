@@ -208,7 +208,7 @@ third_nav_title: Our Staff
   <tr>
     <td class="tg-citn">Ms Samantha Woo</td>
     <td class="tg-citn">ECG Counsellor (MOE HQ)</td>
-    <td class="tg-citn"> woo_wayeng@schools.gov.sg</td>
+    <td class="tg-citn"> woo_wai_yeng@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-4hq5">Ms Joyce Vera Lim Jieyi </td>
