@@ -220,5 +220,10 @@ third_nav_title: Our Staff
     <td class="tg-citn">School Counsellor</td>
     <td class="tg-citn"> goh_qian_lei_krystal@moe.edu.sg</td>
   </tr>
+	 <tr>
+    <td class="tg-4hq5">Nur Syahidah Binte Roslan</td>
+    <td class="tg-4hq5">SENO  (Untrained)</td>
+    <td class="tg-4hq5"> nur_syahidah_roslan@moe.edu.sg</td>
+  </tr>
 </tbody>
 </table>
