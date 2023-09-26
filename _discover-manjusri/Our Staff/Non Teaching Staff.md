@@ -215,5 +215,10 @@ third_nav_title: Our Staff
     <td class="tg-4hq5">Student Welfare Officer </td>
     <td class="tg-4hq5"> joyce_vera_lim_jieyi@moe.edu.sg</td>
   </tr>
+	<tr>
+    <td class="tg-citn">Goh Qian Lei, Krystal</td>
+    <td class="tg-citn">School Counsellor</td>
+    <td class="tg-citn"> goh_qian_lei_krystal@moe.edu.sg</td>
+  </tr>
 </tbody>
 </table>
