@@ -503,6 +503,9 @@ third_nav_title: Our Staff
     <td class="tg-citn">Ms Lee Wai Ying Winnie</td>
     <td class="tg-citn">winnie_lee_wai_ying_a@moe.edu.sg</td>
   </tr>
- 
+   <tr>
+    <td class="tg-pz2b">Ms Pang Chiaw Yong</td>
+    <td class="tg-pz2b">pang_chiaw_yong_a@moe.edu.sg</td>
+  </tr>
 </tbody>
 </table>
