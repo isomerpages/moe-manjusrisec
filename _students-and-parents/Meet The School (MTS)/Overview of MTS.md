@@ -7,6 +7,3 @@ third_nav_title: Meet The School (MTS)
 ## **Overview of MTS**
 
 *coming soon*
-
- 
-
