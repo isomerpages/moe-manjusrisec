@@ -6,11 +6,9 @@ third_nav_title: Meet The School (MTS)
 ---
 ## **Overview of MTS**
 
-<p style="text-align: justify;">The school will be organising the Meet-the-School (MTS) sessions on Saturday 8 January 2022. Due to SMMs, these sessions will be conducted online through the Zoom platform. </p>
+*coming soon*
 
-<p style="text-align: justify;">Our School leaders, Key Personnel and Form Teachers of each class will be providing information on school matters. The details of MTS are:</p>
-
-  
+ 
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -24,7 +22,7 @@ third_nav_title: Meet The School (MTS)
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-l2bf" colspan="2">Date: 14 January 2023</th>
+    <th class="tg-l2bf" colspan="2">Date: -</th>
   </tr>
 </thead>
 <tbody>
@@ -34,15 +32,14 @@ third_nav_title: Meet The School (MTS)
   </tr>
   <tr>
     <td class="tg-tsok">Secondary 2, 3, 4 and 5</td>
-    <td class="tg-tsok">8.15am – 10.30am</td>
+    <td class="tg-tsok">-</td>
   </tr>
 </tbody>
 </table>
 
 Some important information can be found at the following hyperlinks below:
 
-\*NDLP and PLD Initiative - [Parents Engagement Session Material](https://manjusrisec.moe.edu.sg/qql/slot/u165/docs/students_parents/MTS/2023%20NDLP%20Parent%20Engagement%20for%20sharing.pdf)
 
 
-\*NDLP Matters - <a href="/students-and-parents/national-digital-literacy-programme-ndlp" target="_blank">National Digital Literacy Programme</a>    
- \*List of Staff contacts- <a href="/discover-manjusri/our-staff/executive-committee/" target="_blank">Our staff</a>
+\*NDLP Matters -&nbsp;<a href="/students-and-parents/national-digital-literacy-programme-ndlp" target="_blank">National Digital Literacy Programme</a>    
+&nbsp;\*List of Staff contacts-&nbsp;<a href="/discover-manjusri/our-staff/executive-committee/" target="_blank">Our staff</a>
