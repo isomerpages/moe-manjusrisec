@@ -208,12 +208,22 @@ third_nav_title: Our Staff
   <tr>
     <td class="tg-citn">Ms Samantha Woo</td>
     <td class="tg-citn">ECG Counsellor (MOE HQ)</td>
-    <td class="tg-citn"> woo_wayeng@schools.gov.sg</td>
+    <td class="tg-citn"> woo_wai_yeng@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-4hq5">Ms Joyce Vera Lim Jieyi </td>
     <td class="tg-4hq5">Student Welfare Officer </td>
     <td class="tg-4hq5"> joyce_vera_lim_jieyi@moe.edu.sg</td>
+  </tr>
+	<tr>
+    <td class="tg-citn">Goh Qian Lei, Krystal</td>
+    <td class="tg-citn">School Counsellor</td>
+    <td class="tg-citn"> goh_qian_lei_krystal@moe.edu.sg</td>
+  </tr>
+	 <tr>
+    <td class="tg-4hq5">Nur Syahidah Binte Roslan</td>
+    <td class="tg-4hq5">SENO  (Untrained)</td>
+    <td class="tg-4hq5"> nur_syahidah_roslan@moe.edu.sg</td>
   </tr>
 </tbody>
 </table>
