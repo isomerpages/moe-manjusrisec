@@ -16,5 +16,5 @@ The event concluded with the singing of the School Song and a Celebration Walk. 
 
 | | | |
 | -------- | -------- | -------- |
-![](/images/Spotlight/Grad%202023/dsc_0105.JPG)|![](/images/Spotlight/Grad%202023/dsc_0167.JPG)|![](/images/Spotlight/Grad%202023/dsc_0196.JPG)|
-|![](/images/Spotlight/Grad%202023/dsc_0046.JPG)|![](/images/Spotlight/Grad%202023/dsc_0075.JPG)|![](/images/Spotlight/Grad%202023/dsc_0092.JPG)|
+|![](/images/Spotlight/Grad%202023/dsc_0105.JPG)|![](/images/Spotlight/Grad%202023/dsc_0167.JPG)|![](/images/Spotlight/Grad%202023/dsc_0196.JPG)|
+|![](/images/Spotlight/Grad%202023/dsc_0046.JPG)|![](/images/Spotlight/Grad%202023/dsc_0075.JPG)|![](/images/Spotlight/Grad%202023/dsc_0092.JPG)||
