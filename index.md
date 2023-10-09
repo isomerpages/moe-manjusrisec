@@ -22,6 +22,16 @@ sections:
           url: /contact-us/school-contact-details/
       background: /images/homepage3.gif
   - infopic:
+      title: Graduation Day 2023
+      subtitle: Spotlight
+      id: infopic
+      description: Our school held its Graduation Day 2023 for our senior classes on
+        29 September...
+      button: Button Text
+      url: Click here to read more
+      image: /images/Spotlight/Grad 2023/dsc_0046.JPG
+      alt: Image alt text
+  - infopic:
       title: Road Run 2023
       subtitle: Spotlight
       description: This year's MJR Road Run marked an exciting milestone for the
@@ -76,15 +86,5 @@ sections:
       button: Click here to read more
       url: /spotlight/presentation-of-comm/
       image: /images/Spotlight/Wisdom/wisdom1.jpg
-      alt: Image alt text
-  - infopic:
-      title: Graduation Day 2023
-      subtitle: Spotlight
-      id: infopic
-      description: Our school held its Graduation Day 2023 for our senior classes on
-        29 September...
-      button: Button Text
-      url: Click here to read more
-      image: /images/Spotlight/Grad 2023/dsc_0046.JPG
       alt: Image alt text
 ---
