@@ -13,3 +13,9 @@ CCA certificates and Most Improved Student Awards were presented to the graduati
 A special graduation gift to students of a set of bookmarks as well as virtual stickers reflecting the virtues espoused in the school motto (Wisdom, Conduct, Benevolence, Aspiration) was launched during the ceremony.  A representative from each class was invited to deliver speeches of appreciation followed by presentation of class mementoes to Form Teachers.  There was also a video screening “Recollections 2023” looking back on the four years of the cohort’s journey at Manjursri Sec and containing well wishes from Form Teachers and Year Head.
 
 The event concluded with the singing of the School Song and a Celebration Walk.  Classes were applauded by school leaders and teachers forming a ceremonial tunnel as they made their way out of the School Hall to a lunch reception.
+
+
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| Text     | Text     | Text     |
+
