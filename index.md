@@ -28,7 +28,7 @@ sections:
       description: Our school held its Graduation Day 2023 for our senior classes on
         29 September...
       button: Click here to read more
-      url: /spotlight/permalink/graudation-day-2023
+      url: /spotlight/permalink/graduation-day-2023
       image: /images/Spotlight/Grad 2023/dsc_0046.JPG
       alt: Image alt text
   - infopic:
