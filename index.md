@@ -77,4 +77,14 @@ sections:
       url: /spotlight/presentation-of-comm/
       image: /images/Spotlight/Wisdom/wisdom1.jpg
       alt: Image alt text
+  - infopic:
+      title: Graduation Day 2023
+      subtitle: Spotlight
+      id: infopic
+      description: Our school held its Graduation Day 2023 for our senior classes on
+        29 September...
+      button: Button Text
+      url: Click here to read more
+      image: /images/Spotlight/Grad 2023/dsc_0046.JPG
+      alt: Image alt text
 ---
