@@ -14,8 +14,9 @@ A special graduation gift to students of a set of bookmarks as well as virtual s
 
 The event concluded with the singing of the School Song and a Celebration Walk.  Classes were applauded by school leaders and teachers forming a ceremonial tunnel as they made their way out of the School Hall to a lunch reception.
 
-
-| Column 1 | Column 2 | Column 3 |
+| | | |
 | -------- | -------- | -------- |
-| Text     | Text     | Text     |
+![](/images/Spotlight/Grad%202023/dsc_0105.JPG)|![](/images/Spotlight/Grad%202023/dsc_0167.JPG)|![](/images/Spotlight/Grad%202023/dsc_0196.JPG)|
+|![](/images/Spotlight/Grad%202023/dsc_0046.JPG)|![](/images/Spotlight/Grad%202023/dsc_0075.JPG)|![](/images/Spotlight/Grad%202023/dsc_0092.JPG)|
 
+| Text   
