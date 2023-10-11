@@ -35,7 +35,8 @@ description: ""
 * Able to maintain high standard of food safety and personal hygiene.
 * Healthy and fit to operate the stall.
 * Must be in personal attendance at the stall during operation hours
-* Applicant must abide by the rules and regulations set by the school<br>
+* Applicant must abide by the rules and regulations set by the school<br><br>
+
 **Applicants should preferably fulfil the following criteria:**
 * Successful applicant and stall assistant(s) must possess the WSQ Basic Food Hygiene Certificate.
 * Possess catering experience or experience operating in a school environment.
