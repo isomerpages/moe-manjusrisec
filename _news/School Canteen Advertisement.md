@@ -7,7 +7,7 @@ description: ""
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Vegetarian Food Stall (Buddhist)| 31 Oct 2023 | Rice and Noodles acceptable |
+| Vegetarian Food Stall (Buddhist)| 20 Nov 2023 | Rice and Noodles acceptable |
 
 **Application Procedure**
 
