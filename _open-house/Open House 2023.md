@@ -18,9 +18,9 @@ description: ""
 
 We are glad to host you for our school tours. Please scan the QR code to register for a session on 3 November, or Post PSLE from 23 – 26 Nov 2023 if you are unable to join us on 3 November.
 
-<img src="/images/qr%20code%20open%20house%20form.png">
+| | | |
+| -------- | -------- | -------- |
+||<img src="/images/qr%20code%20open%20house%20form.png"><figcaption>||
+	
 
-
-
-
-
+</figcaption>
