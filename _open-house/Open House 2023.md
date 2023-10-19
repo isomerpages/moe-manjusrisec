@@ -14,3 +14,10 @@ description: ""
 |0900 – 1000|Concurrent hands-on activities Science, Geography, Food and Consumer Education, Design and Technology|
 |1020|	Performing Arts Showcase Wushu, Band, Chinese Orchestra, Chinese Dance, Choir|
 |1125 – 1145|	School Tour|
+
+**Registration link for public**
+
+We are glad to host you for our school tours. Please scan the QR code to register for a session on 3 November, or Post PSLE from 23 – 26 Nov 2023 if you are unable to join us on 3 November. 
+
+
+
