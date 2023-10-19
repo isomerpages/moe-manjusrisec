@@ -4,9 +4,8 @@ permalink: /open-house/permalink/open-house-2023/
 description: ""
 ---
 ![](/images/Open%20House%202023/open%20house%20sch%20website%20image%20header.JPG)
-Open House 3 Nov 2023 Programme
 
-
+**Open House 3 Nov 2023 Programme**
 
 | Time | Activity|
 | -------- | -------- |
@@ -15,4 +14,3 @@ Open House 3 Nov 2023 Programme
 |0900 – 1000|Concurrent hands-on activities Science, Geography, Food and Consumer Education, Design and Technology|
 |1020|	Performing Arts Showcase Wushu, Band, Chinese Orchestra, Chinese Dance, Choir|
 |1125 – 1145|	School Tour|
- 
