@@ -22,4 +22,4 @@ We are glad to host you for our school tours. Please scan the QR code to registe
 
 ![](/images/Open%20House%202023/qr%20code%20open%20house%202.png)
 
-
+-ooooooo-----------------
