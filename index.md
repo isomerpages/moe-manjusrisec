@@ -20,7 +20,9 @@ sections:
         - title: Contact
           description: ""
           url: /contact-us/school-contact-details/
-      background: /images/homepage3.gif
+      background: /images/Open House 2023/img_6594.JPG
+      url: /open-house/permalink/open-house-2023/
+      button: Open House - 3 Nov 2023
   - infopic:
       title: Graduation Day 2023
       subtitle: Spotlight
