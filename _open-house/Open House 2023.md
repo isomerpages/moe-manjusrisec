@@ -20,7 +20,6 @@ We are glad to host you for our school tours. Please scan the QR code to registe
 
 | | | |
 | -------- | -------- | -------- |
-||<img src="/images/qr%20code%20open%20house%20form.png"><figcaption>||
+||<img src="/images/qr%20code%20open%20house%20form.png">||
 	
 
-</figcaption>
