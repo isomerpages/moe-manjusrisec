@@ -21,6 +21,7 @@ sections:
           description: ""
           url: /contact-us/school-contact-details/
       background: /images/homepage3.gif
+      url: /open-house/permalink/open-house-2023/
   - infopic:
       title: Graduation Day 2023
       subtitle: Spotlight
