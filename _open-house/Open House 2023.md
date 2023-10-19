@@ -3,8 +3,6 @@ title: Open House 2023
 permalink: /open-house/permalink/open-house-2023/
 description: ""
 ---
-![](/images/Open%20House%202023/open%20house%20sch%20website%20image%20header.JPG)
-
 **Open House 3 Nov 2023 Programme**
 
 | Time | Activity|
