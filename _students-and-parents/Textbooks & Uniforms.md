@@ -3,7 +3,11 @@ title: Textbooks & Uniforms
 permalink: /students-and-parents/textbooks-n-uniforms/
 description: ""
 ---
-*[Sec 1 Booklist 2024](/files/Textbooks%20&amp;%20Uniforms/2024%20booklist/mjrss%20s1%20booklist%202024.pdf)
+* [Sec 1 Booklist 2024](/files/Textbooks%20&amp;%20Uniforms/2024%20booklist/mjrss%20s1%20booklist%202024.pdf)
+* [Sec 2(G1) Booklist 2024](/files/Textbooks%20&amp;%20Uniforms/2024%20booklist/mjrss%20s2(g1)%20booklist%202024.pdf)
+* [Sec 2(G2) Booklist 2024](/files/Textbooks%20&amp;%20Uniforms/2024%20booklist/mjrss%20s2(g2)%20booklist%202024.pdf)
+* [Sec 2(G3) Booklist 2024](/files/Textbooks%20&amp;%20Uniforms/2024%20booklist/mjrss%20s2(g2)%20booklist%202024.pdf)
+
 
 <p style="text-align: justify;">Please note: students should be attired in their Manjusri school uniform (full/half-uniform/PE attire) if they are coming to school to purchase textbooks or uniform.</p>
 
