@@ -15,6 +15,9 @@ description: ""
 * [Sec 4(NT) Booklist 2024](/files/Textbooks%20&amp;%20Uniforms/S4%20NT.pdf)
 * [Sec 5(NA) Booklist 2024](/files/Textbooks%20&amp;%20Uniforms/S5%20NA.pdf)
 
+[MJRSS_PACIFIC BOOKSTORES Purchase Info Guide 2023](/files/Textbooks%20&amp;%20Uniforms/2024%20booklist/mjrss_pacific%20bookstores%20purchase%20info%20guide%202023.pdf)
+
+[PACIFIC BOOKSTORES ONLINE PURCHASE GUIDE 2023](/files/Textbooks%20&amp;%20Uniforms/2024%20booklist/pacific%20bookstores%20online%20purchase%20guide%202023.pdf)
 <p style="text-align: justify;">Please note: students should be attired in their Manjusri school uniform (full/half-uniform/PE attire) if they are coming to school to purchase textbooks or uniform.</p>
 
 
