@@ -13,6 +13,7 @@ description: ""
 * [Sec 4(EXP) Booklist 2024](/files/Textbooks%20&amp;%20Uniforms/S4%20EXP.pdf)
 * [Sec 4(NA) Booklist 2024](/files/Textbooks%20&amp;%20Uniforms/S4%20NA.pdf)
 * [Sec 4(NT) Booklist 2024](/files/Textbooks%20&amp;%20Uniforms/S4%20NT.pdf)
+* [Sec 5(NA) Booklist 2024](/files/Textbooks%20&amp;%20Uniforms/S5%20NA.pdf)
 
 <p style="text-align: justify;">Please note: students should be attired in their Manjusri school uniform (full/half-uniform/PE attire) if they are coming to school to purchase textbooks or uniform.</p>
 
