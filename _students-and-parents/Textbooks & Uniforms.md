@@ -6,7 +6,7 @@ description: ""
 * [Sec 1 Booklist 2024](/files/Textbooks%20&amp;%20Uniforms/2024%20booklist/mjrss%20s1%20booklist%202024.pdf)
 * [Sec 2(G1) Booklist 2024](/files/Textbooks%20&amp;%20Uniforms/2024%20booklist/mjrss%20s2(g1)%20booklist%202024.pdf)
 * [Sec 2(G2) Booklist 2024](/files/Textbooks%20&amp;%20Uniforms/2024%20booklist/mjrss%20s2(g2)%20booklist%202024.pdf)
-* [Sec 2(G3) Booklist 2024](/files/Textbooks%20&amp;%20Uniforms/2024%20booklist/mjrss%20s2(g2)%20booklist%202024.pdf)
+* [Sec 2(G3) Booklist 2024](/files/Textbooks%20&amp;%20Uniforms/2024%20booklist/mjrss%20s2(g3)%20booklist%202024.pdf)
 * [Sec 3(EXP) Booklist 2024](/files/Textbooks%20&amp;%20Uniforms/2024%20booklist/mjrss%20s3(exp)%20booklist%202024.pdf)
 * [Sec 3(NA) Booklist 2024](/files/Textbooks%20&amp;%20Uniforms/2024%20booklist/mjrss%20s3(na)%20booklist%202024.pdf)
 * [Sec 3(NT) Booklist 2024](/files/Textbooks%20&amp;%20Uniforms/2024%20booklist/mjrss%20s3(nt)%20booklist%202024.pdf)
