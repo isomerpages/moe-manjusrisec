@@ -3,6 +3,8 @@ title: Memories, Moments, Manjusri 情系文殊
 permalink: /students-and-parents/permalink/memories-moments-manjusri/
 description: ""
 ---
+
+
 **Graduation Day 2023 Gifts**
 
 In 2023, the school embarked on designing a unique series of graduation gifts to enable our graduates to look back fondly on their schooling days. <br>
@@ -28,5 +30,3 @@ In 2022, our student artistes Tee Zhu Liang (4D, 2022) and Fang Jun Xiong (4G, 2
 
 **Download 2022’s special graduation WhatsApp sticker pack “Go, Catch Your Dreams!” here:**
 https://sticker.ly/s/4LP8NN
-
-
