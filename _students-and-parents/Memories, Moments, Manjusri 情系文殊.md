@@ -24,6 +24,9 @@ https://issuu.com/stanzaa/docs/mjr_graduation_day_flipbook_2023
 
 **Graduation Day 2022 Gift**
 
-In 2022, our student artistes Tee Zhu Liang (4D, 2022) and Fang Jun Xiong (4G, 2022) brought to life scenes of life in Manjusri via the school’s first unique graduation WhatsApp Sticker Pack. Designed by students for students, we hope the stickers will remind the class of 2022 and beyond, to “Go, Catch Your Dreams!”
-Download 2022’s special graduation WhatsApp sticker pack “Go, Catch Your Dreams!” here:
+In 2022, our student artistes Tee Zhu Liang (4D, 2022) and Fang Jun Xiong (4G, 2022) brought to life scenes of life in Manjusri via the school’s first unique graduation WhatsApp Sticker Pack. Designed by students for students, we hope the stickers will remind the class of 2022 and beyond, to “Go, Catch Your Dreams!” <br>
+
+**Download 2022’s special graduation WhatsApp sticker pack “Go, Catch Your Dreams!” here:**
 https://sticker.ly/s/4LP8NN
+
+
