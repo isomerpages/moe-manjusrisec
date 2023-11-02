@@ -5,7 +5,7 @@ description: ""
 ---
 ### **Memories, Moments, Manjusri 情系文殊**
 
-| q |  |  |
+|  |  |  |
 | -------- | -------- | -------- |
 |   ![](/images/Students%20and%20Parents/Memories/white01.jpg)   | ![](/images/Students%20and%20Parents/Memories/lion01.jpg) | ![](/images/Students%20and%20Parents/Memories/white01.jpg)  |
 
