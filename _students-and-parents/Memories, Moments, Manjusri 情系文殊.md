@@ -4,8 +4,7 @@ permalink: /students-and-parents/permalink/memories-moments-manjusri/
 description: ""
 ---
 
-
-**Graduation Day 2023 Gifts**
+![](/images/Students%20and%20Parents/Memories/lion01.jpg) <br>**Graduation Day 2023 Gifts**
 
 In 2023, the school embarked on designing a unique series of graduation gifts to enable our graduates to look back fondly on their schooling days. <br>
 
