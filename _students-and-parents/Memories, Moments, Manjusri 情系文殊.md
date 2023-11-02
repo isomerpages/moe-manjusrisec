@@ -3,7 +3,6 @@ title: Memories, Moments, Manjusri 情系文殊
 permalink: /students-and-parents/permalink/memories-moments-manjusri/
 description: ""
 ---
-
 ![](/images/Students%20and%20Parents/Memories/lion01.jpg) <br>**Graduation Day 2023 Gifts**
 
 In 2023, the school embarked on designing a unique series of graduation gifts to enable our graduates to look back fondly on their schooling days. <br>
@@ -14,8 +13,9 @@ Our unique **WhatsApp Sticker Set** “The Mindful Series” was launched to enc
 
 Finally, the **Graduation Day Flip Book** captures students’ unique memories. We hope that students will be reminded of the unforgettable memories and celebrate the impactful four to five years which has shaped our students into Passionate Learners and Compassionate Leaders. <br>
 
-**Download the Bookmark series here:**
-https://drive.google.com/drive/folders/1mPx_-Orh23HEg5W7sR1bFuxf42lbsS8B?usp=drive_link <br>
+**Download the Bookmark series here:** <br>
+[https://drive.google.com/drive/folders/1mPx_-Orh23HEg5W7sR1bFuxf42lbsS8B?usp=drive_link](https://drive.google.com/drive/folders/1mPx_-Orh23HEg5W7sR1bFuxf42lbsS8B?usp=drive_link)
+<br>
 
 **Download 2023’s special graduation WhatsApp sticker pack here:** <br>
 https://sticker.ly/s/8GNFVN
