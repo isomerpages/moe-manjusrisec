@@ -2,6 +2,7 @@
 title: Open House 2023
 permalink: /open-house/permalink/open-house-2023/
 description: ""
+variant: markdown
 ---
 **Open House 3 Nov 2023 Programme**
 
@@ -14,7 +15,7 @@ description: ""
 
 **Registration link for public**
 
-We are glad to host you for our school tours. Please scan the QR code to register for a session on 3 November, or Post PSLE from 23 – 26 Nov 2023 if you are unable to join us on 3 November.
+We are glad to host you for our school tours. Please scan the QR code to register for a session on 3 November, or Post PSLE from 22 – 24 Nov 2023 if you are unable to join us on 3 November.
 
 
 |  |  |  
