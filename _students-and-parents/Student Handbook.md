@@ -13,7 +13,7 @@ description: ""
 |School Vision, Mission, Crest, Motto| 3|
 |School Values| 4|
 |School Song, Morning Recital| 5|
-|Our Country page| 6|
+|Our Country| 6|
 |Desired Outcomes of Education / National Education Dispositions |7|
 |21st Century Competencies| 8|
 |Co-Curricular Activities |10|
