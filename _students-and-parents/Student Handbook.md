@@ -1,6 +1,7 @@
 ---
 title: Student Handbook
 permalink: /students-and-parents/permalink/
-variant: tiptap
+variant: markdown
 description: ""
 ---
+![](/images/Students%20and%20Parents/Handbook/ManjsuriSec_HB24_Content_121652_Nov16_Page_001.jpg)
