@@ -22,7 +22,7 @@ Content<br>
 |Values-in-Action Programme| 11|
 |Mindfulness &amp; Learning Power, Meta Learning |12|
 |National Digital Literacy Programme (NDLP)| 13|
-|Cyber Wellness &amp; Security| 14 – 16|
+|Cyber Wellness &amp; Security|14 – 16|
 |Mental Health| 17|
 |School Rules &amp; Regulations| 20 - 25|
 |Student Holistic Development Profile| 26 - 27|
@@ -30,8 +30,7 @@ Content<br>
 |Assessment &amp; Progression| 33 – 34|
 |Examination rules and regulations| 34 - 35|
 |School Safety| 38 - 42|
-|Academic &amp; Non-Academic Awards| 43 - 46|
-|(Scholarships, Prizes &amp; Awards)||
+|Academic &amp; Non-Academic Awards (Scholarships, Prizes &amp; Awards)|43 - 46|
 |MOE Financial Assistance Scheme| 47 - 48|
 |Infocomm Media Development Authority (IMDA) DigitalAccess@Home| 49|
 |School Facilities and Services| 50 - 52|
