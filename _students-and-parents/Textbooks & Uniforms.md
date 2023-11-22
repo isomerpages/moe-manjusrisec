@@ -2,6 +2,7 @@
 title: Textbooks & Uniforms
 permalink: /students-and-parents/textbooks-n-uniforms/
 description: ""
+variant: markdown
 ---
 * [Sec 1 Booklist 2024](/files/Textbooks%20&amp;%20Uniforms/2024%20booklist/mjrss%20s1%20booklist%202024.pdf)
 * [Sec 2(G1) Booklist 2024](/files/Textbooks%20&amp;%20Uniforms/2024%20booklist/mjrss%20s2(g1)%20booklist%202024.pdf)
@@ -10,7 +11,7 @@ description: ""
 * [Sec 3(EXP) Booklist 2024](/files/Textbooks%20&amp;%20Uniforms/2024%20booklist/mjrss%20s3(exp)%20booklist%202024.pdf)
 * [Sec 3(NA) Booklist 2024](/files/Textbooks%20&amp;%20Uniforms/2024%20booklist/mjrss%20s3(na)%20booklist%202024.pdf)
 * [Sec 3(NT) Booklist 2024](/files/Textbooks%20&amp;%20Uniforms/2024%20booklist/mjrss%20s3(nt)%20booklist%202024.pdf)
-* [Sec 4(EXP) Booklist 2024](/files/Textbooks%20&amp;%20Uniforms/S4%20EXP.pdf)
+* [Sec 4(EXP) Booklist 2024](/files/Textbooks%20&amp;%20Uniforms/2024%20booklist/mjrss%20s4(exp)%20booklist%202024.pdf)
 * [Sec 4(NA) Booklist 2024](/files/Textbooks%20&amp;%20Uniforms/S4%20NA.pdf)
 * [Sec 4(NT) Booklist 2024](/files/Textbooks%20&amp;%20Uniforms/S4%20NT.pdf)
 
