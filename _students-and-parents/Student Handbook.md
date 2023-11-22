@@ -27,7 +27,7 @@ description: ""
 |Full Subject-Based Banding (Full SBB) |30 - 32|
 |Assessment & Progression| 33 – 34|
 |Examination rules and regulations| 34 - 35|
-|School Safety| 38 - 42|
+|School Safety| 38 - 42|a
 |Academic & Non-Academic Awards (Scholarships, Prizes & Awards)|43 - 46|
 |MOE Financial Assistance Scheme| 47 - 48|
 |Infocomm Media Development Authority (IMDA) DigitalAccess@Home| 49|
