@@ -10,6 +10,7 @@ description: ""
 | | | 
 | -------- | -------- | 
 |Our History|1-2|
+
 |School Vision, Mission, Crest, Motto| 3|
 |School Values| 4|
 |School Song, Morning Recital| 5|
