@@ -4,11 +4,9 @@ permalink: /students-and-parents/permalink/
 variant: markdown
 description: ""
 ---
-
-
 |  |  | 
 | -------- | -------- | 
-|  ![](/images/Students%20and%20Parents/Handbook/ManjsuriSec_HB24_Content_121652_Nov16_Page_001.jpg)  | Click here for the 2024 Student Handbook.   |
+|  ![](/images/Students%20and%20Parents/Handbook/ManjsuriSec_HB24_Content_121652_Nov16_Page_001.jpg)  | Click [here](https://drive.google.com/file/d/1bE3S3KhUIhcxD0NCTeQBadj7AIh_aiOF/view?usp=drive_link) for the 2024 Student Handbook.   |
 
 | | | 
 | -------- | -------- | 
@@ -36,4 +34,3 @@ description: ""
 |MOE Financial Assistance Scheme| 47 - 48|
 |Infocomm Media Development Authority (IMDA) DigitalAccess@Home| 49|
 |School Facilities and Services| 50 - 52|
-
