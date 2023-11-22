@@ -6,15 +6,14 @@ description: ""
 ---
 
 
-| Column 1 | Column 2 | 
+|  |  | 
 | -------- | -------- | 
 |  ![](/images/Students%20and%20Parents/Handbook/ManjsuriSec_HB24_Content_121652_Nov16_Page_001.jpg)  | Click here for the 2024 Student Handbook.   |
 
-**Content**
 | | | 
 | -------- | -------- | 
+|**Content**||
 |Our History|1-2|
-
 |School Vision, Mission, Crest, Motto| 3|
 |School Values| 4|
 |School Song, Morning Recital| 5|
@@ -38,4 +37,3 @@ description: ""
 |Infocomm Media Development Authority (IMDA) DigitalAccess@Home| 49|
 |School Facilities and Services| 50 - 52|
 
--
