@@ -2,12 +2,13 @@
 title: School Canteen Advertisement
 permalink: /news/permalink/canteen/
 description: ""
+variant: markdown
 ---
 #### School Canteen Advertisement
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Vegetarian Food Stall (Buddhist)| 20 Nov 2023 | Rice and Noodles acceptable |
+| Vegetarian Food Stall (Buddhist)| 29 Dec 2023 | Rice and Noodles acceptable |
 
 **Application Procedure**
 
