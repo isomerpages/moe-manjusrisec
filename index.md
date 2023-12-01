@@ -20,9 +20,8 @@ sections:
         - title: Contact
           description: ""
           url: /contact-us/school-contact-details/
-      background: /images/Open House 2023/img_6594.JPG
+      background: /images/homepage3.gif
       url: /open-house/permalink/open-house-2023/
-      button: Post Open House Tour  - 23 Nov to 25 Nov 2023
   - infopic:
       title: Graduation Day 2023
       subtitle: Spotlight
@@ -62,15 +61,6 @@ sections:
       image: /images/Spotlight/chinese orchestra.png
       alt: Image alt text
   - infopic:
-      title: GCE O Level Examination 2022 Results
-      subtitle: Spotlight
-      description: We congratulate our graduated students (2022) on achieving laudable
-        results at the GCE O level examinations...
-      button: Click here to read more
-      url: /spotlight/permalink/gce-o-2022
-      image: /images/Spotlight/gce-o-2022-pic.jpg
-      alt: Image alt text
-  - infopic:
       title: 40th School Anniversary Commemorative Event
       subtitle: spotlight
       description: The school celebrated its 40th school anniversary with a simple and
@@ -78,15 +68,5 @@ sections:
       button: Click here to read more
       url: /spotlight/40th-school-anni/
       image: /images/Spotlight/Anniversary/anniv10.jpg
-      alt: Image alt text
-  - infopic:
-      title: Presentation of Commissioned Bronze Sculptures to Manjusri
-      subtitle: spotlight
-      description: A series of four bronze sculptures titled “Manjusrian Virtues” was
-        unveiled during our school’s 40th Anniversary Commemoration held on 18
-        November 2022...
-      button: Click here to read more
-      url: /spotlight/presentation-of-comm/
-      image: /images/Spotlight/Wisdom/wisdom1.jpg
       alt: Image alt text
 ---
