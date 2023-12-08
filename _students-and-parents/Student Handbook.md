@@ -22,15 +22,15 @@ description: ""
 |Values-in-Action Programme| 11|
 |Mindfulness &amp; Learning Power, Meta Learning |12|
 |National Digital Literacy Programme (NDLP)| 13|
-|Cyber Wellness &amp; Security|14 – 16|
-|Mental Health| 17|
+|Cyber Wellness &amp; Security|14 – 17|
+|Mental Health| 18|
 |School Rules &amp; Regulations| 20 - 25|
 |Student Holistic Development Profile| 26 - 27|
-|Full Subject-Based Banding (Full SBB) |30 - 32|
-|Assessment &amp; Progression| 33 – 34|
-|Examination rules and regulations| 34 - 35|
-|School Safety| 38 - 42|
-|Academic &amp; Non-Academic Awards (Scholarships, Prizes &amp; Awards)|43 - 46|
-|MOE Financial Assistance Scheme| 47 - 48|
-|Infocomm Media Development Authority (IMDA) DigitalAccess@Home| 49|
-|School Facilities and Services| 50 - 52|
+|Full Subject-Based Banding (Full SBB) |29 - 31|
+|Assessment &amp; Progression| 32 – 33|
+|Examination rules and regulations| 33 - 34|
+|School Safety| 36 - 40|
+|Academic &amp; Non-Academic Awards (Scholarships, Prizes &amp; Awards)|41 - 44|
+|MOE Financial Assistance Scheme| 45 - 46|
+|Infocomm Media Development Authority (IMDA) DigitalAccess@Home| 47|
+|School Facilities and Services| 48 - 50|
