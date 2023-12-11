@@ -1,36 +1,7 @@
 ---
 title: Student Handbook
 permalink: /students-and-parents/permalink/
-variant: markdown
+variant: tiptap
 description: ""
 ---
-|  |  | 
-| -------- | -------- | 
-|  ![](/images/Students%20and%20Parents/Handbook/ManjsuriSec_HB24_Content_121652_Nov16_Page_001.jpg)  |<br><br><br><br> Click [here](https://drive.google.com/file/d/1bE3S3KhUIhcxD0NCTeQBadj7AIh_aiOF/view?usp=drive_link) for the 2024 Student Handbook.   |
-
-| | | 
-| -------- | -------- | 
-|**Content**|**Page**|
-|Our History|1-2|
-|School Vision, Mission, Crest, Motto| 3|
-|School Values| 4|
-|School Song, Morning Recital| 5|
-|Our Country| 6|
-|Desired Outcomes of Education / National Education Dispositions |7|
-|21st Century Competencies| 8|
-|Co-Curricular Activities |10|
-|Values-in-Action Programme| 11|
-|Mindfulness &amp; Learning Power, Meta Learning |12|
-|National Digital Literacy Programme (NDLP)| 13|
-|Cyber Wellness &amp; Security|14 – 16|
-|Mental Health| 17|
-|School Rules &amp; Regulations| 20 - 25|
-|Student Holistic Development Profile| 26 - 27|
-|Full Subject-Based Banding (Full SBB) |30 - 32|
-|Assessment &amp; Progression| 33 – 34|
-|Examination rules and regulations| 34 - 35|
-|School Safety| 38 - 42|
-|Academic &amp; Non-Academic Awards (Scholarships, Prizes &amp; Awards)|43 - 46|
-|MOE Financial Assistance Scheme| 47 - 48|
-|Infocomm Media Development Authority (IMDA) DigitalAccess@Home| 49|
-|School Facilities and Services| 50 - 52|
+<table><tbody><tr><th rowspan="1" colspan="1"><p></p></th><th rowspan="1" colspan="1"><p></p></th></tr><tr><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img height="auto" width="100%" alt="" src="/images/Students%20and%20Parents/Handbook/ManjsuriSec_HB24_Content_121652_Nov16_Page_001.jpg"></div></td><td rowspan="1" colspan="1"><p><br><br><br><br>Click <a href="https://drive.google.com/file/d/1bE3S3KhUIhcxD0NCTeQBadj7AIh_aiOF/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">here</a> for the 2024 Student Handbook.</p></td></tr></tbody></table><table><tbody><tr><th rowspan="1" colspan="1"><p></p></th><th rowspan="1" colspan="1"><p></p></th></tr><tr><td rowspan="1" colspan="1"><p><strong>Content</strong></p></td><td rowspan="1" colspan="1"><p><strong>Page</strong></p></td></tr><tr><td rowspan="1" colspan="1"><p>Our History</p></td><td rowspan="1" colspan="1"><p>1-2</p></td></tr><tr><td rowspan="1" colspan="1"><p>School Vision, Mission, Crest, Motto</p></td><td rowspan="1" colspan="1"><p>3</p></td></tr><tr><td rowspan="1" colspan="1"><p>School Values</p></td><td rowspan="1" colspan="1"><p>4</p></td></tr><tr><td rowspan="1" colspan="1"><p>School Song, Morning Recital</p></td><td rowspan="1" colspan="1"><p>5</p></td></tr><tr><td rowspan="1" colspan="1"><p>Our Country</p></td><td rowspan="1" colspan="1"><p>6</p></td></tr><tr><td rowspan="1" colspan="1"><p>Desired Outcomes of Education / National Education Dispositions</p></td><td rowspan="1" colspan="1"><p>7</p></td></tr><tr><td rowspan="1" colspan="1"><p>21st Century Competencies</p></td><td rowspan="1" colspan="1"><p>8</p></td></tr><tr><td rowspan="1" colspan="1"><p>Co-Curricular Activities</p></td><td rowspan="1" colspan="1"><p>10</p></td></tr><tr><td rowspan="1" colspan="1"><p>Values-in-Action Programme</p></td><td rowspan="1" colspan="1"><p>11</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mindfulness &amp; Learning Power, Meta Learning</p></td><td rowspan="1" colspan="1"><p>12</p></td></tr><tr><td rowspan="1" colspan="1"><p>National Digital Literacy Programme (NDLP)</p></td><td rowspan="1" colspan="1"><p>13</p></td></tr><tr><td rowspan="1" colspan="1"><p>Cyber Wellness &amp; Security</p></td><td rowspan="1" colspan="1"><p>14 – 17</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mental Health</p></td><td rowspan="1" colspan="1"><p>18</p></td></tr><tr><td rowspan="1" colspan="1"><p>School Rules &amp; Regulations</p></td><td rowspan="1" colspan="1"><p>20 - 25</p></td></tr><tr><td rowspan="1" colspan="1"><p>Student Holistic Development Profile</p></td><td rowspan="1" colspan="1"><p>26 - 27</p></td></tr><tr><td rowspan="1" colspan="1"><p>Full Subject-Based Banding (Full SBB)</p></td><td rowspan="1" colspan="1"><p>29 - 31</p></td></tr><tr><td rowspan="1" colspan="1"><p>Assessment &amp; Progression</p></td><td rowspan="1" colspan="1"><p>32 – 33</p></td></tr><tr><td rowspan="1" colspan="1"><p>Examination rules and regulations</p></td><td rowspan="1" colspan="1"><p>33 - 34</p></td></tr><tr><td rowspan="1" colspan="1"><p>School Safety</p></td><td rowspan="1" colspan="1"><p>36 - 40</p></td></tr><tr><td rowspan="1" colspan="1"><p>Academic &amp; Non-Academic Awards (Scholarships, Prizes &amp; Awards)</p></td><td rowspan="1" colspan="1"><p>41 - 44</p></td></tr><tr><td rowspan="1" colspan="1"><p>MOE Financial Assistance Scheme</p></td><td rowspan="1" colspan="1"><p>45 - 46</p></td></tr><tr><td rowspan="1" colspan="1"><p>Infocomm Media Development Authority (IMDA) DigitalAccess@Home</p></td><td rowspan="1" colspan="1"><p>47</p></td></tr><tr><td rowspan="1" colspan="1"><p>School Facilities and Services</p></td><td rowspan="1" colspan="1"><p>48 - 50</p></td></tr></tbody></table><p></p>
