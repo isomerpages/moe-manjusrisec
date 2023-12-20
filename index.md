@@ -60,4 +60,13 @@ sections:
       url: /spotlight/permalink/mjr-syf-2023/
       image: /images/Spotlight/chinese orchestra.png
       alt: Image alt text
+  - infopic:
+      title: 2024 Secondary One Registration
+      subtitle: Spotlight
+      id: infopic
+      description: Congratulations on your posting to Manjusri Secondary School to
+        begin your secondary school education...
+      button: Please click here to visit our Secondary 1 Registration Microsite.
+      url: https://go.gov.sg/mjrsec1registration
+      alt: Image alt text
 ---
