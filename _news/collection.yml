@@ -2,7 +2,6 @@ collections:
   news:
     output: true
     order:
-      - School Canteen Advertisement (Japanese).md
       - School Canteen Advertisement.md
       - Mid Year GCE O Level MTL Exam 2023 Results.md
       - National Day Awards 2023.md
