@@ -60,13 +60,4 @@ sections:
       url: /spotlight/permalink/mjr-syf-2023/
       image: /images/Spotlight/chinese orchestra.png
       alt: Image alt text
-  - infopic:
-      title: 40th School Anniversary Commemorative Event
-      subtitle: spotlight
-      description: The school celebrated its 40th school anniversary with a simple and
-        elegant ceremony on 18 November...
-      button: Click here to read more
-      url: /spotlight/40th-school-anni/
-      image: /images/Spotlight/Anniversary/anniv10.jpg
-      alt: Image alt text
 ---
