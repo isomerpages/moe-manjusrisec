@@ -10,7 +10,7 @@ sections:
       key_highlights:
         - title: News
           description: ""
-          url: /hidden-pages/permalink/news/
+          url: /hidden-pages/news/
         - title: Calendar
           description: ""
           url: /hidden-pages/school-calendar/
@@ -21,7 +21,6 @@ sections:
           description: ""
           url: /contact-us/school-contact-details/
       background: /images/2_1_MJR_sec_1_reg_banner__1_.jpg
-      url: /open-house/permalink/open-house-2023/
   - infopic:
       title: 2024 Secondary One Registration
       subtitle: Spotlight
