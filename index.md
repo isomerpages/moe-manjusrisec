@@ -31,6 +31,7 @@ sections:
       button: Please click here to visit our Secondary 1 Registration Microsite.
       url: https://go.gov.sg/mjrsec1registration
       alt: Image alt text
+      image: /images/2_1_MJR_sec_1_reg_banner__1_.jpg
   - infopic:
       title: Graduation Day 2023
       subtitle: Spotlight
