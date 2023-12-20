@@ -23,6 +23,15 @@ sections:
       background: /images/2_1_MJR_sec_1_reg_banner__1_.jpg
       url: /open-house/permalink/open-house-2023/
   - infopic:
+      title: 2024 Secondary One Registration
+      subtitle: Spotlight
+      id: infopic
+      description: Congratulations on your posting to Manjusri Secondary School to
+        begin your secondary school education...
+      button: Please click here to visit our Secondary 1 Registration Microsite.
+      url: https://go.gov.sg/mjrsec1registration
+      alt: Image alt text
+  - infopic:
       title: Graduation Day 2023
       subtitle: Spotlight
       id: infopic
@@ -59,14 +68,5 @@ sections:
       button: Click here to read more
       url: /spotlight/permalink/mjr-syf-2023/
       image: /images/Spotlight/chinese orchestra.png
-      alt: Image alt text
-  - infopic:
-      title: 2024 Secondary One Registration
-      subtitle: Spotlight
-      id: infopic
-      description: Congratulations on your posting to Manjusri Secondary School to
-        begin your secondary school education...
-      button: Please click here to visit our Secondary 1 Registration Microsite.
-      url: https://go.gov.sg/mjrsec1registration
       alt: Image alt text
 ---
