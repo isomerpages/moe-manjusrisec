@@ -6,7 +6,9 @@ description: ""
 ---
 #### School Canteen Advertisement
 
+
 | Type of Stall | Closing Date | Requirements |
+| -------- | -------- | -------- |
 | Japanese Food Stall | 10 Jan 2024 | Rice and Noodles acceptable |
 
 **Application Procedure**
