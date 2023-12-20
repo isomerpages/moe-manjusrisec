@@ -2,6 +2,7 @@ collections:
   spotlight:
     output: true
     order:
+      - GCE N Level Exam Results 2023.md
       - Graduation Day 2023.md
       - Road Run 2023.md
       - Excellence in Uniformed Groups 2023.md
