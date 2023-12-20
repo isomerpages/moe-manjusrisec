@@ -33,6 +33,16 @@ sections:
       alt: Image alt text
       image: /images/2_1_MJR_sec_1_reg_banner__1_.jpg
   - infopic:
+      title: GCE N Level Exam Results 2023
+      subtitle: Spotlight
+      id: infopic
+      description: MJR candidates supported by their family members returned to
+        collect their N level results on 18 December at the Reflection Hall...
+      button: Click here to read more
+      url: /spotlight/permalink/gce-n-level-exam-results-2023
+      alt: Image alt text
+      image: /images/Spotlight/IMG_8376.jpg
+  - infopic:
       title: Graduation Day 2023
       subtitle: Spotlight
       id: infopic
