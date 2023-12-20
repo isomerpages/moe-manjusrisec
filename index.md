@@ -79,4 +79,5 @@ sections:
       button: Click here to read more
       url: /spotlight/permalink/gce-n-level-exam-results-2023
       alt: Image alt text
+      image: /images/Spotlight/IMG_8376.jpg
 ---
