@@ -70,4 +70,13 @@ sections:
       url: /spotlight/permalink/mjr-syf-2023/
       image: /images/Spotlight/chinese orchestra.png
       alt: Image alt text
+  - infopic:
+      title: GCE N Level Exam Results 2023
+      subtitle: Spotlight
+      id: infopic
+      description: MJR candidates supported by their family members returned to
+        collect their N level results on 18 December at the Reflection Hall...
+      button: Click here to read more
+      url: /spotlight/permalink/gce-n-level-exam-results-2023
+      alt: Image alt text
 ---
