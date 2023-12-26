@@ -3,6 +3,7 @@ title: Chinese Orchestra
 permalink: /cca/performing-arts/chinese-orchestra/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 # **Chinese Orchestra**
 
@@ -52,14 +53,15 @@ Friday: 2.00pm - 5.00pm @ CO Room &amp; Classrooms
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Ms Goh Pei Shan </span></td>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">goh_pei_shan@moe.edu.sg </span></td>
   </tr>
+	  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> Mrs Angeline Tay</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">tay_hwee_cheng@moe.edu.sg </span></td>
+  </tr>
   <tr>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Mdm Yong Tann Lee </span></td>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">yong_tann_lee@moe.edu.sg </span></td>
   </tr>
-  <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> Mrs Angeline Tay</span></td>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">tay_hwee_cheng@moe.edu.sg </span></td>
-  </tr>
+
 </tbody>
 </table>
 
