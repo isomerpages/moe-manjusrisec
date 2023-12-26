@@ -3,6 +3,7 @@ title: NCC (land)
 permalink: /cca/uniformed-groups/ncc-land/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 # **NCC (land)**
 
@@ -39,22 +40,20 @@ Monday and Wednesday&nbsp;3.00pm - 6.00pm
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> Mr Chan Ze Wei</span></td>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> chan_ze_wei@moe.edu.sg </span></td>
   </tr>
-  <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Mr Bryan Kang </span></td>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> kang_ching_choon@moe.edu.sg</span></td>
-  </tr>
-  <tr>
+	  <tr>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> Ms A'mirah</span></td>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> nurul_amirah_mohd_kamal@moe.edu.sg</span><span style="background-color:transparent">  </span></td>
   </tr>
   <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Mr Bryan Kang </span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> kang_ching_choon@moe.edu.sg</span></td>
+  </tr>
+
+  <tr>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Mr Victor Wong</span></td>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">wong_chun_meng@moe.edu.sg </span></td>
   </tr>
-  <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Mr Andrew Ang </span></td>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">ang_soon_hock_andrew@moe.edu.sg </span></td>
-  </tr>
+
 </tbody>
 </table>
 
