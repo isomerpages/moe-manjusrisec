@@ -3,6 +3,7 @@ title: Girls Guides
 permalink: /cca/uniformed-groups/girls-guides/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 # **Girls Guides**
 
@@ -40,17 +41,22 @@ Every Monday and Wednesday
   </tr>
 </thead>
 <tbody>
-  <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> Ms </span>Nur Atiqah Binti Abdul Fattah</td>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> nur_atiqah_abdul_fattah@moe.edu.sg</span></td>
-  </tr>
-  <tr>
+	  <tr>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Ms Amira Begum d/o Abdul Naseer </span></td>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> amira_begum_abdul_naseer@moe.edu.sg</span></td>
   </tr>
   <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> Ms Lui Yi Ling, Candice</span></td>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">lui_yi_ling_candice@moe.edu.sg </span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> Ms </span>Nur Atiqah Binti Abdul Fattah</td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> nur_atiqah_abdul_fattah@moe.edu.sg</span></td>
+  </tr>
+
+  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> Ms Siti Shahirah</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">siti_shahirah_haider_bagesher@moe.edu.sg </span></td>
+  </tr>
+	  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> Ms Serene Tee</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">tee_beng_lian@moe.edu.sg </span></td>
   </tr>
 </tbody>
 </table>
