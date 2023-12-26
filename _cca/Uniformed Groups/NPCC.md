@@ -3,6 +3,7 @@ title: NPCC
 permalink: /cca/uniformed-groups/npcc/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 # **NPCC**
 
@@ -52,6 +53,10 @@ Monday and Wednesday&nbsp;3.00pm - 6.00pm
   </tr>
 </thead>
 <tbody>
+	  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> Ms Erica</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">erica_reyes_rodriguez@moe.edu.sg </span></td>
+  </tr>
   <tr>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Ms Jurana </span></td>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> jurana_abdul_rahim@moe.edu.sg</span></td>
@@ -60,17 +65,14 @@ Monday and Wednesday&nbsp;3.00pm - 6.00pm
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Ms Candice Lee </span></td>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">lee_shi_hua_candice@moe.edu.sg </span></td>
   </tr>
-  <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> Ms Erica</span></td>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">erica_reyes_rodriguez@moe.edu.sg </span></td>
-  </tr>
+
   <tr>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> Mr Hafiz Khan</span></td>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">hafiz_emran_khan@moe.edu.sg </span></td>
   </tr>
   <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Ms Kok Jia En Yvonne</span></td>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">jia_en_yvonne_kok@moe.edu.sg</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Mr Huang Yuanpeng</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">huang_yuanpeng@moe.edu.sg</span></td>
   </tr>
 </tbody>
 </table>
