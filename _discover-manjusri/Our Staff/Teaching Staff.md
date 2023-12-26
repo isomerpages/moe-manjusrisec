@@ -28,7 +28,7 @@ variant: markdown
 |  2-1| Mr Sng Peng Han Kain| sng_peng_han@moe.edu.sg| 
 |   | Mr Hafiz Emran Khan| hafiz_emran_khan@moe.edu.sg| 
 |   | Ms Teh-Tay Hwee Cheng Angeline| tay_hwee_cheng@moe.edu.sg| 
-|  2-2| Ms Alexandra Pang Yan Feng| PANG_Yanfeng_Alexandra@moe.edu.sg| 
+|  2-2| Ms Alexandra Pang Yan Feng| pang_yanfeng_alexandra@moe.edu.sg| 
 |   | Ms Sunarti Mochtar| sunarti_mochtar@moe.edu.sg| 
 |   | Ms Ho Poh Choo Adrienne (FAJT)| adrienne_ho_poh_choo@moe.edu.sg| 
 |  2-3| Ms Rose Binte Ibrahim (PTES)| rose_ibrahim@moe.edu.sg| 
