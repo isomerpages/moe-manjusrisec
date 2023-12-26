@@ -97,7 +97,16 @@ variant: markdown
 
 |Name|Email| 
 | -------- | -------- | 
-
+|Mrs Cheng-Ling Ai Keow (PTES)|ling_ai_keow@moe.edu.sg|
+|Mr Lim Chiang Long Max|lim_chiang_long@moe.edu.sg|
+|Dr Muhammad Mubarak Bin Habib|muhammad_mubarak_habib_md@moe.edu.sg|
+|Ms  Nurul A'mirah Binte Mohd Kamal|nurul_amirah_mohd_kamal@moe.edu.sg|
+|Mdm Pan Ping (PTES)|pan_ping@moe.edu.sg|
+|Ms  Tan Ai Hua (PTES)|tan_ai_hua@moe.edu.sg|
+|Ms Tan Hsiao Wey|tan_hsiao_wey@moe.edu.sg|
+|Ms Tan Tien Tien Victoria Lynn |victoria_lynn_tan_tien@moe.edu.sg|
+|Ms  Tay Kar Yen Amanda|tay_kar_yen_amanda@moe.edu.sg|
+|Ms Quek Kar Men|-|
 
 
 
