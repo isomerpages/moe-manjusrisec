@@ -3,6 +3,7 @@ title: Chinese Dance
 permalink: /cca/performing-arts/chinese-dance/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 # **Chinese Dance**
 
@@ -41,21 +42,22 @@ Wednesday: 3.00pm - 6.00pm @ AVA
   </tr>
 </thead>
 <tbody>
+	  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Ms Natasha Loh </span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">loh_tzi_wui_natasha@moe.edu.sg </span></td>
+  </tr>
   <tr>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> Ms Ng Imei</span></td>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> ng_imei@moe.edu.sg</span> </td>
   </tr>
   <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Ms Madeleine Cheong </span></td>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">cheong_wai_heng_madeleine@moe.edu.sg</span><br></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Ms Ng Ning </span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">ng_ning@moe.edu.sg</span><br></td>
   </tr>
+
   <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Ms Natash Loh </span></td>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">loh_tzi_wui_natasha@moe.edu.sg </span></td>
-  </tr>
-  <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> Ms Melcia Leong</span></td>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> hui_lin_melcia_leong@moe.edu.sg</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> Ms Candice Lui</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">  lui_yi_ling_candice@moe.edu.sg</span></td>
   </tr>
 </tbody>
 </table>

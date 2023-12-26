@@ -3,6 +3,7 @@ title: Buddhist Interact Club
 permalink: /cca/clubs-and-societies/buddhist-interact-club/
 description: ""
 third_nav_title: Clubs and Societies
+variant: markdown
 ---
 # **Buddhist Interact Club**
 
@@ -45,8 +46,8 @@ Monday &amp; Wednesday 3pm-6pm
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">pang_yanfeng_alexandra@moe.edu.sg </span></td>
   </tr>
   <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Dr Lim Si Hui </span></td>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> lim_si_hui@moe.edu.sg</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Mr Michael Han </span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> han_ah_teck@moe.edu.sg</span></td>
   </tr>
   <tr>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Mrs Cheng-Ling Ai Keow</span></td>

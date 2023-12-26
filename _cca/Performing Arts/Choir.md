@@ -3,6 +3,7 @@ title: Choir
 permalink: /cca/performing-arts/choir/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 # **Choir**
 
@@ -44,18 +45,19 @@ Every Monday and Wednesday
     <td class="tg-lygy">Mdm Ahadiyah Rosmani<span style="color:#222;background-color:transparent"> </span></td>
     <td class="tg-lygy">ahadiyah_rosmani@moe.edu.sg<span style="color:#222;background-color:transparent"> </span></td>
   </tr>
-  <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> Ms Wendy</span></td>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">chen_lingzhi@moe.edu.sg </span></td>
-  </tr>
-  <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Ms Tan Cai Ting </span></td>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">tan_cai_ting@moe.edu.sg </span></td>
-  </tr>
-  <tr>
+	  <tr>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Ms Ellia </span></td>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">darul_ellia_zulkarnain@moe.edu.sg </span></td>
   </tr>
+  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> Ms Tan Siew Boon Vivian</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">tan_siew_boon_vivian@moe.edu.sg </span></td>
+  </tr>
+  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Ms Ernie </span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> ernieyanty_hasan@moe.edu.sg </span></td>
+  </tr>
+
 </tbody>
 </table>
 

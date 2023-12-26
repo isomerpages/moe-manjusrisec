@@ -3,6 +3,7 @@ title: Concert Band
 permalink: /cca/performing-arts/concert-band/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 # **Concert Band**
 
@@ -40,21 +41,26 @@ Wednesday 3-5pm (Self-Practice)
   </tr>
 </thead>
 <tbody>
-  <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Ms Tan Shi Jia</span></td>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">tan_shi_jia@moe.edu.sg</span></td>
-  </tr>
+
   <tr>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> Ms Seah Yi Fan</span></td>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> seah_yi_fan@moe.edu.sg </span></td>
   </tr>
-  <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> Ms Shermaine Chew</span></td>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">chew_sue_ning_shermaine@moe.edu.sg </span></td>
+	  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> Ms Tan Shi Jia</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">tan_shi_jia@moe.edu.sg </span></td>
   </tr>
   <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> Ms Nurjannah</span></td>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">nurjannah_othman@moe.edu.sg </span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> Mr Amit</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">amit_kumar_sharma_amber@moe.edu.sg@moe.edu.sg </span></td>
+  </tr>
+		  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> Ms Sunarti</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">sunarti_mochtar@moe.edu.sg </span></td>
+  </tr>
+		  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> Ms Tan Cai Ting</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">tan_cai_ting@moe.edu.sg </span></td>
   </tr>
 </tbody>
 </table>

@@ -3,6 +3,7 @@ title: Badminton (Boys)
 permalink: /cca/sports/badminton-boys/
 description: ""
 third_nav_title: Sports
+variant: markdown
 ---
 # **Badminton (Boys)**
 
@@ -36,16 +37,17 @@ Monday and Wednesday 2.30pm – 5.30pm
 </thead>
 <tbody>
   <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Mr Chua Soon Huat Jason</span></td>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">chua_soon_huat_Jason@moe.edu.sg</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Mr Ong Boon Siong</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">ong_boon_siong@moe.edu.sg</span></td>
   </tr>
-  <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Mr Michael Han </span></td>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">han_ah_tech@moe.edu.sg </span></td>
-  </tr>
+ 
   <tr>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Mdm Rozita Husain</span></td>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">rozita_husain@moe.edu.sg</span></td>
+  </tr>
+	 <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Ms Kok Jia En Yvonne </span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">jia_en_yvonne_kok@moe.edu.sg </span></td>
   </tr>
 </tbody>
 </table>

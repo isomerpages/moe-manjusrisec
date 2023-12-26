@@ -3,6 +3,7 @@ title: Chinese Calligraphy
 permalink: /cca/clubs-and-societies/chinese-calligraphy/
 description: ""
 third_nav_title: Clubs and Societies
+variant: markdown
 ---
 # **Chinese Calligraphy**
 
@@ -48,10 +49,7 @@ Wednesday 3.00 – 5.00 pm
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Ms Bao Bingqing</span></td>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">bao_bingqing@moe.edu.sg</span></td>
   </tr>
-  <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Mdm Mary Rose </span></td>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">mary_rose_p_gonsalvez@moe.edu.sg </span></td>
-  </tr>
+
 </tbody>
 </table>
 
