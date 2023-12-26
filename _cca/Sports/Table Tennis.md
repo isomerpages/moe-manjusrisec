@@ -3,6 +3,7 @@ title: Table Tennis
 permalink: /cca/sports/table-tennis/
 description: ""
 third_nav_title: Sports
+variant: markdown
 ---
 # **Table Tennis**
 
@@ -43,21 +44,23 @@ Girls: Every Wednesday 3pm – 6pm and Friday 1pm-4pm
   </tr>
 </thead>
 <tbody>
-  <tr>
-    <td class="tg-gktn"><span style="color:#222;background-color:transparent">Mr Lee Beng Huat</span></td>
-    <td class="tg-gktn"><span style="color:#222;background-color:transparent">lee_beng_huat@moe.edu.sg</span></td>
-  </tr>
+
   <tr>
     <td class="tg-gktn"><span style="color:#222;background-color:transparent">Ms Tan Ai Hua </span></td>
     <td class="tg-gktn"><span style="color:#222;background-color:transparent">tan_ai_hua@moe.edu.sg </span></td>
   </tr>
-  <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Mr Ya'acob </span></td>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> yaacob_b_abu_bakar@moe.edu.sg</span><br></td>
-  </tr>
+
   <tr>
     <td class="tg-lygy">Mr Ting Kok Thiam<span style="color:#222;background-color:transparent"> </span></td>
     <td class="tg-lygy">ting_kok_thiam@moe.edu.sg</td>
+  </tr>
+	  <tr>
+    <td class="tg-gktn"><span style="color:#222;background-color:transparent">Dr Lim Si Hui</span></td>
+    <td class="tg-gktn"><span style="color:#222;background-color:transparent">lim_si_hui@moe.edu.sg</span></td>
+  </tr>
+	  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Mr Ya'acob </span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> yaacob_b_abu_bakar@moe.edu.sg</span><br></td>
   </tr>
 </tbody>
 </table>
