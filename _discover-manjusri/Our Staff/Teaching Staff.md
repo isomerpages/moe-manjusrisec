@@ -90,10 +90,7 @@ variant: markdown
 |  5A| Ms Salina Binte Abdul Majid| salina_abdul_majid@moe.edu.sg| 
 |   | Mr Ting Kok Thiam| ting_kok_thiam@moe.edu.sg| 
 
-
-
 ##### **Other Teachers**	
-
 
 |Name|Email| 
 | -------- | -------- | 
@@ -108,13 +105,21 @@ variant: markdown
 |Ms  Tay Kar Yen Amanda|tay_kar_yen_amanda@moe.edu.sg|
 |Ms Quek Kar Men|-|
 
-
-
-
-
 ##### **Flexi-Adjunct Teachers**	
 
 |Name|Email| 
-| -------- | -------- | 
-
+| -------- | -------- |
+|Ms Pang Chiaw Yong|pang_chiaw_yong_a@moe.edu.sg|
+|Ms Sharon Chia Xiao Xuan|sharon_chia_xiao_xuan@moe.edu.sg|
+|Miss Ser Kia Hwee|ser_kia_hwee@moe.edu.sg|
+|Ms  Elna Shirin Binte Him Pon|elna_shirin_him_pon@moe.edu.sg|
+|Ms  Ho Poh Choo Adrienne|adrienne_ho_poh_choo@moe.edu.sg|
+|Ms Lee Wai Ying Winnie|winnie_lee_wai_ying_a@moe.edu.sg|
+|Mdm R Rajletchumi (Mrs Eddy)|r_rajletchmi@moe.edu.sg|
+|Ms Wong Sook Fong Shirley|wong_sook_fong@moe.edu.sg|
+|Mrs  Yong-Liow Chai Leng|liow_chai_leng@moe.edu.sg|
+|Mdm Mok Yee Wan (Mrs Lai)|lai_kin_sen@moe.edu.sg|
+|Ms Lee Pei Sen|-|
+|Mr Ya'acob Bin Abu Bakar|yaacob_b_abu_bakar@moe.edu.sg|
+|Ms Chan Sock Cheng|-|
 
