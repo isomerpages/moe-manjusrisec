@@ -50,8 +50,8 @@ Monday and Wednesday&nbsp;3.00pm - 6.00pm
   </tr>
 
   <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Mr Victor Wong</span></td>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">wong_chun_meng@moe.edu.sg </span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Ms Victoria</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">victoria_lynn_tan_tien@moe.edu.sg </span></td>
   </tr>
 
 </tbody>
