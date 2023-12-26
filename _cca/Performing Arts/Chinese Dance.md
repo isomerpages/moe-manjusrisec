@@ -43,7 +43,7 @@ Wednesday: 3.00pm - 6.00pm @ AVA
 </thead>
 <tbody>
 	  <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Ms Natash Loh </span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Ms Natasha Loh </span></td>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">loh_tzi_wui_natasha@moe.edu.sg </span></td>
   </tr>
   <tr>
