@@ -9,7 +9,7 @@ variant: markdown
 
 ##### **Form Teachers**	
 
-| Column 1 | Column 2 | Column 3 |
+| Class | Name | Email |
 | -------- | -------- | -------- |
 |  1-1| Mr Chan Ze Wei| chan_ze_wei@moe.edu.sg| 
 |   | Ms Ernieyanty Hasan| ernieyanty_hasan@moe.edu.sg| 
@@ -95,8 +95,17 @@ variant: markdown
 ##### **Other Teachers**	
 
 
+|Name|Email| 
+| -------- | -------- | 
+
+
+
+
 
 
 ##### **Flexi-Adjunct Teachers**	
+
+|Name|Email| 
+| -------- | -------- | 
 
 
