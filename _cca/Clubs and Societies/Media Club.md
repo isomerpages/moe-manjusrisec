@@ -3,6 +3,7 @@ title: Media Club
 permalink: /cca/clubs-and-societies/media-club/
 description: ""
 third_nav_title: Clubs and Societies
+variant: markdown
 ---
 # **Media Club**
 
@@ -45,14 +46,15 @@ Monday and Wednesday – 3pm–6pm
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> Mdm Tan Hsiao Wey</span></td>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">tan_hsiao_wey@moe.edu.sg </span></td>
   </tr>
-  <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Mr Lim Xu Yao </span></td>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">lim_xu_yao@moe.edu.sg </span></td>
-  </tr>
-  <tr>
+	<tr>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> Mr Daniel Tay</span></td>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">tay_tse_min_daniel@moe.edu.sg </span></td>
+  </tr><tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Mr Nur Hakim </span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">nur_hakim_alim_salim@moe.edu.sg </span></td>
   </tr>
+  
+  
  
 </tbody>
 </table>
