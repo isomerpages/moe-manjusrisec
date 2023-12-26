@@ -3,6 +3,7 @@ title: Wushu
 permalink: /cca/sports/wushu/
 description: ""
 third_nav_title: Sports
+variant: markdown
 ---
 ## **Wushu**
 
@@ -57,8 +58,12 @@ Friday: 1-3pm
     <td class="tg-gktn"><span style="color:#222;background-color:transparent">sun_guangpu@moe.edu.sg</span><br></td>
   </tr>
   <tr>
-    <td class="tg-a3j2" colspan=""><span style="color:#222;background-color:transparent">Mr Ong Boon Siong </span></td>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">ong_boon_siong@moe.edu.sg </span></td>
+    <td class="tg-a3j2" colspan=""><span style="color:#222;background-color:transparent">Mr Andrew Ang </span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">ang_soon_hock_andrew@moe.edu.sg </span></td>
+  </tr>
+	 <tr>
+    <td class="tg-a3j2" colspan=""><span style="color:#222;background-color:transparent">Ms Mary Rose </span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">mary_rose_p_gonsalvez@moe.edu.sg </span></td>
   </tr>
 
 </tbody>
