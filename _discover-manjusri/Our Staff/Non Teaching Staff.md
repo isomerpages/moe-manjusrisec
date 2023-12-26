@@ -48,17 +48,13 @@ variant: markdown
 ##### **Student Emotional and Learning Support**	
 
 
-| Name | Designation |
-| -------- | -------- | 
-|Ms Goh Qian Lei Krystal |School Counsellor|
-|Mr Jonathan Xie Weixing |School Counsellor|
-|Ms Huang Zheng |FASC|
-|Ms Lim Gek Ching Lyne |SENO|
-|Mdm  Suzila Binte Mohamed Sulaiman |SENO|
-|Ms Nur Syahidah Binte Roslan |SENO  (Untrained)|
-|Ms Joyce Vera Lim Jieyi |SWO|
-|Ms Samantha Woo -|Senior ECG Counsellor |
-
-
-
-
+| Name | Designation |Email
+| -------- | -------- | ----------|
+|Ms Goh Qian Lei Krystal |School Counsellor|goh_qian_lei_krystal@moe.edu.sg|
+|Mr Jonathan Xie Weixing |School Counsellor|jonathan_xie_weixing@moe.edu.sg|
+|Ms Huang Zheng |FASC|huang_zheng@moe.edu.sg|
+|Ms Lim Gek Ching Lyne |SENO|lim_gek_ching_lyne@moe.edu.sg|
+|Mdm  Suzila Binte Mohamed Sulaiman |SENO|suzila_mohd_sulaiman@moe.edu.sg|
+|Ms Nur Syahidah Binte Roslan |SENO  (Untrained)|nur_syahidah_roslan@moe.edu.sg|
+|Ms Joyce Vera Lim Jieyi |	Student Welfare Officer|joyce_vera_lim_jieyi@moe.edu.sg|
+|Ms Samantha Woo -|Senior ECG Counsellor |woo_wai_yeng@schools.gov.sg|
