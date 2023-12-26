@@ -3,6 +3,7 @@ title: Scouts
 permalink: /cca/uniformed-groups/scouts/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 # **Scouts**
 
@@ -35,21 +36,23 @@ Every Monday and Wednesday&nbsp;3.00pm - 6.00pm
   </tr>
 </thead>
 <tbody>
-  <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> Mr Lee Zhong Shun</span></td>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> lee_zhong_shun@moe.edu.sg</span></td>
-  </tr>
-  <tr>
+	 <tr>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Mr Shuai Dong Xing</span></td>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">shuai_dongxing@moe.edu.sg</span></td>
   </tr>
-  <tr>
+	  <tr>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> Mr Nabil</span></td>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">ahmad_nabil_ahmad_al-kastalani@moe.edu.sg </span></td>
   </tr>
   <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> Mr Nur Hakim</span></td>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">nur_hakim_alim_salim@moe.edu.sg</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> Mr Lee Zhong Shun</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> lee_zhong_shun@moe.edu.sg</span></td>
+  </tr>
+ 
+
+  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> Mr Ng Hong Ghee</span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">ng_hong_ghee@moe.edu.sg</span></td>
   </tr>
 </tbody>
 </table>
