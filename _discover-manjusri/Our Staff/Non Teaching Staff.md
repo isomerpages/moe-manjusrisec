@@ -45,14 +45,20 @@ variant: markdown
 |Mr Mohamad Syakir Bin Nor Azmi |Desktop Engineer (NCS)|
 |Mdm  Zuriah Bte Mohd Ali |Library Assistant|
 
-
-
-| Column 1 | Column 2 | Column 3 |
-| -------- | -------- | -------- |
-| Text     | Text     | Text     |
-
-
 ##### **Student Emotional and Learning Support**	
+
+
+| Name | Designation |
+| -------- | -------- | 
+|Ms Goh Qian Lei Krystal |School Counsellor|
+|Mr Jonathan Xie Weixing |School Counsellor|
+|Ms Huang Zheng |FASC|
+|Ms Lim Gek Ching Lyne |SENO|
+|Mdm  Suzila Binte Mohamed Sulaiman |SENO|
+|Ms Nur Syahidah Binte Roslan |SENO  (Untrained)|
+|Ms Joyce Vera Lim Jieyi |SWO|
+|Ms Samantha Woo -|Senior ECG Counsellor |
+
 
 
 
