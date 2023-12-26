@@ -53,6 +53,10 @@ Monday and Wednesday – 3pm–6pm
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Mr Nur Hakim </span></td>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">nur_hakim_alim_salim@moe.edu.sg </span></td>
   </tr>
+	  <tr>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Ms Mable Sim </span></td>
+    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">sim_yi_wei_mabel@moe.edu.sg </span></td>
+  </tr>
   
   
  
