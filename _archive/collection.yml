@@ -2,4 +2,5 @@ collections:
   archive:
     output: true
     order:
+      - 40th School Anniversary Commemorative Event.md
       - Mid Year GCE O Level MTL Exam 2023 Results.md
