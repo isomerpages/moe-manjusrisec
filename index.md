@@ -20,7 +20,7 @@ sections:
         - title: Contact
           description: ""
           url: /contact-us/school-contact-details/
-      background: /images/2_1_MJR_sec_1_reg_banner__1_.jpg
+      background: /images/homepage1.gif
   - infopic:
       title: 2024 Secondary One Registration
       subtitle: Spotlight
