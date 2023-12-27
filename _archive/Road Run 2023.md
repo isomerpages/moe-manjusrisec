@@ -1,7 +1,8 @@
 ---
 title: Road Run 2023
-permalink: /spotlight/permalink/road-run/
+permalink: /spotlight/road-run/
 description: ""
+variant: tiptap
 ---
 This year's MJR Road Run marked an exciting milestone for the school community as it was the first physical road run organised since the COVID-19 pandemic. It is also worth noting that it was the first time the Road Run was organised at Singapore Sports Hub.
 
