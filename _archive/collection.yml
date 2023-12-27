@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - MJR @ SYF Arts Presentations 2023.md
       - Mid Year GCE O Level MTL Exam 2023 Results.md
       - GCE O Level Examination 2022 Results.md
       - Presentation of Commissioned Bronze Sculptures to Manjusri Sec.md
