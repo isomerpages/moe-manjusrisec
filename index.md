@@ -51,32 +51,4 @@ sections:
       url: /spotlight/permalink/graduation-day-2023
       image: /images/Spotlight/Grad 2023/dsc_0046.JPG
       alt: Image alt text
-  - infopic:
-      title: Road Run 2023
-      subtitle: Spotlight
-      description: This year's MJR Road Run marked an exciting milestone for the
-        school community as it was the first physical road run organised since
-        the COVID-19 pandemic...
-      button: Click here to read more
-      url: /spotlight/permalink/road-run/
-      image: /images/2023 Road Run/roadrun1 (3).JPG
-      alt: Image alt text
-  - infopic:
-      subtitle: Spotlight
-      description: The uniformed groups of Manjusri Sec held their combined Passing
-        Out Parade for Sec 4 cadets on Wednesday 19 April 2023...
-      button: Click here to read more
-      url: /spotlight/permalink/excellence-uniform-groups-2023/
-      alt: Image alt text
-      title: Excellence in Uniformed Groups 2023
-      image: /images/Spotlight/combined ug2.jpg
-  - infopic:
-      title: MJR @ SYF Arts Presentations 2023
-      subtitle: Spotlight
-      description: Manjusri Sec celebrates the achievements of our performing arts
-        groups at the Singapore Youth Festival Arts Presentations...
-      button: Click here to read more
-      url: /spotlight/permalink/mjr-syf-2023/
-      image: /images/Spotlight/chinese orchestra.png
-      alt: Image alt text
 ---
