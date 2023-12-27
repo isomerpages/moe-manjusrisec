@@ -2,6 +2,7 @@ collections:
   spotlight:
     output: true
     order:
+      - Memory Lane/.keep
       - GCE N Level Exam Results 2023.md
       - Graduation Day 2023.md
       - Road Run 2023.md
