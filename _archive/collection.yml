@@ -1,5 +1,4 @@
 collections:
   archive:
     output: true
-    order:
-      - GCE O Level Examination 2022 Results.md
+    order: []
