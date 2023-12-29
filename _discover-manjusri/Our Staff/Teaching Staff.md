@@ -63,11 +63,11 @@ variant: markdown
 |   | Mr Amit Kumar Sharma s/o Amber Nath| amit_kumar_sharma_amber@moe.edu.sg| 
 |  3E| Ms Tuan Chui Lin| tuan_chui_lin@moe.edu.sg| 
 |   | Mr Teo Kok Siong Ken| teo_kok_siong@moe.edu.sg| 
-|  3F| Mr Lee Zhong Shun| lee_zhong_shun@moe.edu.sg| 
+|3F   | Ms Foo Siqi Michell| foo_siqi_michell@moe.edu.sg| 
 |   | Ms Chan Sock Cheng (FAJT)| -|
 |   | Ms Chen Chen Ada| chen_chen_b@moe.edu.sg| 
-|  3G| Ms Nurjannah Binte Othman (PTES)| nurjannah_othman@moe.edu.sg| 
-|   | Ms Foo Siqi Michell| foo_siqi_michell@moe.edu.sg| 
+|3G  | Mr Lee Zhong Shun| lee_zhong_shun@moe.edu.sg| 
+|  | Ms Nurjannah Binte Othman (PTES)| nurjannah_othman@moe.edu.sg| 
 |  4A| Ms Amira Begum d/o Abdul Naseer| amira_begum_abdul_naseer@moe.edu.sg| 
 |   | Mr Nur Hakim Alim Bin Salim| nur_hakim_alim_salim@moe.edu.sg| 
 |   | Mr Neo Wee Kian Travis| neo_wee_kian@moe.edu.sg| 
@@ -122,4 +122,3 @@ variant: markdown
 |Ms Lee Pei Sen|-|
 |Mr Ya'acob Bin Abu Bakar|yaacob_b_abu_bakar@moe.edu.sg|
 |Ms Chan Sock Cheng|-|
-
