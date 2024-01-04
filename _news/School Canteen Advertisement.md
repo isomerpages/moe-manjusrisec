@@ -9,7 +9,7 @@ variant: markdown
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
 | Japanese Food Stall | 29 Feb 2024 | Rice and Noodles acceptable |
-| Vegetarian Food Stall (Buddhist)| 29 Dec 2023 | Rice and Noodles acceptable |
+| Vegetarian Food Stall (Buddhist)| 29 Feb 2024 | Rice and Noodles acceptable |
 
 **Application Procedure**
 
