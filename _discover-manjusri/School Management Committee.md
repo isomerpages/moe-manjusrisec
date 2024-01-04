@@ -22,7 +22,7 @@ variant: markdown
 <table>
 	<tbody>
 		<tr>
-	<td style="width:25%"><img src="/images/Discover%20Manjusri/Smc/picture4.jpg"><figcaption>Ven Shi You Guang<br>SMC Hon Treasurer</figcaption></td>
+	<td style="width:25%"><img src="/images/Discover%20Manjusri/Smc/Ven_Shi_You_Guang.jpg"><figcaption>Ven Shi You Guang<br>SMC Hon Treasurer</figcaption></td>
 				<td style="width:25%"><img src="/images/Discover%20Manjusri/Smc/picture4.jpg"><figcaption>Mr Tan Yew Beng<br>SMC Hon Secretary</figcaption></td>
 	<td style="width:25%"><img src="/images/Discover%20Manjusri/Smc/picture6.jpg"><figcaption>Ven Shi Fa Cheng (You Wei)<br>SMC Member</figcaption></td>
 	<td style="width:25%"><img src="/images/Discover%20Manjusri/Smc/picture7.jpg"><figcaption>Ven Sek Bao<br>SMC Member</figcaption></td>
