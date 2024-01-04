@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 ---
 **School Management Committee (SMC)
-20th <br>Term: 1 November 2021 to 31 October 2023**
+<br>21st Term: 1 November 2023 to 31 October 2025**
 
 <table>
 	<tbody>
