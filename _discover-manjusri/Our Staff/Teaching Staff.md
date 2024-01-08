@@ -80,7 +80,6 @@ variant: markdown
 |  4D| Ms Ahadiyah Binte Rosmani| ahadiyah_rosmani@moe.edu.sg| 
 |   | Ms Cheong Wai Heng Madeleine| cheong_wai_heng_madeleine@moe.edu.sg| 
 |  4E| Ms Ng Imei| ng_imei@moe.edu.sg| 
-|   | -| - |
 |   | Ms Wee Yee Yun| wee_yee_yun@moe.edu.sg| 
 |  4F| Ms Lee Shi Hua Candice| lee_shi_hua_candice@moe.edu.sg| 
 |   | Mdm Wi Kar Lin Magdelene| wi_kar_lin_magdelene@moe.edu.sg| 
