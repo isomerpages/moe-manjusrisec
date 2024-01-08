@@ -102,7 +102,7 @@ variant: markdown
 |Ms Tan Hsiao Wey|tan_hsiao_wey@moe.edu.sg|
 |Ms Tan Tien Tien Victoria Lynn |victoria_lynn_tan_tien@moe.edu.sg|
 |Ms  Tay Kar Yen Amanda|tay_kar_yen_amanda@moe.edu.sg|
-|Ms Quek Kar Men|-|
+|Ms Quek Kar Men|quek_kar_men@moe.edu.sg|
 
 ##### **Flexi-Adjunct Teachers**	
 
