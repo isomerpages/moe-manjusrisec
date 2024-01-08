@@ -102,7 +102,7 @@ variant: markdown
 |Ms Tan Hsiao Wey|tan_hsiao_wey@moe.edu.sg|
 |Ms Tan Tien Tien Victoria Lynn |victoria_lynn_tan_tien@moe.edu.sg|
 |Ms  Tay Kar Yen Amanda|tay_kar_yen_amanda@moe.edu.sg|
-|Ms Quek Kar Men|-|
+|Ms Quek Kar Men|quek_kar_men@moe.edu.sg|
 
 ##### **Flexi-Adjunct Teachers**	
 
@@ -117,7 +117,7 @@ variant: markdown
 |Mdm R Rajletchumi (Mrs Eddy)|r_rajletchmi@moe.edu.sg|
 |Ms Wong Sook Fong Shirley|wong_sook_fong@moe.edu.sg|
 |Mrs  Yong-Liow Chai Leng|liow_chai_leng@moe.edu.sg|
+|Mr Sim Seng Huat|sim_seng_huat@moe.edu.sg|
 |Mdm Mok Yee Wan (Mrs Lai)|lai_kin_sen@moe.edu.sg|
-|Ms Lee Pei Sen|-|
 |Mr Ya'acob Bin Abu Bakar|yaacob_b_abu_bakar@moe.edu.sg|
-|Ms Chan Sock Cheng|-|
+|Ms Chan Sock Cheng|chan_sock_cheng@moe.edu.sg
