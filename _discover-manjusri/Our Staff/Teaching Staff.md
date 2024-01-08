@@ -45,7 +45,7 @@ variant: markdown
 |   | Mr Ng Jia Jun Justin| ng_jia_jun_justin@moe.edu.sg| 
 |  2-7| Ms Nur Atiqah Binti Abdul Fattah| nur_atiqah_abdul_fattah@moe.edu.sg| 
 |   | Dr Lim Si Hui| lim_si_hui@moe.edu.sg| 
-|   | Ms Lee Pei Sen (FAJT)| -|
+|   | Mdm See Khooi Sim Catherine (FAJT)| see_khooi_sim_catherine@moe.edu.sg|
 |  3A| Mr Ang Soon Hock Andrew| ang_soon_hock_andrew@moe.edu.sg| 
 |   | Ms Tan Shi Jia| tan_shi_jia@moe.edu.sg| 
 |   | Ms Pang Chiaw Yong (FAJT)| pang_chiaw_yong_a@moe.edu.sg| 

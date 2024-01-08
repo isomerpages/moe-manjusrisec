@@ -27,7 +27,7 @@ variant: markdown
 |Mrs PakYap Wei Ling Evelynn  | HOD Mathematics |yap_wei_ling_evelynn@moe.edu.sg|
 |Ms Cheong Wai Heng Madeleine  | HOD MTL (Ag) |cheong_wai_heng_madeleine@moe.edu.sg|
 |Mdm Sim Mui Keow Catherine  | HOD PE &amp; CCA |sim_mui_keow@moe.edu.sg|
-|Mr Ng Jia Jun Justin  | HOD Science |-|
+|Mr Ng Jia Jun Justin  | HOD Science |ng_jia_jun_justin@moe.edu.sg|
 |Ms Wee Yee Yun   |School Staff Developer|wee_yee_yun@moe.edu.sg|
 | Mr Tan Kian Ann Jacky   | HOD Student Management |tan_kian_ann@moe.edu.sg|
 |Mr Tan Thiam Meng  |Year Head (YH/S1 &amp; S2)|tan_thiam_meng@moe.edu.sg|
@@ -46,5 +46,3 @@ variant: markdown
 |Ms Alexandra Pang Yan Feng  | SH Student WellBeing (Ag) |pang_yanfeng_alexandra@moe.edu.sg|
 |Mdm Lim Boon Lian (Mrs Wang)  |Administration Manager 1|wang-lim_boon_lian@schools.gov.sg|
 |Ms Oh Ai Li  |Administration Manager 2|oh_ai_li@schools.gov.sg|
-
-
