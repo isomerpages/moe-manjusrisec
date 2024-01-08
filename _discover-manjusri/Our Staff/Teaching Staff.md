@@ -118,6 +118,5 @@ variant: markdown
 |Ms Wong Sook Fong Shirley|wong_sook_fong@moe.edu.sg|
 |Mrs  Yong-Liow Chai Leng|liow_chai_leng@moe.edu.sg|
 |Mdm Mok Yee Wan (Mrs Lai)|lai_kin_sen@moe.edu.sg|
-|Ms Lee Pei Sen|-|
 |Mr Ya'acob Bin Abu Bakar|yaacob_b_abu_bakar@moe.edu.sg|
-|Ms Chan Sock Cheng|-|
+|Ms Chan Sock Cheng|chan_sock_cheng@moe.edu.sg
