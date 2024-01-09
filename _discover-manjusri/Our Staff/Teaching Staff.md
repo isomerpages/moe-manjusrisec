@@ -86,7 +86,7 @@ variant: markdown
 |   | Ms Lee Wai Ying Winnie (FAJT)| winnie_lee_wai_ying_a@moe.edu.sg| 
 |  4G| Mdm Bao Bing Qing| bao_bingqing@moe.edu.sg| 
 |   | Mr Lim Xu Yao| lim_xu_yao@moe.edu.sg| 
-|  5A| Ms Salina Binte Abdul Majid| salina_abdul_majid@moe.edu.sg| 
+|  5A| Ms Salina Binte Abdul Majid - Senior Teacher (CCE)| salina_abdul_majid@moe.edu.sg| 
 |   | Mr Ting Kok Thiam| ting_kok_thiam@moe.edu.sg| 
 
 ##### **Other Teachers**	
