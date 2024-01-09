@@ -41,7 +41,7 @@ variant: markdown
 |   | Ms Mary Rose P Gonsalvez| mary_rose_p_gonsalvez@moe.edu.sg| 
 |   | Ms Sharon Chia Xiaoxuan (FAJT)| sharon_chia_xiao_xuan@moe.edu.sg| 
 |  2-6| Ms Loi Wee Kin| loi_wee_kin@moe.edu.sg| 
-|   | Mr Sulaiman Bin Zainal | sulaiman_zainal@moe.edu.sg| 
+|   | Mr Sulaiman Bin Zainal Senior Teacher (Educational Support) | sulaiman_zainal@moe.edu.sg| 
 |   | Mr Ng Jia Jun Justin| ng_jia_jun_justin@moe.edu.sg| 
 |  2-7| Ms Nur Atiqah Binti Abdul Fattah| nur_atiqah_abdul_fattah@moe.edu.sg| 
 |   | Dr Lim Si Hui| lim_si_hui@moe.edu.sg| 
