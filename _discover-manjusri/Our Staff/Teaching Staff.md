@@ -41,7 +41,7 @@ variant: markdown
 |   | Ms Mary Rose P Gonsalvez| mary_rose_p_gonsalvez@moe.edu.sg| 
 |   | Ms Sharon Chia Xiaoxuan (FAJT)| sharon_chia_xiao_xuan@moe.edu.sg| 
 |  2-6| Ms Loi Wee Kin| loi_wee_kin@moe.edu.sg| 
-|   | Mr Sulaiman Bin Zainal | sulaiman_zainal@moe.edu.sg| 
+|   | Mr Sulaiman Bin Zainal <br>- Senior Teacher (Educational Support) | sulaiman_zainal@moe.edu.sg| 
 |   | Mr Ng Jia Jun Justin| ng_jia_jun_justin@moe.edu.sg| 
 |  2-7| Ms Nur Atiqah Binti Abdul Fattah| nur_atiqah_abdul_fattah@moe.edu.sg| 
 |   | Dr Lim Si Hui| lim_si_hui@moe.edu.sg| 
@@ -55,7 +55,7 @@ variant: markdown
 |  3N2| Mr Tay Tse Min Daniel| tay_tse_min_daniel@moe.edu.sg| 
 |   | Mr Mohd Jawahir B Ahmat| mohd_jawahir_ahmat@moe.edu.sg| 
 |   | Mrs Pak-Yap Wei Ling Evelynn| yap_wei_ling_evelynn@moe.edu.sg| 
-|  3N3| Ms Faith Kaylie Ong Yi Cheng| faith_kaylie_ong@moe.edu.sg| 
+|  3N3| Ms Faith Kaylie Ong Yi Cheng <br>- Lead Teacher (English Language)| faith_kaylie_ong@moe.edu.sg| 
 |   | Mr Ng Hong Ghee| ng_hong_ghee@moe.edu.sg| 
 |   | Mdm Mok Yee Wan (Mrs Lai) (FAJT)| lai_kin_sen@moe.edu.sg| 
 |  3D| Ms Lee Li Yun| lee_li_yun@moe.edu.sg| 
@@ -86,7 +86,7 @@ variant: markdown
 |   | Ms Lee Wai Ying Winnie (FAJT)| winnie_lee_wai_ying_a@moe.edu.sg| 
 |  4G| Mdm Bao Bing Qing| bao_bingqing@moe.edu.sg| 
 |   | Mr Lim Xu Yao| lim_xu_yao@moe.edu.sg| 
-|  5A| Ms Salina Binte Abdul Majid| salina_abdul_majid@moe.edu.sg| 
+|  5A| Ms Salina Binte Abdul Majid <br>- Senior Teacher (CCE)| salina_abdul_majid@moe.edu.sg| 
 |   | Mr Ting Kok Thiam| ting_kok_thiam@moe.edu.sg| 
 
 ##### **Other Teachers**	
