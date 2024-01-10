@@ -20,6 +20,7 @@ variant: markdown
 |   | Ms Erica Reyes Rodriguez| erica_reyes_rodriguez@moe.edu.sg| 
 |  1-4| Ms Darul Ellia Binte Zulkarnain| darul_ellia_zulkarnain@moe.edu.sg| 
 |   | Ms Loh Tzi Wui Natasha| loh_tzi_wui_natasha@moe.edu.sg| 
+||Ms Quek Kar Men|quek_kar_men@moe.edu.sg|
 |  1-5| Ms Jurana Binte Abdul Rahim| jurana_abdul_rahim@moe.edu.sg| 
 |   | Ms Tee Beng Lian Serene - AED TL| tee_beng_lian@moe.edu.sg| 
 |  1-6| Ms Sun Guangpu| sun_guangpu@moe.edu.sg| 
@@ -102,7 +103,6 @@ variant: markdown
 |Ms Tan Hsiao Wey|tan_hsiao_wey@moe.edu.sg|
 |Ms Tan Tien Tien Victoria Lynn |victoria_lynn_tan_tien@moe.edu.sg|
 |Ms  Tay Kar Yen Amanda|tay_kar_yen_amanda@moe.edu.sg|
-|Ms Quek Kar Men|quek_kar_men@moe.edu.sg|
 
 ##### **Flexi-Adjunct Teachers**	
 
@@ -119,5 +119,7 @@ variant: markdown
 |Mrs  Yong-Liow Chai Leng|liow_chai_leng@moe.edu.sg|
 |Mr Sim Seng Huat|sim_seng_huat@moe.edu.sg|
 |Mdm Mok Yee Wan (Mrs Lai)|lai_kin_sen@moe.edu.sg|
+|Mdm See Khooi Sim Catherine|see_khooi_sim_catherine@moe.edu.sg
 |Mr Ya'acob Bin Abu Bakar|yaacob_b_abu_bakar@moe.edu.sg|
 |Ms Chan Sock Cheng|chan_sock_cheng@moe.edu.sg
+|Mdm Cheong Siew Yie|cheong_siew_yie@moe.edu.sg|
