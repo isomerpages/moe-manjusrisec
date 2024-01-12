@@ -50,13 +50,13 @@ variant: markdown
 |  3A| Mr Ang Soon Hock Andrew| ang_soon_hock_andrew@moe.edu.sg| 
 |   | Ms Tan Shi Jia| tan_shi_jia@moe.edu.sg| 
 |   | Ms Pang Chiaw Yong (FAJT)| pang_chiaw_yong_a@moe.edu.sg| 
-|  3N1| Mr Ong Boon Siong| ong_boon_siong@moe.edu.sg| 
+|  3B1| Mr Ong Boon Siong| ong_boon_siong@moe.edu.sg| 
 |   | Mdm Rozita Bte Husain (CAJT)| rozita_husain@moe.edu.sg| 
 |   | Ms Goh Pei Shan| goh_pei_shan@moe.edu.sg| 
-|  3N2| Mr Tay Tse Min Daniel| tay_tse_min_daniel@moe.edu.sg| 
+|  3B2| Mr Tay Tse Min Daniel| tay_tse_min_daniel@moe.edu.sg| 
 |   | Mr Mohd Jawahir B Ahmat| mohd_jawahir_ahmat@moe.edu.sg| 
 |   | Mrs Pak-Yap Wei Ling Evelynn| yap_wei_ling_evelynn@moe.edu.sg| 
-|  3N3| Ms Faith Kaylie Ong Yi Cheng <br>- Lead Teacher (English Language)| faith_kaylie_ong@moe.edu.sg| 
+|  3B3| Ms Faith Kaylie Ong Yi Cheng <br>- Lead Teacher (English Language)| faith_kaylie_ong@moe.edu.sg| 
 |   | Mr Ng Hong Ghee| ng_hong_ghee@moe.edu.sg| 
 |   | Mdm Mok Yee Wan (Mrs Lai) (FAJT)| lai_kin_sen@moe.edu.sg| 
 |  3D| Ms Lee Li Yun| lee_li_yun@moe.edu.sg| 
