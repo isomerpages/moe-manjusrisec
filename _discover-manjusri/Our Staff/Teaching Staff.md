@@ -103,11 +103,6 @@ variant: markdown
 |Ms Tan Hsiao Wey|tan_hsiao_wey@moe.edu.sg|
 |Ms Tan Tien Tien Victoria Lynn |victoria_lynn_tan_tien@moe.edu.sg|
 |Ms  Tay Kar Yen Amanda|tay_kar_yen_amanda@moe.edu.sg|
-
-##### **Flexi-Adjunct Teachers**	
-
-|Name|Email| 
-| -------- | -------- |
 |Ms Pang Chiaw Yong|pang_chiaw_yong_a@moe.edu.sg|
 |Ms Sharon Chia Xiao Xuan|sharon_chia_xiao_xuan@moe.edu.sg|
 |Miss Ser Kia Hwee|ser_kia_hwee@moe.edu.sg|
