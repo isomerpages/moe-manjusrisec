@@ -29,7 +29,7 @@ sections:
         registering their strongest performance at the GCE O level examinations
         of the past five years...
       button: Click here to read more
-      url: https://go.gov.sg/mjrsec1registration
+      url: /spotlight/permalink/gce-o-level-exam-2023-results/
       alt: Image alt text
       image: /images/Spotlight/O Result 2023/O_Result_1.jpg
   - infopic:
