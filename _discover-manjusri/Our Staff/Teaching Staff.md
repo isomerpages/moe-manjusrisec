@@ -32,7 +32,7 @@ variant: markdown
 |  2-2| Ms Alexandra Pang Yan Feng| pang_yanfeng_alexandra@moe.edu.sg| 
 |   | Ms Sunarti Mochtar| sunarti_mochtar@moe.edu.sg| 
 |   | Ms Ho Poh Choo Adrienne| adrienne_ho_poh_choo@moe.edu.sg| 
-|  2-3| Ms Rose Binte Ibrahim (PTES)| rose_ibrahim@moe.edu.sg| 
+|  2-3| Ms Rose Binte Ibrahim| rose_ibrahim@moe.edu.sg| 
 |   | Ms Vivian Tan Siew Boon| tan_siew_boon_vivian@moe.edu.sg| 
 |   | Ms Mellissa Seow Xuemei| seow_xuemei_mellissa@moe.edu.sg| 
 |  2-4| Mr Shuai Dong Xing| shuai_dongxing@moe.edu.sg| 
@@ -98,8 +98,8 @@ variant: markdown
 |Mr Lim Chiang Long Max|lim_chiang_long@moe.edu.sg|
 |Dr Muhammad Mubarak Bin Habib|muhammad_mubarak_habib_md@moe.edu.sg|
 |Ms  Nurul A'mirah Binte Mohd Kamal|nurul_amirah_mohd_kamal@moe.edu.sg|
-|Mdm Pan Ping (PTES)|pan_ping@moe.edu.sg|
-|Ms  Tan Ai Hua (PTES)|tan_ai_hua@moe.edu.sg|
+|Mdm Pan Ping|pan_ping@moe.edu.sg|
+|Ms  Tan Ai Hua|tan_ai_hua@moe.edu.sg|
 |Ms Tan Hsiao Wey|tan_hsiao_wey@moe.edu.sg|
 |Ms Tan Tien Tien Victoria Lynn |victoria_lynn_tan_tien@moe.edu.sg|
 |Ms  Tay Kar Yen Amanda|tay_kar_yen_amanda@moe.edu.sg|
