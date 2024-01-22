@@ -58,12 +58,12 @@ b.	Character and Citizenship Education (CCE)
 
 _**eTeens**_&nbsp;**Programme**&nbsp;:
 
-<p style="text-align: justify;">8.&nbsp;<i>eTeens</i>&nbsp;is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, for Secondary 3 students to provide them with accurate information on STIs, HIV and protection from a health perspective.&nbsp;<i>eTeens</i>&nbsp;is conducted in two segments – a mass talk segment and a classroom-based programme.</p>
+8\.	eTeens is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. eTeens is conducted in two segments – a mass talk segment and a classroom-based programme. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions.
 
-9\.&nbsp; Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages.&nbsp;The desired outcome of the&nbsp;<i>eTeens</i>&nbsp;programme is that students are empowered to make wise, informed and sensible decisions.
+9\.	Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family, and the importance of responsible decision-making and seeking help. Abstinence and upholding family values are the key messages. 
 
 
-**At Manjusri Secondary School, the&nbsp;_eTeens_&nbsp;programme will be implemented as follows in 2023:**
+**At Manjusri Secondary School, the&nbsp;_eTeens_&nbsp;programme will be implemented as follows in 2024:**
 
 | Topics/Lessons          | Programme Learning Objectives            | Time Period       |
 |----------------|----------------|-------------------|
