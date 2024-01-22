@@ -21,15 +21,14 @@ variant: markdown
 
 3\. The **key messages** of Sexuality Education are:
 
-(a)&nbsp;Love and respect yourself as you love and respect others;
+(a)	Love and respect yourself as you love and respect others;<br>
+(b)	Build positive relationships based on love and respect (which are the foundation for strong families);<br>
+(c)	Make responsible decisions for yourself, your family and society; and<br>
+(d)	Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
 
-(b)&nbsp;Build positive relationships based on love and respect (which are the foundation for strong families);
+You may click here (please insert hyperlink: https://go.gov.sg/moe-sexuality-education) for more information on MOE Sexuality Education.
 
-(c)&nbsp;Make responsible decisions for yourself, your family and society; and
 
-(d)&nbsp;Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
-
-You may&nbsp;click&nbsp;[here](https://go.gov.sg/moe-sexuality-education)&nbsp;for more information on MOE Sexuality Education. 
 
 **Overview of Manjusri Secondary School’s Sexuality Education Programme for 2023**
 
