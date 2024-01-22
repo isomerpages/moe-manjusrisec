@@ -67,7 +67,7 @@ _**eTeens**_&nbsp;**Programme**&nbsp;:
 
 | Topics/Lessons          | Programme Learning Objectives            | Time Period       |
 |----------------|----------------|-------------------|
-| Mass Talk by HPB appointed vendor | Awareness of the different STIs and HIV/AIDS<br><br>Modes of transmission<br><br>Modes of protection, specifically on how the condom is used<br><br>Consequences and impact of STIs/HIV<br> | Term 3 <br>Week 3 |
+| Mass Talk by HPB appointed vendor | Raise awareness and provide knowledge on:<br>a)	Infectious diseases (STIs and HIV): what it is, how it spreads, how to prevent infection mainly through ABC (abstinence, being faithful, correct, and consistent condom use).<br>Managing relationships and risky situations in a healthy way.<br> | Term 3 <br>Week 2 |
 | Classroom-based Lesson            | Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making<br>                                                               | Term 3 <br>Week 3 |
 
 
