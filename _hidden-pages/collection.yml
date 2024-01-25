@@ -1,0 +1,13 @@
+collections:
+  hidden-pages:
+    output: true
+    order:
+      - News.md
+      - School Calendar.md
+      - Links.md
+      - Contact Us/.keep
+      - Contact Us/Location Map & Travel Information.md
+      - Contact Us/School Contact Details.md
+      - privacy.md
+      - terms-of-use.md
+      - faq.md
