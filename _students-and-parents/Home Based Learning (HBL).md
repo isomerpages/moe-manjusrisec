@@ -2,6 +2,7 @@
 title: Home Based Learning (HBL)
 permalink: /students-and-parents/home-based-learning-hbl/
 description: ""
+variant: markdown
 ---
 ### **Home-Based Learning (HBL)**
 
@@ -10,11 +11,8 @@ description: ""
 
 
 2\. Password reset   
-Manjusrisec Gmail :&nbsp; <a href="/images/Students%20and%20Parents/Gmail%20Password%20Reset%20Using%20Mobile%20Phone.jpg" target="_blank">Self reset guide</a>&nbsp;or&nbsp;<a href="https://form.gov.sg/#!/5d01dc550816b400111ce980" target="_blank">here</a>.    
+ICON Email / MIMS Login :&nbsp; <a href="https://form.gov.sg/#!/5d01dc550816b400111ce980" target="_blank">here</a>.    
 SLS : FTs, Subject Teachers or&nbsp;<a href="https://form.gov.sg/#!/5d01dc550816b400111ce980" target="_blank">here</a>.    
-IAMS (Windows Login) :&nbsp;<a href="https://form.gov.sg/#!/5d01dc550816b400111ce980" target="_blank">here</a>.
-
-
 
 3.&nbsp;  <a href="/files/Hbl/Use%20Google%20Meet%20for%20HBL%20(student).pdf" target="_blank">Guide</a>&nbsp;for using Google Meet during HBL
 
