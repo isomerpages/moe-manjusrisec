@@ -73,7 +73,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>CCA Schedule</p>
+<p>2024 CCA Schedule</p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -84,7 +84,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Timetable &amp; Schedules/2024 TT/CCA_Schedule_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 CCA Schedule</a>
+<p><a href="/files/Timetable &amp; Schedules/2024 TT/CCA_Schedule_2024_v2.pdf" rel="noopener noreferrer nofollow" target="_blank">CCA Schedule</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
