@@ -15,7 +15,7 @@ variant: markdown
 
 **Crossing The Road Safely**
 
-<img src="/images/Students%20and%20Parents/Safety%20and%20Emergency/Road%20safety/safe1b.jpg" style="width:25%; float:left; padding:10px">Do not play or use gadgets like handphones, MP3 and PSP. Always be attentive and alert on road.<br clear="left">
+<img src="/images/Students%20and%20Parents/Safety%20and%20Emergency/Road%20safety/safe1b.jpg" style="width:25%; float:left; padding:10px">Do not play or use gadgets like handphones, music player or gaming devices. Do not wear your headpohones or ear pods. This is to ensure that you remain alert to potential danger. <br clear="left">
 
 
 
