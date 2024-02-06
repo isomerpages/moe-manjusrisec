@@ -10,7 +10,6 @@ variant: markdown
 | -------- | -------- | -------- |
 | Asian Food Stall | 29 Feb 2024 | Rice and Noodles acceptable |
 | Japanese Food Stall | 29 Feb 2024 | Rice and Noodles acceptable |
-| Vegetarian Food Stall (Buddhist)| 29 Feb 2024 | Rice and Noodles acceptable |
 
 **Application Procedure**
 
