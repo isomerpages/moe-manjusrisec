@@ -65,7 +65,7 @@ variant: markdown
 |  3E| Ms Tuan Chui Lin| tuan_chui_lin@moe.edu.sg| 
 |   | Mr Teo Kok Siong Ken| teo_kok_siong@moe.edu.sg| 
 |3F   | Ms Foo Siqi Michell| foo_siqi_michell@moe.edu.sg| 
-|   | Ms Chan Sock Cheng| -|
+|   | Ms Chan Sock Cheng| chan_sock_cheng@moe.edu.sg|
 |   | Ms Chen Chen Ada| chen_chen_b@moe.edu.sg| 
 |3G  | Mr Lee Zhong Shun| lee_zhong_shun@moe.edu.sg| 
 |  | Ms Nurjannah Binte Othman| nurjannah_othman@moe.edu.sg| 
