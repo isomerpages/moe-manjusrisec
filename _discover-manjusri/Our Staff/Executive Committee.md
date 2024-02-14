@@ -33,6 +33,7 @@ variant: markdown
 |Mr Tan Thiam Meng  |Year Head (YH/S2 &amp; S3)|tan_thiam_meng@moe.edu.sg|
 |Ms Anna Lee Kai Wen  |Year Head (YH/S1 &amp; S4/5)|anna_lee_kai_wen@moe.edu.sg|
 |Ms Tee Pei Pei  | AYH Sec 1 |tee_pei_pei@moe.edu.sg|
+|Ms Nur Atiqah | AYH Sec 2 (Ag) | nur_atiqah_abdul_fattah@moe.edu.sg|
 |Ms Tan Shi Jia  | AYH Sec 3 (Ag) |tan_shi_jia@moe.edu.sg|
 |Mrs Teh-Tay Hwee Cheng Angeline  | SH Aesthetics |tay_hwee_cheng@moe.edu.sg|
 |Ms Jurana Binte Abdul Rahim  | SH CCE (Ag) |jurana_abdul_rahim@moe.edu.sg|
@@ -41,6 +42,7 @@ variant: markdown
 |Mr Ting Kok Thiam  | SH EdTech (ICT) |ting_kok_thiam@moe.edu.sg|
 |Ms  Foo Siqi Michell  | SH EL |foo_siqi_michell@moe.edu.sg|
 |Mr Lim Xu Yao  | SH Humanities |lim_xu_yao@moe.edu.sg|
+|Ms Amira Begum | SH Malay|amira_begum_abdul_naseer@moe.edu.sg|
 |Ms  Goh Pei Shan  | SH Mathematics |goh_pei_shan@moe.edu.sg|
 | Mr Han Ah Teck Michael   | SH Partnerships |han_ah_teck@moe.edu.sg|
 |Ms Alexandra Pang Yan Feng  | SH Student WellBeing (Ag) |pang_yanfeng_alexandra@moe.edu.sg|
