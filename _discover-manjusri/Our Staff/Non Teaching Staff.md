@@ -51,7 +51,6 @@ variant: markdown
 | Name | Designation |Email
 | -------- | -------- | ----------|
 |Ms Goh Qian Lei Krystal |School Counsellor|goh_qian_lei_krystal@moe.edu.sg|
-|Mr Jonathan Xie Weixing |School Counsellor|jonathan_xie_weixing@moe.edu.sg|
 |Ms Huang Zheng |FASC|huang_zheng@moe.edu.sg|
 |Ms Lim Gek Ching Lyne |SENO|lim_gek_ching_lyne@moe.edu.sg|
 |Mdm  Suzila Binte Mohamed Sulaiman |SENO|suzila_mohd_sulaiman@moe.edu.sg|
