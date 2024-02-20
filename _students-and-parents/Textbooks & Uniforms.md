@@ -31,6 +31,6 @@ variant: markdown
 
 | School Uniform               |                |
 |------|-------------------|
-| Supplier:                                                     | [My Uniform Shop (ASIA) Pte Ltd](https://www.myuniformshop.com.sg/contact)<br><br>Blk 209 New Upper Changi Road<br><br>#03-651<br><br>Singapore 460209<br><br>  <a href="/files/Textbooks%20&amp;%20Uniforms/MJR%20Size%20Chart.pdf" target="_blank">School Uniform Size Chart</a> <br><br><a href="/files/Textbooks%20&amp;%20Uniforms/New%20Uniform%20Price%20wef%201%20Nov%202022%20and%20with%20GST%20increase%20in%202023.pdf" target="_blank">School Uniform Price List</a> |
+| Supplier:                                                     | [My Uniform Shop (ASIA) Pte Ltd](https://www.myuniformshop.com.sg/contact)<br><br>Blk 209 New Upper Changi Road<br><br>#03-651<br><br>Singapore 460209<br><br>  <a href="/files/Textbooks%20&amp;%20Uniforms/MJR%20Size%20Chart.pdf" target="_blank">School Uniform Size Chart</a> <br><br> [School Uniform Price List](/files/Textbooks%20&amp;%20Uniforms/2024%20booklist/2024_Uniform_Price_List.pdf)|
 | Opening Hours:                                                | Wednesday to Friday: 3.00 pm to 8.00 pm<br><br>Saturday: 10.00 am to 4.00 pm<br><br><u>Closed on Sunday TO Tuesday and Public Holiday</u><br><br>Tel: +65 62766689  |
 | For urgent orders, please contact Mr Victor Zhang at 94236150 |                                  |
