@@ -75,32 +75,20 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p>2024 CCA Schedule</p>
 </th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Timetable &amp; Schedules/2024 TT/March_Hols_CCA_Schedule_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">March Holiday CCA Schedule</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="/files/Timetable &amp; Schedules/2024 TT/CCA_Schedule_2024_v2.pdf" rel="noopener noreferrer nofollow" target="_blank">CCA Schedule</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
