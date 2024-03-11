@@ -12,7 +12,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>2024 Semester 1 Timetable</p>
+<p>2024 Semester 1 Timetable (updated wef from 18 March)</p>
 </th>
 </tr>
 <tr>
