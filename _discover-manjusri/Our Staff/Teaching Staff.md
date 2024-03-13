@@ -119,5 +119,5 @@ variant: markdown
 |Mr Izham Bin Sidek|izham_sidek@moe.edu.sg|
 |Mr Ya'acob Bin Abu Bakar|yaacob_b_abu_bakar@moe.edu.sg|
 |Ms Chan Sock Cheng|chan_sock_cheng@moe.edu.sg|
-|Ms Neo Soh Cheng|neo_soh_cheng@moe.edu.sg|
+|Ms Neo Soh Cheng|neo_soh_cheng_b@moe.edu.sg|
 |Mdm Cheong Siew Yie|cheong_siew_yie@moe.edu.sg|
