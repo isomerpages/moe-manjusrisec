@@ -115,7 +115,9 @@ variant: markdown
 |Mrs  Yong-Liow Chai Leng|liow_chai_leng@moe.edu.sg|
 |Mr Sim Seng Huat|sim_seng_huat@moe.edu.sg|
 |Mdm Mok Yee Wan (Mrs Lai)|lai_kin_sen@moe.edu.sg|
-|Mdm See Khooi Sim Catherine|see_khooi_sim_catherine@moe.edu.sg
+|Mdm See Khooi Sim Catherine|see_khooi_sim_catherine@moe.edu.sg|
+|Mr Izham Bin Sidek|izham_sidek@moe.edu.sg|
 |Mr Ya'acob Bin Abu Bakar|yaacob_b_abu_bakar@moe.edu.sg|
-|Ms Chan Sock Cheng|chan_sock_cheng@moe.edu.sg
+|Ms Chan Sock Cheng|chan_sock_cheng@moe.edu.sg|
+|Ms Neo Soh Cheng|neo_soh_cheng@moe.edu.sg|
 |Mdm Cheong Siew Yie|cheong_siew_yie@moe.edu.sg|
