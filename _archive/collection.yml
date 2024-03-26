@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - National Day Awards 2023.md
       - Road Run 2023.md
       - Excellence in Uniformed Groups 2023.md
       - MJR @ SYF Arts Presentations 2023.md
