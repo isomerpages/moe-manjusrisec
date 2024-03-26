@@ -27,8 +27,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/news/permalink/nd-awards-2023/" rel="noopener noreferrer nofollow" target="_blank">National Day Awards 2023</a>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
