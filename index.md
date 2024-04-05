@@ -22,6 +22,14 @@ sections:
           url: /contact-us/school-contact-details/
       background: /images/homepage1.gif
   - infopic:
+      title: 42nd School Anniversary
+      subtitle: spotlight
+      id: infopic
+      button: Click here for programme booklet
+      url: https://heyzine.com/flip-book/2f619a24a1.html
+      image: /images/Spotlight/2024_42nd_Sch_Anni_poster__landscape__1_.jpg
+      alt: 42nd School Anniversary
+  - infopic:
       title: GCE O Level Examination 2023 Results
       subtitle: Spotlight
       id: infopic
