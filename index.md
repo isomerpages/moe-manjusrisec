@@ -26,7 +26,7 @@ sections:
       subtitle: spotlight
       id: infopic
       button: Click here for programme booklet
-      url: /spotlight/permalink/42nd-school-anniversary/
+      url: /42nd-school-anniversary/
       image: /images/Spotlight/2024_42nd_Sch_Anni_poster__landscape__1_.jpg
       alt: 42nd School Anniversary
   - infopic:
