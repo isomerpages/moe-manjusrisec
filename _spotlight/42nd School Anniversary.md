@@ -5,6 +5,8 @@ variant: tiptap
 description: ""
 image: /images/Spotlight/2024_42nd_Sch_Anni_poster__landscape__1_.jpg
 ---
+<p></p>
+<p></p>
 <p>Please scan the QR code to access the Programme Booklet</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="42nd School Anniversary Programme Booklet" src="/images/Spotlight/42nd_sch_anni_prog_booklet.png">
