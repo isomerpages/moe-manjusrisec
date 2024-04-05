@@ -52,4 +52,12 @@ sections:
       url: /spotlight/permalink/graduation-day-2023
       image: /images/Spotlight/Grad 2023/dsc_0046.JPG
       alt: Image alt text
+  - infopic:
+      title: 42nd School Anniversary
+      subtitle: spotlight
+      id: infopic
+      button: Click here for programme booklet
+      url: t
+      image: /images/Spotlight/2024_42nd_Sch_Anni_poster__landscape__1_.jpg
+      alt: Image alt text
 ---
