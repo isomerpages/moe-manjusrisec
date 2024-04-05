@@ -22,6 +22,14 @@ sections:
           url: /contact-us/school-contact-details/
       background: /images/homepage1.gif
   - infopic:
+      title: 42nd School Anniversary
+      subtitle: spotlight
+      id: infopic
+      button: Click here for programme booklet
+      url: https://cms.isomer.gov.sg/files/News/42_Sch_Anni_Prog_Booklet.pdf
+      image: /images/Spotlight/2024_42nd_Sch_Anni_poster__landscape__1_.jpg
+      alt: Image alt text
+  - infopic:
       title: GCE O Level Examination 2023 Results
       subtitle: Spotlight
       id: infopic
@@ -51,13 +59,5 @@ sections:
       button: Click here to read more
       url: /spotlight/permalink/graduation-day-2023
       image: /images/Spotlight/Grad 2023/dsc_0046.JPG
-      alt: Image alt text
-  - infopic:
-      title: 42nd School Anniversary
-      subtitle: spotlight
-      id: infopic
-      button: Click here for programme booklet
-      url: t
-      image: /images/Spotlight/2024_42nd_Sch_Anni_poster__landscape__1_.jpg
       alt: Image alt text
 ---
