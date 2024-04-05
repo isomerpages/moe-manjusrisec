@@ -26,7 +26,7 @@ sections:
       subtitle: spotlight
       id: infopic
       button: Click here for programme booklet
-      url: https://heyzine.com/flip-book/2f619a24a1.html
+      url: /42nd-school-anniversary/
       image: /images/Spotlight/2024_42nd_Sch_Anni_poster__landscape__1_.jpg
       alt: 42nd School Anniversary
   - infopic:
