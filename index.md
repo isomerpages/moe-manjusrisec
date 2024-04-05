@@ -28,6 +28,7 @@ sections:
       button: Click here for programme booklet
       url: https://heyzine.com/flip-book/2f619a24a1.html
       image: /images/Spotlight/2024_42nd_Sch_Anni_poster__landscape__1_.jpg
+      alt: 42nd School Anniversary
   - infopic:
       title: GCE O Level Examination 2023 Results
       subtitle: Spotlight
