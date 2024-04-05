@@ -26,7 +26,7 @@ sections:
       subtitle: spotlight
       id: infopic
       button: Click here for programme booklet
-      url: https://cms.isomer.gov.sg/files/News/42_Sch_Anni_Prog_Booklet.pdf
+      url: https://heyzine.com/flip-book/2f619a24a1.html
       image: /images/Spotlight/2024_42nd_Sch_Anni_poster__landscape__1_.jpg
       alt: Image alt text
   - infopic:
