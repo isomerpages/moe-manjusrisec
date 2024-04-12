@@ -18,6 +18,21 @@ image: /images/memory_lane.jpg
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="/spotlight/mjr-syf-2023/" rel="noopener noreferrer nofollow" target="_blank">MJR @ SYF Arts Presentations 2023</a>
 </p>
 </td>
