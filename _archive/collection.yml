@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - GCE O Level Examination 2023 Results.md
       - GCE N Level Exam Results 2023.md
       - Graduation Day 2023.md
       - National Day Awards 2023.md
