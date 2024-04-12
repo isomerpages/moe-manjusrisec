@@ -49,8 +49,8 @@ students; and was the&nbsp;1st or 2nd choice&nbsp;of 79% of posted students.
 The mean AL aggregate for the cohort had also improved. Pupils from our
 affiliated primary schools (Maha Bodhi School &amp; Mee Toh School) made
 up 34% of the Sec 1 cohort.&nbsp; We have implemented Full Subject Based
-Banding with classes are formed in mixed grouping of students offering
-G1, G2 &amp; G3 level subjects.
+Banding with classes formed in mixed grouping of students offering G1,
+G2 &amp; G3 level subjects.
 <br>
 <br>My teachers and I look forward to collaborating with parents, partners
 and community to provide a balanced all-round education for our pupils;
