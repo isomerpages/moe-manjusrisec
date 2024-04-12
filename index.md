@@ -22,6 +22,16 @@ sections:
           url: /contact-us/school-contact-details/
       background: /images/homepage1.gif
   - infopic:
+      title: Art Fiesta II
+      subtitle: spotlight
+      id: infopic
+      description: Manjusri Secondary School held its Biennial Art Fiesta II on 7
+        April, at the Singapore Conference Hall...
+      button: click here to read more
+      url: /art-fiesta-ii/
+      image: /images/Spotlight/singing_of_School_Song_by_all_performers.jpg
+      alt: Image alt text
+  - infopic:
       title: 42nd School Anniversary
       subtitle: spotlight
       id: infopic
@@ -59,15 +69,5 @@ sections:
       button: Click here to read more
       url: /spotlight/permalink/graduation-day-2023
       image: /images/Spotlight/Grad 2023/dsc_0046.JPG
-      alt: Image alt text
-  - infopic:
-      title: Art Fiesta II
-      subtitle: spotlight
-      id: infopic
-      description: Manjusri Secondary School held its Biennial Art Fiesta II on 7
-        April, at the Singapore Conference Hall...
-      button: click here to read more
-      url: /art-fiesta-ii/
-      image: /images/Spotlight/singing_of_School_Song_by_all_performers.jpg
       alt: Image alt text
 ---
