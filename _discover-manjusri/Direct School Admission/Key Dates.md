@@ -9,4 +9,4 @@ variant: markdown
 
 | Time Period                  | Key Activity                      |
 |------------------------|-------------------------|
-|-                                   | -|
+|3 May 2023                                        | DSA-Sec @ Manjusri Launched|
