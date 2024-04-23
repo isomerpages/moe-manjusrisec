@@ -25,7 +25,7 @@ criteria is premised on the applicants’ aptitude and interests in either:</p>
 </p>
 <p>5.&nbsp;&nbsp;&nbsp;&nbsp; <strong><u>Wushu; or</u></strong>
 </p>
-<p>6.&nbsp;&nbsp;&nbsp;&nbsp; <strong><u>Chinese Calligraphy</u> </strong>
+<p>6.&nbsp;&nbsp;&nbsp;&nbsp; <strong><u>Chinese Calligraphy</u></strong>
 </p>
 <p>For more information in the DSA-Sec talent area, please click on the respective
 above link.</p>
