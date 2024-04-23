@@ -15,17 +15,16 @@ on their PSLE results through the Secondary 1 (S1) Posting.</p>
 <p>&nbsp;Manjusri Secondary School admits students through the Direct School
 Admission – Secondary Schools exercise (DSA-Sec). Our DSA-Sec selection
 criteria is premised on the applicants’ aptitude and interests in either:</p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong><u>Chinese Dance;</u>&nbsp;</strong>
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="/cca/performing-arts/chinese-dance/" rel="noopener noreferrer nofollow" target="_blank">Chinese Dance</a><strong>&nbsp;</strong>
 </p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp; <strong><u>Chinese Orchestra;</u></strong>
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp; <a href="/cca/performing-arts/chinese-orchestra/" rel="noopener noreferrer nofollow" target="_blank">Chinese Orchestra</a>
 </p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp; <strong><u>Choir;</u></strong>
+<p>3.&nbsp;&nbsp;&nbsp;&nbsp; <a href="/cca/performing-arts/choir/" rel="noopener noreferrer nofollow" target="_blank">Choir</a>
 </p>
-<p>4.&nbsp;&nbsp;&nbsp;&nbsp; <strong><u>Concert Band;</u></strong>
+<p>4.&nbsp;&nbsp;&nbsp;&nbsp; <a href="/cca/performing-arts/concert-band/" rel="noopener noreferrer nofollow" target="_blank">Concert Band</a>
 </p>
-<p>5.&nbsp;&nbsp;&nbsp;&nbsp; <strong><u>Wushu; or</u></strong>
-</p>
-<p>6.&nbsp;&nbsp;&nbsp;&nbsp; <strong><u>Chinese Calligraphy</u></strong>
+<p>5.&nbsp;&nbsp;&nbsp;&nbsp; <a href="/cca/sports/wushu/" rel="noopener noreferrer nofollow" target="_blank">Wushu</a> or</p>
+<p>6.&nbsp;&nbsp;&nbsp;&nbsp; <a href="/cca/clubs-and-societies/chinese-calligraphy/" rel="noopener noreferrer nofollow" target="_blank">Chinese Calligraphy</a>
 </p>
 <p>For more information in the DSA-Sec talent area, please click on the respective
 above link.</p>
