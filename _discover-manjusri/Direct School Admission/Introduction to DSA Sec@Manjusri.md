@@ -15,16 +15,17 @@ on their PSLE results through the Secondary 1 (S1) Posting.</p>
 <p>&nbsp;Manjusri Secondary School admits students through the Direct School
 Admission – Secondary Schools exercise (DSA-Sec). Our DSA-Sec selection
 criteria is premised on the applicants’ aptitude and interests in either:</p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="/cca/performing-arts/chinese-dance/" rel="noopener noreferrer nofollow" target="_blank">Chinese Dance</a><strong>&nbsp;</strong>
+<p><strong>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="/cca/performing-arts/chinese-dance/" rel="noopener noreferrer nofollow" target="_blank">Chinese Dance</a>&nbsp;</strong>
 </p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp; <a href="/cca/performing-arts/chinese-orchestra/" rel="noopener noreferrer nofollow" target="_blank">Chinese Orchestra</a>
+<p><strong>2.&nbsp;&nbsp;&nbsp;&nbsp; <a href="/cca/performing-arts/chinese-orchestra/" rel="noopener noreferrer nofollow" target="_blank">Chinese Orchestra</a></strong>
 </p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp; <a href="/cca/performing-arts/choir/" rel="noopener noreferrer nofollow" target="_blank">Choir</a>
+<p><strong>3.&nbsp;&nbsp;&nbsp;&nbsp; <a href="/cca/performing-arts/choir/" rel="noopener noreferrer nofollow" target="_blank">Choir</a></strong>
 </p>
-<p>4.&nbsp;&nbsp;&nbsp;&nbsp; <a href="/cca/performing-arts/concert-band/" rel="noopener noreferrer nofollow" target="_blank">Concert Band</a>
+<p><strong>4.&nbsp;&nbsp;&nbsp;&nbsp; <a href="/cca/performing-arts/concert-band/" rel="noopener noreferrer nofollow" target="_blank">Concert Band</a></strong>
 </p>
-<p>5.&nbsp;&nbsp;&nbsp;&nbsp; <a href="/cca/sports/wushu/" rel="noopener noreferrer nofollow" target="_blank">Wushu</a> or</p>
-<p>6.&nbsp;&nbsp;&nbsp;&nbsp; <a href="/cca/clubs-and-societies/chinese-calligraphy/" rel="noopener noreferrer nofollow" target="_blank">Chinese Calligraphy</a>
+<p><strong>5.&nbsp;&nbsp;&nbsp;&nbsp; <a href="/cca/sports/wushu/" rel="noopener noreferrer nofollow" target="_blank">Wushu</a> or</strong>
+</p>
+<p><strong>6.&nbsp;&nbsp;&nbsp;&nbsp; <a href="/cca/clubs-and-societies/chinese-calligraphy/" rel="noopener noreferrer nofollow" target="_blank">Chinese Calligraphy</a></strong>
 </p>
 <p>For more information in the DSA-Sec talent area, please click on the respective
 above link.</p>
