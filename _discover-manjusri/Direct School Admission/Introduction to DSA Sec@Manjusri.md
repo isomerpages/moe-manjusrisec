@@ -31,5 +31,5 @@ criteria is premised on the applicants’ aptitude and interests in either:</p>
 above link.</p>
 <p>The selection criteria and process for the talent areas will be updated
 from early-May. For more information DSA-Sec, please refer to MOE website
-at <a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>
+at <a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>
 </p>
