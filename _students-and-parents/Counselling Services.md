@@ -4,13 +4,13 @@ permalink: /students-and-parents/counselling-services/
 description: ""
 variant: tiptap
 ---
-<h2><strong>What is School Counselling @ MJR?</strong></h2>
+<h3><strong>What is School Counselling @ MJR?</strong></h3>
 <p>In Manjusri Secondary School, counselling is a collaborative process in
 which the counsellor facilitates the expansion of the Student’s view of
 life, enlarges his/her repertoire of social and emotional skills and coping
 resources, to make choices for change in himself or herself. Each counselling
 session is a teachable moment for facilitating social and emotional learning.</p>
-<h2><strong>Provisions for Counselling Support</strong></h2>
+<h3><strong>Provisions for Counselling Support</strong></h3>
 <p>To provide counselling support for our students with social and emotional
 issues, our school has the following:</p>
 <p>Counselling Team, comprising:</p>
@@ -29,7 +29,7 @@ ext. 239) and Ms Huang Zheng (Mon and Wed, staffroom ext. 240).</p>
 </ul>
 <p>Both our FTSCs are located at the The Cove《学海湾》while our FAJ SCs are located
 in the staffroom.</p>
-<h3>Appointment and Referrals</h3>
+<h3><strong>Appointment and Referrals</strong></h3>
 <p>School Counsellors are available from 0730 to 1600 hr on school days.</p>
 <p>If you require counselling, you may either inform your Form Teachers,
 respective Year Heads or walk in (self-referral) to The Cove.</p>
