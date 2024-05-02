@@ -86,7 +86,7 @@ social and/or behavioural issues are as follows:</p>
 </tr>
 </tbody>
 </table>
-<h3>How can Counselling Help?</h3>
+<h3><strong>How can Counselling Help?</strong></h3>
 <p>Through the counselling process, we will seek to discover, assess and
 understand the issues, problems and concern student are experiencing and
 to explore how we can address them effectively. Counselling utilize professional
@@ -157,7 +157,7 @@ the Students being counselled.</p>
 and talks.</p>
 </li>
 </ul>
-<h4>Presenting Issues</h4>
+<h3><strong>Presenting Issues</strong></h3>
 <p>Examples of counselling case are as follow:</p>
 <ul data-tight="true" class="tight">
 <li>
