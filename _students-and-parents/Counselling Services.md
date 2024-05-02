@@ -29,40 +29,6 @@ ext. 239) and Ms Huang Zheng (Mon and Wed, staffroom ext. 240).</p>
 </ul>
 <p>Both our FTSCs are located at the The Cove《学海湾》while our FAJ SCs are located
 in the staffroom.</p>
-<table>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students%20and%20Parents/Counselling%20Services/counselling01.png">
-</div>
-<p>Counselling Room 1
-<br>( Special Block)</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students%20and%20Parents/Counselling%20Services/counselling02.png">
-</div>
-<p>Counselling Room 1</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students%20and%20Parents/Counselling%20Services/counselling03.png">
-</div>
-<p>Counselling Room 2
-<br>(CS-01-02, Level 1, CCA Block)</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students%20and%20Parents/Counselling%20Services/counselling04.png">
-</div>
-<p>Counselling Room 2</p>
-</td>
-</tr>
-</tbody>
-</table>
 <h3>Appointment and Referrals</h3>
 <p>School Counsellors are available from 0730 to 1600 hr on school days.</p>
 <p>If you require counselling, you may either inform your Form Teachers,
