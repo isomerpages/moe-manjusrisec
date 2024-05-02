@@ -64,20 +64,9 @@ in the staffroom.</p>
 </tbody>
 </table>
 <h3>Appointment and Referrals</h3>
-<p>School Counsellors are available from 0730 to 1600hrs on school days.
-On a typical day, mornings are reserved for outreach programmes, student
-interactions, briefings, workshops and handling of urgent cases. Scheduled
-counselling are by appointment.</p>
-<p><strong><u>Appointment Timings:</u></strong>
-</p>
-<p>1300 - 1400 : Counselling Session 1 on Fridays only
-<br>1400 – 1500 : Counselling Session 2.
-<br>1500 – 1600 : Counselling Session 3.</p>
-<p>In the event of an urgent case during school hours (Mondays to Fridays
-: 0700 to 1630 ), the counsellor assigned to the respective level can be
-reached at the follow locations and numbers:</p>
-<p>Counselling Rm 1 Office: 68424558 Ext 116
-<br>Counselling Rm 2 Office: 68424558 Ext 119</p>
+<p>School Counsellors are available from 0730 to 1600 hr on school days.</p>
+<p>If you require counselling, you may either inform your Form Teachers,
+respective Year Heads or walk in (self-referral) to The Cove.</p>
 <h3><strong>Education and Career Guidance (ECG) Counselling</strong></h3>
 <p>Our ECG Counsellor, Ms Samantha Woo, supports students (individually or
 in small groups) with the necessary knowledge and skills to make informed
