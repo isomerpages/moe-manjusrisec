@@ -32,14 +32,6 @@ in the staffroom.</p>
 <table>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students%20and%20Parents/Counselling%20Services/counselling01.png">
@@ -349,13 +341,13 @@ respectfully and non-intrusively.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><u>Children, Youth, Parents &amp; Family</u>
+<p><u>Children, Youth, Parents &amp; Family</u> 
 <br>
 <br>Audible Hearts
 <br>
 <br>(Supported by HPB)
 <br>
-<br><strong>Family Service Centre</strong>
+<br><strong>Family Service Centre</strong> 
 <br>
 <br><strong>(National)</strong>
 </p>
@@ -415,7 +407,7 @@ respectfully and non-intrusively.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><u>Helpline for Mandarin Speakers</u>
+<p><u>Helpline for Mandarin Speakers</u> 
 <br>
 <br>Care Corner 800
 <br>
@@ -437,11 +429,11 @@ respectfully and non-intrusively.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Learning Challenges and Special Needs</strong>
+<p><strong>Learning Challenges and Special Needs</strong> 
 <br>
 <br><strong>Dyslexia Association for Singapore (DAS) </strong>
 <br>
-<br><strong>Society for the promotion of ADHD Research and Knowledge (SPARK)</strong>
+<br><strong>Society for the promotion of ADHD Research and Knowledge (SPARK)</strong> 
 <br>
 </p>
 </td>
@@ -467,7 +459,7 @@ respectfully and non-intrusively.</p>
 <td rowspan="1" colspan="1">
 <p>Psychiatric Help
 <br>
-<br><strong><u>Child Guidance Clinic (CGC)</u></strong>
+<br><strong><u>Child Guidance Clinic (CGC)</u></strong> 
 <br>
 <br>Institute of Mental Health
 <br>
