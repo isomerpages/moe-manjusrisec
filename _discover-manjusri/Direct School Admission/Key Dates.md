@@ -43,7 +43,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>24 Jun – 9 Sep_2024</p>
+<p>24 Jun – 9 Sep 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Selection and interview of shortlisted applicants. School will email or
