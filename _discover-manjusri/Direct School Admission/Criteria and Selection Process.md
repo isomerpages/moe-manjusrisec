@@ -13,41 +13,53 @@ the area of talent.</p>
 <p>Students who are successfully admitted to the school via DSA are expected
 to honour their commitment to the school, and participate in the activities
 related to the talent they are selected for from year 1-4.</p>
-<p><strong>Chinese Dance, Chinese Orchestra, Choir or Concert Band</strong>
-</p>
+<h3><strong>Chinese Dance, Chinese Orchestra, Choir or Concert Band</strong></h3>
 <p>Applicants must be able to demonstrate an aptitude and interest in <strong>Chinese Dance</strong>, <strong>Chinese Orchestra</strong>, <strong>Choir or Concert Band</strong> through
 one or more of the following ways:</p>
-<p>§&nbsp; Represented the school in Singapore Youth Festival (SYF) Arts
-Presentation Performance;</p>
-<p>§&nbsp; Represented school/external organisation at local/international
-Performing Arts event;</p>
-<p>§&nbsp; Sustained participation in Performing Arts Co-Curricular Activities.</p>
-<p>&nbsp;</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>Wushu</strong>
-</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Represented the school in Singapore Youth Festival (SYF) Arts Presentation
+Performance;</p>
+</li>
+<li>
+<p>Represented school/external organisation at local/international Performing
+Arts event;</p>
+</li>
+<li>
+<p>Sustained participation in Performing Arts Co-Curricular Activities.</p>
+</li>
+</ul>
+<h3><strong>Wushu</strong></h3>
 <p>Applicants must be able to demonstrate an aptitude and interest in <strong>Wushu</strong> through
 one or more of the following ways:</p>
-<p>§&nbsp; Represented the school in National School Games Wushu Championships;</p>
-<p>§&nbsp; Represented school/external organisation at local/international
-Wushu event;</p>
-<p>§&nbsp; Sustained participation in Wushu Co-Curricular Activities or enrichment
+<ul data-tight="true" class="tight">
+<li>
+<p>Represented the school in National School Games Wushu Championships;</p>
+</li>
+<li>
+<p>Represented school/external organisation at local/international Wushu
+event;</p>
+</li>
+<li>
+<p>Sustained participation in Wushu Co-Curricular Activities or enrichment
 programme.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p><strong>Chinese Calligraphy</strong>
-</p>
+</li>
+</ul>
+<h3><strong>Chinese Calligraphy</strong></h3>
 <p>Applicants must be able to demonstrate an aptitude and interest in <strong>Chinese Calligraphy</strong> through
 one or more of the following ways:</p>
-<p>§&nbsp; Participated in local/international Chinese Calligraphy competition;</p>
-<p>§&nbsp; Sustained participation in Chinese Calligraphy Co-Curricular Activities;</p>
-<p>§&nbsp; Sustained participation in Chinese Calligraphy enrichment programmes<em>.</em>
+<ul data-tight="true" class="tight">
+<li>
+<p>Participated in local/international Chinese Calligraphy competition;</p>
+</li>
+<li>
+<p>Sustained participation in Chinese Calligraphy Co-Curricular Activities;</p>
+</li>
+<li>
+<p>Sustained participation in Chinese Calligraphy enrichment programmes<em>.</em>
 </p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
+</li>
+</ul>
 <p>Please note that meeting all the criteria does not guarantee the student
 will be shortlisted/given an offer.</p>
 <p>Only shortlisted applicants will be informed to attend an audition which
