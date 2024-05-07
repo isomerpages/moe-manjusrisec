@@ -14,7 +14,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Time Period</p>
+<p>Time_Period</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Key Activity</p>
