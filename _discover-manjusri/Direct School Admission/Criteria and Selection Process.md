@@ -5,6 +5,4 @@ description: ""
 third_nav_title: Direct School Admission
 variant: markdown
 ---
-# **Criteria and Selection Process**
-
-*coming soon*
+# **Criteria and Selection Process
