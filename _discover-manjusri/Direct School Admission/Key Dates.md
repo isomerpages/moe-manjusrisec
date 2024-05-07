@@ -37,7 +37,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Submission of Application via the online DSA-Sec Portal.</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>
+<p><a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>
 </p>
 </td>
 </tr>
