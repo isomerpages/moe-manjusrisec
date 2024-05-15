@@ -41,7 +41,7 @@ staff to engage in different Arts form.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Passionate Learners/Learning for Life Programme/LLP_PIC2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Passionate Learners/Learning for Life Programme/LLP_PIC2b.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
