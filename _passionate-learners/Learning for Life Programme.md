@@ -6,7 +6,8 @@ variant: tiptap
 ---
 <h4><strong>What is LLP @ MJR?</strong></h4>
 <p>Learning for Life Programme (LLP) in MJR aims to develop students through
-the ACE (Appreciate, Create and Experience) approach.</p>
+the ACE (<strong>A</strong>ppreciate, <strong>C</strong>reate and <strong>E</strong>xperience)
+approach.</p>
 <p>Our students will acquire knowledge and skills, discover their interests
 or strengths and foster sound values and positive attitudes that will strengthen
 their desire and love to learn for life in the Aesthetics domain.</p>
