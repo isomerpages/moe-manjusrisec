@@ -150,7 +150,7 @@ and develops creativity in fundamental photography.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>3.&nbsp;Morning Jams @ MJR</strong>
+<p><strong>3.&nbsp;JAMS &amp; MJR Got Talent</strong>
 </p>
 <p>Morning Jams @ MJR is a platform for students to showcase their talents
 in singing, music making and dance in performance. This allows students
