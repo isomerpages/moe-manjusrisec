@@ -46,6 +46,9 @@ staff to engage in different Arts form.</p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Passionate Learners/Learning for Life Programme/IMG_4427.jpg">
+</div>
 </th>
 </tr>
 <tr>
@@ -57,9 +60,15 @@ staff to engage in different Arts form.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Passionate Learners/Learning for Life Programme/IMG_2714.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Passionate Learners/Learning for Life Programme/IMG_2712.jpg">
+</div>
 </td>
 </tr>
 <tr>
