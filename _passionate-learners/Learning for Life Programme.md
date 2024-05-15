@@ -5,6 +5,10 @@ description: ""
 variant: tiptap
 ---
 <h4><strong>What is LLP @ MJR?</strong></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Passionate Learners/Learning for Life Programme/LLP_MJR.jpg">
+</div>
 <p>Learning for Life Programme (LLP) in MJR aims to develop students through
 the ACE (<strong>A</strong>ppreciate, <strong>C</strong>reate and <strong>E</strong>xperience)
 approach.</p>
