@@ -213,30 +213,19 @@ and teamwork.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cca/Girls%20Guides/gg6.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Cca/Girls%20Guides/gg6.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cca/Girls%20Guides/gg4.png">
+<img style="width: 94%;" height="auto" width="100%" alt="" src="/images/Cca/Girls%20Guides/gg4.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cca/Girls%20Guides/gg5.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Cca/Girls%20Guides/gg5.png">
 </div>
 </td>
 </tr>
@@ -342,7 +331,7 @@ in areas such as Gadget Making, Art and Cooking.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cca/Girls%20Guides/gg12.png">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Cca/Girls%20Guides/gg12.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -362,7 +351,7 @@ in areas such as Gadget Making, Art and Cooking.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cca/Girls%20Guides/gg17.png">
+<img style="width: 92%;" height="auto" width="100%" alt="" src="/images/Cca/Girls%20Guides/gg17.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
