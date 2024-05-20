@@ -8,7 +8,10 @@ variant: tiptap
 <p><strong>School Timetables</strong>
 </p>
 <p></p>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -47,7 +50,10 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -69,7 +75,10 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -78,7 +87,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Timetable &amp; Schedules/2024 TT/March_Hols_CCA_Schedule_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">March Holiday CCA Schedule</a>
+<p><a href="/files/Timetable &amp; Schedules/2024 TT/June_Hols_CCA_Schedule_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">June Holiday CCA Schedule</a>
 </p>
 </td>
 </tr>

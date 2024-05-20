@@ -152,10 +152,14 @@ and develops creativity in fundamental photography.</p>
 </table>
 <p><strong>3.&nbsp;JAMS &amp; MJR Got Talent</strong>
 </p>
-<p>Morning Jams @ MJR is a platform for students to showcase their talents
-in singing, music making and dance in performance. This allows students
-to perform in front of their peers in an informal setting to build up on
-their confidence.</p>
+<p>MJR JAMS is a platform for students to showcase their aesthetics skills
+and abilities such as singing, dancing, demonstrating magic and more. Performing
+in an informal setting enables the students to show support to their peers
+and gradually build the performers' confidence.</p>
+<p>Manjusri Got Talent (MGT) is a talent competition to recognise talents
+among the Manjusrians. Students and staff will cast their votes for their
+favourite performances. Students will also be given opportunities to perform
+during school celebrations or public performances.</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
