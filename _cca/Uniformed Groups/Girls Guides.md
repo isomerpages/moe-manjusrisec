@@ -133,7 +133,7 @@ from 2018 till present (2023).&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>LOW YI FAN</p>
+<p>LOW YI FAN, CALLA (LIU YIFAN) 3B</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Patrol Leader (Sunflower)</p>
@@ -141,7 +141,7 @@ from 2018 till present (2023).&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>QISTINA YURIEKA PUTERI SHAIFUL HERMI</p>
+<p>SAHANA D/O KALLIKANDA KARIPPA 3B</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Patrol Leader (Morning Glory)</p>
@@ -149,7 +149,7 @@ from 2018 till present (2023).&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>REGINA HOE SI HUI</p>
+<p>LIEW LIN JIA 3G</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Patrol Leader (Hibiscus)</p>
@@ -157,7 +157,8 @@ from 2018 till present (2023).&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>JANESS NG HUI XUAN (HUANG HUIXUAN)</p>
+<p>FRANCENE PANG WAN SIM 3B
+<br>(FRANCENE PENG WANXIN)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Patrol Leader (Jasmine)</p>
@@ -165,7 +166,7 @@ from 2018 till present (2023).&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SOH YU ANN</p>
+<p>LEI ENSHI, JAZELYNN 3A</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Patrol Second (Sunflower)</p>
@@ -173,7 +174,7 @@ from 2018 till present (2023).&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>TONG KAR WENG (TANG JIAYING)</p>
+<p>ADELE NG JING XUAN&nbsp; 2-6</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Patrol Second (Morning Glory)</p>
@@ -181,7 +182,7 @@ from 2018 till present (2023).&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>LOH JESSE</p>
+<p>PUTRI AISYAH AMELINA 2-6</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Patrol Second (Hibiscus)</p>
@@ -189,7 +190,7 @@ from 2018 till present (2023).&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>JENNA KOH LE EN</p>
+<p>HUANG XUEQI 3F</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Patrol Second(Jasmine)</p>
