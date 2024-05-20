@@ -93,7 +93,7 @@ from 2018 till present (2023).&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>TAMARA BINTE MOHAMED AMIN</p>
+<p>LUA EN QI, CELINE 3D</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Company Leader</p>
@@ -101,10 +101,10 @@ from 2018 till present (2023).&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>WONG YUE TING RACHEL</p>
+<p>JEANNE NEO JIA EN 3G</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Company Leader 1</p>
+<p>Assistant Company Leader</p>
 </td>
 </tr>
 <tr>
@@ -125,7 +125,7 @@ from 2018 till present (2023).&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>LOW YU CHUN (LIU YUCHUN)</p>
+<p>TONG KAR WENG (TANG JIAYING) 3G</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Logistics IC</p>
