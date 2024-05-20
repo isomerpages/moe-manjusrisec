@@ -6,12 +6,21 @@ variant: tiptap
 ---
 <p></p>
 <p></p>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
 <p>News</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><u>Polytechnic and ITE Early Admissions Exercise (EAE) 2024</u></strong>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
