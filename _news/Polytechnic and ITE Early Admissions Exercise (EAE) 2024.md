@@ -96,7 +96,6 @@ more about ITE courses and career options</p>
 your application</p>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If shortlisted,
 prepare for interview</p>
-<p></p>
 <p>You may refer to <a href="https://eae.polytechnic.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Polytechnic EAE portal</a> and <a href="https://www.ite.edu.sg/admissions/full-time-courses/early-admissions-exercise" rel="noopener noreferrer nofollow" target="_blank">ITE EAE portal</a> for
 more information.</p>
 <p>&nbsp;</p>
