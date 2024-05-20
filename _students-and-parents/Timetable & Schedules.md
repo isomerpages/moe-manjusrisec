@@ -87,8 +87,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Timetable &amp; Schedules/2024 TT/March_Hols_CCA_Schedule_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">June</a> 
-<a href="/files/Timetable &amp; Schedules/2024 TT/June_Hols_CCA_Schedule_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">June Holiday CCA Schedule</a>
+<p><a href="/files/Timetable &amp; Schedules/2024 TT/June_Hols_CCA_Schedule_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">June Holiday CCA Schedule</a>
 </p>
 </td>
 </tr>
