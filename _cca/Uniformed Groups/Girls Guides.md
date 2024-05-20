@@ -109,22 +109,6 @@ from 2018 till present (2023).&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>NG ZI YUE, GWYEN</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Assistant Company Leader 2/Training IC</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MEGAN MOK (MO YAQING)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Assistant Training IC</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>TONG KAR WENG (TANG JIAYING) 3G</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -133,7 +117,7 @@ from 2018 till present (2023).&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>RANICE CHIN YOU YIN (CHEN ROU YING)</p>
+<p>LOH JESSE 3B</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Assistant Logistics IC</p>
@@ -141,7 +125,7 @@ from 2018 till present (2023).&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ELENA TAN EN TING</p>
+<p>JUNE HNINN HLAING&nbsp; 3B</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Outreach IC</p>
@@ -149,15 +133,7 @@ from 2018 till present (2023).&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>JENNA KOH LE EN</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Assistant Outreach IC</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>WEI JINGXUAN</p>
+<p>LOW YI FAN</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Patrol Leader (Sunflower)</p>
