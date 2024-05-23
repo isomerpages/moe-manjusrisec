@@ -7,7 +7,29 @@ variant: tiptap
 <h1>Timetable &amp; Schedules</h1>
 <p><strong>School Timetables</strong>
 </p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>2024 June Extended Programme</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Timetable &amp; Schedules/2024 TT/June_Extended_Timetable_2024_Class.pdf" rel="noopener noreferrer nofollow" target="_blank">June Extended Timetable</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -49,7 +71,6 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p></p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -74,7 +95,6 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p></p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
