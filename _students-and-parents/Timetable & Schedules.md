@@ -19,7 +19,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Timetable &amp; Schedules/2024 TT/June_Extended_Timetable_2024_Class.pdf" rel="noopener noreferrer nofollow" target="_blank">June Extended Timetable</a>
+</p>
 </td>
 </tr>
 <tr>
