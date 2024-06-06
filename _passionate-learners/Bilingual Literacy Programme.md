@@ -17,21 +17,27 @@ communication (writing and speaking). Students are also empowered to be
 effective communicators and develop their aspirations in the area of languages.&nbsp;</p>
 <p>&nbsp;</p>
 <p>文殊中学的双语项目旨在培养学生的双语应用与鉴赏能力。其多项活动通过融入(加深)、丰富(推广)与自主(加强)三个维度达成目标。学生在校园阅读计划和各种沉浸式的语文活动加深对双语文化的认识，加强双语习得的能力，从而达到书面与口语应用自如，完成有效的沟通与交流。</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<h4><strong><u>English Language &amp; Literature (ELL) Programmes</u></strong></h4>
-<p><strong>&nbsp;</strong>
+<p><strong><u>English Language &amp; Literature (ELL) Programmes</u></strong>
 </p>
 <p>The EL Reading Programme in Manjusri Secondary School is an exciting initiative
 designed to develop the love for reading among our students. This programme
 features a series of engaging school-wide and classroom activities that
 encourage students to explore diverse genres, share their literary experiences,
 and discover the joy of reading.</p>
-<p>&nbsp;</p>
 <p><strong>Read Rave Repeat</strong>
 </p>
-<p></p>
-<p>&nbsp;</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>pic</p>
+</th>
+</tr>
+</tbody>
+</table>
 <p>Reading ambassadors interview their peers and even teachers about their
 favourite reads in a termly vlog, Read, Rave and Repeat! Students recommend
 books that inspire and excite them and share that joy of reading with their
@@ -50,14 +56,29 @@ English lessons. A major book hunt ensued as clues of the book in question
 were shared to excite the students about books from the mystery genre.
 There were also mini activities at our recess booths. The assembly programme
 on Friday brought the suspense to a crescendo as students participated
-in an immersive online escape room.</p>
-<p>&nbsp;</p>
+in an immersive online escape room.&nbsp;</p>
 <p>We cannot wait for 2024 EL Fest this year as we relish in the theme of
 Myths &amp; Magic!</p>
-<p><strong>&nbsp;</strong>
-</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>pic</p>
+</th>
+<th rowspan="1" colspan="1">
 <p></p>
+</th>
+<th rowspan="1" colspan="1">
 <p></p>
+</th>
+</tr>
+</tbody>
+</table>
 <p><strong>Learning Journeys to the Peranakan Museum</strong>
 </p>
 <p>Our Secondary 2 Literature students delved into the rich cultural heritage
