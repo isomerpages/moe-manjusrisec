@@ -233,7 +233,7 @@ the traditional art form through an immersive learning experience.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Passionate Learners/Bilingual Literacy Programme/blp19.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Passionate Learners/Bilingual Literacy Programme/blp19.jpg">
 </div>
 </td>
 </tr>
