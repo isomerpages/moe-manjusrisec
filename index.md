@@ -31,12 +31,4 @@ sections:
       url: /art-fiesta-ii/
       image: /images/Spotlight/singing_of_School_Song_by_all_performers.jpg
       alt: Image alt text
-  - infopic:
-      title: 42nd School Anniversary
-      subtitle: spotlight
-      id: infopic
-      button: Click here for programme booklet
-      url: /42nd-school-anniversary/
-      image: /images/Spotlight/2024_42nd_Sch_Anni_poster__landscape__1_.jpg
-      alt: 42nd School Anniversary
 ---
