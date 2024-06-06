@@ -137,12 +137,32 @@ language.</p>
 <p>Students are tasked to do book reviews on the books they read through
 the application of digital literacy skills on platforms such as Google
 Slides and Canva.</p>
-<p>&nbsp;</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>pic</p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
-<p>&nbsp;</p>
-<p><strong>MTL Fortnight Programme 母语双周</strong>
-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<h4><strong>MTL Fortnight Programme 母语双周</strong></h4>
 <p>The MTL Department has organised various fun and effective activities
 as part of the MTL Fortnight programmes every year. Our objective is to
 promote the use of Mother Tongue Language and to expose our students to
@@ -166,12 +186,43 @@ forefathers brought upon the Chinese community today. This year, we look
 forward to introducing Opera to our lower secondary students, to appreciate
 the traditional art form through an immersive learning experience.</p>
 <p>&nbsp;</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>pic</p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
-<p>&nbsp;</p>
-<p><strong>Cultural Performance Exposure Scheme 文化随意门</strong>
-</p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Cultural Performance Exposure Scheme 文化随意门</strong></h4>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>Selected students with great interest in learning the Mother Tongue Language
 and has shown appreciation of culture and the arts get to enjoy theatre
 performances under the Cultural Performance Exposure Scheme.</p>
