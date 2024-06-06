@@ -8,14 +8,12 @@ variant: tiptap
 <h2><strong>双语项目</strong></h2>
 <p>&nbsp;</p>
 <h4><strong><u>Objectives 宗旨</u></strong></h4>
-<p>&nbsp;</p>
 <p>Our Bilingual Literacy Programme aims to nurture the love and appreciation
 for the English and Mother Tongue languages in students. The programme
 offers authentic learning experiences so as to deepen the students’ appreciation
 of the unique cultures of each language, and build language fluency in
 communication (writing and speaking). Students are also empowered to be
 effective communicators and develop their aspirations in the area of languages.&nbsp;</p>
-<p>&nbsp;</p>
 <p>文殊中学的双语项目旨在培养学生的双语应用与鉴赏能力。其多项活动通过融入(加深)、丰富(推广)与自主(加强)三个维度达成目标。学生在校园阅读计划和各种沉浸式的语文活动加深对双语文化的认识，加强双语习得的能力，从而达到书面与口语应用自如，完成有效的沟通与交流。</p>
 <p><strong><u>English Language &amp; Literature (ELL) Programmes</u></strong>
 </p>
@@ -145,7 +143,6 @@ to their interest. This approach helps young readers develop their reading
 skills, enhancing comprehension, fluency and vocabulary in their Mother
 Tongue Languages. This will help to build a strong foundation in their
 language.</p>
-<p>&nbsp;</p>
 <p>Students are tasked to do book reviews on the books they read through
 the application of digital literacy skills on platforms such as Google
 Slides and Canva.</p>
@@ -184,13 +181,11 @@ as part of the MTL Fortnight programmes every year. Our objective is to
 promote the use of Mother Tongue Language and to expose our students to
 our traditional cultures and traditions through an interactive and interesting
 platform.</p>
-<p>&nbsp;</p>
 <p>Malay Language students participated in activities such as the Malay Traditional
 Cake Workshop and learning journey to Kampung Buangkok.&nbsp; Students
 also attended the <em>Wau Batik</em> workshop, where they learned to colour
 kites using <em>batik</em> painting techniques and Gamelan Fusion workshop,
 where they learned how to play the <em>kompang</em> and gamelan instruments.&nbsp;</p>
-<p>&nbsp;</p>
 <p>Chinese Language students attended workshops from radio stations Yes933
 and UFM1003, where they learned about the work of a radio DJ and how to
 write a radio script. One of our teams took part in the Radio Script writing
@@ -201,7 +196,6 @@ Cultural Centre to learn about the history, influence and development our
 forefathers brought upon the Chinese community today. This year, we look
 forward to introducing Opera to our lower secondary students, to appreciate
 the traditional art form through an immersive learning experience.</p>
-<p>&nbsp;</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -248,7 +242,6 @@ the traditional art form through an immersive learning experience.</p>
 <p>Selected students with great interest in learning the Mother Tongue Language
 and has shown appreciation of culture and the arts get to enjoy theatre
 performances under the Cultural Performance Exposure Scheme.</p>
-<p>&nbsp;</p>
 <p>Through these experiences, students will learn to appreciate theatre performances
 and develop skills to reflect on current issues. Students also practise
 their analytical skills and express their creativity through post performances
