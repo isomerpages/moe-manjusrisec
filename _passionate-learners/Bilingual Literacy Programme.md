@@ -44,8 +44,6 @@ favourite reads in a termly vlog, Read, Rave and Repeat! Students recommend
 books that inspire and excite them and share that joy of reading with their
 peers. For World Book Day 2024, we even had students take instagram-worthy
 shots of themselves with their books in my Book of the Day (#myBOTD).&nbsp;</p>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>EL Fest</strong>
 </p>
 <p>MJR EL Fest is our annual week of exciting activities that starts Semester
