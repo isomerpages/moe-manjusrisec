@@ -66,18 +66,23 @@ Myths &amp; Magic!</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>2</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Passionate Learners/Bilingual Literacy Programme/blp2.jpg">
+</div>
 </th>
 <th rowspan="1" colspan="1">
-<p>3</p>
+<div class="isomer-image-wrapper">
+<img style="width: 52%;" height="auto" width="100%" alt="" src="/images/Passionate Learners/Bilingual Literacy Programme/blp3.jpg">
+</div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Passionate Learners/Bilingual Literacy Programme/blp4.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Passionate Learners/Bilingual Literacy Programme/blp5.jpg">
 </div>
