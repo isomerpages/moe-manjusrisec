@@ -4,13 +4,10 @@ permalink: /passionate-learners/bilingual-literacy-programme/
 description: ""
 variant: tiptap
 ---
-<p><strong>Bilingual Literacy Programme</strong>
-</p>
-<p><strong>双语项目</strong>
-</p>
+<h2><strong>Bilingual Literacy Programme</strong></h2>
+<h2><strong>双语项目</strong></h2>
 <p>&nbsp;</p>
-<p><strong><u>Objectives 宗旨</u></strong>
-</p>
+<h4><strong><u>Objectives 宗旨</u></strong></h4>
 <p>&nbsp;</p>
 <p>Our Bilingual Literacy Programme aims to nurture the love and appreciation
 for the English and Mother Tongue languages in students. The programme
@@ -22,8 +19,7 @@ effective communicators and develop their aspirations in the area of languages.&
 <p>文殊中学的双语项目旨在培养学生的双语应用与鉴赏能力。其多项活动通过融入(加深)、丰富(推广)与自主(加强)三个维度达成目标。学生在校园阅读计划和各种沉浸式的语文活动加深对双语文化的认识，加强双语习得的能力，从而达到书面与口语应用自如，完成有效的沟通与交流。</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p><strong><u>English Language &amp; Literature (ELL) Programmes</u></strong>
-</p>
+<h4><strong><u>English Language &amp; Literature (ELL) Programmes</u></strong></h4>
 <p><strong>&nbsp;</strong>
 </p>
 <p>The EL Reading Programme in Manjusri Secondary School is an exciting initiative
@@ -32,7 +28,7 @@ features a series of engaging school-wide and classroom activities that
 encourage students to explore diverse genres, share their literary experiences,
 and discover the joy of reading.</p>
 <p>&nbsp;</p>
-<p><u>Read Rave Repeat</u>
+<p><strong>Read Rave Repeat</strong>
 </p>
 <p></p>
 <p>&nbsp;</p>
@@ -43,7 +39,7 @@ peers. For World Book Day 2024, we even had students take instagram-worthy
 shots of themselves with their books in my Book of the Day (#myBOTD).&nbsp;</p>
 <p><strong>&nbsp;</strong>
 </p>
-<p><u>EL Fest</u>
+<p><strong>EL Fest</strong>
 </p>
 <p>MJR EL Fest is our annual week of exciting activities that starts Semester
 2 for the students. In 2023, students and staff alike were swept up in
@@ -62,7 +58,7 @@ Myths &amp; Magic!</p>
 </p>
 <p></p>
 <p></p>
-<p><u>Learning Journeys to the Peranakan Museum</u>
+<p><strong>Learning Journeys to the Peranakan Museum</strong>
 </p>
 <p>Our Secondary 2 Literature students delved into the rich cultural heritage
 of the Peranakan community through their learning journey to the Peranakan
@@ -81,10 +77,9 @@ proficient but also culturally informed and empathetic.</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p><strong><u>Mother Tongue Languages (MTL) Programmes 母语活动</u></strong>
-</p>
+<h4><strong><u>Mother Tongue Languages (MTL) Programmes 母语活动</u></strong></h4>
 <p>&nbsp;</p>
-<p><u>Level Reading 年级阅读计划</u>
+<p><strong>Level Reading 年级阅读计划</strong>
 </p>
 <p>Our Wednesday Reading period is dedicated to reading Mother Tongue Language
 Books. This serves as an educational resource designed to cater to varying
@@ -101,7 +96,7 @@ Slides and Canva.</p>
 <p></p>
 <p></p>
 <p>&nbsp;</p>
-<p><u>MTL Fortnight Programme 母语双周</u>
+<p><strong>MTL Fortnight Programme 母语双周</strong>
 </p>
 <p>The MTL Department has organised various fun and effective activities
 as part of the MTL Fortnight programmes every year. Our objective is to
@@ -129,7 +124,7 @@ the traditional art form through an immersive learning experience.</p>
 <p></p>
 <p></p>
 <p>&nbsp;</p>
-<p><u>Cultural Performance Exposure Scheme 文化随意门</u>
+<p><strong>Cultural Performance Exposure Scheme 文化随意门</strong>
 </p>
 <p></p>
 <p>Selected students with great interest in learning the Mother Tongue Language
@@ -141,7 +136,7 @@ and develop skills to reflect on current issues. Students also practise
 their analytical skills and express their creativity through post performances
 activities.</p>
 <p>&nbsp;</p>
-<p><u>Chinese Literature 中华文学（选修）课程</u>
+<p><strong>Chinese Literature 中华文学（选修）课程</strong>
 </p>
 <p>MJR is currently offering Chinese Literature (Elective) at Upper Secondary
 for students with the aptitude and interest to pursue the learning of Chinese
