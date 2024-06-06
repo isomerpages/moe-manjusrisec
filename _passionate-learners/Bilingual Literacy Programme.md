@@ -99,30 +99,35 @@ ornate furniture, and traditional costumes, offered tangible insights into
 the Peranakan way of life. By connecting literature with cultural heritage,
 we aim to cultivate well-rounded individuals who are not only academically
 proficient but also culturally informed and empathetic.</p>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>pic</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Passionate Learners/Bilingual Literacy Programme/blp6.jpg">
+</div>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Passionate Learners/Bilingual Literacy Programme/blp7.jpg">
+</div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>8</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>9</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -152,18 +157,22 @@ Slides and Canva.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>pic</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Passionate Learners/Bilingual Literacy Programme/blp11.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Passionate Learners/Bilingual Literacy Programme/blp12.jpg">
+</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>13</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>14</p>
 </td>
 </tr>
 </tbody>
