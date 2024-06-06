@@ -59,23 +59,30 @@ on Friday brought the suspense to a crescendo as students participated
 in an immersive online escape room.&nbsp;</p>
 <p>We cannot wait for 2024 EL Fest this year as we relish in the theme of
 Myths &amp; Magic!</p>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>pic</p>
+<p>2</p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>3</p>
 </th>
-<th rowspan="1" colspan="1">
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
-</th>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Passionate Learners/Bilingual Literacy Programme/blp5.jpg">
+</div>
+</td>
 </tr>
 </tbody>
 </table>
