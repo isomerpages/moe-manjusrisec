@@ -8,6 +8,6 @@ contacts:
       - phone: +65 6842 4558
       - email: manjusri_ss@moe.edu.sg
       - other: ""
-    title: "20 Ubi Avenue 1 Singapore 408940  "
+    title: 20 Ubi Avenue 1 Singapore 408940
 feedback: ""
 ---
