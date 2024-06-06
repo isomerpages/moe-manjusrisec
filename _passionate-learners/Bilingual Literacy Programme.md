@@ -92,14 +92,38 @@ ornate furniture, and traditional costumes, offered tangible insights into
 the Peranakan way of life. By connecting literature with cultural heritage,
 we aim to cultivate well-rounded individuals who are not only academically
 proficient but also culturally informed and empathetic.</p>
-<p>&nbsp;</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>pic</p>
+</th>
+<th rowspan="1" colspan="1">
 <p></p>
+</th>
+<th rowspan="1" colspan="1">
 <p></p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4><strong><u>Mother Tongue Languages (MTL) Programmes 母语活动</u></strong></h4>
-<p>&nbsp;</p>
 <p><strong>Level Reading 年级阅读计划</strong>
 </p>
 <p>Our Wednesday Reading period is dedicated to reading Mother Tongue Language
