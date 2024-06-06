@@ -218,7 +218,7 @@ the traditional art form through an immersive learning experience.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>pic</p>
 </td>
 </tr>
 </tbody>
@@ -231,9 +231,7 @@ performances under the Cultural Performance Exposure Scheme.</p>
 and develop skills to reflect on current issues. Students also practise
 their analytical skills and express their creativity through post performances
 activities.</p>
-<p>&nbsp;</p>
-<p><strong>Chinese Literature 中华文学（选修）课程</strong>
-</p>
+<h4><strong>Chinese Literature 中华文学（选修）课程</strong></h4>
 <p>MJR is currently offering Chinese Literature (Elective) at Upper Secondary
 for students with the aptitude and interest to pursue the learning of Chinese
 literature as one of their Combined Humanities subjects at O Levels.</p>
