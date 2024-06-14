@@ -113,7 +113,6 @@ variant: markdown
 |Mdm R Rajletchumi (Mrs Eddy)|r_rajletchmi@moe.edu.sg|
 |Ms Wong Sook Fong Shirley|wong_sook_fong@moe.edu.sg|
 |Mrs  Yong-Liow Chai Leng|liow_chai_leng@moe.edu.sg|
-|Mr Sim Seng Huat|sim_seng_huat@moe.edu.sg|
 |Mdm Mok Yee Wan (Mrs Lai)|lai_kin_sen@moe.edu.sg|
 |Mdm See Khooi Sim Catherine|see_khooi_sim_catherine@moe.edu.sg|
 |Mr Izham Bin Sidek|izham_sidek@moe.edu.sg|

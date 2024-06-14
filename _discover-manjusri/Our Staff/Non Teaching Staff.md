@@ -22,6 +22,7 @@ variant: markdown
 |Ms Thivya d/o Nagarajan |Administrative Executive|
 |Mr Junaidi Bin Tarjol |Education Workshop Instructor|
 |Mr Azman Bin Kassim |Education Workshop Instructor|
+|Ng Koon Bong|STEM Instructor(Workshop)|
 |Mr Ahmad Bin Mohamed Moktar|Science Lab Technician|
 |Mdm Hoo Ai Nah |Science Lab Technician|
 |Mdm Chua Siew Eng|Science Lab Technician |
@@ -56,6 +57,6 @@ variant: markdown
 |Ms Naliny d/o Krishnan|FASC|naliny_krishnan_a@moe.edu.sg|
 |Ms Lim Gek Ching Lyne |SENO|lim_gek_ching_lyne@moe.edu.sg|
 |Mdm  Suzila Binte Mohamed Sulaiman |SENO|suzila_mohd_sulaiman@moe.edu.sg|
-|Ms Nur Syahidah Binte Roslan |SENO  (Untrained)|nur_syahidah_roslan@moe.edu.sg|
+|Ms Nur Syahidah Binte Roslan |SENO |nur_syahidah_roslan@moe.edu.sg|
 |Ms Joyce Vera Lim Jieyi |	Student Welfare Officer|joyce_vera_lim_jieyi@moe.edu.sg|
 |Ms Samantha Woo -|Senior ECG Counsellor |woo_wai_yeng@schools.gov.sg|

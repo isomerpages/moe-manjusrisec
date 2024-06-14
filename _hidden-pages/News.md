@@ -30,8 +30,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/news/permalink/canteen/" rel="noopener noreferrer nofollow" target="_blank">School Canteen Advertisement</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
