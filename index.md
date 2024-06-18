@@ -36,5 +36,6 @@ sections:
       subtitle: News
       id: infobar
       description: for 2023 Secondary 4 & 5 students
-      button: Button Text
+      button: Click here to read more
+      url: /art-fiesta-ii/
 ---
