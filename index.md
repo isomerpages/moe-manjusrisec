@@ -31,4 +31,10 @@ sections:
       url: /art-fiesta-ii/
       image: /images/Spotlight/singing_of_School_Song_by_all_performers.jpg
       alt: Image alt text
+  - infobar:
+      title: Collection of School Graduation Certificate (SGC)
+      subtitle: News
+      id: infobar
+      description: for 2023 Secondary 4 & 5 students
+      button: Button Text
 ---
