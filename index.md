@@ -21,6 +21,13 @@ sections:
           description: ""
           url: /contact-us/school-contact-details/
       background: /images/homepage1.gif
+  - infobar:
+      title: Collection of School Graduation Certificate (SGC)
+      subtitle: News
+      id: infobar
+      description: for 2023 Secondary 4 & 5 students
+      button: Click here to read more
+      url: /collection-of-school-graduation-certificate-sgc-for-2023-4nt-students/
   - infopic:
       title: Art Fiesta II
       subtitle: spotlight
@@ -31,11 +38,4 @@ sections:
       url: /art-fiesta-ii/
       image: /images/Spotlight/singing_of_School_Song_by_all_performers.jpg
       alt: Image alt text
-  - infobar:
-      title: Collection of School Graduation Certificate (SGC)
-      subtitle: News
-      id: infobar
-      description: for 2023 Secondary 4 & 5 students
-      button: Click here to read more
-      url: /collection-of-school-graduation-certificate-sgc-for-2023-4nt-students/
 ---
