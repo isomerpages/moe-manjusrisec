@@ -37,30 +37,30 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>2024 Semester 1 Timetable (updated wef 18 March)</p>
+<p>2024 Semester 2 Timetable</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Timetable &amp; Schedules/2024 TT/2024_Sem_1_Sec_1_Class_Timetable.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1</a>
+<p><a href="/files/Timetable &amp; Schedules/2024 TT/2024_Sem_2_Sec_1_Class_Timetable.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Timetable &amp; Schedules/2024 TT/2024_Sem_1_Sec_2_Class_Timetable.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2</a>
+<p><a href="/files/Timetable &amp; Schedules/2024 TT/2024_Sem_2_Sec_2_Class_Timetable.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Timetable &amp; Schedules/2024 TT/2024_Sem_1_Sec_3_Class_Timetable.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3</a>
+<p><a href="/files/Timetable &amp; Schedules/2024 TT/2024_Sem_2_Sec_3_Class_Timetable.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Timetable &amp; Schedules/2024 TT/2024_Sem_1_Sec_45_Class_Timetable.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4 and 5</a>
+<p><a href="/files/Timetable &amp; Schedules/2024 TT/2024_Sem_2_Sec_45_Class_Timetable.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4 and 5</a>
 </p>
 </td>
 </tr>
