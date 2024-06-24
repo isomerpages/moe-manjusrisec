@@ -84,7 +84,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Timetable &amp; Schedules/2024 TT/2024__HBL_Timetable_SEM1__final_.pdf" rel="noopener noreferrer nofollow" target="_blank">HBL Timetable for Semester 1</a>
+<p><a href="/files/Timetable &amp; Schedules/2024 TT/2024_SEM2_HBL_Timetable.pdf" rel="noopener noreferrer nofollow" target="_blank">Semester 2 HBL Timetable</a>
 </p>
 </td>
 </tr>
