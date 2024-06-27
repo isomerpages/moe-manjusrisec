@@ -26,8 +26,8 @@ variant: markdown
 |   | Ms Tee Beng Lian Serene - AED TL| tee_beng_lian@moe.edu.sg| 
 | | Mr Lian Shunk Tian Benjamin|lian_shunk_tian_benjamin_b@moe.edu.sg|
 |  1-6| Ms Sun Guangpu| sun_guangpu@moe.edu.sg| 
-|   | Mr Huang Yuanpeng| huang_yuanpeng@moe.edu.sg| 
 |   | Mr Han Ah Teck Michael| han_ah_teck@moe.edu.sg| 
+| |Ms Guo Xiaofei|guo_xiaofei@moe.edu.sg|
 |  2-1| Mr Sng Peng Han Kain| sng_peng_han@moe.edu.sg| 
 |   | Mr Hafiz Emran Khan| hafiz_emran_khan@moe.edu.sg| 
 |   | Ms Teh-Tay Hwee Cheng Angeline| tay_hwee_cheng@moe.edu.sg| 
