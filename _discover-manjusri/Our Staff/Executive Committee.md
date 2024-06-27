@@ -29,11 +29,12 @@ variant: markdown
 |Mr Ng Jia Jun Justin  | HOD Science |ng_jia_jun_justin@moe.edu.sg|
 |Ms Wee Yee Yun   |School Staff Developer|wee_yee_yun@moe.edu.sg|
 | Mr Tan Kian Ann Jacky   | HOD Student Management |tan_kian_ann@moe.edu.sg|
-|Mr Tan Thiam Meng  |Year Head (YH/S2 &amp; S3)|tan_thiam_meng@moe.edu.sg|
-|Ms Anna Lee Kai Wen  |Year Head (YH/S1 &amp; S4/5)|anna_lee_kai_wen@moe.edu.sg|
+|Mr Tan Thiam Meng  |Year Head|tan_thiam_meng@moe.edu.sg|
+|Ms Anna Lee Kai Wen  |Year Head|anna_lee_kai_wen@moe.edu.sg|
 |Ms Tee Pei Pei  | AYH Sec 1 |tee_pei_pei@moe.edu.sg|
 |Ms Nur Atiqah | AYH Sec 2 (Ag) | nur_atiqah_abdul_fattah@moe.edu.sg|
 |Ms Tan Shi Jia  | AYH Sec 3 (Ag) |tan_shi_jia@moe.edu.sg|
+|Ms Faith Kaylie Ong Yi Cheng|Lead Teacher, EL|faith_kaylie_ong@moe.edu.sg|
 |Mrs Teh-Tay Hwee Cheng Angeline  | SH Aesthetics |tay_hwee_cheng@moe.edu.sg|
 |Ms Jurana Binte Abdul Rahim  | SH CCE (Ag) |jurana_abdul_rahim@moe.edu.sg|
 |Mr Amit Kumar Sharma s/o Amber Nath  | SH Chemistry |amit_kumar_sharma_amber@moe.edu.sg|
