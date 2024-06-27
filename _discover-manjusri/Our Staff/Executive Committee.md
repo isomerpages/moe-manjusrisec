@@ -19,7 +19,6 @@ variant: markdown
 |Name | Designation | Email |
 | -------- | -------- | -------- |
 |Ms Mellissa Seow Xuemei| HOD CCE |seow_xuemei_mellissa@moe.edu.sg|
-|Mr Teo Kok Siong Ken| HOD Craft &amp; Technology |teo_kok_siong@moe.edu.sg|
 |Mr Neo Wee Kian Travis  | HOD Educational Support |neo_wee_kian@moe.edu.sg|
 |Mdm Wi Kar Lin Magdelene  | HOD EL &amp; Literature |wi_kar_lin_magdelene@moe.edu.sg|
 |Ms Chen Chen Ada | HOD EdTech (ICT) |chen_chen_b@moe.edu.sg|
