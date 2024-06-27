@@ -64,9 +64,9 @@ variant: markdown
 |   | Ms Kok Jia En Yvonne (Mrs Ng)| jia_en_yvonne_kok@moe.edu.sg| 
 |   | Mr Amit Kumar Sharma s/o Amber Nath| amit_kumar_sharma_amber@moe.edu.sg| 
 |  3E| Ms Tuan Chui Lin| tuan_chui_lin@moe.edu.sg| 
-|   | Mr Teo Kok Siong Ken| teo_kok_siong@moe.edu.sg| 
-|3F   | Ms Foo Siqi Michell| foo_siqi_michell@moe.edu.sg| 
+|   | Mr Marcus Goh Wei Ming| marcus_goh_wei_ming@moe.edu.sg| 
 |   | Ms Chan Sock Cheng| chan_sock_cheng@moe.edu.sg|
+|3F   | Ms Foo Siqi Michell| foo_siqi_michell@moe.edu.sg| 
 |   | Ms Chen Chen Ada| chen_chen_b@moe.edu.sg| 
 |3G  | Mr Lee Zhong Shun| lee_zhong_shun@moe.edu.sg| 
 |  | Ms Nurjannah Binte Othman| nurjannah_othman@moe.edu.sg| 
