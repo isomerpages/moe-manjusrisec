@@ -97,7 +97,6 @@ variant: markdown
 | -------- | -------- | 
 |Mrs Cheng-Ling Ai Keow|ling_ai_keow@moe.edu.sg|
 |Mr Lim Chiang Long Max|lim_chiang_long@moe.edu.sg|
-|Dr Muhammad Mubarak Bin Habib|muhammad_mubarak_habib_md@moe.edu.sg|
 |Ms  Nurul A'mirah Binte Mohd Kamal|nurul_amirah_mohd_kamal@moe.edu.sg|
 |Mdm Pan Ping|pan_ping@moe.edu.sg|
 |Ms  Tan Ai Hua|tan_ai_hua@moe.edu.sg|
