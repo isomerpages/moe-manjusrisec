@@ -14,8 +14,7 @@ variant: markdown
 |  1-1| Mr Chan Ze Wei| chan_ze_wei@moe.edu.sg| 
 |   | Ms Ernieyanty Hasan| ernieyanty_hasan@moe.edu.sg| 
 |  1-2| Ms Ng Ning| ng_ning@moe.edu.sg| 
-|   | Ms Siti Shahirah Haider Bagesher| siti_shahirah_haider_bagesher@moe.edu.sg| 
-|   | Mdm Sim Mui Keow Catherine| sim_mui_keow@moe.edu.sg| 
+|   | Ms Siti Shahirah Haider Bagesher| siti_shahirah_haider_bagesher@moe.edu.sg|  
 |  1-3| Ms Yong Tann Lee| yong_tann_lee@moe.edu.sg| 
 |   | Ms Erica Reyes Rodriguez| erica_reyes_rodriguez@moe.edu.sg| 
 | |Ms Siti Raudhah Bte Sukri|siti_raudhah_sukri@moe.edu.sg|
@@ -26,6 +25,7 @@ variant: markdown
 |   | Ms Tee Beng Lian Serene - AED TL| tee_beng_lian@moe.edu.sg| 
 | | Mr Lian Shunk Tian Benjamin|lian_shunk_tian_benjamin_b@moe.edu.sg|
 |  1-6| Ms Sun Guangpu| sun_guangpu@moe.edu.sg| 
+|| Mr Huang Yuanpeng|huang_yuanpeng@moe.edu.sg|
 |   | Mr Han Ah Teck Michael| han_ah_teck@moe.edu.sg| 
 | |Ms Guo Xiaofei|guo_xiaofei@moe.edu.sg|
 |  2-1| Mr Sng Peng Han Kain| sng_peng_han@moe.edu.sg| 
@@ -36,10 +36,8 @@ variant: markdown
 |   | Ms Ho Poh Choo Adrienne| adrienne_ho_poh_choo@moe.edu.sg| 
 |  2-3| Ms Rose Binte Ibrahim| rose_ibrahim@moe.edu.sg| 
 |   | Ms Vivian Tan Siew Boon| tan_siew_boon_vivian@moe.edu.sg| 
-|   | Ms Mellissa Seow Xuemei| seow_xuemei_mellissa@moe.edu.sg| 
 |  2-4| Mr Shuai Dong Xing| shuai_dongxing@moe.edu.sg| 
 |   | Ms Mabel Sim Yi Wei| sim_yi_wei_mabel@moe.edu.sg| 
-|   | Ms Lim Mei Chen Joani| lim_mei_chen_joani@moe.edu.sg| 
 |  2-5| Ms Seah Yi Fan| seah_yi_fan@moe.edu.sg| 
 |   | Ms Mary Rose P Gonsalvez| mary_rose_p_gonsalvez@moe.edu.sg| 
 |   | Ms Sharon Chia Xiaoxuan| sharon_chia_xiao_xuan@moe.edu.sg| 
@@ -56,7 +54,6 @@ variant: markdown
 |   | Ms Goh Pei Shan| goh_pei_shan@moe.edu.sg| 
 |  3B2| Mr Tay Tse Min Daniel| tay_tse_min_daniel@moe.edu.sg| 
 |   | Mr Mohd Jawahir B Ahmat| mohd_jawahir_ahmat@moe.edu.sg| 
-|   | Mrs Pak-Yap Wei Ling Evelynn| yap_wei_ling_evelynn@moe.edu.sg| 
 |  3B3| Ms Faith Kaylie Ong Yi Cheng <br>- Lead Teacher (English Language)| faith_kaylie_ong@moe.edu.sg| 
 |   | Mr Ng Hong Ghee| ng_hong_ghee@moe.edu.sg| 
 |   | Mdm Mok Yee Wan (Mrs Lai)| lai_kin_sen@moe.edu.sg| 
@@ -86,8 +83,8 @@ variant: markdown
 |  4F| Ms Lee Shi Hua Candice| lee_shi_hua_candice@moe.edu.sg| 
 |   | Mdm Wi Kar Lin Magdelene| wi_kar_lin_magdelene@moe.edu.sg| 
 |   | Ms Lee Wai Ying Winnie| winnie_lee_wai_ying_a@moe.edu.sg| 
-|  4G| Mdm Bao Bing Qing| bao_bingqing@moe.edu.sg| 
-|   | Mr Lim Xu Yao| lim_xu_yao@moe.edu.sg| 
+|  4G | Mr Lim Xu Yao| lim_xu_yao@moe.edu.sg| 
+|  | Mdm Bao Bing Qing| bao_bingqing@moe.edu.sg| 
 |  5A| Ms Salina Binte Abdul Majid <br>- Senior Teacher (CCE)| salina_abdul_majid@moe.edu.sg| 
 |   | Mr Ting Kok Thiam| ting_kok_thiam@moe.edu.sg| 
 
