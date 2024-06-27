@@ -105,12 +105,14 @@ variant: markdown
 |Ms  Tay Kar Yen Amanda|tay_kar_yen_amanda@moe.edu.sg|
 |Ms Sharon Chia Xiao Xuan|sharon_chia_xiao_xuan@moe.edu.sg|
 |Miss Ser Kia Hwee|ser_kia_hwee@moe.edu.sg|
+|Ms Susan Lim Siok Hiang|susan_lim_siok_hiang@moe.edu.sg|
 |Ms  Elna Shirin Binte Him Pon|elna_shirin_him_pon@moe.edu.sg|
 |Ms  Ho Poh Choo Adrienne|adrienne_ho_poh_choo@moe.edu.sg|
 |Ms Lee Wai Ying Winnie|winnie_lee_wai_ying_a@moe.edu.sg|
 |Mdm R Rajletchumi (Mrs Eddy)|r_rajletchmi@moe.edu.sg|
 |Ms Wong Sook Fong Shirley|wong_sook_fong@moe.edu.sg|
 |Mrs  Yong-Liow Chai Leng|liow_chai_leng@moe.edu.sg|
+|Mr Kaddy Koh|koh_kaddy@moe.edu.sg|
 |Mdm Mok Yee Wan (Mrs Lai)|lai_kin_sen@moe.edu.sg|
 |Mdm See Khooi Sim Catherine|see_khooi_sim_catherine@moe.edu.sg|
 |Mr Izham Bin Sidek|izham_sidek@moe.edu.sg|
