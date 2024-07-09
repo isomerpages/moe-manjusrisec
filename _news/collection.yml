@@ -2,6 +2,7 @@ collections:
   news:
     output: true
     order:
+      - School Canteen Advertisement.md
       - Collection of School Graduation Certificate (SGC) for 2023 Secondary 4 &
         5 students.md
       - Polytechnic and ITE Early Admissions Exercise (EAE) 2024.md
