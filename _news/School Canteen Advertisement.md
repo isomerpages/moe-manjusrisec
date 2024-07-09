@@ -8,7 +8,7 @@ variant: markdown
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Asian Fusion Food Stall | 31 May 2024 | Rice and Noodles acceptable <br>(Eg. Japanese, Korean, Vietnamese, Thai) |
+| Asian Food Stall | 9 September 2024 | Rice and Noodles acceptable |
 
 **Application Procedure**
 
