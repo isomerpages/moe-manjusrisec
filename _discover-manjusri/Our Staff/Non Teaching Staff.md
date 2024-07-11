@@ -22,7 +22,7 @@ variant: markdown
 |Ms Thivya d/o Nagarajan |Administrative Executive|
 |Mr Junaidi Bin Tarjol |Education Workshop Instructor|
 |Mr Azman Bin Kassim |Education Workshop Instructor|
-|Ng Koon Bong|STEM Instructor(Workshop)|
+|Ng Koon Bong|Education Workshop Instructor|
 |Mr Ahmad Bin Mohamed Moktar|Science Lab Technician|
 |Mdm Hoo Ai Nah |Science Lab Technician|
 |Mdm Chua Siew Eng|Science Lab Technician |
