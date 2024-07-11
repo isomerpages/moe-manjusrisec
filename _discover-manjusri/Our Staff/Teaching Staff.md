@@ -80,7 +80,7 @@ variant: markdown
 |   | Ms Cheong Wai Heng Madeleine| cheong_wai_heng_madeleine@moe.edu.sg| 
 |  4E| Ms Ng Imei| ng_imei@moe.edu.sg| 
 |   | Ms Wee Yee Yun| wee_yee_yun@moe.edu.sg| 
-|  4F| Ms Lee Shi Hua Candice| lee_shi_hua_candice@moe.edu.sg| 
+|  4F| Ms Lee Shi Hua Candice<br>- Senior Teacher (Art)| lee_shi_hua_candice@moe.edu.sg| 
 |   | Mdm Wi Kar Lin Magdelene| wi_kar_lin_magdelene@moe.edu.sg| 
 |   | Ms Lee Wai Ying Winnie| winnie_lee_wai_ying_a@moe.edu.sg| 
 |  4G | Mr Lim Xu Yao| lim_xu_yao@moe.edu.sg| 
