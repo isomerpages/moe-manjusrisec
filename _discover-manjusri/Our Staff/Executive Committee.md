@@ -39,7 +39,7 @@ variant: markdown
 |Mrs Teh-Tay Hwee Cheng Angeline  | SH Aesthetics |tay_hwee_cheng@moe.edu.sg|
 |Ms Jurana Binte Abdul Rahim  | SH CCE (Ag) |jurana_abdul_rahim@moe.edu.sg|
 |Mr Amit Kumar Sharma s/o Amber Nath  | SH Chemistry |amit_kumar_sharma_amber@moe.edu.sg|
-|Mr Ting Kok Thiam  | SH EdTech (ICT) |ting_kok_thiam@moe.edu.sg|
+|Mr Ting Kok Thiam  | SH EdTech |ting_kok_thiam@moe.edu.sg|
 |Ms  Foo Siqi Michell  | SH English Language |foo_siqi_michell@moe.edu.sg|
 |Mr Lim Xu Yao  | SH Humanities |lim_xu_yao@moe.edu.sg|
 |Ms Amira Begum | SH Malay Lang (Ag)|amira_begum_abdul_naseer@moe.edu.sg|
