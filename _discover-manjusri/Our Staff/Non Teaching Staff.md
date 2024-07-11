@@ -45,6 +45,7 @@ variant: markdown
 |Mr Mashuqur Bin Rahman |Desktop Engineer (NCS)|
 |Mr Mohamad Syakir Bin Nor Azmi |Desktop Engineer (NCS)|
 |Mdm  Zuriah Bte Mohd Ali |Library Assistant|
+|Goh Lian Huay|Kitchen Assistant|
 
 ##### **Student Emotional and Learning Support**	
 
