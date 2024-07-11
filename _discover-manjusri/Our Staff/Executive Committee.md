@@ -27,6 +27,7 @@ variant: markdown
 |Ms Cheong Wai Heng Madeleine  | HOD MTL (Ag) |cheong_wai_heng_madeleine@moe.edu.sg|
 |Mdm Sim Mui Keow Catherine  | HOD PE &amp; CCA |sim_mui_keow@moe.edu.sg|
 |Mr Ng Jia Jun Justin  | HOD Science |ng_jia_jun_justin@moe.edu.sg|
+|Ms Tan Cai Ting (Mrs Thah)  |HOD, Craft &amp; Technology (Ag) |tan_cai_ting@moe.edu.sg|
 |Ms Wee Yee Yun   |School Staff Developer|wee_yee_yun@moe.edu.sg|
 | Mr Tan Kian Ann Jacky   | HOD Student Management |tan_kian_ann@moe.edu.sg|
 |Mr Tan Thiam Meng  |Year Head|tan_thiam_meng@moe.edu.sg|
@@ -38,7 +39,6 @@ variant: markdown
 |Mrs Teh-Tay Hwee Cheng Angeline  | SH Aesthetics |tay_hwee_cheng@moe.edu.sg|
 |Ms Jurana Binte Abdul Rahim  | SH CCE (Ag) |jurana_abdul_rahim@moe.edu.sg|
 |Mr Amit Kumar Sharma s/o Amber Nath  | SH Chemistry |amit_kumar_sharma_amber@moe.edu.sg|
-|Ms Tan Cai Ting (Mrs Thah)  | SH Design &amp; Technology |tan_cai_ting@moe.edu.sg|
 |Mr Ting Kok Thiam  | SH EdTech (ICT) |ting_kok_thiam@moe.edu.sg|
 |Ms  Foo Siqi Michell  | SH EL |foo_siqi_michell@moe.edu.sg|
 |Mr Lim Xu Yao  | SH Humanities |lim_xu_yao@moe.edu.sg|
