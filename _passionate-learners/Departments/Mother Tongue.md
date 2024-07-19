@@ -98,18 +98,26 @@ dalam konteks masyarakat majmuk Singapura dan masyarakat dunia.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Passionate%20Learners/Mother%20Tongue/mt7.png">
 </div>
-<p>Bengkel Melukis Batik</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Passionate%20Learners/Mother%20Tongue/mt8.png">
 </div>
-<p>Menganyam Ketupat</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Passionate%20Learners/Mother%20Tongue/mt9.png">
 </div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Bengkel Melukis Batik</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Menganyam Ketupat</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Peraduan Papan Cerita</p>
 </td>
 </tr>
@@ -118,6 +126,16 @@ dalam konteks masyarakat majmuk Singapura dan masyarakat dunia.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Passionate%20Learners/Mother%20Tongue/mt10.png">
 </div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Sambutan Hari Raya</p>
 </td>
 <td rowspan="1" colspan="1">
