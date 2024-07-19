@@ -31,18 +31,26 @@ dalam konteks masyarakat majmuk Singapura dan masyarakat dunia.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Passionate%20Learners/Mother%20Tongue/mt1.png">
 </div>
-<p>品茗课程：导师讲解</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Passionate%20Learners/Mother%20Tongue/mt2.png">
 </div>
-<p>品茗课程：动手沏茶</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Passionate%20Learners/Mother%20Tongue/mt3.png">
 </div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>品茗课程：导师讲解</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>品茗课程：动手沏茶</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>扯铃</p>
 </td>
 </tr>
@@ -51,18 +59,26 @@ dalam konteks masyarakat majmuk Singapura dan masyarakat dunia.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Passionate%20Learners/Mother%20Tongue/mt4.png">
 </div>
-<p>字谜</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Passionate%20Learners/Mother%20Tongue/mt5.png">
 </div>
-<p>看图猜成语</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Passionate%20Learners/Mother%20Tongue/mt6.png">
 </div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>字谜</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>看图猜成语</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>虎豹别墅之旅</p>
 </td>
 </tr>
