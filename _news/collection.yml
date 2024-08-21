@@ -2,7 +2,6 @@ collections:
   news:
     output: true
     order:
-      - Temporary Phone System Outage.md
       - School Canteen Advertisement.md
       - Collection of School Graduation Certificate (SGC) for 2023 Secondary 4 &
         5 students.md
