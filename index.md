@@ -22,6 +22,14 @@ sections:
           url: /contact-us/school-contact-details/
       background: /images/homepage1.gif
   - infobar:
+      title: Temporary Phone System Outage
+      subtitle: Alert
+      id: infobar
+      description: We wish to inform you that the phone system at Manjusri Secondary
+        School is currently down and we are working to resolve the issue...
+      button: Click here to read more
+      url: /temporary-phone-system-outage/
+  - infobar:
       title: Collection of School Graduation Certificate (SGC)
       subtitle: News
       id: infobar
