@@ -38,4 +38,11 @@ sections:
       url: /art-fiesta-ii/
       image: /images/Spotlight/singing_of_School_Song_by_all_performers.jpg
       alt: Image alt text
+  - infobar:
+      title: Temporary Phone System Outage
+      subtitle: Alert
+      id: infobar
+      description: Infobar description
+      button: Click here to read more
+      url: /temporary-phone-system-outage/
 ---
