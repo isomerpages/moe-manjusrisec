@@ -2,5 +2,6 @@ collections:
   spotlight:
     output: true
     order:
+      - 2024 Vietnam (Hanoi) School Exchange.md
       - Art Fiesta II.md
       - Down Memory Lane.md
