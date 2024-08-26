@@ -52,7 +52,8 @@ sections:
       title: 2024 Mid-Year GCE O Level Mother Tongue Languages esults
       subtitle: spotlight
       id: infopic
-      description: Infopic description
+      description: The results for candidates were released on Thursday 22 August.  We
+        are heartened by the results received by school candidates...
       button: Click here to read more
       url: /2024-mid-year-gce-o-level-mother-tongue-languages-exam-results/
       alt: Image alt text
