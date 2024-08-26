@@ -48,4 +48,12 @@ sections:
       url: /art-fiesta-ii/
       image: /images/Spotlight/singing_of_School_Song_by_all_performers.jpg
       alt: Image alt text
+  - infopic:
+      title: 2024 Mid-Year GCE O Level Mother Tongue Languages esults
+      subtitle: spotlight
+      id: infopic
+      description: Infopic description
+      button: Click here to read more
+      url: /2024-mid-year-gce-o-level-mother-tongue-languages-exam-results/
+      alt: Image alt text
 ---
