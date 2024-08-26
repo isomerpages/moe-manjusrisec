@@ -38,4 +38,14 @@ sections:
       url: /art-fiesta-ii/
       image: /images/Spotlight/singing_of_School_Song_by_all_performers.jpg
       alt: Image alt text
+  - infopic:
+      title: 2024 Vietnam (Hanoi) School Exchange
+      subtitle: Spotlight
+      id: infopic
+      description: On 26 May, 24 students from Manjusri Secondary School, accompanied
+        by teachers and Vice-Principal, embarked on a school exchange trip to
+        Hanoi, Vietnam...
+      button: Click here to read more
+      url: /2024-vietnam-hanoi-school-exchange/
+      alt: Image alt text
 ---
