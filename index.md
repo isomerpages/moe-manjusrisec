@@ -49,7 +49,7 @@ sections:
       image: /images/Spotlight/singing_of_School_Song_by_all_performers.jpg
       alt: Image alt text
   - infopic:
-      title: 2024 Mid-Year GCE O Level Mother Tongue Languages esults
+      title: 2024 Mid-Year GCE O Level Mother Tongue Languages Results
       subtitle: spotlight
       id: infopic
       description: The results for candidates were released on Thursday 22 August.  We
