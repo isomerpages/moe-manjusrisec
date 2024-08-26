@@ -22,6 +22,15 @@ sections:
           url: /contact-us/school-contact-details/
       background: /images/homepage1.gif
   - infopic:
+      title: 2024 Mid-Year GCE O Level Mother Tongue Languages Results
+      subtitle: spotlight
+      id: infopic
+      description: The results for candidates were released on Thursday 22 August.  We
+        are heartened by the results received by school candidates...
+      button: Click here to read more
+      url: /2024-mid-year-gce-o-level-mother-tongue-languages-exam-results/
+      alt: Image alt text
+  - infopic:
       title: 2024 Vietnam (Hanoi) School Exchange
       subtitle: Spotlight
       id: infopic
@@ -47,14 +56,5 @@ sections:
       button: click here to read more
       url: /art-fiesta-ii/
       image: /images/Spotlight/singing_of_School_Song_by_all_performers.jpg
-      alt: Image alt text
-  - infopic:
-      title: 2024 Mid-Year GCE O Level Mother Tongue Languages Results
-      subtitle: spotlight
-      id: infopic
-      description: The results for candidates were released on Thursday 22 August.  We
-        are heartened by the results received by school candidates...
-      button: Click here to read more
-      url: /2024-mid-year-gce-o-level-mother-tongue-languages-exam-results/
       alt: Image alt text
 ---
