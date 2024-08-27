@@ -41,6 +41,7 @@ sections:
       button: Click here to read more
       url: /2024-vietnam-hanoi-school-exchange/
       alt: Image alt text
+      image: /images/Spotlight/2024 Vietnam/viet7.jpg
   - infobar:
       title: Collection of School Graduation Certificate (SGC)
       subtitle: News
