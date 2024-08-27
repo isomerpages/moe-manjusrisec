@@ -21,6 +21,27 @@ sections:
           description: ""
           url: /contact-us/school-contact-details/
       background: /images/homepage1.gif
+  - infopic:
+      title: 2024 Mid-Year GCE O Level Mother Tongue Languages Results
+      subtitle: spotlight
+      id: infopic
+      description: The results for candidates were released on Thursday 22 August.  We
+        are heartened by the results received by school candidates...
+      button: Click here to read more
+      url: /2024-mid-year-gce-o-level-mother-tongue-languages-exam-results/
+      alt: Image alt text
+      image: /images/Spotlight/2024 MT/mt1.jpg
+  - infopic:
+      title: 2024 Vietnam (Hanoi) School Exchange
+      subtitle: Spotlight
+      id: infopic
+      description: On 26 May, 24 students from Manjusri Secondary School, accompanied
+        by teachers and Vice-Principal, embarked on a school exchange trip to
+        Hanoi, Vietnam...
+      button: Click here to read more
+      url: /2024-vietnam-hanoi-school-exchange/
+      alt: Image alt text
+      image: /images/Spotlight/2024 Vietnam/viet7.jpg
   - infobar:
       title: Collection of School Graduation Certificate (SGC)
       subtitle: News
