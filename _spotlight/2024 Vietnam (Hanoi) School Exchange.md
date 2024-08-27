@@ -33,6 +33,8 @@ environment and learned about the rich history and culture of Vietnam.
 Farm) and Ha Long Bay. At Ha Long Bay, a UNESCO World Heritage site, they
 were amazed by the scenic beauty of the islets, limestone karst formations
 and cave structures shaped by nature.</p>
+<p></p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -44,12 +46,18 @@ and cave structures shaped by nature.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Vietnam/viet2.jpg">
 </div>
-<p>Planting crops, Komi Farm</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Vietnam/viet3.jpg">
 </div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Planting crops, Komi Farm</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Manjusrians posing at Ha Long Bay</p>
 </td>
 </tr>
