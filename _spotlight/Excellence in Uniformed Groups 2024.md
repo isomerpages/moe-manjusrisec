@@ -28,7 +28,7 @@ commitment.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Excel in Uniform Grp/excel_grp_2.jpg">
+<img style="width: 89%;" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Excel in Uniform Grp/excel_grp_2.jpg">
 </div>
 </td>
 </tr>
