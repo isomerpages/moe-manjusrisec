@@ -14,7 +14,24 @@ school’s anniversary event held in April.</p>
 April 2024. It saw the handing of the leadership torch by the seniors to
 their juniors to carry on the good work through discipline, service and
 commitment.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+<p>NPCC Annual Parade @ Home Team Academy [27 April]</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<p>Puan Noor Aishah Award ceremony @ Guide House [20 July]</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <table style="minWidth: 25px">
 <colgroup>
