@@ -22,6 +22,16 @@ sections:
           url: /contact-us/school-contact-details/
       background: /images/homepage1.gif
   - infopic:
+      title: Excellence in Uniformed Groups 2024
+      subtitle: spotlight
+      id: infopic
+      description: The Uniformed Groups of Manjusri Sec continued their proud
+        tradition of achieving the unit pinnacle awards ...
+      button: click here to read more
+      url: /excellence-in-uniformed-groups-2024/
+      image: /images/Spotlight/2024 Excel in Uniform Grp/excel_grp_1.jpg
+      alt: Image alt text
+  - infopic:
       title: 2024 Mid-Year GCE O Level Mother Tongue Languages Results
       subtitle: spotlight
       id: infopic
@@ -58,15 +68,5 @@ sections:
       button: click here to read more
       url: /art-fiesta-ii/
       image: /images/Spotlight/singing_of_School_Song_by_all_performers.jpg
-      alt: Image alt text
-  - infopic:
-      title: Excellence in Uniformed Groups 2024
-      subtitle: spotlight
-      id: infopic
-      description: The Uniformed Groups of Manjusri Sec continued their proud
-        tradition of achieving the unit pinnacle awards ...
-      button: click here to read more
-      url: /excellence-in-uniformed-groups-2024/
-      image: /images/Spotlight/2024 Excel in Uniform Grp/excel_grp_1.jpg
       alt: Image alt text
 ---
