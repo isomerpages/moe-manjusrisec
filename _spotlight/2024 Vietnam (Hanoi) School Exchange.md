@@ -119,6 +119,7 @@ people during the Vietnam War.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Vietnam/viet7.jpg">
 </div>
+<p></p>
 </td>
 </tr>
 <tr>
