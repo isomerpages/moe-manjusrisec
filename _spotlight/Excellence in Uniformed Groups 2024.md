@@ -49,6 +49,7 @@ commitment.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <p><strong>Uniformed Group / Award 2024</strong>
 </p>
 </td>
@@ -83,6 +84,7 @@ commitment.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
+<p></p>
 <p><strong>Recipients of Kwan Im Thong Hood Cho Temple Scholarships (Uniformed Groups)</strong>
 </p>
 </td>
