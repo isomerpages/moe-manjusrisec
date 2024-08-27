@@ -44,7 +44,6 @@ commitment.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -78,7 +77,6 @@ commitment.</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
