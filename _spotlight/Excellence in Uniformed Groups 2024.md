@@ -23,10 +23,16 @@ commitment.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<p>NPCC Annual Parade @ Home Team Academy [27 April]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NPCC Annual Parade @ Home Team Academy [27 April]</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Puan Noor Aishah Award ceremony @ Guide House [20 July]</p>
 </td>
 </tr>
