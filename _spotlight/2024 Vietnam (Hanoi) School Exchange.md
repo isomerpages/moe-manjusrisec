@@ -41,13 +41,11 @@ and cave structures shaped by nature.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Vietnam/viet2.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 95%;" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Vietnam/viet3.jpg">
 </div>
@@ -79,9 +77,15 @@ experience making pottery from scratch.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Vietnam/viet4.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Vietnam/viet5.jpg">
+</div>
 </td>
 </tr>
 <tr>
