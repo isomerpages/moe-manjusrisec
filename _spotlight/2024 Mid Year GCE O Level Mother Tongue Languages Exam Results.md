@@ -24,7 +24,7 @@ from both our Sec 4 Express and Normal classes obtained 100% passes.&nbsp;
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Spotlight/2024 MT/mt1.jpg">
+<img style="width: 79%;" height="auto" width="100%" alt="" src="/images/Spotlight/2024 MT/mt1.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
