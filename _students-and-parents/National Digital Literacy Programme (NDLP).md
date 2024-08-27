@@ -248,21 +248,6 @@ MRT)
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Device Management Application (DMA)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chrome OS:
-<br><a href="https://go.gov.sg/mjr-dma-option-a" rel="noopener noreferrer nofollow" target="_blank">DMA Parent Guide - Option A</a>
-<br><a href="https://go.gov.sg/mjr-dma-option-b" rel="noopener noreferrer nofollow" target="_blank">DMA Parent Guide - Option B </a>
-<br><a href="/files/Ndlp/dma%20parent%20guide%20-%20default%20option.pdf" rel="noopener noreferrer nofollow" target="_blank">DMA Parent Guide - Default Option</a>
-<br>iPad:
-<br><a href="/files/Ndlp/DMA%20Parent%20Guide%20v2%20-%20Option%20A%20iPad%20OS.pdf" rel="noopener noreferrer nofollow" target="_blank">DMA Parent Guide v2.0 - Option A (iPad OS)</a>
-<br><a href="/files/Ndlp/DMA%20Parent%20Guide%20v2%20-%20Option%20B%20iPad%20OS.pdf" rel="noopener noreferrer nofollow" target="_blank">DMA Parent Guide v2.0 - Option B (iPad OS)</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Student ICON</p>
 </td>
 <td rowspan="1" colspan="1">
