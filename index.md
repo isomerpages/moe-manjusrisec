@@ -30,6 +30,7 @@ sections:
       button: Click here to read more
       url: /2024-mid-year-gce-o-level-mother-tongue-languages-exam-results/
       alt: Image alt text
+      image: /images/Spotlight/2024 MT/mt1.jpg
   - infopic:
       title: 2024 Vietnam (Hanoi) School Exchange
       subtitle: Spotlight
