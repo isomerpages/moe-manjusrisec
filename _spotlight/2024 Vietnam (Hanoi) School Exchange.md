@@ -77,7 +77,7 @@ experience making pottery from scratch.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 84%;" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Vietnam/viet4.jpg">
+<img style="width: 83%;" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Vietnam/viet4.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -112,7 +112,7 @@ people during the Vietnam War.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 81%;" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Vietnam/viet6.jpg">
+<img style="width: 83%;" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Vietnam/viet6.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
