@@ -22,7 +22,7 @@ five-day, four-night school exchange trip to Hanoi, Vietnam.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Group photo at Nguyen Sieu School (Hanoi)</p>
+<p align="center">Group photo at Nguyen Sieu School (Hanoi)</p>
 </td>
 </tr>
 </tbody>
@@ -55,7 +55,7 @@ and cave structures shaped by nature.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Planting crops, Komi Farm</p>
+<p align="center">Planting crops, Komi Farm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p align="center">Manjusrians posing at Ha Long Bay</p>
@@ -90,10 +90,10 @@ experience making pottery from scratch.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Cultural activities at Ngueyn Sieu School</p>
+<p align="center">Cultural activities at Ngueyn Sieu School</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Pottery activities at Bat Trang Village</p>
+<p align="center">Pottery activities at Bat Trang Village</p>
 </td>
 </tr>
 </tbody>
