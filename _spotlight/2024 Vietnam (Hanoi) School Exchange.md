@@ -58,7 +58,7 @@ and cave structures shaped by nature.</p>
 <p>Planting crops, Komi Farm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Manjusrians posing at Ha Long Bay</p>
+<p align="center">Manjusrians posing at Ha Long Bay</p>
 </td>
 </tr>
 </tbody>
