@@ -243,7 +243,6 @@ MRT)
 <br><a href="" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook (II) on Learning with a PLD</a>
 <br><a href="" rel="noopener noreferrer nofollow" target="_blank">Lenovo Chromebook 500e User Guide</a>
 </p>
-<p></p>
 </td>
 </tr>
 <tr>
