@@ -126,10 +126,10 @@ people during the Vietnam War.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Museum of Ethnology</p>
+<p align="center">Museum of Ethnology</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>At the Temple of Literature</p>
+<p align="center">At the Temple of Literature</p>
 </td>
 </tr>
 </tbody>
