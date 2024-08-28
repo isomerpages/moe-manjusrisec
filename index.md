@@ -22,6 +22,17 @@ sections:
           url: /contact-us/school-contact-details/
       background: /images/homepage1.gif
   - infopic:
+      title: 42nd School Anniversary & Awards Presentation Day
+      subtitle: spotlight
+      id: infopic
+      description: The school held its 42nd Anniversary and Awards Presentation Day on
+        5 April 2024 to affirm the achievements over the past year of our
+        students...
+      button: click here to read more
+      url: k
+      image: /images/Spotlight/2024 Sch Anni/sch_anni6.jpg
+      alt: Image alt text
+  - infopic:
       title: Excellence in Uniformed Groups 2024
       subtitle: spotlight
       id: infopic
