@@ -29,7 +29,7 @@ sections:
         5 April 2024 to affirm the achievements over the past year of our
         students...
       button: click here to read more
-      url: k
+      url: /42nd-school-anniversary-awards-presentation-day/
       image: /images/Spotlight/2024 Sch Anni/sch_anni6.jpg
       alt: Image alt text
   - infopic:
