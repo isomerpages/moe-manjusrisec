@@ -133,10 +133,8 @@ award</p>
 </table>
 <p><a href="https://heyzine.com/flip-book/2f619a24a1.html" rel="noopener noreferrer nofollow" target="_blank">42nd School Anniversary Programme Booklet in Flipbook</a>
 </p>
-<p></p>
 <p>Scan QR Code for Programme Booklet</p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="Scan QR Code to access Programme Booklet" src="/images/Spotlight/42nd_sch_anni_prog_booklet.png">
 </div>
-<p><a href="/files/News/42_Sch_Anni_Prog_Booklet.pdf" rel="noopener noreferrer nofollow" target="_blank">Programme Booklet in PDF</a>
-</p>
+<p></p>
