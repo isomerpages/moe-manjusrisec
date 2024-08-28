@@ -139,7 +139,7 @@ award</p>
 </tr>
 </tbody>
 </table>
-<p>Scan QR Code for <a href="https://heyzine.com/flip-book/2f619a24a1.html" rel="noopener nofollow" target="_blank">Programme Booklet</a>
+<p>Scan QR Code for <a href="https://heyzine.com/flip-book/2f619a24a1.html" rel="noopener nofollow" target="_blank">Anniversary Programme Booklet</a>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="Scan QR Code to access Programme Booklet" src="/images/Spotlight/42nd_sch_anni_prog_booklet.png">
