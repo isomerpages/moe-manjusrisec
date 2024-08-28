@@ -49,11 +49,27 @@ services such as Counselling rooms &amp; an IT Helpdesk.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 <p>MJR Uniformed Groups Guard of Honour contingent</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <p>Guest of Honour Dr Colin Tan delivering his speech</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -69,6 +85,14 @@ services such as Counselling rooms &amp; an IT Helpdesk.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 <p>Mr Md Sufri (Lead Manager, Tasek Academy &amp; Social Services) presenting
 Lion City Sailors team autographed football jersey to Singapore Buddhist
 Federation</p>
@@ -77,6 +101,14 @@ Federation</p>
 <p></p>
 <p>Valedictorian and 2023 Most Outstanding Manjusrian Cherelle Chew receiving
 award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
