@@ -129,11 +129,18 @@ award</p>
 <p>Official opening of ‘The Cove’ by Venerable Seck Kwang Phing</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
-<p><a href="https://heyzine.com/flip-book/2f619a24a1.html" rel="noopener noreferrer nofollow" target="_blank">42nd School Anniversary Programme Booklet in Flipbook</a>
+<p>Scan QR Code for <a href="https://heyzine.com/flip-book/2f619a24a1.html" rel="noopener nofollow" target="_blank">Programme Booklet</a>
 </p>
-<p>Scan QR Code for Programme Booklet</p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="Scan QR Code to access Programme Booklet" src="/images/Spotlight/42nd_sch_anni_prog_booklet.png">
 </div>
