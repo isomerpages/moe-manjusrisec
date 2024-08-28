@@ -49,9 +49,15 @@ services such as Counselling rooms &amp; an IT Helpdesk.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Sch Anni/sch_anni1.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Sch Anni/sch_anni2.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -67,9 +73,15 @@ services such as Counselling rooms &amp; an IT Helpdesk.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Sch Anni/sch_anni3.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Sch Anni/sch_anni4.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -85,9 +97,15 @@ services such as Counselling rooms &amp; an IT Helpdesk.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Sch Anni/sch_anni5.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Sch Anni/sch_anni6.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -106,9 +124,15 @@ award</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Sch Anni/sch_anni7.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Sch Anni/sch_anni8.jpg">
+</div>
 </td>
 </tr>
 <tr>
