@@ -48,13 +48,11 @@ services such as Counselling rooms &amp; an IT Helpdesk.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Sch Anni/sch_anni1.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Sch Anni/sch_anni2.jpg">
 </div>
@@ -62,23 +60,19 @@ services such as Counselling rooms &amp; an IT Helpdesk.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <p>MJR Uniformed Groups Guard of Honour contingent</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <p>Guest of Honour Dr Colin Tan delivering his speech</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Sch Anni/sch_anni3.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Sch Anni/sch_anni4.jpg">
 </div>
@@ -86,23 +80,19 @@ services such as Counselling rooms &amp; an IT Helpdesk.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <p>Chinese dancers in motion</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <p>Wushu performance</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Sch Anni/sch_anni5.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Sch Anni/sch_anni6.jpg">
 </div>
@@ -110,26 +100,22 @@ services such as Counselling rooms &amp; an IT Helpdesk.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <p>Mr Md Sufri (Lead Manager, Tasek Academy &amp; Social Services) presenting
 Lion City Sailors team autographed football jersey to Singapore Buddhist
 Federation</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <p>Valedictorian and 2023 Most Outstanding Manjusrian Cherelle Chew receiving
 award</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Sch Anni/sch_anni7.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Sch Anni/sch_anni8.jpg">
 </div>
@@ -137,11 +123,9 @@ award</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <p>Calligraphic artwork presented by its student artist Qi Ge to GOH</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <p>Official opening of ‘The Cove’ by Venerable Seck Kwang Phing</p>
 </td>
 </tr>
