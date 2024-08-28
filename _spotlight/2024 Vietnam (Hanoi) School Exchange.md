@@ -1,7 +1,7 @@
 ---
 title: 2024 Vietnam (Hanoi) School Exchange
 permalink: /2024-vietnam-hanoi-school-exchange/
-variant: tiptap
+variant: markdown
 description: ""
 ---
 <p>On 26 May, 24 students from Manjusri Secondary School, accompanied by
@@ -22,7 +22,7 @@ five-day, four-night school exchange trip to Hanoi, Vietnam.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Group photo at Nguyen Sieu School (Hanoi)</p>
+<p align="center">Group photo at Nguyen Sieu School (Hanoi)</p>
 </td>
 </tr>
 </tbody>
@@ -33,6 +33,8 @@ environment and learned about the rich history and culture of Vietnam.
 Farm) and Ha Long Bay. At Ha Long Bay, a UNESCO World Heritage site, they
 were amazed by the scenic beauty of the islets, limestone karst formations
 and cave structures shaped by nature.</p>
+<p></p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -40,23 +42,23 @@ and cave structures shaped by nature.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Vietnam/viet2.jpg">
 </div>
-</th>
-<th rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Vietnam/viet3.jpg">
 </div>
-</th>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Planting crops, Komi Farm</p>
+<p align="center">Planting crops, Komi Farm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Manjusrians posing at Hai Long Bay</p>
+<p align="center">Manjusrians posing at Ha Long Bay</p>
 </td>
 </tr>
 </tbody>
@@ -88,10 +90,10 @@ experience making pottery from scratch.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Cultural activities at Ngueyn Sieu School</p>
+<p align="center">Cultural activities at Ngueyn Sieu School</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Pottery activities at Bat Trang Village</p>
+<p align="center">Pottery activities at Bat Trang Village</p>
 </td>
 </tr>
 </tbody>
@@ -119,14 +121,15 @@ people during the Vietnam War.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Vietnam/viet7.jpg">
 </div>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Museum of Ethnology</p>
+<p align="center">Museum of Ethnology</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>At the Temple of Literature</p>
+<p align="center">At the Temple of Literature</p>
 </td>
 </tr>
 </tbody>

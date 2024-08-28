@@ -1,7 +1,7 @@
 ---
 title: 2024 Mid Year GCE O Level Mother Tongue Languages Exam Results
 permalink: /2024-mid-year-gce-o-level-mother-tongue-languages-exam-results/
-variant: tiptap
+variant: markdown
 description: ""
 ---
 <p>The results for candidates were released on Thursday 22 August.&nbsp;
@@ -35,7 +35,7 @@ from both our Sec 4 Express and Normal classes obtained 100% passes.&nbsp;
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>Manjusri candidates receiving their results at the school multi-Purpose Hall</strong>
+<p align="center"><strong>Manjusri candidates receiving their results at the school multi-Purpose Hall</strong>
 </p>
 </td>
 </tr>
