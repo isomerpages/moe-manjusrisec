@@ -2,6 +2,7 @@ collections:
   spotlight:
     output: true
     order:
+      - National Day Celebrations @ Manjusri.md
       - Singapore Silent Heroes Student Award.md
       - 42nd School Anniversary & Awards Presentation Day.md
       - Excellence in Uniformed Groups 2024.md
