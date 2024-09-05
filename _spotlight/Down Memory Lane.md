@@ -22,12 +22,6 @@ image: /images/memory_lane.jpg
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/collection-of-school-graduation-certificate-sgc-for-2023-4nt-students/" rel="noopener nofollow" target="_blank">Collection of School Graduation Certificate (SGC)</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a href="/art-fiesta-ii/" rel="noopener nofollow" target="_blank">Art Fiesta II</a>
 </p>
 </td>
