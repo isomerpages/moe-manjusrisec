@@ -85,7 +85,7 @@ the bathing of the statue of baby Prince Siddhartha by staff and students.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>Bathing of Prince Siddhartha by school community members</strong>
+<p align="center"><strong>Bathing of Prince Siddhartha by school community members</strong>
 </p>
 </td>
 </tr>
