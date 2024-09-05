@@ -52,6 +52,7 @@ sections:
       button: click here to read more
       url: /singapore-silent-heroes-student-award/
       alt: Image alt text
+      image: /images/Spotlight/2024 Silent Heroes/Silent_Heroes.jpg
   - infopic:
       title: 42nd School Anniversary & Awards Presentation Day
       subtitle: spotlight
