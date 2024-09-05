@@ -31,6 +31,7 @@ sections:
       button: click here to read more
       alt: Image alt text
       url: /national-day-celebrations-manjusri/
+      image: /images/Spotlight/2024 ND Celebrate/NDP_Morning_Assembly__5_.jpg
   - infopic:
       title: Vesak Day Observance Ceremony 2024
       subtitle: spotlight
