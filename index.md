@@ -99,4 +99,13 @@ sections:
       button: click here to read more
       alt: Image alt text
       url: /national-day-celebrations-manjusri/
+  - infopic:
+      title: Vesak Day Observance Ceremony 2024
+      subtitle: spotlight
+      id: infopic
+      description: Manjusri Secondary held its annual Vesak Observance ceremony at the
+        school hall on 17 May...
+      button: click here to read more
+      url: /vesak-day-observance-ceremony-2024/
+      alt: Image alt text
 ---
