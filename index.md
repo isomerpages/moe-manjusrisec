@@ -90,10 +90,13 @@ sections:
       image: /images/Spotlight/singing_of_School_Song_by_all_performers.jpg
       alt: Image alt text
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
+      title: National Day Celebrations @ Manjusri
+      subtitle: spotlight
       id: infopic
-      description: Infopic description
-      button: Button Text
+      description: As a part of our 59th National Day celebrations, Manjusri Secondary
+        organised a carnival under this year’s national theme of ‘Together, As
+        One United People’...
+      button: click here to read more
       alt: Image alt text
+      url: /national-day-celebrations-manjusri/
 ---
