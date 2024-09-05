@@ -22,6 +22,17 @@ image: /images/memory_lane.jpg
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/art-fiesta-ii/" rel="noopener nofollow" target="_blank">Art Fiesta II</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="/spotlight/permalink/gce-o-level-exam-2023-results/" rel="noopener noreferrer nofollow" target="_blank">GCE O Level Examination 2023 Results</a>
 </p>
 </td>
