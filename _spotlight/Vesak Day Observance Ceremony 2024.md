@@ -21,7 +21,7 @@ from the Tembusu Seniors Activity Centre as they joined in the proceedings.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Buddhist Interact Club students singing the Buddhist Hymn</strong>
+<p align="center"><strong>Buddhist Interact Club students singing the Buddhist Hymn</strong>
 </p>
 </td>
 </tr>
