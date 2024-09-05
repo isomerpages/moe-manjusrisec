@@ -69,10 +69,14 @@ spirit – a truly memorable way to celebrate National Day.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2024 ND Celebrate/DSC_0007.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2024 ND Celebrate/DSC_0464.jpg">
+</div>
 </td>
 </tr>
 <tr>
