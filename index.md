@@ -41,6 +41,8 @@ sections:
       button: click here to read more
       url: /vesak-day-observance-ceremony-2024/
       alt: Image alt text
+      image: /images/Spotlight/2024
+        Vesak/Venerables_leading_the_blessing_ceremony_2.jpg
   - infopic:
       title: Singapore Silent Heroes Student Award
       subtitle: spotlight
