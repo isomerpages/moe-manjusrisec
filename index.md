@@ -22,6 +22,15 @@ sections:
           url: /contact-us/school-contact-details/
       background: /images/homepage1.gif
   - infopic:
+      title: Singapore Silent Heroes Student Award
+      subtitle: spotlight
+      id: infopic
+      description: The Singapore Silent Heroes Award is the flagship event of
+        non-profit organization Civilians Association (Singapore)...
+      button: click here to read more
+      url: /singapore-silent-heroes-student-award/
+      alt: Image alt text
+  - infopic:
       title: 42nd School Anniversary & Awards Presentation Day
       subtitle: spotlight
       id: infopic
@@ -79,5 +88,12 @@ sections:
       button: click here to read more
       url: /art-fiesta-ii/
       image: /images/Spotlight/singing_of_School_Song_by_all_performers.jpg
+      alt: Image alt text
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
       alt: Image alt text
 ---
