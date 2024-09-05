@@ -54,7 +54,7 @@ of lights is also known in Chinese as 传灯.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>Offering of Flowers &amp; Blessings</strong>
+<p align="center"><strong>Offering of Flowers &amp; Blessings</strong>
 </p>
 </td>
 </tr>
