@@ -14,7 +14,9 @@ from the Tembusu Seniors Activity Centre as they joined in the proceedings.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Vesak/BIC_students_singing_the_Buddhist_Hymns_2.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -40,10 +42,14 @@ of lights is also known in Chinese as 传灯.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Vesak/Venerables_and_School_leaders_offering_flowers_and_lights.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Vesak/Venerables_leading_the_blessing_ceremony_2.jpg">
+</div>
 </td>
 </tr>
 <tr>
