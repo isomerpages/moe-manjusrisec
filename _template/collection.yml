@@ -1,4 +1,6 @@
 collections:
   template:
     output: true
-    order: []
+    order:
+      - Collection of School Graduation Certificate (SGC) for 2023 Secondary 4 &
+        5 students.md
