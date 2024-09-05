@@ -14,16 +14,17 @@ from the Tembusu Seniors Activity Centre as they joined in the proceedings.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
 <p></p>
-<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Buddhist Interact Club students singing the Buddhist Hymn</strong>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p><strong>Buddhist Interact Club students singing the Buddhist Hymn</strong>
-</p>
-<p>&nbsp;</p>
 <p>The ceremony began with a beautiful rendition of the 三宝歌 (Triple Gem Song)
 led by the members of the Buddhist Interact Club. &nbsp;Our Guest-of-Honour,
 Venerable Shi You Guang, then Secretary-General of the Singapore Buddhist
@@ -45,18 +46,22 @@ of lights is also known in Chinese as 传灯.</p>
 <p></p>
 </td>
 </tr>
-</tbody>
-</table>
+<tr>
+<td rowspan="1" colspan="2">
 <p><strong>Offering of Flowers &amp; Blessings</strong>
 </p>
-<p>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>Venerable monks in attendance chanted prayers offering blessings to the
 assembled audience of students, teachers and parents.&nbsp; On behalf of
 the school community, school leaders subsequently made Dana offerings to
 the Sangha.&nbsp; The final segment of the heartfelt ceremony witnessed
 the bathing of the statue of baby Prince Siddhartha by staff and students.</p>
-<table style="minWidth: 25px">
+<table style="minWidth: 50px">
 <colgroup>
+<col>
 <col>
 </colgroup>
 <tbody>
@@ -64,14 +69,16 @@ the bathing of the statue of baby Prince Siddhartha by staff and students.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>Bathing of Prince Siddhartha by school community </strong>
+<td rowspan="1" colspan="2">
+<p><strong>Bathing of Prince Siddhartha by school community members</strong>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
-<p><strong>members</strong>
-</p>
+<p></p>
