@@ -33,6 +33,16 @@ sections:
       url: /national-day-celebrations-manjusri/
       image: /images/Spotlight/2024 ND Celebrate/NDP_Morning_Assembly__5_.jpg
   - infopic:
+      title: Singapore Silent Heroes Student Award
+      subtitle: spotlight
+      id: infopic
+      description: The Singapore Silent Heroes Award is the flagship event of
+        non-profit organization Civilians Association (Singapore)...
+      button: click here to read more
+      url: /singapore-silent-heroes-student-award/
+      alt: Image alt text
+      image: /images/Spotlight/2024 Silent Heroes/Silent_Heroes.jpg
+  - infopic:
       title: Vesak Day Observance Ceremony 2024
       subtitle: spotlight
       id: infopic
@@ -43,16 +53,6 @@ sections:
       alt: Image alt text
       image: /images/Spotlight/2024
         Vesak/Venerables_leading_the_blessing_ceremony_2.jpg
-  - infopic:
-      title: Singapore Silent Heroes Student Award
-      subtitle: spotlight
-      id: infopic
-      description: The Singapore Silent Heroes Award is the flagship event of
-        non-profit organization Civilians Association (Singapore)...
-      button: click here to read more
-      url: /singapore-silent-heroes-student-award/
-      alt: Image alt text
-      image: /images/Spotlight/2024 Silent Heroes/Silent_Heroes.jpg
   - infopic:
       title: 42nd School Anniversary & Awards Presentation Day
       subtitle: spotlight
