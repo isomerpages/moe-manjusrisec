@@ -91,11 +91,4 @@ sections:
       url: /2024-vietnam-hanoi-school-exchange/
       alt: Image alt text
       image: /images/Spotlight/2024 Vietnam/viet7.jpg
-  - infobar:
-      title: Collection of School Graduation Certificate (SGC)
-      subtitle: News
-      id: infobar
-      description: for 2023 Secondary 4 & 5 students
-      button: Click here to read more
-      url: /collection-of-school-graduation-certificate-sgc-for-2023-4nt-students/
 ---
