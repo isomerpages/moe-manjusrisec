@@ -73,10 +73,14 @@ the bathing of the statue of baby Prince Siddhartha by staff and students.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Vesak/School_leaders_performing_the_bathing_of_prince_siddhartha_ceremony.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Vesak/Student_representatives_performing_the_bathing_of_prince_siddhartha_ceremony_2.jpg">
+</div>
 </td>
 </tr>
 <tr>
