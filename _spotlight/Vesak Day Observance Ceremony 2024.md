@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 ---
 <p>Manjusri Secondary held its annual Vesak Observance ceremony at the school
-hall on 17 May.&nbsp; The school also hosted a hosted a group of guests
+hall on 17 May.&nbsp; The school also hosted a group of guests
 from the Tembusu Seniors Activity Centre as they joined in the proceedings.</p>
 <table style="minWidth: 25px">
 <colgroup>
