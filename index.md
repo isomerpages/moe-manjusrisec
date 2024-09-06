@@ -22,6 +22,38 @@ sections:
           url: /contact-us/school-contact-details/
       background: /images/homepage1.gif
   - infopic:
+      title: National Day Celebrations @ Manjusri
+      subtitle: spotlight
+      id: infopic
+      description: As a part of our 59th National Day celebrations, Manjusri Secondary
+        organised a carnival under this year’s national theme of ‘Together, As
+        One United People’...
+      button: click here to read more
+      alt: Image alt text
+      url: /national-day-celebrations-manjusri/
+      image: /images/Spotlight/2024 ND Celebrate/NDP_Morning_Assembly__5_.jpg
+  - infopic:
+      title: Singapore Silent Heroes Student Award
+      subtitle: spotlight
+      id: infopic
+      description: The Singapore Silent Heroes Award is the flagship event of
+        non-profit organization Civilians Association (Singapore)...
+      button: click here to read more
+      url: /singapore-silent-heroes-student-award/
+      alt: Image alt text
+      image: /images/Spotlight/2024 Silent Heroes/Silent_Heroes.jpg
+  - infopic:
+      title: Vesak Day Observance Ceremony 2024
+      subtitle: spotlight
+      id: infopic
+      description: Manjusri Secondary held its annual Vesak Observance ceremony at the
+        school hall on 17 May...
+      button: click here to read more
+      url: /vesak-day-observance-ceremony-2024/
+      alt: Image alt text
+      image: /images/Spotlight/2024
+        Vesak/Venerables_leading_the_blessing_ceremony_2.jpg
+  - infopic:
       title: 42nd School Anniversary & Awards Presentation Day
       subtitle: spotlight
       id: infopic
@@ -63,21 +95,4 @@ sections:
       url: /2024-vietnam-hanoi-school-exchange/
       alt: Image alt text
       image: /images/Spotlight/2024 Vietnam/viet7.jpg
-  - infobar:
-      title: Collection of School Graduation Certificate (SGC)
-      subtitle: News
-      id: infobar
-      description: for 2023 Secondary 4 & 5 students
-      button: Click here to read more
-      url: /collection-of-school-graduation-certificate-sgc-for-2023-4nt-students/
-  - infopic:
-      title: Art Fiesta II
-      subtitle: spotlight
-      id: infopic
-      description: Manjusri Secondary School held its Biennial Art Fiesta II on 7
-        April, at the Singapore Conference Hall...
-      button: click here to read more
-      url: /art-fiesta-ii/
-      image: /images/Spotlight/singing_of_School_Song_by_all_performers.jpg
-      alt: Image alt text
 ---
