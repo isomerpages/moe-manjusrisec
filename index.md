@@ -95,4 +95,15 @@ sections:
       url: /42nd-school-anniversary-awards-presentation-day/
       image: /images/Spotlight/2024 Sch Anni/sch_anni6.jpg
       alt: Image alt text
+  - infopic:
+      title: GCE O Level Examination 2023 Results
+      subtitle: spotlight
+      id: infopic
+      description: We congratulate our graduated cohort of students (2023) on
+        registering their strongest performance at the GCE O level examinations
+        of the past five years...
+      button: click here to read more
+      url: x
+      image: /images/Spotlight/O Result 2023/O_Result_1.jpg
+      alt: Image alt text
 ---
