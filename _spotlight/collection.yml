@@ -2,6 +2,7 @@ collections:
   spotlight:
     output: true
     order:
+      - GCE O Level Examination 2023 Results.md
       - National Day Celebrations @ Manjusri.md
       - Singapore Silent Heroes Student Award.md
       - Vesak Day Observance Ceremony 2024.md
