@@ -103,7 +103,7 @@ sections:
         registering their strongest performance at the GCE O level examinations
         of the past five years...
       button: click here to read more
-      url: x
+      url: /spotlight/permalink/gce-o-level-exam-2023-results/
       image: /images/Spotlight/O Result 2023/O_Result_1.jpg
       alt: Image alt text
 ---
