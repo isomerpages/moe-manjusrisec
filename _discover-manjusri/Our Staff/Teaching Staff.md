@@ -62,11 +62,12 @@ variant: markdown
 |   | Mr Amit Kumar Sharma s/o Amber Nath| amit_kumar_sharma_amber@moe.edu.sg| 
 |  3E| Ms Tuan Chui Lin| tuan_chui_lin@moe.edu.sg| 
 |   | Mr Marcus Goh Wei Ming| marcus_goh_wei_ming@moe.edu.sg| 
-|   | Ms Chan Sock Cheng| chan_sock_cheng@moe.edu.sg|
 |3F   | Ms Foo Siqi Michell| foo_siqi_michell@moe.edu.sg| 
+| | Ms Chan Sock Cheng|chan_sock_cheng@moe.edu.sg
 |   | Mr Kaddy Koh| koh_kaddy@moe.edu.sg| 
 |3G  | Mr Lee Zhong Shun| lee_zhong_shun@moe.edu.sg| 
 |  | Ms Nurjannah Binte Othman| nurjannah_othman@moe.edu.sg| 
+| | Mr Gey Eng Kiat Alan|gey_eng_kiat_alan@moe.edu.sg|
 |  4A| Ms Amira Begum d/o Abdul Naseer| amira_begum_abdul_naseer@moe.edu.sg| 
 |   | Mr Nur Hakim Alim Bin Salim| nur_hakim_alim_salim@moe.edu.sg| 
 |   | Mr Neo Wee Kian Travis| neo_wee_kian@moe.edu.sg| 
