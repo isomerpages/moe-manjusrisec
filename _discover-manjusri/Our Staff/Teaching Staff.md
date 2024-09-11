@@ -67,6 +67,7 @@ variant: markdown
 |   | Mr Kaddy Koh| koh_kaddy@moe.edu.sg| 
 |3G  | Mr Lee Zhong Shun| lee_zhong_shun@moe.edu.sg| 
 |  | Ms Nurjannah Binte Othman| nurjannah_othman@moe.edu.sg| 
+| | Mr Gey Eng Kiat Alan|gey_eng_kiat_alan@moe.edu.sg|
 |  4A| Ms Amira Begum d/o Abdul Naseer| amira_begum_abdul_naseer@moe.edu.sg| 
 |   | Mr Nur Hakim Alim Bin Salim| nur_hakim_alim_salim@moe.edu.sg| 
 |   | Mr Neo Wee Kian Travis| neo_wee_kian@moe.edu.sg| 
