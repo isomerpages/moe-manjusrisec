@@ -51,13 +51,13 @@ services such as Counselling rooms &amp; an IT Helpdesk.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Sch Anni/sch_anni1.jpg">
 </div>
-<p>MJR Uniformed Groups Guard of Honour contingent</p>
+<p style="font-size:14px" align="center">MJR Uniformed Groups Guard of Honour contingent</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 98%;" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Sch Anni/sch_anni2.jpg">
 </div>
-<p>Guest of Honour Dr Colin Tan delivering his speech</p>
+<p style="font-size:14px" align="center">Guest of Honour Dr Colin Tan delivering his speech</p>
 </td>
 </tr>
 <tr>
@@ -65,13 +65,13 @@ services such as Counselling rooms &amp; an IT Helpdesk.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Sch Anni/sch_anni3.jpg">
 </div>
-<p>Chinese dancers in motion</p>
+<p style="font-size:14px" align="center">Chinese dancers in motion</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 95%;" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Sch Anni/sch_anni4.jpg">
 </div>
-<p>Wushu performance</p>
+<p style="font-size:14px" align="center">Wushu performance</p>
 </td>
 </tr>
 <tr>
@@ -79,7 +79,7 @@ services such as Counselling rooms &amp; an IT Helpdesk.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Sch Anni/sch_anni5.jpg">
 </div>
-<p>Mr Md Sufri (Lead Manager, Tasek Academy &amp; Social Services) presenting
+<p style="font-size:14px" align="center">Mr Md Sufri (Lead Manager, Tasek Academy &amp; Social Services) presenting
 Lion City Sailors team autographed football jersey to Singapore Buddhist
 Federation</p>
 </td>
@@ -87,7 +87,7 @@ Federation</p>
 <div class="isomer-image-wrapper">
 <img style="width: 99%;" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Sch Anni/sch_anni6.jpg">
 </div>
-<p>Valedictorian and 2023 Most Outstanding Manjusrian Cherelle Chew receiving
+<p style="font-size:14px" align="center">Valedictorian and 2023 Most Outstanding Manjusrian Cherelle Chew receiving
 award</p>
 </td>
 </tr>
@@ -96,13 +96,13 @@ award</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Sch Anni/sch_anni7.jpg">
 </div>
-<p>Calligraphic artwork presented by its student artist Qi Ge to GOH</p>
+<p style="font-size:14px" align="center">Calligraphic artwork presented by its student artist Qi Ge to GOH</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Sch Anni/sch_anni8.jpg">
 </div>
-<p>Official opening of ‘The Cove’ by Venerable Seck Kwang Phing</p>
+<p style="font-size:14px" align="center">Official opening of ‘The Cove’ by Venerable Seck Kwang Phing</p>
 </td>
 </tr>
 <tr>
