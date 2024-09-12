@@ -4,3 +4,35 @@ permalink: /visit-by-seki-city-junior-high-schools-japan/
 variant: tiptap
 description: ""
 ---
+<p>MJR welcomed a delegation of Japanese students, teachers and officials
+from Seki City, Gifu Prefecture, led by Mr Mori Masaaki, Superintendent
+of Seki Board of Education, on 5 and 6 August. &nbsp;The delegation was
+welcomed on 5 August by a special morning assembly held in the school hall
+which included performances by our Chinese Orchestra and Choir. Our Japanese
+guests were paired with our students and experienced typical lessons with
+Manjusrians.</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Students from various Seki City Junior High Schools at MJR amphitheatre</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>The second day of the exchange provided opportunities for rich cultural
+understanding. The Seki students shared about their city and performed
+traditional dances for our Secondary 3 students in the school hall. &nbsp;The
+Seki students were then engaged on a learning journey to the Geylang Serai
+and Katong area to learn about Malay culture and the Katong neighbourhood.
+&nbsp;The two-day programme concluded with performances and a farewell
+dinner hosted by our school at Furama City Centre Hotel.</p>
