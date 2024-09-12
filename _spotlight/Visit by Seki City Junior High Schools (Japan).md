@@ -25,7 +25,7 @@ Manjusrians.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Students from various Seki City Junior High Schools at MJR amphitheatre</p>
+<p align="center">Students from various Seki City Junior High Schools at MJR amphitheatre</p>
 </td>
 </tr>
 </tbody>
