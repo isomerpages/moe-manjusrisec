@@ -17,7 +17,7 @@ Tembusu Seniors Activity Centre as they joined in the proceedings.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Vesak/BIC_students_singing_the_Buddhist_Hymns_2.jpg">
 </div>
-<p>Buddhist Interact Club students singing the Buddhist Hymn</p>
+<p style="font-size:14px" align="center">Buddhist Interact Club students singing the Buddhist Hymn</p>
 </td>
 </tr>
 <tr>
@@ -54,7 +54,7 @@ of lights is also known in Chinese as 传灯.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Offering of Flowers &amp; Blessings</p>
+<p style="font-size:14px" align="center">Offering of Flowers &amp; Blessings</p>
 </td>
 </tr>
 </tbody>
@@ -84,7 +84,7 @@ the bathing of the statue of baby Prince Siddhartha by staff and students.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Bathing of Prince Siddhartha by school community members</p>
+<p style="font-size:14px" align="center">Bathing of Prince Siddhartha by school community members</p>
 </td>
 </tr>
 </tbody>
