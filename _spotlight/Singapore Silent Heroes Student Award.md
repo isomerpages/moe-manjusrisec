@@ -24,7 +24,7 @@ to them in a ceremony held at HDB Hub Convention Centre on 27 July 2024.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Silent Heroes/Silent_Heroes.jpg">
 </div>
-<p>Jayden Ong &amp; Srivastava Rishika on stage with Mr Alvin Chow, Chairman
+<p style="font-size:14px" align="center">Jayden Ong &amp; Srivastava Rishika on stage with Mr Alvin Chow, Chairman
 SSH Student Award, Mr M P Sellvem, President CAS, Ms Gan Siow Huang Minster
 of State for Education &amp; Manpower, and Ms Mellissa Seow HOD CCE Manjusri
 Sec.</p>
