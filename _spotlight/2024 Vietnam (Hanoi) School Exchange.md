@@ -17,7 +17,7 @@ five-day, four-night school exchange trip to Hanoi, Vietnam.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Vietnam/viet1.jpg">
 </div>
-<p>Group photo at Nguyen Sieu School (Hanoi)</p>
+<p style="font-size:14px" align="center">Group photo at Nguyen Sieu School (Hanoi)</p>
 </th>
 </tr>
 <tr>
