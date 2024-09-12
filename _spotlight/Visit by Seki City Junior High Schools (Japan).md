@@ -20,8 +20,13 @@ Manjusrians.</p>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Seki/Seki_City_Japan_Exchange_Programme__323_.jpg">
-	<p style="font-size:14px" align="center">Students from various Seki City Junior High Schools at MJR amphitheatre</p>
 </div>
+<p>Students from various Seki City Junior High Schools at MJR amphitheatre</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
