@@ -46,14 +46,14 @@ and cave structures shaped by nature.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Vietnam/viet2.jpg">
 </div>
-<p>Planting crops, Komi Farm</p>
+<p style="font-size:14px" align="center">Planting crops, Komi Farm</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 92%;" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Vietnam/viet3.jpg">
 </div>
 <p></p>
-<p>Manjusrians posing at Ha Long Bay</p>
+<p style="font-size:14px" align="center">Manjusrians posing at Ha Long Bay</p>
 </td>
 </tr>
 <tr>
@@ -84,13 +84,13 @@ experience making pottery from scratch.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 82%;" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Vietnam/viet4.jpg">
 </div>
-<p>Cultural activities at Ngueyn Sieu School</p>
+<p style="font-size:14px" align="center">Cultural activities at Ngueyn Sieu School</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Vietnam/viet5.jpg">
 </div>
-<p>Pottery activities at Bat Trang Village</p>
+<p style="font-size:14px" align="center">Pottery activities at Bat Trang Village</p>
 </td>
 </tr>
 <tr>
@@ -121,13 +121,13 @@ people during the Vietnam War.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Vietnam/viet6.jpg">
 </div>
-<p>Museum of Ethnology</p>
+<p style="font-size:14px" align="center">Museum of Ethnology</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Vietnam/viet7.jpg">
 </div>
-<p>At the Temple of Literature</p>
+<p style="font-size:14px" align="center">At the Temple of Literature</p>
 </td>
 </tr>
 <tr>
