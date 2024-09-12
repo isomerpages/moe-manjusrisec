@@ -22,16 +22,6 @@ sections:
           url: /contact-us/school-contact-details/
       background: /images/homepage1.gif
   - infopic:
-      title: Visit by Seki City Junior High Schools (Japan)
-      subtitle: spotlight
-      id: infopic
-      description: MJR welcomed a delegation of Japanese students, teachers and
-        officials from Seki City, Gifu Prefecture...
-      button: click here to read more
-      url: /visit-by-seki-city-junior-high-schools-japan/
-      image: /images/Spotlight/2024 Seki/Seki_City_Japan_Exchange_Programme__274_.jpg
-      alt: Image alt text
-  - infopic:
       title: 2024 Mid-Year GCE O Level Mother Tongue Languages Results
       subtitle: spotlight
       id: infopic
@@ -52,6 +42,16 @@ sections:
       alt: Image alt text
       url: /national-day-celebrations-manjusri/
       image: /images/Spotlight/2024 ND Celebrate/NDP_Morning_Assembly__5_.jpg
+  - infopic:
+      title: Visit by Seki City Junior High Schools (Japan)
+      subtitle: spotlight
+      id: infopic
+      description: MJR welcomed a delegation of Japanese students, teachers and
+        officials from Seki City, Gifu Prefecture...
+      button: click here to read more
+      url: /visit-by-seki-city-junior-high-schools-japan/
+      image: /images/Spotlight/2024 Seki/Seki_City_Japan_Exchange_Programme__274_.jpg
+      alt: Image alt text
   - infopic:
       title: Singapore Silent Heroes Student Award
       subtitle: spotlight
