@@ -21,7 +21,7 @@ Manjusrians.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Seki/Seki_City_Japan_Exchange_Programme__323_.jpg">
 </div>
-<p>Students from various Seki City Junior High Schools at MJR amphitheatre</p>
+<p style="font-size:14px" align="center">Students from various Seki City Junior High Schools at MJR amphitheatre</p>
 </td>
 </tr>
 <tr>
