@@ -18,7 +18,9 @@ Manjusrians.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Seki/Seki_City_Japan_Exchange_Programme__323_.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -28,8 +30,7 @@ Manjusrians.</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<p>The second day of the exchange provided opportunities for rich cultural
+<p>&nbsp;The second day of the exchange provided opportunities for rich cultural
 understanding. The Seki students shared about their city and performed
 traditional dances for our Secondary 3 students in the school hall. &nbsp;The
 Seki students were then engaged on a learning journey to the Geylang Serai
