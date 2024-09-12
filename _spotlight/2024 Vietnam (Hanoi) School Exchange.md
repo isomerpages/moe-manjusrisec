@@ -17,15 +17,15 @@ five-day, four-night school exchange trip to Hanoi, Vietnam.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Vietnam/viet1.jpg">
-	<p style="font-size:14px" align="center">Group photo at Nguyen Sieu School (Hanoi)</p>
 </div>
+<p>Group photo at Nguyen Sieu School (Hanoi)</p>
 </th>
 </tr>
 <tr>
-
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
-	<tr>
-	</tr>
 </tbody>
 </table>
 <p>During this trip, our students experienced the beautiful geographical
@@ -47,19 +47,22 @@ and cave structures shaped by nature.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Vietnam/viet2.jpg">
 </div>
+<p>Planting crops, Komi Farm</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Vietnam/viet3.jpg">
 </div>
+<p></p>
+<p>Manjusrians posing at Ha Long Bay</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p align="center">Planting crops, Komi Farm</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p align="center">Manjusrians posing at Ha Long Bay</p>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -91,10 +94,10 @@ experience making pottery from scratch.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p align="center">Cultural activities at Ngueyn Sieu School</p>
+<p>Cultural activities at Ngueyn Sieu School</p>
 </td>
 <td rowspan="1" colspan="1">
-<p align="center">Pottery activities at Bat Trang Village</p>
+<p>Pottery activities at Bat Trang Village</p>
 </td>
 </tr>
 </tbody>
@@ -127,10 +130,10 @@ people during the Vietnam War.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p align="center">Museum of Ethnology</p>
+<p>Museum of Ethnology</p>
 </td>
 <td rowspan="1" colspan="1">
-<p align="center">At the Temple of Literature</p>
+<p>At the Temple of Literature</p>
 </td>
 </tr>
 </tbody>
