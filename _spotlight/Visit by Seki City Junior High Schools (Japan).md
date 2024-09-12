@@ -45,13 +45,11 @@ dinner hosted by our school at Furama City Centre Hotel.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Seki/Seki_City_Japan_Exchange_Programme__148_.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Seki/Seki_City_Japan_Exchange_Programme__35_.jpg">
 </div>
@@ -59,13 +57,11 @@ dinner hosted by our school at Furama City Centre Hotel.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Seki/Seki_City_Japan_Exchange_Programme__240_.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Seki/Seki_City_Japan_Exchange_Programme__274_.jpg">
 </div>
@@ -73,13 +69,11 @@ dinner hosted by our school at Furama City Centre Hotel.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Seki/Seki_City_Japan_Exchange_Programme__168_.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Seki/Seki_City_Japan_Exchange_Programme__175_.jpg">
 </div>
@@ -87,13 +81,11 @@ dinner hosted by our school at Furama City Centre Hotel.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Seki/Seki_City_Japan_Exchange_Programme__286_.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Seki/Seki_City_Japan_Exchange_Programme__233_.jpg">
 </div>
