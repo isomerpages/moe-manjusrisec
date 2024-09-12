@@ -110,13 +110,13 @@ were:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/O%20Result%202023/O_Result_1.jpg">
 </div>
-<p>Chow Gui Bao collecting her results supported by family</p>
+<p style="font-size:14px" align="center">Chow Gui Bao collecting her results supported by family</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/O%20Result%202023/O_Result_2.jpg">
 </div>
-<p>Best performing MJR GCE O level students 2023</p>
+<p style="font-size:14px" align="center">Best performing MJR GCE O level students 2023</p>
 </td>
 </tr>
 <tr>
