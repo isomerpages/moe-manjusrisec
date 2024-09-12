@@ -5,8 +5,8 @@ variant: tiptap
 description: ""
 ---
 <p>Manjusri Secondary held its annual Vesak Observance ceremony at the school
-hall on 17 May.&nbsp; The school also hosted a group of guests
-from the Tembusu Seniors Activity Centre as they joined in the proceedings.</p>
+hall on 17 May.&nbsp; The school also hosted a group of guests from the
+Tembusu Seniors Activity Centre as they joined in the proceedings.</p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -17,12 +17,12 @@ from the Tembusu Seniors Activity Centre as they joined in the proceedings.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Vesak/BIC_students_singing_the_Buddhist_Hymns_2.jpg">
 </div>
+<p>Buddhist Interact Club students singing the Buddhist Hymn</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p align="center"><strong>Buddhist Interact Club students singing the Buddhist Hymn</strong>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -54,8 +54,7 @@ of lights is also known in Chinese as 传灯.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p align="center"><strong>Offering of Flowers &amp; Blessings</strong>
-</p>
+<p>Offering of Flowers &amp; Blessings</p>
 </td>
 </tr>
 </tbody>
@@ -85,8 +84,7 @@ the bathing of the statue of baby Prince Siddhartha by staff and students.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p align="center"><strong>Bathing of Prince Siddhartha by school community members</strong>
-</p>
+<p>Bathing of Prince Siddhartha by school community members</p>
 </td>
 </tr>
 </tbody>
