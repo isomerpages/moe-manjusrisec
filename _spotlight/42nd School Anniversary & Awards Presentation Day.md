@@ -1,7 +1,7 @@
 ---
 title: 42nd School Anniversary & Awards Presentation Day
 permalink: /42nd-school-anniversary-awards-presentation-day/
-variant: tiptap
+variant: markdown
 description: ""
 ---
 <p>The school held its 42<sup>nd</sup> Anniversary and Awards Presentation
@@ -51,19 +51,13 @@ services such as Counselling rooms &amp; an IT Helpdesk.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Sch Anni/sch_anni1.jpg">
 </div>
+<p style="font-size:14px" align="center">MJR Uniformed Groups Guard of Honour contingent</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Sch Anni/sch_anni2.jpg">
+<img style="width: 98%;" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Sch Anni/sch_anni2.jpg">
 </div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MJR Uniformed Groups Guard of Honour contingent</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Guest of Honour Dr Colin Tan delivering his speech</p>
+<p style="font-size:14px" align="center">Guest of Honour Dr Colin Tan delivering his speech</p>
 </td>
 </tr>
 <tr>
@@ -71,19 +65,13 @@ services such as Counselling rooms &amp; an IT Helpdesk.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Sch Anni/sch_anni3.jpg">
 </div>
+<p style="font-size:14px" align="center">Chinese dancers in motion</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Sch Anni/sch_anni4.jpg">
+<img style="width: 95%;" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Sch Anni/sch_anni4.jpg">
 </div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Chinese dancers in motion</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Wushu performance</p>
+<p style="font-size:14px" align="center">Wushu performance</p>
 </td>
 </tr>
 <tr>
@@ -91,21 +79,15 @@ services such as Counselling rooms &amp; an IT Helpdesk.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Sch Anni/sch_anni5.jpg">
 </div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Sch Anni/sch_anni6.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Md Sufri (Lead Manager, Tasek Academy &amp; Social Services) presenting
+<p style="font-size:14px" align="center">Mr Md Sufri (Lead Manager, Tasek Academy &amp; Social Services) presenting
 Lion City Sailors team autographed football jersey to Singapore Buddhist
 Federation</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Valedictorian and 2023 Most Outstanding Manjusrian Cherelle Chew receiving
+<div class="isomer-image-wrapper">
+<img style="width: 99%;" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Sch Anni/sch_anni6.jpg">
+</div>
+<p style="font-size:14px" align="center">Valedictorian and 2023 Most Outstanding Manjusrian Cherelle Chew receiving
 award</p>
 </td>
 </tr>
@@ -114,19 +96,13 @@ award</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Sch Anni/sch_anni7.jpg">
 </div>
+<p style="font-size:14px" align="center">Calligraphic artwork presented by its student artist Qi Ge to GOH</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Sch Anni/sch_anni8.jpg">
 </div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Calligraphic artwork presented by its student artist Qi Ge to GOH</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Official opening of ‘The Cove’ by Venerable Seck Kwang Phing</p>
+<p style="font-size:14px" align="center">Official opening of ‘The Cove’ by Venerable Seck Kwang Phing</p>
 </td>
 </tr>
 <tr>

@@ -1,7 +1,7 @@
 ---
 title: Singapore Silent Heroes Student Award
 permalink: /singapore-silent-heroes-student-award/
-variant: tiptap
+variant: markdown
 description: ""
 ---
 <p>The Singapore Silent Heroes Award is the flagship event of non-profit
@@ -21,19 +21,14 @@ to them in a ceremony held at HDB Hub Convention Centre on 27 July 2024.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Silent Heroes/Silent_Heroes.jpg">
 </div>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Jayden Ong &amp; Srivastava Rishika on stage with Mr Alvin Chow, Chairman
+<p style="font-size:14px" align="center">Jayden Ong &amp; Srivastava Rishika on stage with Mr Alvin Chow, Chairman
 SSH Student Award, Mr M P Sellvem, President CAS, Ms Gan Siow Huang Minster
 of State for Education &amp; Manpower, and Ms Mellissa Seow HOD CCE Manjusri
 Sec.</p>
-</td>
+</th>
 </tr>
 </tbody>
 </table>

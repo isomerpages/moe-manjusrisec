@@ -14,15 +14,14 @@ five-day, four-night school exchange trip to Hanoi, Vietnam.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Vietnam/viet1.jpg">
 </div>
+<p style="font-size:14px" align="center">Group photo at Nguyen Sieu School (Hanoi)</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p align="center">Group photo at Nguyen Sieu School (Hanoi)</p>
 </td>
 </tr>
 </tbody>
@@ -46,19 +45,22 @@ and cave structures shaped by nature.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Vietnam/viet2.jpg">
 </div>
+<p style="font-size:14px" align="center">Planting crops, Komi Farm</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Vietnam/viet3.jpg">
 </div>
+<p></p>
+<p style="font-size:14px" align="center">Manjusrians posing at Ha Long Bay</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p align="center">Planting crops, Komi Farm</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p align="center">Manjusrians posing at Ha Long Bay</p>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -81,19 +83,21 @@ experience making pottery from scratch.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 82%;" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Vietnam/viet4.jpg">
 </div>
+<p style="font-size:14px" align="center">Cultural activities at Ngueyn Sieu School</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Vietnam/viet5.jpg">
 </div>
+<p style="font-size:14px" align="center">Pottery activities at Bat Trang Village</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p align="center">Cultural activities at Ngueyn Sieu School</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p align="center">Pottery activities at Bat Trang Village</p>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -114,22 +118,23 @@ people during the Vietnam War.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Vietnam/viet6.jpg">
+<img style="width: 88%;" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Vietnam/viet6.jpg">
 </div>
+<p style="font-size:14px" align="center">Museum of Ethnology</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Vietnam/viet7.jpg">
 </div>
-<p></p>
+<p style="font-size:14px" align="center">At the Temple of Literature</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p align="center">Museum of Ethnology</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p align="center">At the Temple of Literature</p>
+<p></p>
 </td>
 </tr>
 </tbody>
