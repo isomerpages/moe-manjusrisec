@@ -25,19 +25,21 @@ commitment.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Excel in Uniform Grp/excel_grp_1.jpg">
 </div>
+<p>NPCC Annual Parade @ Home Team Academy [27 April]</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 89%;" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Excel in Uniform Grp/excel_grp_2.jpg">
 </div>
+<p>Puan Noor Aishah Award ceremony @ Guide House [20 July]</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>NPCC Annual Parade @ Home Team Academy [27 April]</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Puan Noor Aishah Award ceremony @ Guide House [20 July]</p>
+<p></p>
 </td>
 </tr>
 </tbody>
