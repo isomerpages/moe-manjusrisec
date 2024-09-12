@@ -55,7 +55,7 @@ services such as Counselling rooms &amp; an IT Helpdesk.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Sch Anni/sch_anni2.jpg">
+<img style="width: 98%;" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Sch Anni/sch_anni2.jpg">
 </div>
 <p>Guest of Honour Dr Colin Tan delivering his speech</p>
 </td>
@@ -65,18 +65,12 @@ services such as Counselling rooms &amp; an IT Helpdesk.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Sch Anni/sch_anni3.jpg">
 </div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Sch Anni/sch_anni4.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Chinese dancers in motion</p>
 </td>
 <td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 95%;" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Sch Anni/sch_anni4.jpg">
+</div>
 <p>Wushu performance</p>
 </td>
 </tr>
@@ -85,20 +79,14 @@ services such as Counselling rooms &amp; an IT Helpdesk.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Sch Anni/sch_anni5.jpg">
 </div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Sch Anni/sch_anni6.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Md Sufri (Lead Manager, Tasek Academy &amp; Social Services) presenting
 Lion City Sailors team autographed football jersey to Singapore Buddhist
 Federation</p>
 </td>
 <td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 99%;" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Sch Anni/sch_anni6.jpg">
+</div>
 <p>Valedictorian and 2023 Most Outstanding Manjusrian Cherelle Chew receiving
 award</p>
 </td>
