@@ -51,7 +51,7 @@ and cave structures shaped by nature.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Vietnam/viet3.jpg">
+<img style="width: 92%;" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Vietnam/viet3.jpg">
 </div>
 <p></p>
 <p>Manjusrians posing at Ha Long Bay</p>
@@ -120,7 +120,7 @@ people during the Vietnam War.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Vietnam/viet6.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Vietnam/viet6.jpg">
 </div>
 <p>Museum of Ethnology</p>
 </td>
@@ -129,7 +129,6 @@ people during the Vietnam War.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Vietnam/viet7.jpg">
 </div>
 <p>At the Temple of Literature</p>
-<p></p>
 </td>
 </tr>
 <tr>
