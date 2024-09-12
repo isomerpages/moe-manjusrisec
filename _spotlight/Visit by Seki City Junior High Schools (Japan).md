@@ -24,9 +24,6 @@ Manjusrians.</p>
 </div>
 </td>
 </tr>
-<tr>
-
-</tr>
 </tbody>
 </table>
 <p>&nbsp;The second day of the exchange provided opportunities for rich cultural
