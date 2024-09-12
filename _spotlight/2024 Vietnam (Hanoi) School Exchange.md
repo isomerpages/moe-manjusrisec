@@ -17,14 +17,15 @@ five-day, four-night school exchange trip to Hanoi, Vietnam.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Vietnam/viet1.jpg">
+	<p style="font-size:14px" align="center">Group photo at Nguyen Sieu School (Hanoi)</p>
 </div>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p align="center">Group photo at Nguyen Sieu School (Hanoi)</p>
-</td>
+
 </tr>
+	<tr>
+	</tr>
 </tbody>
 </table>
 <p>During this trip, our students experienced the beautiful geographical
