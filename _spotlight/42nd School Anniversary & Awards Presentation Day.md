@@ -51,18 +51,12 @@ services such as Counselling rooms &amp; an IT Helpdesk.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Sch Anni/sch_anni1.jpg">
 </div>
+<p>MJR Uniformed Groups Guard of Honour contingent</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Sch Anni/sch_anni2.jpg">
 </div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MJR Uniformed Groups Guard of Honour contingent</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Guest of Honour Dr Colin Tan delivering his speech</p>
 </td>
 </tr>
