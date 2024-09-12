@@ -35,7 +35,7 @@ from both our Sec 4 Express and Normal classes obtained 100% passes.&nbsp;
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p align="center"><strong>Manjusri candidates receiving their results at the school multi-Purpose Hall</strong>
+<p style="font-size:14px" align="center"><strong>Manjusri candidates receiving their results at the school multi-Purpose Hall</strong>
 </p>
 </td>
 </tr>
