@@ -119,7 +119,7 @@ people during the Vietnam War.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 89%;" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Vietnam/viet6.jpg">
+<img style="width: 88%;" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Vietnam/viet6.jpg">
 </div>
 <p style="font-size:14px" align="center">Museum of Ethnology</p>
 </td>
