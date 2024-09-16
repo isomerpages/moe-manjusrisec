@@ -9,35 +9,26 @@ variant: tiptap
 <p>MOE launched the National Digital Literacy Programme (NDLP) in March 2020
 to help students strengthen their digital literacies. Through the NDLP,
 all secondary school students will own a school-prescribed Personal Learning
-Device (PLD). The use of the personal learning device for teaching and
-learning aims to</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>support the development of digital literacies</p>
-</li>
-<li>
-<p>support self-directed and collaborative learning</p>
-</li>
-<li>
-<p>enhance teaching and learning</p>
-</li>
-</ul>
-<p>It enables our students to acquire the digital skills required to navigate
-the digital age through&nbsp;four components in the “Find, Think, Apply
-and Create” framework.</p>
+Device (PLD). Under the programme, students will acquire the digital skills
+across&nbsp;four components in the “Find, Think, Apply and Create” framework.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students%20and%20Parents/Ndlp/ndlp1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students and Parents/Ndlp/ndlp.png">
 </div>
 <p><strong>Personal Learning Device (PLD)</strong> &nbsp;</p>
-<p>The device has a variety of affordances, including seamless integration
-with existing teaching and learning technologies, such the national e-learning
-platform – the Singapore Student Learning Space (SLS) and Google Suite
-for Education Apps.</p>
+<p>The school-prescribed Personal Learning Devices (PLDs), Lenovo Convertible
+Chromebook has a variety of affordances, including seamless integration
+with existing teaching and learning technologies, such as the national
+e-learning platform – the Singapore Student Learning Space (SLS) and other
+educational technology tools.</p>
+<p>&nbsp;The PLDs enables students to benefit from active, technology-enabled
+learning experiences, enhance their learning through the application of
+productivity tools and provide opportunities for students to pick up digital
+literacies that will help them successfully navigate digital environments.</p>
+<p>Parents/ Guardians of Sec 1 students will receive the information on the
+procurement of PLD during the Meet The School (MTS) session in January.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students%20and%20Parents/Ndlp/ndlp2.jpg">
 </div>
-<p>Parents/ Guardians of Sec 1 students will be provided with the information
-on the purchase of the PLD during Meet The School (MTS) session in January.</p>
 <p><strong>Lockers for Storage of Personal Learning Device (PLD)</strong>&nbsp;</p>
 <p>As part of our school’s continuous effort to create a safe and seamless
 learning environment, lockers have been installed for students to store
