@@ -12,7 +12,7 @@ all secondary school students will own a school-prescribed Personal Learning
 Device (PLD). Under the programme, students will acquire the digital skills
 across&nbsp;four components in the “Find, Think, Apply and Create” framework.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students%20and%20Parents/Ndlp/ndlp1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students and Parents/Ndlp/ndlp.png">
 </div>
 <p><strong>Personal Learning Device (PLD)</strong> &nbsp;</p>
 <p>The school-prescribed Personal Learning Devices (PLDs), Lenovo Convertible
