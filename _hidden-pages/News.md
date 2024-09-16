@@ -30,8 +30,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/news/permalink/collection-of-school-graduation-certificate-sgc-for-2023-4nt-students/" rel="noopener noreferrer nofollow" target="_blank">Collection of School Graduation Certificate (SGC) for 2023 4NT students</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
