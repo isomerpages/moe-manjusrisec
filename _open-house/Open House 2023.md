@@ -4,7 +4,7 @@ permalink: /open-house-2024/
 description: ""
 variant: markdown
 ---
-**Open House 3 Nov 2023 Programme**
+**Open House Nov 2024 Programme**
 
 | Time | Activity|
 | -------- | -------- |
