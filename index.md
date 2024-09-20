@@ -21,6 +21,7 @@ sections:
           description: ""
           url: /contact-us/school-contact-details/
       background: /images/homepage1.gif
+      url: /open-house-2024/
   - infopic:
       title: 2024 Mid-Year GCE O Level Mother Tongue Languages Results
       subtitle: spotlight
