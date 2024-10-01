@@ -56,7 +56,7 @@ variant: markdown
 |   | Mr Mohd Jawahir B Ahmat| mohd_jawahir_ahmat@moe.edu.sg| 
 |  3B3| Ms Faith Kaylie Ong Yi Cheng <br>- Lead Teacher (English Language)| faith_kaylie_ong@moe.edu.sg| 
 |   | Mr Ng Hong Ghee| ng_hong_ghee@moe.edu.sg| 
-|   | Mdm Mok Yee Wan (Mrs Lai)| lai_kin_sen@moe.edu.sg| 
+|   | Mdm Mok Yee Wan (Mrs Lai)| mok_yee_wan@moe.edu.sg| 
 |  3D| Ms Lee Li Yun| lee_li_yun@moe.edu.sg| 
 |   | Ms Kok Jia En Yvonne (Mrs Ng)| jia_en_yvonne_kok@moe.edu.sg| 
 |   | Mr Amit Kumar Sharma s/o Amber Nath| amit_kumar_sharma_amber@moe.edu.sg| 
