@@ -58,5 +58,4 @@ variant: markdown
 |Ms Naliny d/o Krishnan|FASC|naliny_krishnan_a@moe.edu.sg|
 |Ms Lim Gek Ching Lyne |SENO|lim_gek_ching_lyne@moe.edu.sg|
 |Mdm  Suzila Binte Mohamed Sulaiman |SENO|suzila_mohd_sulaiman@moe.edu.sg|
-|Ms Joyce Vera Lim Jieyi |	Student Welfare Officer|joyce_vera_lim_jieyi@moe.edu.sg|
 |Ms Samantha Woo -|Senior ECG Counsellor |woo_wai_yeng@schools.gov.sg|
