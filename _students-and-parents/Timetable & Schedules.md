@@ -31,7 +31,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Timetable &amp; Schedules/2024 TT/2024_Post_Exam_Week_5_Sec_3_Class_v2.pdf" rel="noopener nofollow" target="_blank">file</a>
+<p><a href="/files/Timetable &amp; Schedules/2024 TT/2024_Post_Exam_Week_5_Sec_3_Class_v2.pdf" rel="noopener nofollow" target="_blank">Sec 3</a>
 </p>
 </td>
 </tr>
