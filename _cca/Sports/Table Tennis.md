@@ -16,8 +16,8 @@ variant: markdown
 
 ### **Training Schedule**
 
-Boys: Every Monday and Thursday&nbsp; 3pm – 6pm     
-Girls: Every Wednesday 3pm – 6pm and Friday 1pm-4pm
+Boys: Mon and Wed 3pm – 6pm     
+Girls: Tue and Thu 3pm – 6pm
 
 ### **Our Teachers**
 
