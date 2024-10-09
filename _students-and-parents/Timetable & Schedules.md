@@ -19,19 +19,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Timetable &amp; Schedules/2024 TT/2024_Post_Exam_Week_5_Sec_1_Class_v2.pdf" rel="noopener nofollow" target="_blank">Sec 1</a>
+<p><a href="/files/Timetable &amp; Schedules/2024 TT/2024_Post_Exam_Week_5_Sec_1_Class_v2_Snack.pdf" rel="noopener nofollow" target="_blank">Sec 1</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Timetable &amp; Schedules/2024 TT/2024_Post_Exam_Week_5_Sec_2_Class_v2.pdf" rel="noopener nofollow" target="_blank">Sec 2</a>
+<p><a href="/files/Timetable &amp; Schedules/2024 TT/2024_Post_Exam_Week_5_Sec_2_Class_v2_Snack.pdf" rel="noopener nofollow" target="_blank">Sec 2</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Timetable &amp; Schedules/2024 TT/2024_Post_Exam_Week_5_Sec_3_Class_v2.pdf" rel="noopener nofollow" target="_blank">Sec 3</a>
+<p><a href="/files/Timetable &amp; Schedules/2024 TT/2024_Post_Exam_Week_5_Sec_3_Class_v2_Snack.pdf" rel="noopener nofollow" target="_blank">Sec 3</a>
 </p>
 </td>
 </tr>
