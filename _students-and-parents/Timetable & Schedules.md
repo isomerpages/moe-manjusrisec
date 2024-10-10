@@ -18,10 +18,10 @@ variant: markdown
 </td>
 </tr>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p><a href="/files/Timetable &amp; Schedules/2024 TT/2024_Post_Exam_Week_6_Sec_1_Class_v2.pdf" rel="noopener nofollow" target="_blank">Sec 1</a>
 </p>
-</th>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
