@@ -113,7 +113,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Timetable &amp; Schedules/2024 TT/Nov_Dec_Hols_CCA_Schedule_2024.pdf" rel="noopener nofollow" target="_blank">Nov-Dec Holidays CCA Schedule</a>
+<p><a href="/files/Timetable &amp; Schedules/2024 TT/Nov_Dec_Hols_CCA_Schedule_2024_v2.pdf" rel="noopener nofollow" target="_blank">Nov-Dec Holidays CCA Schedule</a>
 </p>
 </td>
 </tr>
@@ -130,5 +130,4 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><a href="/files/Timetable &amp; Schedules/2024 TT/2024_Post_Exam_Week_6_Sec_1_Class_v2.pdf" rel="noopener nofollow" target="_blank">Sec 1</a>
-</p>
+<p></p>
