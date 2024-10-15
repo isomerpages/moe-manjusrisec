@@ -8,7 +8,7 @@ variant: markdown
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Chinese Noodles Food Stall | 30 Sep 2024 | Noodles acceptable |
+
  | Chinese Cooked Food Stall | 15 Nov 2024 | Assorted Dishes |
 
 **Application Procedure**
