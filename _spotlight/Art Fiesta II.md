@@ -47,11 +47,15 @@ were in the audience to support the performers.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/Art Fest/5_Piano_Solo_by_Rachel_Lian.jpg">
 </div>
+<p><strong>Piano recital by Rachel Lian</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/Art Fest/2_Saxaphone_Solo_by_Aiken_Tan.jpg">
 </div>
+<p><strong>Saxophone solo by Aiken Tan</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -59,11 +63,15 @@ were in the audience to support the performers.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/Art Fest/10_Chinese_Orchestra.jpg">
 </div>
+<p><strong>Concert Band</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/Art Fest/11_Concert_Band.jpg">
 </div>
+<p><strong>Chinese Orchestra</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -71,6 +79,8 @@ were in the audience to support the performers.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/Art Fest/1_Dance.jpg">
 </div>
+<p><strong>Chinese Dancers ‘The Dance of Youth’</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
