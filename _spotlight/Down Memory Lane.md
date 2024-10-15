@@ -22,8 +22,7 @@ image: /images/memory_lane.jpg
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/art-fiesta-ii/" rel="noopener nofollow" target="_blank">Art Fiesta II</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
