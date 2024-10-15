@@ -37,15 +37,12 @@ were in the audience to support the performers.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/Art Fest/4_Wushu.jpg">
 </div>
 <p><strong>Wushu Performers in ‘Martial Universe’</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -81,15 +78,12 @@ were in the audience to support the performers.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/Art Fest/1_Dance.jpg">
 </div>
 <p><strong>Chinese Dancers ‘The Dance of Youth’</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
