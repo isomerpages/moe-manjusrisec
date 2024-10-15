@@ -2,7 +2,6 @@ collections:
   spotlight:
     output: true
     order:
-      - Art Fiesta II.md
       - 2024 Mid Year GCE O Level Mother Tongue Languages Exam Results.md
       - National Day Celebrations @ Manjusri.md
       - Visit by Seki City Junior High Schools (Japan).md
@@ -10,6 +9,7 @@ collections:
       - 2024 Vietnam (Hanoi) School Exchange.md
       - Vesak Day Observance Ceremony 2024.md
       - Excellence in Uniformed Groups 2024.md
+      - Art Fiesta II.md
       - 42nd School Anniversary & Awards Presentation Day.md
       - GCE O Level Examination 2023 Results.md
       - Down Memory Lane.md
