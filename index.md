@@ -103,7 +103,7 @@ sections:
         Conference Hall on 7 April 2024 as an extension of the school’s 42nd
         Anniversary celebrations...
       button: click here to read more
-      url: x
+      url: /art-fiesta-ii/
       image: /images/Spotlight/Art Fest/1_Dance.jpg
       alt: Image alt text
   - infopic:
