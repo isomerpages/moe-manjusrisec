@@ -25,11 +25,15 @@ were in the audience to support the performers.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/Art Fest/12_Emcees1.jpg">
 </div>
+<p><strong>Student Masters of Ceremony</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/Art Fest/9_Choir.jpg">
 </div>
+<p><strong>Manjusri Choir</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -37,6 +41,8 @@ were in the audience to support the performers.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/Art Fest/4_Wushu.jpg">
 </div>
+<p><strong>Wushu Performers in ‘Martial Universe’</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
