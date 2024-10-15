@@ -96,6 +96,17 @@ sections:
       image: /images/Spotlight/2024 Excel in Uniform Grp/excel_grp_1.jpg
       alt: Image alt text
   - infopic:
+      title: Art Fiesta II
+      subtitle: spotlight
+      id: infopic
+      description: Manjusri Secondary’s Arts Fiesta II was staged at the Singapore
+        Conference Hall on 7 April 2024 as an extension of the school’s 42nd
+        Anniversary celebrations...
+      button: click here to read more
+      url: x
+      image: /images/Spotlight/Art Fest/1_Dance.jpg
+      alt: Image alt text
+  - infopic:
       title: 42nd School Anniversary & Awards Presentation Day
       subtitle: spotlight
       id: infopic
