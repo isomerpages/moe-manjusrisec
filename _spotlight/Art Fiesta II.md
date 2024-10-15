@@ -5,17 +5,21 @@ variant: tiptap
 description: ""
 ---
 <p></p>
-<p>Manjusri Secondary School held its Biennial Art Fiesta II on 7 April,
-at the Singapore Conference Hall. The event was graced by representatives
-from the School Management Committee, Parent Support Group, Alumni and
-distinguished guests.
-<br>
-<br>Students from our Performing Arts Group, Chinese Dance, Chinese Orchestra,
-Choir and Concert Band, as well as Wushu, Learning for Life Programme and
-the Alumni put up captivating performances for the audience.
-<br>
-<br>It was definitely a showcase of talent and passion!</p>
-<table>
+<p>Manjusri Secondary’s Arts Fiesta II was staged at the Singapore Conference
+Hall on 7 April 2024 as an extension of the school’s 42<sup>nd</sup> Anniversary
+celebrations. This biennial public concert served to showcase of the performing
+arts talents of Manjusrians, build their teamwork and self-confidence,
+as well as strengthen pride in our school by our students.&nbsp; The school
+is pleased to announce that 16 of our performing arts students were awarded
+Mee Toh Foundation Arts Scholarships for this year.&nbsp; Members of the
+school management committee, current and former staff, alumni and family
+were in the audience to support the performers.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
