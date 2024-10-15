@@ -14,56 +14,19 @@ is pleased to announce that 16 of our performing arts students were awarded
 Mee Toh Foundation Arts Scholarships for this year.&nbsp; Members of the
 school management committee, current and former staff, alumni and family
 were in the audience to support the performers.</p>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/Art Fest/1_Dance.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/Art Fest/2_Saxaphone_Solo_by_Aiken_Tan.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/Art Fest/4_Wushu.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/Art Fest/12_Emcees1.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/Art Fest/5_Piano_Solo_by_Rachel_Lian.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/Art Fest/9_Choir.jpg">
 </div>
@@ -71,30 +34,43 @@ were in the audience to support the performers.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/Art Fest/10_Chinese_Orchestra.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/Art Fest/4_Wushu.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/Art Fest/11_Concert_Band.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/Art Fest/5_Piano_Solo_by_Rachel_Lian.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/Art Fest/12_Emcees1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/Art Fest/2_Saxaphone_Solo_by_Aiken_Tan.jpg">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/Art Fest/10_Chinese_Orchestra.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/Art Fest/11_Concert_Band.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/Art Fest/1_Dance.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
