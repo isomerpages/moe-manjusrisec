@@ -1,7 +1,7 @@
 ---
 title: 42nd School Anniversary & Awards Presentation Day
 permalink: /42nd-school-anniversary-awards-presentation-day/
-variant: markdown
+variant: tiptap
 description: ""
 ---
 <p>The school held its 42<sup>nd</sup> Anniversary and Awards Presentation
