@@ -25,14 +25,14 @@ were in the audience to support the performers.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/Art Fest/12_Emcees1.jpg">
 </div>
-<p><strong>Student Masters of Ceremony</strong>
+<p style="font-size:14px" align="center"><strong>Student Masters of Ceremony</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/Art Fest/9_Choir.jpg">
 </div>
-<p><strong>Manjusri Choir</strong>
+<p style="font-size:14px" align="center"><strong>Manjusri Choir</strong>
 </p>
 </td>
 </tr>
@@ -41,7 +41,7 @@ were in the audience to support the performers.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/Art Fest/4_Wushu.jpg">
 </div>
-<p><strong>Wushu Performers in ‘Martial Universe’</strong>
+<p style="font-size:14px" align="center"><strong>Wushu Performers in ‘Martial Universe’</strong>
 </p>
 </td>
 </tr>
@@ -50,14 +50,14 @@ were in the audience to support the performers.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/Art Fest/5_Piano_Solo_by_Rachel_Lian.jpg">
 </div>
-<p><strong>Piano recital by Rachel Lian</strong>
+<p style="font-size:14px" align="center"><strong>Piano recital by Rachel Lian</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/Art Fest/2_Saxaphone_Solo_by_Aiken_Tan.jpg">
 </div>
-<p><strong>Saxophone solo by Aiken Tan</strong>
+<p style="font-size:14px" align="center"><strong>Saxophone solo by Aiken Tan</strong>
 </p>
 </td>
 </tr>
@@ -66,14 +66,14 @@ were in the audience to support the performers.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/Art Fest/10_Chinese_Orchestra.jpg">
 </div>
-<p><strong>Concert Band</strong>
+<p style="font-size:14px" align="center"><strong>Concert Band</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/Art Fest/11_Concert_Band.jpg">
 </div>
-<p><strong>Chinese Orchestra</strong>
+<p style="font-size:14px" align="center"><strong>Chinese Orchestra</strong>
 </p>
 </td>
 </tr>
@@ -82,7 +82,7 @@ were in the audience to support the performers.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/Art Fest/1_Dance.jpg">
 </div>
-<p><strong>Chinese Dancers ‘The Dance of Youth’</strong>
+<p style="font-size:14px" align="center"><strong>Chinese Dancers ‘The Dance of Youth’</strong>
 </p>
 </td>
 </tr>
