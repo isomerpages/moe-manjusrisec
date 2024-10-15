@@ -36,9 +36,6 @@ were in the audience to support the performers.</p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/Art Fest/3_Pipa_Solo_by_Li_Yixian.jpg">
-</div>
 </th>
 </tr>
 <tr>
@@ -56,23 +53,14 @@ were in the audience to support the performers.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/Art Fest/6_Bell_Curve_1.jpg">
-</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/Art Fest/7_Bell_Curve_2.jpg">
-</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/Art Fest/8_Bell_Curve_3.jpg">
-</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -104,21 +92,12 @@ were in the audience to support the performers.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/Art Fest/13_Emcees2.jpg">
-</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/Art Fest/14_Emcees3.jpg">
-</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/Art Fest/15_singing_of_School_Song_by_all_performers.jpg">
-</div>
 </td>
 </tr>
 </tbody>
