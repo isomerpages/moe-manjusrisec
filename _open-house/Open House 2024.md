@@ -42,8 +42,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>School Tour (Learning Spaces + Gallery Walk (School Programme + CCAs)</p>
-<p>Click <a href="https://form.gov.sg/670ccdbd5b72991ce93108b5" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-register</p>
 </td>
 </tr>
 <tr>
