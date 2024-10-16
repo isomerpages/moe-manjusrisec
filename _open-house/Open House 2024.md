@@ -6,17 +6,13 @@ variant: tiptap
 ---
 <p><strong>Programme:</strong>
 </p>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
 <th rowspan="1" colspan="1">
 <p></p>
 </th>
@@ -31,9 +27,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Registration</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -41,9 +34,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Principal’s Address</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -55,14 +45,16 @@ variant: tiptap
 <p>Click <a href="https://form.gov.sg/670ccdbd5b72991ce93108b5" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 register</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
 <p>Click <a href="https://form.gov.sg/670ccdbd5b72991ce93108b5" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 register</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
