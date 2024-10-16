@@ -22,7 +22,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>8:30 am:</p>
+<p>8:30 am</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Registration</p>
@@ -30,7 +30,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>9:00 am:</p>
+<p>9:00 am</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Principal’s Address</p>
@@ -38,7 +38,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>9:30 am to 12:00 pm:</p>
+<p>9:30 am to 12:00 pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School Tour (Learning Spaces + Gallery Walk (School Programme + CCAs)</p>
