@@ -4,6 +4,7 @@ permalink: /open-house-2024/
 description: ""
 variant: tiptap
 ---
+<p></p>
 <p><strong>Programme:</strong>
 </p>
 <table style="minWidth: 50px">
