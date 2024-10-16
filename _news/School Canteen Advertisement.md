@@ -8,7 +8,6 @@ variant: markdown
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-
  | Chinese Cooked Food Stall | 15 Nov 2024 | Assorted Dishes |
 
 **Application Procedure**
