@@ -62,7 +62,7 @@ register</p>
 </table>
 <p></p>
 <p>Catch a glimpse of our school programme and events.</p>
-<p><em>* video coming soon</em>
+<p><em><sup>* video coming soon *</sup></em>
 </p>
 <p></p>
 <p></p>
