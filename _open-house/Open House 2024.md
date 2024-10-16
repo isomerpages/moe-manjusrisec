@@ -72,5 +72,11 @@ register</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p>Click <a href="https://form.gov.sg/670ccdbd5b72991ce93108b5" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 register</p>
+<p>Catch a glimpse of our school programme and events.</p>
+<p><em>* video coming soon</em>
+</p>
+<p></p>
+<p></p>
