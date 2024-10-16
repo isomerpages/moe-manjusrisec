@@ -60,11 +60,9 @@ register</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="2">
+<p>Click <a href="https://form.gov.sg/670ccdbd5b72991ce93108b5" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+register</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -73,8 +71,6 @@ register</p>
 </tbody>
 </table>
 <p></p>
-<p>Click <a href="https://form.gov.sg/670ccdbd5b72991ce93108b5" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-register</p>
 <p>Catch a glimpse of our school programme and events.</p>
 <p><em>* video coming soon</em>
 </p>
