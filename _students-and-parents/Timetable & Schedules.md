@@ -14,7 +14,8 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2024 Semester 2 Weekk 7 Timetable</p>
+<p><strong>2024 Semester 2 Week 7 Timetable</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -43,7 +44,8 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2024 Semester 2 Week 6 Timetable</p>
+<p><strong>2024 Semester 2 Week 6 Timetable</strong>
+</p>
 </td>
 </tr>
 <tr>
