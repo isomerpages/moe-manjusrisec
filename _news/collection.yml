@@ -1,4 +1,6 @@
 collections:
   news:
     output: true
-    order: []
+    order:
+      - Outstanding Youth in Education Award 2025.md
+      - President’s Award for Teachers 2025.md
