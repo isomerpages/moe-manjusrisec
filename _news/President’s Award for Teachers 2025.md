@@ -16,7 +16,7 @@ inspire their students and peers through their words and deeds.</p>
 Junior Colleges (JC) / Millennia Institute (MI), as well as educators from
 the Institute of Technical Education (ITE), polytechnics and the National
 Institute of Early Childhood Development (NIEC).</p>
-<p>Nominations can be submitted online at <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pat2025</a>.
-Nominations will close on 10 Jan 2025.</p>
+<p>Nominations can be submitted online at <a href="https://go.gov.sg/oyea2025" rel="noopener nofollow" target="_blank">https://go.gov.sg/oyea2025</a>. Nominations
+will close on 10 Jan 2025.</p>
 <p></p>
 <p></p>
