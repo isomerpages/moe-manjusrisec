@@ -73,11 +73,6 @@ variant: tiptap
 <p></p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <p><a href="/files/Textbooks%20&amp;%20Uniforms/2024%20booklist/mjrss_pacific%20bookstores%20purchase%20info%20guide%202023.pdf" rel="noopener noreferrer nofollow" target="_blank">MJRSS_PACIFIC BOOKSTORES Purchase Info Guide 2023</a>
