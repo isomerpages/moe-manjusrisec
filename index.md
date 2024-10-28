@@ -32,6 +32,7 @@ sections:
       button: click here to read more
       url: /visit-of-educators-from-macau/
       alt: Image alt text
+      image: /images/Spotlight/2024 Macau/Macau_4.jpg
   - infopic:
       title: 2024 Mid-Year GCE O Level Mother Tongue Languages Results
       subtitle: spotlight
