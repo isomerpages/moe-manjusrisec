@@ -129,4 +129,13 @@ sections:
       url: /spotlight/permalink/gce-o-level-exam-2023-results/
       image: /images/Spotlight/O Result 2023/O_Result_1.jpg
       alt: Image alt text
+  - infopic:
+      title: Visit of Educators from Macau
+      subtitle: spotlight
+      id: infopic
+      description: On 18 October 2024, school leaders from The Chinese Educators’
+        Association of Macau paid a visit Manjusri Secondary...
+      button: click here to read more
+      url: /visit-of-educators-from-macau/
+      alt: Image alt text
 ---
