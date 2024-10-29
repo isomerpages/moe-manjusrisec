@@ -24,6 +24,16 @@ sections:
       url: /open-house-2024/
       button: open house 2024
   - infopic:
+      title: Visit of Educators from Macau
+      subtitle: spotlight
+      id: infopic
+      description: On 18 October 2024, school leaders from The Chinese Educators’
+        Association of Macau paid a visit Manjusri Secondary...
+      button: click here to read more
+      url: /visit-of-educators-from-macau/
+      alt: Image alt text
+      image: /images/Spotlight/2024 Macau/Macau_4.jpg
+  - infopic:
       title: 2024 Mid-Year GCE O Level Mother Tongue Languages Results
       subtitle: spotlight
       id: infopic
