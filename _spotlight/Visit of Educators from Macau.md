@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <p>On 18 October 2024, school leaders from The Chinese Educators’ Association
-of Macau paid a visit Manjusri Secondary.&nbsp; A total of 28 educators
+of Macau paid a visit to Manjusri Secondary.&nbsp; A total of 28 educators
 from Macau were in the delegation. They had come to Singapore to learn
 about local schools’ different curriculum approaches.&nbsp;&nbsp; At Manjusri,
 they were briefed about the school’s history, our AIM Teaching &amp; Learning
