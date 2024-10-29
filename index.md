@@ -28,7 +28,7 @@ sections:
       subtitle: spotlight
       id: infopic
       description: On 18 October 2024, school leaders from The Chinese Educators’
-        Association of Macau paid a visit Manjusri Secondary...
+        Association of Macau paid a visit to Manjusri Secondary...
       button: click here to read more
       url: /visit-of-educators-from-macau/
       alt: Image alt text
