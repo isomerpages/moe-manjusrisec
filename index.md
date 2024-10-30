@@ -20,7 +20,7 @@ sections:
         - title: Contact
           description: ""
           url: /contact-us/school-contact-details/
-      background: /images/Open House/openhouse.png
+      background: /images/Open House/22Oct_800_x_580px.png
       url: /open-house-2024/
       button: open house 2024
   - infopic:
