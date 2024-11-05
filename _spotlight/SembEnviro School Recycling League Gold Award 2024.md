@@ -29,7 +29,7 @@ of Sembcorp Industries.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Recycle/recycle1.jpg">
 </div>
-<p><strong><sup>MJR representatives receiving plaque and certificate</sup></strong>
+<p style="font-size:14px" align="center"><strong><sup>MJR representatives receiving plaque and certificate</sup></strong>
 </p>
 </td>
 </tr>
