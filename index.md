@@ -24,6 +24,17 @@ sections:
       url: /open-house-2024/
       button: open house 2024
   - infopic:
+      title: SembEnviro School Recycling League Gold Award 2024
+      subtitle: spotlight
+      id: infopic
+      description: We are happy to announce that our school came in top of the
+        SembEnviro School Recycling League 2024 in the Secondary School
+        Category...
+      button: click here to read more
+      url: /sembenviro-school-recycling-league-gold-award-2024/
+      image: /images/Spotlight/2024 Recycle/recycle1.jpg
+      alt: Image alt text
+  - infopic:
       title: Visit of Educators from Macau
       subtitle: spotlight
       id: infopic
@@ -138,16 +149,5 @@ sections:
       button: click here to read more
       url: /spotlight/permalink/gce-o-level-exam-2023-results/
       image: /images/Spotlight/O Result 2023/O_Result_1.jpg
-      alt: Image alt text
-  - infopic:
-      title: SembEnviro School Recycling League Gold Award 2024
-      subtitle: spotlight
-      id: infopic
-      description: We are happy to announce that our school came in top of the
-        SembEnviro School Recycling League 2024 in the Secondary School
-        Category...
-      button: click here to read more
-      url: /sembenviro-school-recycling-league-gold-award-2024/
-      image: /images/Spotlight/2024 Recycle/recycle1.jpg
       alt: Image alt text
 ---
