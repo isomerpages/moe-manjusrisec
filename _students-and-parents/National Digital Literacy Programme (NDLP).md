@@ -123,16 +123,17 @@ It’s about a 5-minute walk to CTHub from the station.</p>
 <p>By Car: CTHub offers parking facilities. Enter via Kallang Avenue, and
 parking is available at an hourly rate.</p>
 <p></p>
+<p>Hotline: +65 6817 1435</p>
+<p>Email: <a href="mailto:Svcctr@servlink.com.sg" rel="noopener noreferrer nofollow" target="_blank">Svcctr@servlink.com.sg</a>
+</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Monday to Friday: 9:00 AM – 6:00 PM</strong>
-</p>
+<p>Monday to Friday: 9:00 AM – 6:00 PM</p>
 <p></p>
-<p><strong>Saturday: 9:00 AM – 1:00 PM</strong>
-</p>
+<p>Saturday: 9:00 AM – 1:00 PM</p>
 <p></p>
-<p><strong>Closed on Sundays and Public Holidays</strong>
-</p>
+<p>Closed on Sundays and Public Holidays</p>
 </td>
 </tr>
 <tr>
