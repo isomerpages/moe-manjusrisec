@@ -114,24 +114,25 @@ or Lenovo Service Centre regarding issues with PLD.</p>
 <p>Lenovo Service Centre</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lenovo Service Centre @ Tai Seng Centre, SmartCares Solutions
-<br>3 Irving Road, #01-17
-<br>Singapore 369522
-<br>(Beside Tai Seng MRT station, Exit A)
-<br>
-<br>Service Centre Number:6871 4838
-<br>Service Centre Email: <a href="mailto:lenovo@smartcares.com" rel="noopener noreferrer nofollow" target="_blank">lenovo@smartcares.com</a>
-<br>
-<br>
-<br>Pre-Registration
-<br>(For Faster Service/Drop-off) :
-<br><a href="https://smartcares.com/lenovo" rel="noopener noreferrer nofollow" target="_blank">https://smartcares.com/lenovo</a>
-</p>
+<p>Servlink Technologies – Lenovo Authorised Service Centre</p>
+<p>Address: 2 Kallang Avenue #09-01, CTHub 1, Singapore 339407</p>
+<p></p>
+<p>By MRT: The nearest MRT station is Bendemeer Station (Downtown Line).
+It’s about a 5-minute walk to CTHub from the station.</p>
+<p>By Bus: Bus services 13, 23, 67, 125, and 133 stop near CTHub</p>
+<p>By Car: CTHub offers parking facilities. Enter via Kallang Avenue, and
+parking is available at an hourly rate.</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mon–Fri:</strong> 11:00 – 19:00
-<br>
-<br><strong>Sat, Sun and Public Holidays:</strong> closed</p>
+<p><strong>Monday to Friday: 9:00 AM – 6:00 PM</strong>
+</p>
+<p></p>
+<p><strong>Saturday: 9:00 AM – 1:00 PM</strong>
+</p>
+<p></p>
+<p><strong>Closed on Sundays and Public Holidays</strong>
+</p>
 </td>
 </tr>
 <tr>
