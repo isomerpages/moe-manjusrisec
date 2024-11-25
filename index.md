@@ -20,9 +20,7 @@ sections:
         - title: Contact
           description: ""
           url: /contact-us/school-contact-details/
-      background: /images/Open House/openhouse.png
-      url: /open-house-2024/
-      button: open house 2024
+      background: /images/homepage3.gif
   - infopic:
       title: SembEnviro School Recycling League Gold Award 2024
       subtitle: spotlight
