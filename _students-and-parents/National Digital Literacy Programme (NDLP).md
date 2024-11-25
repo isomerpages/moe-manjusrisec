@@ -73,138 +73,136 @@ or Lenovo Service Centre regarding issues with PLD.</p>
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
 <th rowspan="1" colspan="1">
 <p></p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Address and Contact</p>
+<p><sup>Address and Contact</sup>
+</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Operating Hours</p>
+<p><sup>Operating Hours</sup>
+</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MJR Helpdesk</p>
+<p><sup>MJR Helpdesk</sup>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Manjusri Secondary school Library Level 4
-<br>
-<br><strong>ICT Manager/DMA Administrator:</strong> 
-<br>
-<br>Mr Winston Kok
-<br>
-<br><strong>Desktop Engineer:</strong> 
-<br>
-<br>Mr Mohd Syakir
-<br>Mr Mashuqur</p>
+<p><sup>Manjusri Secondary school Library Level 4 <br><br></sup><strong><sup>ICT Manager/DMA Administrator:</sup></strong><sup> <br><br>Mr Winston Kok <br><br></sup><strong><sup>Desktop Engineer:</sup></strong><sup> <br><br>Mr Mohd Syakir <br>Mr Mashuqur</sup>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mon–Fri:</strong> 7:45 – 9:00
-<br>
-<br><strong>Mon-Thu:</strong> 13:50 – 15:00
-<br>
-<br><strong>Fri :</strong> 12:40- 14:30
-<br>
+<p><strong><sup>Mon–Fri:</sup></strong><sup> 7:45 – 9:00 </sup>
+</p>
+<p><sup><br></sup><strong><sup>Mon-Thu:</sup></strong><sup> 13:50 – 15:00 <br></sup><strong><sup>Fri :</sup></strong><sup> 12:40- 14:30 <br></sup>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lenovo Service Centre</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lenovo Service Centre @ Tai Seng Centre, SmartCares Solutions
-<br>3 Irving Road, #01-17
-<br>Singapore 369522
-<br>(Beside Tai Seng MRT station, Exit A)
-<br>
-<br>Service Centre Number:6871 4838
-<br>Service Centre Email: <a href="mailto:lenovo@smartcares.com" rel="noopener noreferrer nofollow" target="_blank">lenovo@smartcares.com</a>
-<br>
-<br>
-<br>Pre-Registration
-<br>(For Faster Service/Drop-off) :
-<br><a href="https://smartcares.com/lenovo" rel="noopener noreferrer nofollow" target="_blank">https://smartcares.com/lenovo</a>
+<p><sup>Lenovo Service Centre</sup>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mon–Fri:</strong> 11:00 – 19:00
-<br>
-<br><strong>Sat, Sun and Public Holidays:</strong> closed</p>
+<p><sup>Servlink Technologies – Lenovo Authorised Service Centre</sup>
+</p>
+<p><sup>Address: 2 Kallang Avenue #09-01, CTHub 1, Singapore 339407</sup>
+</p>
+<p></p>
+<p><sup>By MRT: The nearest MRT station is Bendemeer Station (Downtown Line). It’s about a 5-minute walk to CTHub from the station.</sup>
+</p>
+<p><sup>By Bus: Bus services 13, 23, 67, 125, and 133 stop near CTHub</sup>
+</p>
+<p><sup>By Car: CTHub offers parking facilities. Enter via Kallang Avenue, and parking is available at an hourly rate.</sup>
+</p>
+<p></p>
+<p><sup>Hotline: +65 6817 1435</sup>
+</p>
+<p><sup>Email: </sup><a href="mailto:Svcctr@servlink.com.sg" rel="noopener noreferrer nofollow" target="_blank"><sup>Svcctr@servlink.com.sg</sup></a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><sup>Monday to Friday: 9:00 AM – 6:00 PM</sup>
+</p>
+<p></p>
+<p><sup>Saturday: 9:00 AM – 1:00 PM</sup>
+</p>
+<p></p>
+<p><sup>Closed on Sundays and Public Holidays</sup>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lenovo Helpdesk</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Helpdesk number:</strong> 800 852 8100
-<br>
-<br>(After selecting your preferred language, please press “2” for standard
-warranty customer)
-<br>
-<br><strong>WhatsApp support:</strong>
-<br>
-<br>6703 6821
-<br>
-<br><strong>Online Shopping Portal</strong>
-<br><a href="https://www.asiapac.com.sg/pld-lenovo/account/login" rel="noopener noreferrer nofollow" target="_blank">https://www.asiapac.com.sg/pld-lenovo/account/login</a>
+<p><sup>Lenovo Helpdesk</sup>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mon – Fri:</strong> 9:00 –18:00
-<br><strong>Sat:</strong> 9:00 –15:00
-<br><strong>Sun and Public Holidays:</strong> closed</p>
+<p><strong><sup>Helpdesk number:</sup></strong><sup> 800 852 8100 <br>(After selecting your preferred language, please press “2” for standard warranty customer) <br></sup><strong><sup>WhatsApp support:</sup></strong><sup><br>6703 6821 <br></sup><strong><sup>Online Shopping Portal</sup></strong><sup><br></sup>
+<a href="https://www.asiapac.com.sg/pld-lenovo/account/login" rel="noopener noreferrer nofollow" target="_blank"><sup>https://www.asiapac.com.sg/pld-lenovo/account/login</sup>
+</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><sup>Mon – Fri:</sup></strong><sup> 9:00 –18:00 <br></sup><strong><sup>Sat:</sup></strong><sup> 9:00 –15:00 <br></sup><strong><sup>Sun and Public Holidays:</sup></strong><sup> closed</sup>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Acer Service Centre</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>29 International Business Park Singapore 609923 (1.1km from Jurong East
-MRT)
-<br>
-<br>Service Centre Number: 6895 6278
-<br>Service Centre Email: acercare.sg@acer.com
-<br>
+<p><sup>Acer Service Centre</sup>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mon, Tue, Thu, Fri:</strong>
-<br>0845 - 1715
-<br>
-<br><strong>Wed :</strong> 0845 - 1945
-<br>
-<br><strong>Sat :</strong> 0900 - 1200
-<br>
-<br><strong>Sun and Public Holiday:</strong>
-<br>Closed</p>
+<p><sup>29 International Business Park Singapore 609923 (1.1km from Jurong East MRT) <br>Service Centre Number: 6895 6278 <br>Service Centre Email: </sup>
+<a href="mailto:acercare.sg@acer.com" rel="noopener noreferrer nofollow" target="_blank"><sup>acercare.sg@acer.com</sup>
+</a><sup> </sup>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><sup>Mon, Tue, Thu, Fri:</sup></strong><sup><br>0845 - 1715 <br><br></sup><strong><sup>Wed :</sup></strong><sup> 0845 - 1945 <br><br></sup><strong><sup>Sat :</sup></strong><sup> 0900 - 1200 <br><br></sup><strong><sup>Sun and Public Holiday:</sup></strong><sup><br>Closed</sup>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Acer Helpdesk</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Help Desk Number: 6895 6278
-<br>Help Desk Email: <a href="mailto:acercare.sg@acer.com" rel="noopener noreferrer nofollow" target="_blank">acercare.sg@acer.com</a>
-<br>
-<br><strong>Online Shopping Portal</strong> 
-<br><a href="https://secured.acer.com.sg/pld" rel="noopener noreferrer nofollow" target="_blank">https://secured.acer.com.sg/pld</a>
+<p><sup>Acer Helpdesk</sup>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mon, Tue, Thu, Fri :</strong>
-<br>0845 – 1715
-<br>
-<br><strong>Wed :</strong> 0845 – 1945
-<br>
-<br><strong>Sat:</strong> 0900 – 1200
-<br>
-<br><strong>Sun and Public Holiday:</strong>
-<br>Closed</p>
+<p><sup>Help Desk Number: 6895 6278 <br>Help Desk Email: </sup><a href="mailto:acercare.sg@acer.com" rel="noopener noreferrer nofollow" target="_blank"><sup>acercare.sg@acer.com</sup></a><sup><br></sup><strong><sup>Online Shopping Portal</sup></strong><sup> <br></sup>
+<a href="https://secured.acer.com.sg/pld" rel="noopener noreferrer nofollow" target="_blank"><sup>https://secured.acer.com.sg/pld</sup>
+</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><sup>Mon, Tue, Thu, Fri :</sup></strong><sup><br>0845 – 1715 <br><br></sup><strong><sup>Wed :</sup></strong><sup> 0845 – 1945 <br><br></sup><strong><sup>Sat:</sup></strong><sup> 0900 – 1200 <br><br></sup><strong><sup>Sun and Public Holiday:</sup></strong><sup><br>Closed</sup>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -218,67 +216,74 @@ MRT)
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p></p>
-</th>
-<th rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
-</th>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Personal Learning Device (PLD)</p>
+<p><sup>Personal Learning Device (PLD)</sup>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Ndlp/Parent%20Handbook%20I%20on%20Learning%20with%20a%20PLD.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook (I) on Learning with a PLD</a>
-<br><a href="" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook (II) on Learning with a PLD</a>
-<br><a href="" rel="noopener noreferrer nofollow" target="_blank">Lenovo Chromebook 500e User Guide</a>
+<p><a href="/files/Ndlp/Parent%20Handbook%20I%20on%20Learning%20with%20a%20PLD.pdf" rel="noopener noreferrer nofollow" target="_blank"><sup>Parent Handbook (I) on Learning with a PLD</sup></a><sup><br></sup>
+<a href="" rel="noopener noreferrer nofollow" target="_blank"><sup>Parent Handbook (II) on Learning with a PLD</sup>
+</a><sup><br></sup><a href="" rel="noopener noreferrer nofollow" target="_blank"><sup>Lenovo Chromebook 500e User Guide</sup></a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Student ICON</p>
+<p><sup>Student ICON</sup>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Ndlp/Student%20iCON%20Onboarding%20Instructions.pdf" rel="noopener noreferrer nofollow" target="_blank">Student iCON Onboarding Instructions</a>
-<br><a href="/files/Ndlp/(for_student)_data_management_edm_for_student_icon.pdf" rel="noopener noreferrer nofollow" target="_blank">Data Management for Student Icon</a>
+<p><a href="/files/Ndlp/Student%20iCON%20Onboarding%20Instructions.pdf" rel="noopener noreferrer nofollow" target="_blank"><sup>Student iCON Onboarding Instructions</sup></a><sup><br></sup>
+<a href="/files/Ndlp/(for_student)_data_management_edm_for_student_icon.pdf" rel="noopener noreferrer nofollow" target="_blank"><sup>Data Management for Student Icon</sup>
+</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Student Zoom</p>
+<p><sup>Student Zoom</sup>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Ndlp/Student%20Zoom%20Onboarding%20Guide.pdf" rel="noopener noreferrer nofollow" target="_blank">Student Zoom Onboarding Guide</a>
+<p><a href="/files/Ndlp/Student%20Zoom%20Onboarding%20Guide.pdf" rel="noopener noreferrer nofollow" target="_blank"><sup>Student Zoom Onboarding Guide</sup></a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Password reset and account unlock</p>
+<p><sup>Password reset and account unlock</sup>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/#!/5d01dc550816b400111ce980" rel="noopener noreferrer nofollow" target="_blank">fill in this form</a>
+<p><a href="https://form.gov.sg/#!/5d01dc550816b400111ce980" rel="noopener noreferrer nofollow" target="_blank"><sup>fill in this form</sup></a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>PLD Repair Process</p>
+<p><sup>PLD Repair Process</sup>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Ndlp/PLD%20Repair%20Process.pdf" rel="noopener noreferrer nofollow" target="_blank">PLD Repair Process</a>
+<p><a href="/files/Ndlp/PLD%20Repair%20Process.pdf" rel="noopener noreferrer nofollow" target="_blank"><sup>PLD Repair Process</sup></a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lost of PLD Work Process</p>
+<p><sup>Lost of PLD Work Process</sup>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Ndlp/Lost%20of%20PLD%20Work%20Process.pdf" rel="noopener noreferrer nofollow" target="_blank">Lost of PLD Work Process</a>
+<p><a href="/files/Ndlp/Lost%20of%20PLD%20Work%20Process.pdf" rel="noopener noreferrer nofollow" target="_blank"><sup>Lost of PLD Work Process</sup></a>
 </p>
 </td>
 </tr>
