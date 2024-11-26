@@ -24,7 +24,7 @@ variant: markdown
 |Ms Chen Chen Ada | HOD EdTech (ICT) |chen_chen_b@moe.edu.sg|
 |Ms Lim Mei Chen Joani  | HOD Humanities |lim_mei_chen_joani@moe.edu.sg|
 |Mrs PakYap Wei Ling Evelynn  | HOD Mathematics |yap_wei_ling_evelynn@moe.edu.sg|
-|Ms Cheong Wai Heng Madeleine  | HOD MTL (Ag) |cheong_wai_heng_madeleine@moe.edu.sg|
+|Ms Cheong Wai Heng Madeleine  | HOD MTL |cheong_wai_heng_madeleine@moe.edu.sg|
 |Mdm Sim Mui Keow Catherine  | HOD PE &amp; CCA |sim_mui_keow@moe.edu.sg|
 |Mr Ng Jia Jun Justin  | HOD Science |ng_jia_jun_justin@moe.edu.sg|
 |Ms Tan Cai Ting (Mrs Thah)  |HOD, Craft &amp; Technology (Ag) |tan_cai_ting@moe.edu.sg|
@@ -34,10 +34,10 @@ variant: markdown
 |Ms Anna Lee Kai Wen  |Year Head|anna_lee_kai_wen@moe.edu.sg|
 |Ms Tee Pei Pei  | AYH Sec 1 |tee_pei_pei@moe.edu.sg|
 |Ms Nur Atiqah | AYH Sec 2 (Ag) | nur_atiqah_abdul_fattah@moe.edu.sg|
-|Ms Tan Shi Jia  | AYH Sec 3 (Ag) |tan_shi_jia@moe.edu.sg|
+|Ms Tan Shi Jia  | AYH Sec 3 |tan_shi_jia@moe.edu.sg|
 |Ms Faith Kaylie Ong Yi Cheng|Lead Teacher, EL|faith_kaylie_ong@moe.edu.sg|
 |Mrs Teh-Tay Hwee Cheng Angeline  | SH Aesthetics |tay_hwee_cheng@moe.edu.sg|
-|Ms Jurana Binte Abdul Rahim  | SH CCE (Ag) |jurana_abdul_rahim@moe.edu.sg|
+|Ms Jurana Binte Abdul Rahim  | SH CCE |jurana_abdul_rahim@moe.edu.sg|
 |Mr Amit Kumar Sharma s/o Amber Nath  | SH Chemistry |amit_kumar_sharma_amber@moe.edu.sg|
 |Mr Ting Kok Thiam  | SH EdTech |ting_kok_thiam@moe.edu.sg|
 |Ms  Foo Siqi Michell  | SH English Language |foo_siqi_michell@moe.edu.sg|
@@ -45,6 +45,6 @@ variant: markdown
 |Ms Amira Begum | SH Malay Lang (Ag)|amira_begum_abdul_naseer@moe.edu.sg|
 |Ms  Goh Pei Shan  | SH Mathematics |goh_pei_shan@moe.edu.sg|
 | Mr Han Ah Teck Michael   | SH Partnerships |han_ah_teck@moe.edu.sg|
-|Ms Alexandra Pang Yan Feng  | SH Student WellBeing (Ag) |pang_yanfeng_alexandra@moe.edu.sg|
+|Ms Alexandra Pang Yan Feng  | SH Student WellBeing |pang_yanfeng_alexandra@moe.edu.sg|
 |Mdm Lim Boon Lian (Mrs Wang)  |Administration Manager 1|wang-lim_boon_lian@schools.gov.sg|
 |Ms Oh Ai Li  |Administration Manager 2|oh_ai_li@schools.gov.sg|
