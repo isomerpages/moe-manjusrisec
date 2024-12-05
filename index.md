@@ -22,6 +22,17 @@ sections:
           url: /contact-us/school-contact-details/
       background: /images/homepage3.gif
   - infopic:
+      title: Overseas Exchange Trip to Schools in Japan
+      subtitle: spotlight
+      id: infopic
+      description: 24 student leaders, 4 teachers led by our principal visited
+        Midorigaoka and Sakuragaoka Junior High Schools in Japan on a cultural
+        exchange programme...
+      button: click here to read more
+      url: /overseas-exchange-trip-to-schools-in-japa
+      image: /images/Spotlight/2024 Japan/1__MJR_group_attached___Midorigaoka_JHS.jpg
+      alt: Image alt text
+  - infopic:
       title: SembEnviro School Recycling League Gold Award 2024
       subtitle: spotlight
       id: infopic
