@@ -39,7 +39,6 @@ and left lasting memories for all.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 76%;" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Japan/1__MJR_group_attached___Midorigaoka_JHS.jpg">
 </div>
-<p></p>
 <p style="font-size:14px" align="center">MJR group attached @ Midorigaoka JHS</p>
 </th>
 <th rowspan="1" colspan="1">
