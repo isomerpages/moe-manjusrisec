@@ -39,6 +39,7 @@ and left lasting memories for all.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 55%;" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Japan/1__MJR_group_attached___Midorigaoka_JHS.jpg">
 </div>
+<p></p>
 <p><sup>MJR group attached @ Midorigaoka JHS</sup>
 </p>
 </th>
@@ -71,11 +72,15 @@ and left lasting memories for all.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 52%;" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Japan/5__Tea_ceremony.jpg">
 </div>
+<p><sup>Tea ceremony</sup>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Japan/6__Workshop_about_forging_of_katana_sword.jpg">
 </div>
+<p><sup>Workshop about forging of katana sword</sup>
+</p>
 </td>
 </tr>
 <tr>
@@ -83,11 +88,15 @@ and left lasting memories for all.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 51%;" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Japan/7__Tranquility_at_Arashimaya_bamboo_grove.jpg">
 </div>
+<p><sup>Tranquility at Arashimaya bamboo grove</sup>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Japan/8__Kiyomizu_dera_temple__Kyoto.jpg">
 </div>
+<p><sup>Kiyomizu-dera temple, Kyoto</sup>
+</p>
 </td>
 </tr>
 </tbody>
