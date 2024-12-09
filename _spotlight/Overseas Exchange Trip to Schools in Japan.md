@@ -37,62 +37,64 @@ and left lasting memories for all.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Japan/1__MJR_group_attached___Midorigaoka_JHS.jpg">
+<img style="width: 73%;" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Japan/1__MJR_group_attached___Midorigaoka_JHS.jpg">
 </div>
-<p>MJR group attached @ Midorigaoka JHS</p>
+<p><sup>MJR group attached @ Midorigaoka JHS</sup>
+</p>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Japan/2__Introductions_during_assembly___Sakuragaoka_JHS.jpg">
 </div>
-<p>Introductions during assembly @ Sakuragaoka JHS</p>
+<p><sup>Introductions during assembly @ Sakuragaoka JHS</sup>
+</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Japan/3__Presenting_MJR_Yearbook_to_Kiyoshi_Yamashita__Mayor_of_Seki.jpg">
+<img style="width: 64%;" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Japan/3__Presenting_MJR_Yearbook_to_Kiyoshi_Yamashita__Mayor_of_Seki.jpg">
 </div>
-<p><strong>Presenting MJR Yearbook to Kiyoshi Yamashita, Mayor of Seki</strong>
+<p><strong><sup>Presenting MJR Yearbook to Kiyoshi Yamashita, Mayor of Seki</sup></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Japan/4__Session_on_wearing_of_yukata___Midorigaoka_JHS.jpg">
 </div>
-<p><strong>Session on wearing of yukata @ Midorigaoka JHS</strong>
+<p><strong><sup>Session on wearing of yukata @ Midorigaoka JHS</sup></strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 76%;" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Japan/5__Tea_ceremony.jpg">
+<img style="width: 69%;" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Japan/5__Tea_ceremony.jpg">
 </div>
-<p><strong>Tea ceremony</strong>
+<p><strong><sup>Tea ceremony</sup></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Japan/6__Workshop_about_forging_of_katana_sword.jpg">
 </div>
-<p><strong>Workshop about forging of katana sword</strong>
+<p><strong><sup>Workshop about forging of katana sword</sup></strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 74%;" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Japan/7__Tranquility_at_Arashimaya_bamboo_grove.jpg">
+<img style="width: 67%;" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Japan/7__Tranquility_at_Arashimaya_bamboo_grove.jpg">
 </div>
-<p><strong>Tranquility at Arashimaya bamboo grove</strong>
+<p><strong><sup>Tranquility at Arashimaya bamboo grove</sup></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Japan/8__Kiyomizu_dera_temple__Kyoto.jpg">
 </div>
-<p><strong>Kiyomizu-dera temple, Kyoto</strong>
+<p><strong><sup>Kiyomizu-dera temple, Kyoto</sup></strong>
 </p>
 </td>
 </tr>
