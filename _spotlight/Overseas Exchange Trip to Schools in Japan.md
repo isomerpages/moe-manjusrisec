@@ -37,7 +37,7 @@ and left lasting memories for all.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 76%;" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Japan/1__MJR_group_attached___Midorigaoka_JHS.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Japan/1__MJR_group_attached___Midorigaoka_JHS.jpg">
 </div>
 <p>MJR group attached @ Midorigaoka JHS</p>
 </th>
@@ -51,7 +51,7 @@ and left lasting memories for all.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 68%;" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Japan/3__Presenting_MJR_Yearbook_to_Kiyoshi_Yamashita__Mayor_of_Seki.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Japan/3__Presenting_MJR_Yearbook_to_Kiyoshi_Yamashita__Mayor_of_Seki.jpg">
 </div>
 <p><strong>Presenting MJR Yearbook to Kiyoshi Yamashita, Mayor of Seki</strong>
 </p>
@@ -67,7 +67,7 @@ and left lasting memories for all.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 72%;" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Japan/5__Tea_ceremony.jpg">
+<img style="width: 76%;" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Japan/5__Tea_ceremony.jpg">
 </div>
 <p><strong>Tea ceremony</strong>
 </p>
@@ -83,7 +83,7 @@ and left lasting memories for all.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Japan/7__Tranquility_at_Arashimaya_bamboo_grove.jpg">
+<img style="width: 74%;" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Japan/7__Tranquility_at_Arashimaya_bamboo_grove.jpg">
 </div>
 <p><strong>Tranquility at Arashimaya bamboo grove</strong>
 </p>
