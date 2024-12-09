@@ -39,13 +39,13 @@ and left lasting memories for all.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 76%;" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Japan/1__MJR_group_attached___Midorigaoka_JHS.jpg">
 </div>
-<p style="font-size:14px" align="center">MJR group attached @ Midorigaoka JHS</p>
+<p>MJR group attached @ Midorigaoka JHS</p>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Japan/2__Introductions_during_assembly___Sakuragaoka_JHS.jpg">
 </div>
-<p style="font-size:14px" align="center">Introductions during assembly @ Sakuragaoka JHS</p>
+<p>Introductions during assembly @ Sakuragaoka JHS</p>
 </th>
 </tr>
 <tr>
@@ -53,13 +53,15 @@ and left lasting memories for all.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 68%;" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Japan/3__Presenting_MJR_Yearbook_to_Kiyoshi_Yamashita__Mayor_of_Seki.jpg">
 </div>
-<p style="font-size:14px" align="center">Presenting MJR Yearbook to Kiyoshi Yamashita, Mayor of Seki</p>
+<p><strong>Presenting MJR Yearbook to Kiyoshi Yamashita, Mayor of Seki</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Japan/4__Session_on_wearing_of_yukata___Midorigaoka_JHS.jpg">
 </div>
-<p style="font-size:14px" align="center">Session on wearing of yukata @ Midorigaoka JHS</p>
+<p><strong>Session on wearing of yukata @ Midorigaoka JHS</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -67,13 +69,15 @@ and left lasting memories for all.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 72%;" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Japan/5__Tea_ceremony.jpg">
 </div>
-<p style="font-size:14px" align="center">Tea ceremony</p>
+<p><strong>Tea ceremony</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Japan/6__Workshop_about_forging_of_katana_sword.jpg">
 </div>
-<p style="font-size:14px" align="center">Workshop about forging of katana sword</p>
+<p><strong>Workshop about forging of katana sword</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -81,13 +85,15 @@ and left lasting memories for all.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Japan/7__Tranquility_at_Arashimaya_bamboo_grove.jpg">
 </div>
-<p style="font-size:14px" align="center">Tranquility at Arashimaya bamboo grove</p>
+<p><strong>Tranquility at Arashimaya bamboo grove</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Japan/8__Kiyomizu_dera_temple__Kyoto.jpg">
 </div>
-<p style="font-size:14px" align="center">Kiyomizu-dera temple, Kyoto</p>
+<p><strong>Kiyomizu-dera temple, Kyoto</strong>
+</p>
 </td>
 </tr>
 </tbody>
