@@ -1,7 +1,7 @@
 ---
 title: Overseas Exchange Trip to Schools in Japan
 permalink: /overseas-exchange-trip-to-schools-in-japan/
-variant: tiptap
+variant: markdown
 description: ""
 ---
 <p>From 11 – 16 November, 24 student leaders, 4 teachers led by our principal
@@ -37,49 +37,65 @@ and left lasting memories for all.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 55%;" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Japan/1__MJR_group_attached___Midorigaoka_JHS.jpg">
+<img style="width: 68%;" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Japan/1__MJR_group_attached___Midorigaoka_JHS.jpg">
 </div>
+<p align="center"><sup>MJR group attached @ Midorigaoka JHS</sup>
+</p>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Japan/2__Introductions_during_assembly___Sakuragaoka_JHS.jpg">
 </div>
+<p align="center"><sup>Introductions during assembly @ Sakuragaoka JHS</sup>
+</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Japan/3__Presenting_MJR_Yearbook_to_Kiyoshi_Yamashita__Mayor_of_Seki.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Japan/3__Presenting_MJR_Yearbook_to_Kiyoshi_Yamashita__Mayor_of_Seki.jpg">
 </div>
+<p align="center"><strong><sup>Presenting MJR Yearbook to Kiyoshi Yamashita, Mayor of Seki</sup></strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Japan/4__Session_on_wearing_of_yukata___Midorigaoka_JHS.jpg">
 </div>
+<p align="center"><strong><sup>Session on wearing of yukata @ Midorigaoka JHS</sup></strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 52%;" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Japan/5__Tea_ceremony.jpg">
+<img style="width: 63%;" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Japan/5__Tea_ceremony.jpg">
 </div>
+<p align="center"><strong><sup>Tea ceremony</sup></strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Japan/6__Workshop_about_forging_of_katana_sword.jpg">
 </div>
+<p align="center"><strong><sup>Workshop about forging of katana sword</sup></strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 51%;" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Japan/7__Tranquility_at_Arashimaya_bamboo_grove.jpg">
+<img style="width: 62%;" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Japan/7__Tranquility_at_Arashimaya_bamboo_grove.jpg">
 </div>
+<p align="center"><strong><sup>Tranquility at Arashimaya bamboo grove</sup></strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Japan/8__Kiyomizu_dera_temple__Kyoto.jpg">
 </div>
+<p align="center"><strong><sup>Kiyomizu-dera temple, Kyoto</sup></strong>
+</p>
 </td>
 </tr>
 </tbody>
