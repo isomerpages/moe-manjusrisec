@@ -160,10 +160,11 @@ sections:
       image: /images/Spotlight/O Result 2023/O_Result_1.jpg
       alt: Image alt text
   - infopic:
-      title: Spotlight
+      title: 2025 Secondary One Registration
       id: infopic
       description: Please proceed  here  to visit our Secondary 1 Registration Microsite.
       button: Click here to read more
       url: A
       alt: Image alt text
+      subtitle: Spotlight
 ---
