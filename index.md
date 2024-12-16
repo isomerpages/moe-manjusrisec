@@ -22,6 +22,14 @@ sections:
           url: /contact-us/school-contact-details/
       background: /images/1734352884601_2_1_MJR_sec_1_reg_banner.jpg
   - infopic:
+      title: 2025 Secondary One Registration
+      id: infopic
+      description: Please proceed  here  to visit our Secondary 1 Registration Microsite.
+      button: Click here to read more
+      url: A
+      alt: Image alt text
+      subtitle: Spotlight
+  - infopic:
       title: Overseas Exchange Trip to Schools in Japan
       subtitle: spotlight
       id: infopic
@@ -159,12 +167,4 @@ sections:
       url: /spotlight/permalink/gce-o-level-exam-2023-results/
       image: /images/Spotlight/O Result 2023/O_Result_1.jpg
       alt: Image alt text
-  - infopic:
-      title: 2025 Secondary One Registration
-      id: infopic
-      description: Please proceed  here  to visit our Secondary 1 Registration Microsite.
-      button: Click here to read more
-      url: A
-      alt: Image alt text
-      subtitle: Spotlight
 ---
