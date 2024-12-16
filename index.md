@@ -26,7 +26,7 @@ sections:
       id: infopic
       description: Please proceed  here  to visit our Secondary 1 Registration Microsite.
       button: Click here to read more
-      url: A
+      url: /2025-secondary-one-registration/
       alt: Image alt text
       subtitle: Spotlight
       image: /images/1734352884601_2_1_MJR_sec_1_reg_banner.jpg
