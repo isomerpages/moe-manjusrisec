@@ -29,6 +29,7 @@ sections:
       url: A
       alt: Image alt text
       subtitle: Spotlight
+      image: /images/1734352884601_2_1_MJR_sec_1_reg_banner.jpg
   - infopic:
       title: Overseas Exchange Trip to Schools in Japan
       subtitle: spotlight
