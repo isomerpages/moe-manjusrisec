@@ -22,7 +22,7 @@ We wish him well in his continuing leadership journey.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Change of VP/New_VP1.jpg">
 </div>
-<p>Bidding Mr Teo farewell on his final working school day</p>
+<p style="font-size:14px" align="center">Bidding Mr Teo farewell on his final working school day</p>
 </td>
 </tr>
 <tr>
@@ -47,7 +47,7 @@ and anchored in values.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Change of VP/New_VP2.jpg">
 </div>
-<p>L to R: VP Mr Goh Pai Shen, SMC Supervisor Venerable Seck Kwang Phing,
+<p style="font-size:14px" align="center">L to R: VP Mr Goh Pai Shen, SMC Supervisor Venerable Seck Kwang Phing,
 Principal Mr Sim Chong Boon, VP Mr Lin JunKai</p>
 </td>
 </tr>
