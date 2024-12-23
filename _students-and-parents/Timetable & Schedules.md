@@ -66,7 +66,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Timetable &amp; Schedules/2025 TT/CCA_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">CCA Schedule</a>
+</p>
 </td>
 </tr>
 <tr>
