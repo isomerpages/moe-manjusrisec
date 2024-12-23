@@ -19,7 +19,6 @@ We wish him well in his continuing leadership journey.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Change of VP/New_VP1.jpg">
 </div>
@@ -33,10 +32,30 @@ We wish him well in his continuing leadership journey.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <p>We warmly welcome the arrival of Mr Goh Pai Shen as our new Vice-Principal.&nbsp;
 He joins us from Catholic High School to support teachers in our mission
 of delivering a holistic curriculum for students so that they may be future-ready
 and anchored in values.</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2024 Change of VP/New_VP2.jpg">
+</div>
+<p>L to R: VP Mr Goh Pai Shen, SMC Supervisor Venerable Seck Kwang Phing,
+Principal Mr Sim Chong Boon, VP Mr Lin JunKai</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
