@@ -11,8 +11,8 @@ variant: markdown
 | Name|Designation|
 | -------- | -------- | 
 |Mr Sim Chong Boon |Principal    |
-|Mr Teo Soon Hock|Vice Principal 1|
-|Mr Lin Junkai|Vice Principal 2|
+|Mr Goh Pai Shen|Vice Principal|
+|Mr Lin Junkai|Vice Principal|
 
 <h4><strong>School Executive Committee</strong></h4><p></p><p></p><p></p>
 
