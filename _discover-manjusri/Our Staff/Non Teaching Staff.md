@@ -25,7 +25,6 @@ variant: markdown
 |Ng Koon Bong|Education Workshop Instructor|
 |Mr Ahmad Bin Mohamed Moktar|Science Lab Technician|
 |Mdm Hoo Ai Nah |Science Lab Technician|
-|Mdm Chua Siew Eng|Science Lab Technician |
 |Mdm Rohayah Bte Ali |Operations Support Officer|
 |Mr Kor Leong Chai Danny  |Operations Support Officer |
 |Mdm Li Linxin |Operations Support Officer|
