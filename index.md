@@ -168,4 +168,14 @@ sections:
       url: /spotlight/permalink/gce-o-level-exam-2023-results/
       image: /images/Spotlight/O Result 2023/O_Result_1.jpg
       alt: Image alt text
+  - infopic:
+      title: Change of Vice Principals
+      subtitle: spotlight
+      id: infopic
+      description: We warmly welcome the arrival of Mr Goh Pai Shen as our new
+        Vice-Principal...
+      button: click here to read more
+      url: /change-of-vice-principals/
+      image: /images/Spotlight/2024 Change of VP/New_VP2.jpg
+      alt: Image alt text
 ---
