@@ -25,7 +25,6 @@ variant: markdown
 |Ng Koon Bong|Education Workshop Instructor|
 |Mr Ahmad Bin Mohamed Moktar|Science Lab Technician|
 |Mdm Hoo Ai Nah |Science Lab Technician|
-|Mdm Chua Siew Eng|Science Lab Technician |
 |Mdm Rohayah Bte Ali |Operations Support Officer|
 |Mr Kor Leong Chai Danny  |Operations Support Officer |
 |Mdm Li Linxin |Operations Support Officer|
@@ -40,7 +39,7 @@ variant: markdown
 | Name | Designation | 
 | -------- | -------- | 
 |Mdm Chan Poh Yoke Doris |Receptionist|
-|Mdm Mark Lan Chee Patricia |Finance Admin Officer|
+|Mdm Chan Hwee Joo|Finance Admin Officer|
 |Ms Satinah Binte Sumali  |School Health Advisor (HPB)|
 |Mr Mashuqur Bin Rahman |Desktop Engineer (NCS)|
 |Mr Mohamad Syakir Bin Nor Azmi |Desktop Engineer (NCS)|

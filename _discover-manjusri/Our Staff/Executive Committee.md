@@ -14,7 +14,6 @@ variant: markdown
 |Mr Lin Junkai|Vice Principal (Educational Support)|
 |Mr Goh Pai Shen|Vice Principal (Instructional Programmes)|
 
-
 <h4><strong>School Executive Committee</strong></h4><p></p><p></p><p></p>
 
 |Name | Designation | Email |
@@ -33,17 +32,18 @@ variant: markdown
 | Mr Tan Kian Ann Jacky   | HOD Student Management |tan_kian_ann@moe.edu.sg|
 |Mr Tan Thiam Meng  |Year Head|tan_thiam_meng@moe.edu.sg|
 |Ms Anna Lee Kai Wen  |Year Head|anna_lee_kai_wen@moe.edu.sg|
-|Ms Tee Pei Pei  | AYH Sec 1 |tee_pei_pei@moe.edu.sg|
-|Ms Nur Atiqah | AYH Sec 2 (Ag) | nur_atiqah_abdul_fattah@moe.edu.sg|
-|Ms Tan Shi Jia  | AYH Sec 3 |tan_shi_jia@moe.edu.sg|
+|Ms Tee Pei Pei  | AYH Sec 2 |tee_pei_pei@moe.edu.sg|
+|Ms Nur Atiqah | AYH Sec 3 (Ag) | nur_atiqah_abdul_fattah@moe.edu.sg|
+|Ms Tan Shi Jia  | AYH Sec 4/5 |tan_shi_jia@moe.edu.sg|
 |Ms Faith Kaylie Ong Yi Cheng|Lead Teacher, EL|faith_kaylie_ong@moe.edu.sg|
 |Mrs Teh-Tay Hwee Cheng Angeline  | SH Aesthetics |tay_hwee_cheng@moe.edu.sg|
+|Mr Edward Cheong|SH, Curriculum Innovation (Ag)|-|
 |Ms Jurana Binte Abdul Rahim  | SH CCE |jurana_abdul_rahim@moe.edu.sg|
 |Mr Amit Kumar Sharma s/o Amber Nath  | SH Chemistry |amit_kumar_sharma_amber@moe.edu.sg|
 |Mr Ting Kok Thiam  | SH EdTech |ting_kok_thiam@moe.edu.sg|
 |Ms  Foo Siqi Michell  | SH English Language |foo_siqi_michell@moe.edu.sg|
 |Mr Lim Xu Yao  | SH Humanities |lim_xu_yao@moe.edu.sg|
-|Ms Amira Begum | SH Malay Lang (Ag)|amira_begum_abdul_naseer@moe.edu.sg|
+|Ms Amira Begum | SH Malay Lang|amira_begum_abdul_naseer@moe.edu.sg|
 |Ms  Goh Pei Shan  | SH Mathematics |goh_pei_shan@moe.edu.sg|
 | Mr Han Ah Teck Michael   | SH Partnerships |han_ah_teck@moe.edu.sg|
 |Ms Alexandra Pang Yan Feng  | SH Student WellBeing |pang_yanfeng_alexandra@moe.edu.sg|
