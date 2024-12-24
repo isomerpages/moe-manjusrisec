@@ -40,7 +40,7 @@ variant: markdown
 | Name | Designation | 
 | -------- | -------- | 
 |Mdm Chan Poh Yoke Doris |Receptionist|
-|Mdm Mark Lan Chee Patricia |Finance Admin Officer|
+|Mdm Chan Hwee Joo|Finance Admin Officer|
 |Ms Satinah Binte Sumali  |School Health Advisor (HPB)|
 |Mr Mashuqur Bin Rahman |Desktop Engineer (NCS)|
 |Mr Mohamad Syakir Bin Nor Azmi |Desktop Engineer (NCS)|
