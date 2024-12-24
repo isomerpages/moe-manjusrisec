@@ -43,7 +43,7 @@ variant: markdown
 |Mr Ting Kok Thiam  | SH EdTech |ting_kok_thiam@moe.edu.sg|
 |Ms  Foo Siqi Michell  | SH English Language |foo_siqi_michell@moe.edu.sg|
 |Mr Lim Xu Yao  | SH Humanities |lim_xu_yao@moe.edu.sg|
-|Ms Amira Begum | SH Malay Lang (Ag)|amira_begum_abdul_naseer@moe.edu.sg|
+|Ms Amira Begum | SH Malay Lang|amira_begum_abdul_naseer@moe.edu.sg|
 |Ms  Goh Pei Shan  | SH Mathematics |goh_pei_shan@moe.edu.sg|
 | Mr Han Ah Teck Michael   | SH Partnerships |han_ah_teck@moe.edu.sg|
 |Ms Alexandra Pang Yan Feng  | SH Student WellBeing |pang_yanfeng_alexandra@moe.edu.sg|
