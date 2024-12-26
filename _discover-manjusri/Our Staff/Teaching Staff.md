@@ -80,28 +80,13 @@ variant: markdown
 
 |Name|Email| 
 | -------- | -------- | 
-|Mrs Cheng-Ling Ai Keow|ling_ai_keow@moe.edu.sg|
-|Mr Lim Chiang Long Max|lim_chiang_long@moe.edu.sg|
+|Mr Huang Yuanpeng|huang_yuanpeng@moe.edu.sg|
+|Ms  Kang Ching Choon Bryan |kang_ching_choon@moe.edu.sg|
+|Ms  Goh Layna|goh_layna@moe.edu.sg|
+|Mr Ng Hong Ghee|ng_hong_ghee@moe.edu.sg|
 |Ms  Nurul A'mirah Binte Mohd Kamal|nurul_amirah_mohd_kamal@moe.edu.sg|
 |Mdm Pan Ping|pan_ping@moe.edu.sg|
 |Ms  Tan Ai Hua|tan_ai_hua@moe.edu.sg|
 |Ms Tan Hsiao Wey|tan_hsiao_wey@moe.edu.sg|
 |Ms Tan Tien Tien Victoria Lynn |victoria_lynn_tan_tien@moe.edu.sg|
-|Ms  Tay Kar Yen Amanda|tay_kar_yen_amanda@moe.edu.sg|
-|Ms Sharon Chia Xiao Xuan|sharon_chia_xiao_xuan@moe.edu.sg|
-|Miss Ser Kia Hwee|ser_kia_hwee@moe.edu.sg|
-|Ms Susan Lim Siok Hiang|susan_lim_siok_hiang@moe.edu.sg|
-|Ms  Elna Shirin Binte Him Pon|elna_shirin_him_pon@moe.edu.sg|
-|Ms  Ho Poh Choo Adrienne|adrienne_ho_poh_choo@moe.edu.sg|
-|Ms Lee Wai Ying Winnie|winnie_lee_wai_ying_a@moe.edu.sg|
-|Mdm R Rajletchumi (Mrs Eddy)|r_rajletchmi@moe.edu.sg|
-|Ms Wong Sook Fong Shirley|wong_sook_fong@moe.edu.sg|
-|Mrs  Yong-Liow Chai Leng|liow_chai_leng@moe.edu.sg|
-|Mr Kaddy Koh|koh_kaddy@moe.edu.sg|
-|Mdm Mok Yee Wan (Mrs Lai)|lai_kin_sen@moe.edu.sg|
-|Mdm See Khooi Sim Catherine|see_khooi_sim_catherine@moe.edu.sg|
-|Mr Izham Bin Sidek|izham_sidek@moe.edu.sg|
-|Mr Ya'acob Bin Abu Bakar|yaacob_b_abu_bakar@moe.edu.sg|
-|Ms Chan Sock Cheng|chan_sock_cheng@moe.edu.sg|
-|Ms Neo Soh Cheng|neo_soh_cheng_b@moe.edu.sg|
-|Mdm Cheong Siew Yie|cheong_siew_yie@moe.edu.sg|
+|Ms Pang Chiaw Yong|pang_chiaw_yong_a@moe.edu.sg|
