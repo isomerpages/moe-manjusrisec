@@ -21,7 +21,7 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Students%20and%20Parents/Handbook/ManjsuriSec_HB24_Content_121652_Nov16_Page_001.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students and Parents/Handbook/HB2025.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
