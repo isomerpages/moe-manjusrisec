@@ -5,152 +5,238 @@ description: ""
 third_nav_title: Uniformed Groups
 variant: tiptap
 ---
-# **NPCC**
-
-To develop our cadets into Caring and Responsible citizens.
-
-### **NPCC Vision**
-
-To Mould the builders of a Safe &amp; Secure home.
-
-### **NPCC Pledge**
-
-We, the members of the National Police Cadet Corps, do here and now solemnly and sincerely pledge that :
-
-*   We will always bear true faith and allegiance to the President and our Republic of Singapore.  
-    
-*   We will always be loyal and true to our country, our people and the government.  
-    
-*   We will always be prepared to serve our country and community.  
-    
-*   We will always preserve the peace and uphold the law.  
-
-### **Training Schedule**
-
-Monday and Wednesday&nbsp;3.00pm - 6.00pm
-
-### **Our Teachers**
-
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-2atv{background-color:#C00;border-color:inherit;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-a3j2{background-color:#FFF;color:#222;text-align:center;vertical-align:middle}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 700px">
+<h1><strong>NPCC</strong></h1>
+<p>To develop our cadets into Caring and Responsible citizens.</p>
+<h3><strong>NPCC Vision</strong></h3>
+<p>To Mould the builders of a Safe &amp; Secure home.</p>
+<h3><strong>NPCC Pledge</strong></h3>
+<p>We, the members of the National Police Cadet Corps, do here and now solemnly
+and sincerely pledge that :</p>
+<ul>
+<li>
+<p>We will always bear true faith and allegiance to the President and our
+Republic of Singapore.</p>
+</li>
+<li>
+<p>We will always be loyal and true to our country, our people and the government.</p>
+</li>
+<li>
+<p>We will always be prepared to serve our country and community.</p>
+</li>
+<li>
+<p>We will always preserve the peace and uphold the law.</p>
+</li>
+</ul>
+<h3><strong>Training Schedule</strong></h3>
+<p>Monday and Wednesday&nbsp;3.00pm - 6.00pm</p>
+<h3><strong>Our Teachers</strong></h3>
+<table style="minWidth: 50px">
 <colgroup>
-<col style="width: 300px">
-<col style="width: 400px">
+<col>
+<col>
 </colgroup>
-<thead>
-  <tr>
-    <th class="tg-2atv">Teachers-in-Charge</th>
-    <th class="tg-2atv">Email Address</th>
-  </tr>
-</thead>
 <tbody>
-	  <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> Ms Erica</span></td>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">erica_reyes_rodriguez@moe.edu.sg </span></td>
-  </tr>
-  <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Ms Jurana </span></td>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> jurana_abdul_rahim@moe.edu.sg</span></td>
-  </tr>
-  <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Ms Candice Lee </span></td>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">lee_shi_hua_candice@moe.edu.sg </span></td>
-  </tr>
-
-  <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> Mr Hafiz Khan</span></td>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">hafiz_emran_khan@moe.edu.sg </span></td>
-  </tr>
-  <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Mr Huang Yuanpeng</span></td>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">huang_yuanpeng@moe.edu.sg</span></td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Teachers-in-Charge</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Email Address</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Erica</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>erica_reyes_rodriguez@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Huang Yuanpeng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>huang_yuanpeng@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Marcus Goh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>marcus_goh_wei_ming@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Hafiz Khan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>hafiz_emran_khan@moe.edu.sg</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-### **Our Student Leaders**
-
-**Unit Cadet Leaders**
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-2atv{background-color:#C00;border-color:inherit;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-a3j2{background-color:#FFF;color:#222;text-align:center;vertical-align:middle}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 700px">
+<h3><strong>Our Student Leaders</strong></h3>
+<p><strong>Unit Cadet Leaders</strong>
+</p>
+<table style="minWidth: 50px">
 <colgroup>
-<col style="width: 350px">
-<col style="width: 350px">
+<col>
+<col>
 </colgroup>
-<thead>
-  <tr>
-    <th class="tg-2atv">Name</th>
-    <th class="tg-2atv">Position</th>
-  </tr>
-</thead>
 <tbody>
-  <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Sergeant (NPCC) Mock Jun Yang</span></td>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">(OIC) Oversee Training &amp; Admin</span></td>
-  </tr>
-  <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Sergeant (NPCC) Tan Ni Hui</span></td>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> (AOIC) Training Field</span></td>
-  </tr>
-  <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Sergeant (NPCC) Merissa Koo</span></td>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">(AOIC) Outreach &amp; Administrative</span></td>
-  </tr>
-  <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Sergeant (NPCC) Germaine Tan</span></td>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">(AOIC) Events Management</span></td>
-  </tr>
-  <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Sergeant (NPCC) Evan Huang</span></td>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">(AOIC) Logistics</span></td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Position</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sergeant (NPCC) Mock Jun Yang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>(OIC) Oversee Training &amp; Admin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sergeant (NPCC) Tan Ni Hui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>(AOIC) Training Field</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sergeant (NPCC) Merissa Koo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>(AOIC) Outreach &amp; Administrative</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sergeant (NPCC) Germaine Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>(AOIC) Events Management</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sergeant (NPCC) Evan Huang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>(AOIC) Logistics</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-### **Our Programmes**
-
-**Adventure Training Camp**
-
-Outdoor trainings at NPCC Camp Resilience in Pulau Ubin.
-
-|   |   |   
-|:---:|:---:|
-|	 ![](/images/Cca/NPCC/Time%20for%20some%20outdoor%20cooking.jpg)    |   ![](/images/Cca/NPCC/New%20friendships%20forged%20with%20cadets%20from%20other%20schools.jpg)  |
-|     ![](/images/Cca/NPCC/Rock%20Climbing.jpg) |
-
-
-**Camp Craft Training**
-
-Training for Inter-Unit Camp Craft Competition.
-
-|   |   |   
-|:---:|:---:|
-| ![](/images/Cca/NPCC/npcc05.png)  |![](/images/Cca/NPCC/npcc06.png) |
-
-
-
-**Visits to Police Establishments**
-
-
-|   |   |   |
-|:---:|:---:|:---:|
-|  ![](/images/Cca/NPCC/Geylang%20NPC%20visit.jpeg)  	 |  ![](/images/Cca/NPCC/ICA%20Visit.jpg)  |  ![](/images/Cca/NPCC/Learning%20more%20about%20ICA.jpg)  |
-|  ![](/images/Cca/NPCC/Police%20Heritage%20Centre%20Visit.jpeg)     |   ![](/images/Cca/NPCC/Learning%20more%20about%20the%20history%20of%20SPF%20during%20our%20Police%20Heritage%20Centre%20Visit.jpeg) |  <img src="/images/Cca/NPCC/Appreciating%20how%20ICA%20keeps%20Singapore%20safe.jpg" style="width:60%">
+<h3><strong>Our Programmes</strong></h3>
+<p><strong>Adventure Training Camp</strong>
+</p>
+<p>Outdoor trainings at NPCC Camp Resilience in Pulau Ubin.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cca/NPCC/Time%20for%20some%20outdoor%20cooking.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cca/NPCC/New%20friendships%20forged%20with%20cadets%20from%20other%20schools.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cca/NPCC/Rock%20Climbing.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Camp Craft Training</strong>
+</p>
+<p>Training for Inter-Unit Camp Craft Competition.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cca/NPCC/npcc05.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cca/NPCC/npcc06.png">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Visits to Police Establishments</strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cca/NPCC/Geylang%20NPC%20visit.jpeg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cca/NPCC/ICA%20Visit.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cca/NPCC/Learning%20more%20about%20ICA.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cca/NPCC/Police%20Heritage%20Centre%20Visit.jpeg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cca/NPCC/Learning%20more%20about%20the%20history%20of%20SPF%20during%20our%20Police%20Heritage%20Centre%20Visit.jpeg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:60%" height="auto" width="100%" src="/images/Cca/NPCC/Appreciating%20how%20ICA%20keeps%20Singapore%20safe.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
