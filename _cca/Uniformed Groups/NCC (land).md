@@ -5,122 +5,200 @@ description: ""
 third_nav_title: Uniformed Groups
 variant: tiptap
 ---
-# **NCC (land)**
-
-<p style="text-align: justify;">A National Uniformed Group, the NCC boys unit has been a pillar of strength and the epitome of discipline for the Uniformed Groups in Manjusri Secondary School. The passion of the cadets and the dedication of the officers contributed to the excellent performance of the CCA. With many opportunities provided to the students for leadership training and character development, the cadets are constantly morphing into strong leaders with discipline, enabling them to also prepare for their National Service.</p>
-
-### **Training Schedule**
-
-Monday and Wednesday&nbsp;3.00pm - 6.00pm
-
-### **Our Teachers**
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-2atv{background-color:#C00;border-color:inherit;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-a3j2{background-color:#FFF;color:#222;text-align:center;vertical-align:middle}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 700px">
+<h1><strong>NCC (land)</strong></h1>
+<p>A National Uniformed Group, the NCC boys unit has been a pillar of strength
+and the epitome of discipline for the Uniformed Groups in Manjusri Secondary
+School. The passion of the cadets and the dedication of the officers contributed
+to the excellent performance of the CCA. With many opportunities provided
+to the students for leadership training and character development, the
+cadets are constantly morphing into strong leaders with discipline, enabling
+them to also prepare for their National Service.</p>
+<h3><strong>Training Schedule</strong></h3>
+<p>Monday and Wednesday&nbsp;3.00pm - 6.00pm</p>
+<h3><strong>Our Teachers</strong></h3>
+<table style="minWidth: 50px">
 <colgroup>
-<col style="width: 300px">
-<col style="width: 400px">
+<col>
+<col>
 </colgroup>
-<thead>
-  <tr>
-    <th class="tg-2atv">Teachers-in-charge</th>
-    <th class="tg-2atv">Email Adddress</th>
-  </tr>
-</thead>
 <tbody>
-  <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> Mr Chan Ze Wei</span></td>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> chan_ze_wei@moe.edu.sg </span></td>
-  </tr>
-	  <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> Ms A'mirah</span></td>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> nurul_amirah_mohd_kamal@moe.edu.sg</span><span style="background-color:transparent">  </span></td>
-  </tr>
-  <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Mr Bryan Kang </span></td>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> kang_ching_choon@moe.edu.sg</span></td>
-  </tr>
-
-  <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Ms Victoria</span></td>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">victoria_lynn_tan_tien@moe.edu.sg </span></td>
-  </tr>
-
+<tr>
+<th rowspan="1" colspan="1">
+<p>Teachers-in-charge</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Email Adddress</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Chan Ze Wei</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>chan_ze_wei@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms A'mirah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>nurul_amirah_mohd_kamal@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Bryan Kang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>kang_ching_choon@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Victoria</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>victoria_lynn_tan_tien@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Goh Layna</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>goh_layna@moe.edu.sg</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-### **Our Student Leaders**
-
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-2atv{background-color:#C00;border-color:inherit;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-a3j2{background-color:#FFF;color:#222;text-align:center;vertical-align:middle}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 700px">
+<h3><strong>Our Student Leaders</strong></h3>
+<table style="minWidth: 50px">
 <colgroup>
-<col style="width: 350px">
-<col style="width: 350px">
+<col>
+<col>
 </colgroup>
-<thead>
-  <tr>
-    <th class="tg-2atv">Name</th>
-    <th class="tg-2atv">Position</th>
-  </tr>
-</thead>
 <tbody>
-  <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">LIAN KAI JUN, KENJI</span></td>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Unit Sergeant Major</span></td>
-  </tr>
-  <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">KAELEN LIM JIA LE</span></td>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Assistant Sergeant Major</span></td>
-  </tr>
-	  <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">CHENG JIAN YI, RYAN</span></td>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Regimental Sergeant Major</span></td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Position</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LIAN KAI JUN, KENJI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Unit Sergeant Major</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>KAELEN LIM JIA LE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assistant Sergeant Major</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHENG JIAN YI, RYAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Regimental Sergeant Major</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-### **Our Programmes**
-
-**School-Related Activities**  
-
-The cadets undergo regimentation and discipline to prepare them for the assessment to achieve their Sergeant ranks. They will be tested and assessed on Individual Field Craft, Command and Control, Foot and Arms Drills, etc. Students are also involved in various school events such as the Secondary One CCA Orientation and CNY Hamper Project to nurture into empathetic and disciplined leaders.
-
-
-|   |   |   
-|:---:|:---:|
-|     ![](/images/Cca/NCC%20(land)/Sec%20One%20Orientation.jpeg)   |   ![](/images/Cca/NCC%20(land)/CNY%20hamper.jpeg)  |
-
-**Precision Drill Squad (PDS) &amp; Freestyle Drill (FSD) Activities**  
-
-<p style="text-align: justify;">Events such as the MJR Jam provide a good platform for the cadets to demonstrate what they have learnt during the trainings such as arms and foot drills, precision and freestyle drills. Always a strong force in any parades, our cadets never fail to impress with their strong sense of discipline and camaraderie.</p>
-
-|   |   |   
-|:---:|:---:|
-|   ![](/images/Cca/NCC%20(land)/FSD.jpeg)  |  ![](/images/Cca/NCC%20(land)/MJR%20Jam.jpeg)  |    
-
-
-**Other Highlights**
-
-<p style="text-align: justify;">MJR NCC has always pride itself in developing young men into disciplined and dedicated leaders of tomorrow. As such, the cadets had also participated in HQ events such as the NCC 120 Anniversary Tiles to develop themselves further.</p>
-
-
-|   |   |   |
-|:---:|:---:|:---:|
-| ![](/images/Cca/NCC%20(land)/Brandon%20Choo.png)  |![](/images/Cca/NCC%20(land)/ho%20zhe%20ming.png)| ![](/images/Cca/NCC%20(land)/gerard%20danny.jpeg)|
+<h3><strong>Our Programmes</strong></h3>
+<p><strong>School-Related Activities</strong>
+</p>
+<p>The cadets undergo regimentation and discipline to prepare them for the
+assessment to achieve their Sergeant ranks. They will be tested and assessed
+on Individual Field Craft, Command and Control, Foot and Arms Drills, etc.
+Students are also involved in various school events such as the Secondary
+One CCA Orientation and CNY Hamper Project to nurture into empathetic and
+disciplined leaders.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cca/NCC%20(land)/Sec%20One%20Orientation.jpeg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cca/NCC%20(land)/CNY%20hamper.jpeg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Precision Drill Squad (PDS) &amp; Freestyle Drill (FSD) Activities</strong>
+</p>
+<p>Events such as the MJR Jam provide a good platform for the cadets to demonstrate
+what they have learnt during the trainings such as arms and foot drills,
+precision and freestyle drills. Always a strong force in any parades, our
+cadets never fail to impress with their strong sense of discipline and
+camaraderie.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cca/NCC%20(land)/FSD.jpeg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cca/NCC%20(land)/MJR%20Jam.jpeg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Other Highlights</strong>
+</p>
+<p>MJR NCC has always pride itself in developing young men into disciplined
+and dedicated leaders of tomorrow. As such, the cadets had also participated
+in HQ events such as the NCC 120 Anniversary Tiles to develop themselves
+further.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cca/NCC%20(land)/Brandon%20Choo.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cca/NCC%20(land)/ho%20zhe%20ming.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cca/NCC%20(land)/gerard%20danny.jpeg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
