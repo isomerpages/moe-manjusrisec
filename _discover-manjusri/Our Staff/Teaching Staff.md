@@ -65,7 +65,7 @@ variant: markdown
 |4B2|Mr Tay Tse Min Daniel|tay_tse_min_daniel@moe.edu.sg|
 ||Ms Elna Shirin Binte Him Pon|elna_shirin_him_pon@moe.edu.sg|
 |4B3|Ms Salina Binte Abdul Majid (Senior Teacher)|salina_abdul_majid@moe.edu.sg|
-||Ms Faith Kaylie Ong Yi Cheng|faith_kaylie_ong@moe.edu.sg|
+||Ms Faith Kaylie Ong Yi Cheng (Lead Teacher)|faith_kaylie_ong@moe.edu.sg|
 |4D|Ms Lee Li Yun|lee_li_yun@moe.edu.sg|
 ||Mr Amit Kumar Sharma s/o Amber Nath|amit_kumar_sharma_amber@moe.edu.sg|
 |4E|Mr Marcus Goh Wei Ming|marcus_goh_wei_ming@moe.edu.sg|
