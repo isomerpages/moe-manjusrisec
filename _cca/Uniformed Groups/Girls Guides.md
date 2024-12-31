@@ -60,10 +60,10 @@ from 2018 till present (2023).&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Siti Shahirah</p>
+<p>Ms Angeline Ng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>siti_shahirah_haider_bagesher@moe.edu.sg</p>
+<p>ng_yeou_chiann_angeline@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
