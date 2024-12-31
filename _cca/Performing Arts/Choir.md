@@ -5,166 +5,291 @@ description: ""
 third_nav_title: Performing Arts
 variant: tiptap
 ---
-# **Choir**
-
-<p style="text-align: justify;">The main aim of Choir is to develop a lifelong love for singing and to create lasting friendships among members. The CCA develops sound choral techniques and music literacy in each member via breathing techniques, voice projection, scale-singing and harmonic blending with part-singing. In addition to vocal training, we aim to instil perseverance among our members and creativity in expression.</p>
-
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/6GmgW5g8LnE" height="315" width="560"></iframe>
-
-### **Training Schedule**  
-
-Every Monday and Wednesday
-
-3.00pm - 6.00pm @ Music Room
-
-### **Our Teachers**
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-xu5m{background-color:#C00;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-lygy{background-color:#FFF;color:#222;text-align:center;vertical-align:top}
-.tg .tg-a3j2{background-color:#FFF;color:#222;text-align:center;vertical-align:middle}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 700px">
+<h1><strong>Choir</strong></h1>
+<p>The main aim of Choir is to develop a lifelong love for singing and to
+create lasting friendships among members. The CCA develops sound choral
+techniques and music literacy in each member via breathing techniques,
+voice projection, scale-singing and harmonic blending with part-singing.
+In addition to vocal training, we aim to instil perseverance among our
+members and creativity in expression.</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/6GmgW5g8LnE"></iframe>
+</div>
+<h3><strong>Training Schedule</strong></h3>
+<p>Every Monday and Wednesday</p>
+<p>3.00pm - 6.00pm @ Music Room</p>
+<h3><strong>Our Teachers</strong></h3>
+<table style="minWidth: 50px">
 <colgroup>
-<col style="width: 320px">
-<col style="width: 360px">
+<col>
+<col>
 </colgroup>
-<thead>
-  <tr>
-    <th class="tg-xu5m">Teachers-in-Charge</th>
-    <th class="tg-xu5m">Email Address</th>
-  </tr>
-</thead>
 <tbody>
-  <tr>
-    <td class="tg-lygy">Mdm Ahadiyah Rosmani<span style="color:#222;background-color:transparent"> </span></td>
-    <td class="tg-lygy">ahadiyah_rosmani@moe.edu.sg<span style="color:#222;background-color:transparent"> </span></td>
-  </tr>
-	  <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Ms Ellia </span></td>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">darul_ellia_zulkarnain@moe.edu.sg </span></td>
-  </tr>
-  <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> Ms Tan Siew Boon Vivian</span></td>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">tan_siew_boon_vivian@moe.edu.sg </span></td>
-  </tr>
-  <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Ms Ernie </span></td>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent"> ernieyanty_hasan@moe.edu.sg </span></td>
-  </tr>
-
+<tr>
+<th rowspan="1" colspan="1">
+<p>Teachers-in-Charge</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Email Address</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Ellia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>darul_ellia_zulkarnain@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Siew Boon Vivian</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tan_siew_boon_vivian@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Ernie</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ernieyanty_hasan@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Ahadiyah Rosmani</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ahadiyah_rosmani@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Michelle Foo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>foo_siqi_michell@moe.edu.sg</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-### **Our Student Leaders**
-
-**Executive Committee**
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-3lre{background-color:#FFF;color:#F00;text-align:center;vertical-align:top}
-.tg .tg-xu5m{background-color:#C00;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-a3j2{background-color:#FFF;color:#222;text-align:center;vertical-align:middle}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 700px">
+<h3><strong>Our Student Leaders</strong></h3>
+<p><strong>Executive Committee</strong>
+</p>
+<table style="minWidth: 50px">
 <colgroup>
-<col style="width: 320px">
-<col style="width: 363px">
+<col>
+<col>
 </colgroup>
-<thead>
-  <tr>
-    <th class="tg-xu5m">Name</th>
-    <th class="tg-xu5m">Position</th>
-  </tr>
-</thead>
 <tbody>
-  <tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Renji Hoo Zhe Jia</span></td>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Chairperson</span></td>
-  </tr>
-  <tr>
-    <td class="tg-3lre"><span style="color:#222;background-color:transparent">Kok Zhi Yao</span><br><span style="color:#222;background-color:transparent">Lim Liew Le Estella </span><br></td>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Vice – Chairperson</span></td>
-  </tr>
-</tbody></table>
-
-**Sectional Leaders**
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-3lre{background-color:#FFF;color:#F00;text-align:center;vertical-align:top}
-.tg .tg-xu5m{background-color:#C00;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-a3j2{background-color:#FFF;color:#222;text-align:center;vertical-align:middle}
-.tg .tg-lygy{background-color:#FFF;color:#222;text-align:center;vertical-align:top}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 722px">
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Position</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Renji Hoo Zhe Jia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chairperson</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Kok Zhi Yao
+<br>Lim Liew Le Estella
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice – Chairperson</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Sectional Leaders</strong>
+</p>
+<table style="minWidth: 50px">
 <colgroup>
-<col style="width: 338px">
-<col style="width: 384px">
+<col>
+<col>
 </colgroup>
-<thead>
-  <tr>
-    <th class="tg-xu5m">Name</th>
-    <th class="tg-xu5m">Position</th>
-  </tr>
-</thead>
-  <tbody><tr>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Tan Jing Xuan Jacelyn</span><br><span style="color:#222;background-color:transparent">Eunice Tan Jia Yi </span></td>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Soprano</span></td>
-  </tr>
-  <tr>
-    <td class="tg-lygy">Poon Zhi Yao<br>Charlene Cheok Eu Xing <br></td>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Alto</span></td>
-  </tr>
-  <tr>
-    <td class="tg-3lre"><span style="color:#222;background-color:transparent">Chua Zhuo Yao</span><br><span style="color:#222;background-color:transparent">Toh Jun Le Xavier</span><br></td>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Bass </span></td>
-  </tr>
-  <tr>
-    <td class="tg-lygy">    <span style="color:#222;background-color:transparent">Chua Yang Chen</span><br><span style="color:#222;background-color:transparent">Ching Shi Jin Jardyne</span><br><span style="color:#222;background-color:transparent">Conrad Ong</span><br><span style="color:#222;background-color:transparent">Pang Rui Yi, Valerie</span><br></td>
-    <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Quarter Master/Mistress</span></td>
-  </tr>
-  <tr>
-    <td class="tg-3lre"><span style="color:#222;background-color:transparent">Young Jun Ting </span><br><span style="color:#222;background-color:transparent">Andes Quek Chee Hao</span><br><span style="color:#222;background-color:transparent">Gareth Yip</span><br></td>
-    <td class="tg-3lre"><span style="color:#222;background-color:transparent">Student Conductor </span></td>
-  </tr>
-</tbody></table>
-
-### **Our Programmes**
-
-**Choir Concert**
-
-<p style="text-align: justify;">Choir members in action during our biennial Choir Concert.</p>
-
-|   |   |   
-|:---:|:---:|
-| ![](/images/Cca/Choir/DSC_0798.jpg)   | <img src="/images/Cca/Choir/MJR%20Student%20Leaders-0245.jpg" style="width:%">   |
-|![](/images/Cca/Choir/DSC_0584.jpg) |![](/images/Cca/Choir/choir.jpg)   |
-
-**Our People Our Music Mega Concert**
-
-<p style="text-align: justify;">Choir took part in Our People Our Music Mega Concert, in conjunction with the opening of the National Stadium.</p>
-
-|   |   | 
-|:---:|:---:|
-|  ![](/images/Cca/Choir/choir06.png)   | ![](/images/Cca/Choir/choir07.png)     |  
-
-**Singapore Youth Festival Arts Presentation**
-
-|   |   |   |
-|:---:|:---:|:---:|
-| ![](/images/Cca/Choir/choir08.png) 	  | ![](/images/Cca/Choir/choir09.png)	 |    ![](/images/Cca/Choir/choir10.png)  	|
-| ![](/images/Cca/Choir/Recording1.jpg)   |![](/images/Cca/Choir/Recording3.jpg)  	  |   ![](/images/Cca/Choir/Recording4.jpg)	| |
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Position</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tan Jing Xuan Jacelyn
+<br>Eunice Tan Jia Yi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Soprano</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Poon Zhi Yao
+<br>Charlene Cheok Eu Xing
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Alto</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chua Zhuo Yao
+<br>Toh Jun Le Xavier
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bass</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chua Yang Chen
+<br>Ching Shi Jin Jardyne
+<br>Conrad Ong
+<br>Pang Rui Yi, Valerie
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Quarter Master/Mistress</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Young Jun Ting
+<br>Andes Quek Chee Hao
+<br>Gareth Yip
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Student Conductor</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3><strong>Our Programmes</strong></h3>
+<p><strong>Choir Concert</strong>
+</p>
+<p>Choir members in action during our biennial Choir Concert.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cca/Choir/DSC_0798.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:%" height="auto" width="100%" src="/images/Cca/Choir/MJR%20Student%20Leaders-0245.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cca/Choir/DSC_0584.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cca/Choir/choir.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Our People Our Music Mega Concert</strong>
+</p>
+<p>Choir took part in Our People Our Music Mega Concert, in conjunction with
+the opening of the National Stadium.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cca/Choir/choir06.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cca/Choir/choir07.png">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Singapore Youth Festival Arts Presentation</strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cca/Choir/choir08.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cca/Choir/choir09.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cca/Choir/choir10.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cca/Choir/Recording1.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cca/Choir/Recording3.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cca/Choir/Recording4.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
