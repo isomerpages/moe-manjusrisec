@@ -41,8 +41,9 @@ variant: markdown
 ||Ms Tee Beng Lian Serene|tee_beng_lian@moe.edu.sg|
 |2-6|Ms Sun Guangpu|sun_guangpu@moe.edu.sg|
 ||Mr Han Ah Teck, Michael|han_ah_teck@moe.edu.sg|
+||Ms Goh Layna|goh_layna@moe.edu.sg|
 |3A|Mr Ahmad Nabil Bin Ahmad Al-Kastalani|ahmad_nabil_ahmad_al-kastalani@moe.edu.sg|
-|-| -|-|
+|| Ms Nur-Ashiqin Binte Hasbollah|nurashiqin_hasbollah_a@moe.edu.sg|
 |3B1|Ms Rose Binte Ibrahim|rose_ibrahim@moe.edu.sg|
 ||Mr Lau Hui Cheng|lau_hui_cheng@moe.edu.sg|
 |3B2|Mr Nur Hakim Alim Bin Salim|nur_hakim_alim_salim@moe.edu.sg|
