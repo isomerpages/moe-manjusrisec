@@ -108,7 +108,7 @@ or Lenovo Service Centre regarding issues with PLD.</p>
 <td rowspan="1" colspan="1">
 <p><strong><sup>Mon–Fri:</sup></strong><sup> 7:45 – 8:15</sup>
 </p>
-<p><sup><br></sup><strong><sup>Mon-Thu:</sup></strong><sup> 13:50 – 15:00 <br></sup><strong><sup>Fri :</sup></strong><sup> 12:40- 14:30 <br></sup>
+<p><sup><br></sup><strong><sup>Mon-Thu:</sup></strong><sup> 13:50 – 15:00 <br></sup><strong><sup>Fri :</sup></strong><sup> 12:40- 14:00 <br></sup>
 </p>
 </td>
 </tr>
