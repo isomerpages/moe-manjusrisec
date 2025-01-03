@@ -249,11 +249,11 @@ or Lenovo Service Centre regarding issues with PLD.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><sup>Student Zoom</sup>
+<p><sup>Student Microsoft</sup>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Ndlp/Student%20Zoom%20Onboarding%20Guide.pdf" rel="noopener noreferrer nofollow" target="_blank"><sup>Student Zoom Onboarding Guide</sup></a>
+<p><a href="/files/Ndlp/Microsoft_365_Teams_Quick_Guide__Student_.pdf" rel="noopener nofollow" target="_blank"><sup>Microsoft 365 Teams Quick Guide</sup></a>
 </p>
 </td>
 </tr>
