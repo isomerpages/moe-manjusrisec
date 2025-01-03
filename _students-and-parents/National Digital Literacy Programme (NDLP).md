@@ -106,7 +106,7 @@ or Lenovo Service Centre regarding issues with PLD.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><sup>Mon–Fri:</sup></strong><sup> 7:45 – 9:00 </sup>
+<p><strong><sup>Mon–Fri:</sup></strong><sup> 7:45 – 8:15</sup>
 </p>
 <p><sup><br></sup><strong><sup>Mon-Thu:</sup></strong><sup> 13:50 – 15:00 <br></sup><strong><sup>Fri :</sup></strong><sup> 12:40- 14:30 <br></sup>
 </p>
@@ -170,7 +170,7 @@ or Lenovo Service Centre regarding issues with PLD.</p>
 <td rowspan="1" colspan="1">
 <p><sup>29 International Business Park Singapore 609923 (1.1km from Jurong East MRT) <br>Service Centre Number: 6895 6278 <br>Service Centre Email: </sup>
 <a href="mailto:acercare.sg@acer.com" rel="noopener noreferrer nofollow" target="_blank"><sup>acercare.sg@acer.com</sup>
-</a><sup> </sup>
+</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
