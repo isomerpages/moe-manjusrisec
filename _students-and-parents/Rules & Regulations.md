@@ -100,7 +100,7 @@ fist placed over the heart.</p>
 </p>
 </li>
 <li>
-<p><sup>Students&nbsp;must&nbsp;seek&nbsp;permission&nbsp;from&nbsp;the&nbsp;teacher&nbsp;if&nbsp;they&nbsp;need&nbsp;to&nbsp;leave&nbsp;the&nbsp;classroom&nbsp;and&nbsp;carry&nbsp;a&nbsp;permission&nbsp;passwith&nbsp;them.</sup>
+<p><sup>Students&nbsp;must&nbsp;seek&nbsp;permission&nbsp;from&nbsp;the&nbsp;teacher&nbsp;if&nbsp;they&nbsp;need&nbsp;to&nbsp;leave&nbsp;the classroom&nbsp;and&nbsp;carry&nbsp;a&nbsp;permission&nbsp;pass with&nbsp;them.</sup>
 </p>
 </li>
 </ul>
