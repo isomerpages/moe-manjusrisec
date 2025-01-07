@@ -164,7 +164,7 @@ fist placed over the heart.</p>
 </p>
 </li>
 <li>
-<p><sup>No&nbsp;images&nbsp;or&nbsp;media&nbsp;recordings&nbsp;may&nbsp;be&nbsp;taken&nbsp;of&nbsp;school&nbsp;activities,&nbsp;lessons&nbsp;or&nbsp;programmes&nbsp;unless&nbsp;it&nbsp;is&nbsp;by&nbsp;authorised&nbsp;persons&nbsp;for&nbsp;purposes&nbsp;of&nbsp;official&nbsp;school print and media&nbsp;publications.</sup>
+<p><sup>No&nbsp;images&nbsp;or&nbsp;media&nbsp;recordings&nbsp;may&nbsp;be&nbsp;taken&nbsp;of&nbsp;school&nbsp;activities,&nbsp;lessons&nbsp;or&nbsp;programmes unless&nbsp;it&nbsp;is&nbsp;by&nbsp;authorised&nbsp;persons&nbsp;for&nbsp;purposes&nbsp;of&nbsp;official&nbsp;school print and media&nbsp;publications.</sup>
 </p>
 </li>
 </ul>
