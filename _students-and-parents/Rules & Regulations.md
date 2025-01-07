@@ -2,6 +2,7 @@
 title: Rules & Regulations
 permalink: /students-and-parents/rules-n-regulations/
 description: ""
+variant: markdown
 ---
 <p style="text-align: justify;">The MJR school rules and regulations serve to protect the well-being and foster good discipline in all students. To create a safe and conducive learning environment, all students have to abide by the rules and regulations. Every teacher plays a part in overseeing the discipline of students and every student has to bear responsibility for his/her behaviour and actions. In the choices students make with regard to their behaviour and actions, they have to face consequences when the rules and regulations are not observed. We believe self-discipline is essential to character building and it starts with students having high expectations of themselves and in taking personal responsibility in the following ways:</p>
 
@@ -18,52 +19,54 @@ description: ""
 
 <p style="text-align: justify;">All students must stand at attention for the flag-raising ceremony and accord the occasion with dignity and respect. All students who are Singapore Citizens must sing the National Anthem and take the Pledge with the right fist placed over the heart.</p>
 
-*   All students must sing the School Song with pride and respect.
+*   All&nbsp;students&nbsp;must&nbsp;sing&nbsp;the&nbsp;School&nbsp;Song&nbsp;with&nbsp;pride&nbsp;and&nbsp;respect.
 *   All students must be seated at the assembly venue by 0740 hrs for flag raising.
-*   Students not present at the assembly venue will be considered late for school. The Discipline Committee will issue them a latecomer’s slip which must be presented to the teacher in class. Recalcitrant latecomers will face consequences.
-*   Students must attend school, remedial lessons, CCAs and other school activities punctually and regularly.
-*   Any student returning to school during the school holidays / study break for coursework or consultations must be in school uniform or P.E. t-shirt with school pants / culottes and school shoes.
-*   Absence from school or any school activities must be substantiated by a medical certificate or relevant official document.
-* Permission to leave school early may be granted for special cases. Permission must be obtained from the Principal or the Vice-Principal.
-* Uninterrupted Sustained Silent Reading will commence after the flag raising. All students must have their reading materials to do their silent reading.
+*   Students not present at the assembly venue will be considered late for school. The Discipline Committee will issue them a latecomer’s slip which must be presented to the teacher in class.&nbsp;Recalcitrant latecomers will face consequences.
+*   Students&nbsp;must&nbsp;attend&nbsp;school,&nbsp;remedial&nbsp;lessons,&nbsp;CCAs&nbsp;and&nbsp;other&nbsp;school&nbsp;activities punctually and&nbsp;regularly.
+*   Any&nbsp;student returning to school during the school&nbsp;holidays&nbsp;/&nbsp;study break&nbsp;for&nbsp;coursework&nbsp;or consultations must be in school uniform or&nbsp;P.E.&nbsp;t-shirt with school pants / culottes and school&nbsp;shoes.
+*   Absence&nbsp;from&nbsp;school&nbsp;or&nbsp;any&nbsp;school&nbsp;activities&nbsp;must&nbsp;be&nbsp;substantiated&nbsp;by&nbsp;a&nbsp;medical certificate or relevant official&nbsp;document.
+* Permission&nbsp;to&nbsp;leave&nbsp;school&nbsp;early&nbsp;may&nbsp;be&nbsp;granted&nbsp;for&nbsp;special&nbsp;cases.&nbsp;Permission&nbsp;must&nbsp;be&nbsp;obtained&nbsp;from&nbsp;the&nbsp;Principal&nbsp;or&nbsp;the&nbsp;Vice-Principal.
+* Uninterrupted Sustained Silent Reading will commence after the flag raising.&nbsp;All&nbsp;students&nbsp;must&nbsp;have&nbsp;their&nbsp;reading&nbsp;materials&nbsp;to&nbsp;do&nbsp;their&nbsp;silent&nbsp;reading.
 
 
 **Movement from point to point**
 
-* When moving as a class, students must proceed in a single file or double file and walk quietly in an orderly manner.
+* When&nbsp;moving&nbsp;as&nbsp;a&nbsp;class,&nbsp;students&nbsp;must&nbsp;proceed&nbsp;in&nbsp;a&nbsp;single&nbsp;file&nbsp;or&nbsp;double&nbsp;file&nbsp;and&nbsp;walk quietly in an orderly&nbsp;manner.
 
-**Classroom Conduct & Academic Discipline**
+**Classroom Conduct &amp; Academic Discipline**
 
-*   Students must stand up to greet the teacher before the lesson and thank him/her after each lesson.
-*   Students are to get ready for each lesson with relevant learning materials on their desks at the start of each lesson.
-*   Students should be attentive, co-operative and responsive during lessons.
-*   Students must complete and submit all assignments on time, neatly done.
-*   Students must seek permission from the teacher if they need to leave the classroom and carry a permission pass with them.
+*   Students&nbsp;must&nbsp;stand&nbsp;up&nbsp;to&nbsp;greet&nbsp;the&nbsp;teacher&nbsp;before&nbsp;the&nbsp;lesson&nbsp;and&nbsp;thank&nbsp;him/her&nbsp;after each&nbsp;lesson.
+*   Students&nbsp;are&nbsp;to&nbsp;get&nbsp;ready&nbsp;for&nbsp;each&nbsp;lesson&nbsp;with&nbsp;relevant&nbsp;learning&nbsp;materials&nbsp;on&nbsp;their&nbsp;desks at the start of each&nbsp;lesson.
+*   Students&nbsp;should&nbsp;be&nbsp;attentive,&nbsp;co-operative&nbsp;and&nbsp;responsive&nbsp;during&nbsp;lessons.
+*   Students&nbsp;must&nbsp;complete&nbsp;and&nbsp;submit&nbsp;all&nbsp;assignments&nbsp;on&nbsp;time,&nbsp;neatly&nbsp;done.
+*   Students&nbsp;must&nbsp;seek&nbsp;permission&nbsp;from&nbsp;the&nbsp;teacher&nbsp;if&nbsp;they&nbsp;need&nbsp;to&nbsp;leave&nbsp;the&nbsp;classroom&nbsp;and&nbsp;carry&nbsp;a&nbsp;permission&nbsp;pass&nbsp;with&nbsp;them.
 
 
 **Maintaining a Conducive Classroom Environment**
 
-*   The classroom must be kept clean, neat and tidy at all times.
-*   No consumption of food or sugary drinks \- soft drinks and cordials, fruit drinks, flavoured mineral or vitamin water, energy and sports drinks, is allowed in the classroom
-*   Students are to refill their water bottles only during recess or lunch break.
-*   Students must avoid behaviours or actions that are disruptive to teaching and learning.
+*   The&nbsp;classroom&nbsp;must&nbsp;be&nbsp;kept&nbsp;clean, neat&nbsp;and&nbsp;tidy&nbsp;at&nbsp;all&nbsp;times.
+*   No&nbsp;consumption&nbsp;of&nbsp;food&nbsp;or&nbsp;sugary&nbsp;drinks&nbsp;\-&nbsp;soft&nbsp;drinks&nbsp;and&nbsp;cordials,&nbsp;fruit&nbsp;drinks,&nbsp;flavoured&nbsp;mineral&nbsp;or&nbsp;vitamin&nbsp;water,&nbsp;energy&nbsp;and&nbsp;sports&nbsp;drinks,&nbsp;is&nbsp;allowed&nbsp;in&nbsp;the&nbsp;classroom
+*   Students&nbsp;are&nbsp;to&nbsp;refill&nbsp;their&nbsp;water&nbsp;bottles&nbsp;only&nbsp;during&nbsp;recess&nbsp;or&nbsp;lunch&nbsp;break.
+*   Students&nbsp;must&nbsp;avoid&nbsp;behaviours&nbsp;or&nbsp;actions&nbsp;that&nbsp;are&nbsp;disruptive&nbsp;to&nbsp;teaching&nbsp;and&nbsp;learning.
 
 **Demonstrating Responsible Behaviour**
 
-*   Students must perform their assigned classroom duties diligently.
-*   Students must ensure that all lights, fans and any other electrical equipment are switched off when they leave any room after having used it.
-*   Students are to consume food and sugary drinks in the canteen.
-*   Students are to return utensils to the collection bins after meals in the canteen.
-*   Students must take full responsibility for the safe-keeping of their mobile phones, electronic gadgets and other valuables.
-*   Students can only use their mobile phones or electronic gadgets in the canteen and other designated areas during stipulated timings which are  during recess and at the end of school day. They are to be switched off, kept out of sight and placed in the school bag during lesson time.
-*   All school bags are to be placed on the floor.
-*   All students are not allowed to have any weapons, weapon replicas or weapon-like items in their possession which can be used to cause harm to others.
-*   No images or media recordings may be taken of school activities, lessons or programmes unless it is by authorised persons for purposes of official school print and media publications.
+*   Students&nbsp;must&nbsp;perform&nbsp;their&nbsp;assigned&nbsp;classroom&nbsp;duties&nbsp;diligently.
+*   Students&nbsp;must&nbsp;ensure&nbsp;that&nbsp;all&nbsp;lights,&nbsp;fans&nbsp;and&nbsp;any&nbsp;other&nbsp;electrical&nbsp;equipment&nbsp;are&nbsp;switched&nbsp;off&nbsp;when&nbsp;they&nbsp;leave&nbsp;any&nbsp;room&nbsp;after&nbsp;having&nbsp;used&nbsp;it.
+*   Students&nbsp;are&nbsp;to&nbsp;consume&nbsp;food&nbsp;and&nbsp;sugary&nbsp;drinks&nbsp;in&nbsp;the&nbsp;canteen.
+*   Students&nbsp;are&nbsp;to&nbsp;return&nbsp;utensils&nbsp;to&nbsp;the&nbsp;collection&nbsp;bins&nbsp;after&nbsp;meals&nbsp;in&nbsp;the&nbsp;canteen.
+*   Students&nbsp;must&nbsp;take&nbsp;full&nbsp;responsibility&nbsp;for&nbsp;the&nbsp;safe-keeping&nbsp;of&nbsp;their&nbsp;mobile&nbsp;phones,&nbsp;electronic gadgets and other&nbsp;valuables.
+*   Students can only use their mobile phones or electronics gadgets at the end of the school day.
+* Students are to keep their mobile phones in their lockers prior to the first lesson, and may retrieve their mobile phones after schools.
+
+*   All&nbsp;school&nbsp;bags&nbsp;are&nbsp;to&nbsp;be&nbsp;placed&nbsp;on&nbsp;the&nbsp;floor.
+*   All&nbsp;students&nbsp;are&nbsp;not&nbsp;allowed&nbsp;to&nbsp;have&nbsp;any&nbsp;weapons,&nbsp;weapon&nbsp;replicas&nbsp;or&nbsp;weapon-like&nbsp;items&nbsp;in&nbsp;their&nbsp;possession&nbsp;which&nbsp;can&nbsp;be&nbsp;used&nbsp;to&nbsp;cause&nbsp;harm&nbsp;to&nbsp;others.
+*   No&nbsp;images&nbsp;or&nbsp;media&nbsp;recordings&nbsp;may&nbsp;be&nbsp;taken&nbsp;of&nbsp;school&nbsp;activities,&nbsp;lessons&nbsp;or&nbsp;programmes&nbsp;unless&nbsp;it&nbsp;is&nbsp;by&nbsp;authorised&nbsp;persons&nbsp;for&nbsp;purposes&nbsp;of&nbsp;official&nbsp;school print and media&nbsp;publications.
 
 
 **Consequences**
 
-<p style="text-align: justify;">Any student who violates the school rules and regulations will be subject to disciplinary action in accordance to the severity of the offence.</p>
+<p style="text-align: justify;">Any&nbsp;student&nbsp;who&nbsp;violates&nbsp;the&nbsp;school&nbsp;rules&nbsp;and&nbsp;regulations&nbsp;will&nbsp;be&nbsp;subject&nbsp;to&nbsp;disciplinary&nbsp;action&nbsp;in&nbsp;accordance&nbsp;to&nbsp;the&nbsp;severity&nbsp;of&nbsp;the&nbsp;offence.</p>
 
 
 | <center><b>Offences</b> </center>          | <center><b>Consequences</b></center>|
@@ -81,7 +84,7 @@ description: ""
 
 <center><b>ATTIRE AND GROOMING</b></center>
 
-**School Uniform, P.E. & CCA Attire**
+**School Uniform, P.E. &amp; CCA Attire**
 
 
 |            |                     |
