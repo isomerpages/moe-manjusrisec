@@ -102,23 +102,27 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
+<p></p>
 <ul>
 <li>
-<p><strong><a href="/files/Useful%20links/Income%20IFMIS%20Brochure%20Final%202020.pdf" rel="noopener noreferrer nofollow" target="_blank">Income Family Micro-Insurance Scheme (IFMIS)</a></strong>
+<p><a href="/files/Useful links/Product_Fact_Sheet__Year_2025_.pdf" rel="noopener nofollow" target="_blank">GROUP PERSONAL ACCIDENT INSURANCE FOR STUDENTS</a>
 </p>
 </li>
 <li>
-<p><strong><a href="/files/Useful%20links/GPA%20Product%20Fact%20Sheet%202022.pdf" rel="noopener noreferrer nofollow" target="_blank">GROUP PERSONAL ACCIDENT INSURANCE FOR STUDENTS</a></strong>
-</p>
-</li>
-<li>
-<p><strong><a href="/files/Useful%20links/SLS%20Student%20Login%20guide.pdf" rel="noopener noreferrer nofollow" target="_blank">SLS Student Login Guide</a></strong>
-</p>
-</li>
-<li>
-<p><strong><a href="https://www.seab.gov.sg/home/examinations/approved-calculators" rel="noopener noreferrer nofollow" target="_blank">Approved Calculator List</a></strong>
+<p><a href="https://www.seab.gov.sg/approved-calculators/" rel="noopener noreferrer nofollow" target="_blank">Approved Calculator List</a>
 </p>
 </li>
 </ul>
