@@ -106,7 +106,7 @@ variant: tiptap
 </table>
 <ul>
 <li>
-<p><strong><a href="/files/Useful%20links/Income%20IFMIS%20Brochure%20Final%202020.pdf" rel="noopener noreferrer nofollow" target="_blank">Income Family Micro-Insurance Scheme (IFMIS)</a></strong>
+<p><a href="/files/Useful%20links/Income%20IFMIS%20Brochure%20Final%202020.pdf" rel="noopener noreferrer nofollow" target="_blank">Income Family Micro-Insurance Scheme (IFMIS)</a>
 </p>
 </li>
 <li>
@@ -114,11 +114,11 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><strong><a href="/files/Useful%20links/SLS%20Student%20Login%20guide.pdf" rel="noopener noreferrer nofollow" target="_blank">SLS Student Login Guide</a></strong>
+<p><a href="/files/Useful%20links/SLS%20Student%20Login%20guide.pdf" rel="noopener noreferrer nofollow" target="_blank">SLS Student Login Guide</a>
 </p>
 </li>
 <li>
-<p><strong><a href="https://www.seab.gov.sg/home/examinations/approved-calculators" rel="noopener noreferrer nofollow" target="_blank">Approved Calculator List</a></strong>
+<p><a href="https://www.seab.gov.sg/home/examinations/approved-calculators" rel="noopener noreferrer nofollow" target="_blank">Approved Calculator List</a>
 </p>
 </li>
 </ul>
