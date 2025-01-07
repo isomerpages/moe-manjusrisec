@@ -16,20 +16,20 @@ with students having high expectations of themselves and in taking personal
 responsibility in the following ways:</p>
 <ul>
 <li>
-<p>I am responsible for my behaviour and actions. If I choose to behave and/or
-act in unacceptable ways, I must accept the consequences.</p>
+<p><sup>I am responsible for my behaviour and actions. If I choose to behave and/or act in unacceptable ways, I must accept the consequences.</sup>
+</p>
 </li>
 <li>
-<p>I am responsible for my learning. No one can learn for me.</p>
+<p><sup>I am responsible for my learning. No one can learn for me.</sup>
+</p>
 </li>
 <li>
-<p>I am responsible for treating others with respect and for showing care
-and consideration in my interactions with others. I am responsible for
-contributing positively in what I do in the class, school and community.</p>
+<p><sup>I am responsible for treating others with respect and for showing care and consideration in my interactions with others. I am responsible for contributing positively in what I do in the class, school and community.</sup>
+</p>
 </li>
 <li>
-<p>I am responsible for contributing to the cleanliness of my class, school
-and community and for treating school property with care.</p>
+<p><sup>I am responsible for contributing to the cleanliness of my class, school and community and for treating school property with care.</sup>
+</p>
 </li>
 </ul>
 <p><strong>School Assembly and Attendance</strong>
@@ -40,133 +40,132 @@ Citizens must sing the National Anthem and take the Pledge with the right
 fist placed over the heart.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>All&nbsp;students&nbsp;must&nbsp;sing&nbsp;the&nbsp;School&nbsp;Song&nbsp;with&nbsp;pride&nbsp;and
-respect.</p>
+<p><sup>All&nbsp;students&nbsp;must&nbsp;sing&nbsp;the&nbsp;School&nbsp;Song&nbsp;with&nbsp;pride&nbsp;and respect.</sup>
+</p>
 </li>
 <li>
-<p>All students must be seated at the assembly venue by 0740 hrs for flag
-raising.</p>
+<p><sup>All students must be seated at the assembly venue by 0740 hrs for flag raising.</sup>
+</p>
 </li>
 <li>
-<p>Students not present at the assembly venue will be considered late for
-school. The Discipline Committee will issue them a latecomer’s slip which
-must be presented to the teacher in class.&nbsp;Recalcitrant latecomers
-will face consequences.</p>
+<p><sup>Students not present at the assembly venue will be considered late for school. The Discipline Committee will issue them a latecomer’s slip which must be presented to the teacher in class.&nbsp;Recalcitrant latecomers will face consequences.</sup>
+</p>
 </li>
 <li>
-<p>Students&nbsp;must&nbsp;attend&nbsp;school,&nbsp;remedial&nbsp;lessons,&nbsp;CCAs
-and&nbsp;other&nbsp;school&nbsp;activities punctually and&nbsp;regularly.</p>
+<p><sup>Students&nbsp;must&nbsp;attend&nbsp;school,&nbsp;remedial&nbsp;lessons,&nbsp;CCAs and&nbsp;other&nbsp;school&nbsp;activities punctually and&nbsp;regularly.</sup>
+</p>
 </li>
 <li>
-<p>Any&nbsp;student returning to school during the school&nbsp;holidays&nbsp;/&nbsp;study
-break&nbsp;for&nbsp;coursework&nbsp;or consultations must be in school
-uniform or&nbsp;P.E.&nbsp;t-shirt with school pants / culottes and school&nbsp;shoes.</p>
+<p><sup>Any&nbsp;student returning to school during the school&nbsp;holidays&nbsp;/&nbsp;study break&nbsp;for&nbsp;coursework&nbsp;or consultations must be in school uniform or&nbsp;P.E.&nbsp;t-shirt with school pants / culottes and school&nbsp;shoes.</sup>
+</p>
 </li>
 <li>
-<p>Absence&nbsp;from&nbsp;school&nbsp;or&nbsp;any&nbsp;school&nbsp;activities&nbsp;must&nbsp;be
-substantiated&nbsp;by&nbsp;a&nbsp;medical certificate or relevant official&nbsp;document.</p>
+<p><sup>Absence&nbsp;from&nbsp;school&nbsp;or&nbsp;any&nbsp;school&nbsp;activities&nbsp;must&nbsp;be substantiated&nbsp;by&nbsp;a&nbsp;medical certificate or relevant official&nbsp;document.</sup>
+</p>
 </li>
 <li>
-<p>Permission&nbsp;to&nbsp;leave&nbsp;school&nbsp;early&nbsp;may&nbsp;be&nbsp;granted&nbsp;for&nbsp;special&nbsp;cases.&nbsp;Permission&nbsp;must&nbsp;be&nbsp;obtained&nbsp;from&nbsp;the&nbsp;
-Principal&nbsp;or&nbsp;the&nbsp;Vice-Principal.</p>
+<p><sup>Permission&nbsp;to&nbsp;leave&nbsp;school&nbsp;early&nbsp;may&nbsp;be&nbsp;granted&nbsp;for&nbsp;special&nbsp;cases.&nbsp;Permission&nbsp;must&nbsp;be&nbsp;obtained&nbsp;from&nbsp;the&nbsp; Principal&nbsp;or&nbsp;the&nbsp;Vice-Principal.</sup>
+</p>
 </li>
 <li>
-<p>Uninterrupted Sustained Silent Reading will commence after the flag raising.&nbsp;All&nbsp;students&nbsp;must&nbsp;have&nbsp;their&nbsp;reading&nbsp;materials&nbsp;to&nbsp;do&nbsp;their&nbsp;silent&nbsp;reading.</p>
+<p><sup>Uninterrupted Sustained Silent Reading will commence after the flag raising.&nbsp;All&nbsp;students&nbsp;must&nbsp;have&nbsp;their&nbsp;reading&nbsp;materials&nbsp;to&nbsp;do&nbsp;their&nbsp;silent&nbsp;reading.</sup>
+</p>
 </li>
 </ul>
 <p><strong>Movement from point to point</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>When&nbsp;moving&nbsp;as&nbsp;a&nbsp;class,&nbsp;students&nbsp;must&nbsp;proceed&nbsp;in&nbsp;a&nbsp;
-single&nbsp;file&nbsp;or&nbsp;double&nbsp;file&nbsp;and&nbsp;walk quietly
-in an orderly&nbsp;manner.</p>
+<p><sup>When&nbsp;moving&nbsp;as&nbsp;a&nbsp;class,&nbsp;students&nbsp;must&nbsp;proceed&nbsp;in&nbsp;a&nbsp; single&nbsp;file&nbsp;or&nbsp;double&nbsp;file&nbsp;and&nbsp;walk quietly in an orderly&nbsp;manner.</sup>
+</p>
 </li>
 </ul>
 <p><strong>Classroom Conduct &amp; Academic Discipline</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Students&nbsp;must&nbsp;stand&nbsp;up&nbsp;to&nbsp;greet&nbsp;the&nbsp;teacher&nbsp;before&nbsp;the
-lesson&nbsp;and&nbsp;thank&nbsp;him/her&nbsp;after each&nbsp;lesson.</p>
+<p><sup>Students&nbsp;must&nbsp;stand&nbsp;up&nbsp;to&nbsp;greet&nbsp;the&nbsp;teacher&nbsp;before&nbsp;the lesson&nbsp;and&nbsp;thank&nbsp;him/her&nbsp;after each&nbsp;lesson.</sup>
+</p>
 </li>
 <li>
-<p>Students&nbsp;are&nbsp;to&nbsp;get&nbsp;ready&nbsp;for&nbsp;each&nbsp;lesson&nbsp;with&nbsp;relevant
-learning&nbsp;materials&nbsp;on&nbsp;their&nbsp;desks at the start of each&nbsp;lesson.</p>
+<p><sup>Students&nbsp;are&nbsp;to&nbsp;get&nbsp;ready&nbsp;for&nbsp;each&nbsp;lesson&nbsp;with&nbsp;relevant learning&nbsp;materials&nbsp;on&nbsp;their&nbsp;desks at the start of each&nbsp;lesson.</sup>
+</p>
 </li>
 <li>
-<p>Students&nbsp;should&nbsp;be&nbsp;attentive, co-operative&nbsp;and&nbsp;responsive&nbsp;during&nbsp;lessons.</p>
+<p><sup>Students&nbsp;should&nbsp;be&nbsp;attentive, co-operative&nbsp;and&nbsp;responsive&nbsp;during&nbsp;lessons.</sup>
+</p>
 </li>
 <li>
-<p>Students&nbsp;must&nbsp;complete&nbsp;and&nbsp;submit&nbsp;all&nbsp;assignments&nbsp;on
-time,&nbsp;neatly&nbsp;done.</p>
+<p><sup>Students&nbsp;must&nbsp;complete&nbsp;and&nbsp;submit&nbsp;all&nbsp;assignments&nbsp;on time,&nbsp;neatly&nbsp;done.</sup>
+</p>
 </li>
 <li>
-<p>Students&nbsp;must&nbsp;seek&nbsp;permission&nbsp;from&nbsp;the&nbsp;teacher&nbsp;if&nbsp;they&nbsp;need&nbsp;to&nbsp;leave&nbsp;the&nbsp;classroom&nbsp;and&nbsp;carry&nbsp;a&nbsp;permission&nbsp;passwith&nbsp;them.</p>
+<p><sup>Students&nbsp;must&nbsp;seek&nbsp;permission&nbsp;from&nbsp;the&nbsp;teacher&nbsp;if&nbsp;they&nbsp;need&nbsp;to&nbsp;leave&nbsp;the&nbsp;classroom&nbsp;and&nbsp;carry&nbsp;a&nbsp;permission&nbsp;passwith&nbsp;them.</sup>
+</p>
 </li>
 </ul>
 <p><strong>Maintaining a Conducive Classroom Environment</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>The&nbsp;classroom&nbsp;must&nbsp;be&nbsp;kept&nbsp;clean, neat&nbsp;and&nbsp;tidy&nbsp;at&nbsp;all&nbsp;times.</p>
+<p><sup>The&nbsp;classroom&nbsp;must&nbsp;be&nbsp;kept&nbsp;clean, neat&nbsp;and&nbsp;tidy&nbsp;at&nbsp;all&nbsp;times.</sup>
+</p>
 </li>
 <li>
-<p>No&nbsp;consumption&nbsp;of&nbsp;food&nbsp;or&nbsp;sugary&nbsp;drinks&nbsp;-
-soft&nbsp;drinks&nbsp;and&nbsp;cordials,&nbsp;fruit&nbsp;drinks,&nbsp;flavoured&nbsp;mineral&nbsp;or
-vitamin water,&nbsp;energy&nbsp;and&nbsp;sports&nbsp;drinks,&nbsp;is&nbsp;allowed&nbsp;in
-the&nbsp;classroom</p>
+<p><sup>No&nbsp;consumption&nbsp;of&nbsp;food&nbsp;or&nbsp;sugary&nbsp;drinks&nbsp;- soft&nbsp;drinks&nbsp;and&nbsp;cordials,&nbsp;fruit&nbsp;drinks,&nbsp;flavoured&nbsp;mineral&nbsp;or vitamin water,&nbsp;energy&nbsp;and&nbsp;sports&nbsp;drinks,&nbsp;is&nbsp;allowed&nbsp;in the&nbsp;classroom</sup>
+</p>
 </li>
 <li>
-<p>Students&nbsp;are&nbsp;to&nbsp;refill&nbsp;their&nbsp;water&nbsp;bottles&nbsp;only&nbsp;during
-recess&nbsp;or&nbsp;lunch&nbsp;break.</p>
+<p><sup>Students&nbsp;are&nbsp;to&nbsp;refill&nbsp;their&nbsp;water&nbsp;bottles&nbsp;only&nbsp;during recess&nbsp;or&nbsp;lunch&nbsp;break.</sup>
+</p>
 </li>
 <li>
-<p>Students&nbsp;must&nbsp;avoid&nbsp;behaviours&nbsp;or&nbsp;actions&nbsp;that&nbsp;are
-disruptive&nbsp;to&nbsp;teaching&nbsp;and&nbsp;learning.</p>
+<p><sup>Students&nbsp;must&nbsp;avoid&nbsp;behaviours&nbsp;or&nbsp;actions&nbsp;that&nbsp;are disruptive&nbsp;to&nbsp;teaching&nbsp;and&nbsp;learning.</sup>
+</p>
 </li>
 </ul>
 <p><strong>Demonstrating Responsible Behaviour</strong>
 </p>
 <ul>
 <li>
-<p>Students&nbsp;must&nbsp;perform&nbsp;their&nbsp;assigned&nbsp;classroom&nbsp;duties&nbsp;diligently.</p>
+<p><sup>Students&nbsp;must&nbsp;perform&nbsp;their&nbsp;assigned&nbsp;classroom&nbsp;duties&nbsp;diligently.</sup>
+</p>
 </li>
 <li>
-<p>Students&nbsp;must&nbsp;ensure&nbsp;that&nbsp;all&nbsp;lights,&nbsp;fans&nbsp;and&nbsp;any&nbsp;other&nbsp;electrical
-equipment are&nbsp;switched&nbsp;off&nbsp;when&nbsp;they&nbsp;leave any&nbsp;room&nbsp;after&nbsp;having&nbsp;used&nbsp;it.</p>
+<p><sup>Students&nbsp;must&nbsp;ensure&nbsp;that&nbsp;all&nbsp;lights,&nbsp;fans&nbsp;and&nbsp;any&nbsp;other&nbsp;electrical equipment are&nbsp;switched&nbsp;off&nbsp;when&nbsp;they&nbsp;leave any&nbsp;room&nbsp;after&nbsp;having&nbsp;used&nbsp;it.</sup>
+</p>
 </li>
 <li>
-<p>Students&nbsp;are&nbsp;to&nbsp;consume&nbsp;food&nbsp;and&nbsp;sugary&nbsp;drinks&nbsp;in&nbsp;the
-canteen.</p>
+<p><sup>Students&nbsp;are&nbsp;to&nbsp;consume&nbsp;food&nbsp;and&nbsp;sugary&nbsp;drinks&nbsp;in&nbsp;the canteen.</sup>
+</p>
 </li>
 <li>
-<p>Students&nbsp;are&nbsp;to&nbsp;return&nbsp;utensils&nbsp;to&nbsp;the&nbsp;collection&nbsp;bins
-after&nbsp;meals&nbsp;in&nbsp;the&nbsp;canteen.</p>
+<p><sup>Students&nbsp;are&nbsp;to&nbsp;return&nbsp;utensils&nbsp;to&nbsp;the&nbsp;collection&nbsp;bins after&nbsp;meals&nbsp;in&nbsp;the&nbsp;canteen.</sup>
+</p>
 </li>
 <li>
-<p>Students&nbsp;must&nbsp;take&nbsp;full&nbsp;responsibility&nbsp;for&nbsp;the&nbsp;safe-keeping&nbsp;of&nbsp;their&nbsp;mobile&nbsp;phones,&nbsp;electronic
-gadgets and other&nbsp;valuables.</p>
+<p><sup>Students&nbsp;must&nbsp;take&nbsp;full&nbsp;responsibility&nbsp;for&nbsp;the&nbsp;safe-keeping&nbsp;of&nbsp;their&nbsp;mobile&nbsp;phones,&nbsp;electronic gadgets and other&nbsp;valuables.</sup>
+</p>
 </li>
 <li>
-<p>Students can only use their mobile phones or electronics gadgets at the
-end of the school day.</p>
+<p><sup>Students can only use their mobile phones or electronics gadgets at the end of the school day.</sup>
+</p>
 </li>
 <li>
-<p>Students are to keep their mobile phones in their lockers prior to the
-first lesson and may retrieve their mobile phones after schools.</p>
+<p><sup>Students are to keep their mobile phones in their lockers prior to the first lesson and may retrieve their mobile phones after schools.</sup>
+</p>
 </li>
 <li>
-<p>All&nbsp;school&nbsp;bags&nbsp;are&nbsp;to&nbsp;be&nbsp;placed&nbsp;on&nbsp;the&nbsp;floor.</p>
+<p><sup>All&nbsp;school&nbsp;bags&nbsp;are&nbsp;to&nbsp;be&nbsp;placed&nbsp;on&nbsp;the&nbsp;floor.</sup>
+</p>
 </li>
 <li>
-<p>All&nbsp;students&nbsp;are&nbsp;not&nbsp;allowed&nbsp;to&nbsp;have&nbsp;any&nbsp;weapons,
-weapon&nbsp;replicas&nbsp;or&nbsp;weapon-like&nbsp;items&nbsp;in&nbsp;their&nbsp;possession&nbsp;which&nbsp;can&nbsp;be&nbsp;used&nbsp;to
-cause&nbsp;harm&nbsp;to&nbsp;others.</p>
+<p><sup>All&nbsp;students&nbsp;are&nbsp;not&nbsp;allowed&nbsp;to&nbsp;have&nbsp;any&nbsp;weapons, weapon&nbsp;replicas&nbsp;or&nbsp;weapon-like&nbsp;items&nbsp;in&nbsp;their&nbsp;possession&nbsp;which&nbsp;can&nbsp;be&nbsp;used&nbsp;to cause&nbsp;harm&nbsp;to&nbsp;others.</sup>
+</p>
 </li>
 <li>
-<p>No&nbsp;images&nbsp;or&nbsp;media&nbsp;recordings&nbsp;may&nbsp;be&nbsp;taken&nbsp;of&nbsp;school&nbsp;activities,&nbsp;lessons&nbsp;or&nbsp;programmes&nbsp;unless&nbsp;it&nbsp;is&nbsp;by&nbsp;authorised&nbsp;persons&nbsp;for&nbsp;purposes&nbsp;of&nbsp;official&nbsp;school
-print and media&nbsp;publications.</p>
+<p><sup>No&nbsp;images&nbsp;or&nbsp;media&nbsp;recordings&nbsp;may&nbsp;be&nbsp;taken&nbsp;of&nbsp;school&nbsp;activities,&nbsp;lessons&nbsp;or&nbsp;programmes&nbsp;unless&nbsp;it&nbsp;is&nbsp;by&nbsp;authorised&nbsp;persons&nbsp;for&nbsp;purposes&nbsp;of&nbsp;official&nbsp;school print and media&nbsp;publications.</sup>
+</p>
 </li>
 </ul>
 <p><strong>Consequences</strong>
