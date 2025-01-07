@@ -291,31 +291,12 @@ must seek permission to wear alternative footwear.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>• Hair must be kept neat. The fringe of the hair should be above the eyebrow.
-<br>• Girls with shoulder length or long hair must tie it up with black or
-dark blue hair bands or hair clips.
-<br>• Dyeing/highlighting of hair and/or fanciful hairstyle are not permitted.
-<br>• Make-up is not permitted.
-<br>• Nails are to be kept short and clean. Nail polish is not permitted on
-nails.
-<br>• Wearing of rings, necklaces or pieces of jewelry of any kind is not
-permitted.
-<br>• Henna painting is not allowed on any part of the body.
-<br>• Body piercing of any form or body art is not allowed except for one
-piercing for a pair of simple, identical ear studs. Those with visible
-body art are required to have them removed.</p>
+<p><sup>• Hair must be kept neat. The fringe of the hair should be above the eyebrow. <br>• Girls with shoulder length or long hair must tie it up with black or dark blue hair bands or hair clips. <br>• Dyeing/highlighting of hair and/or fanciful hairstyle are not permitted. <br>• Make-up is not permitted. <br>• Nails are to be kept short and clean. Nail polish is not permitted on nails. <br>• Wearing of rings, necklaces or pieces of jewelry of any kind is not permitted. <br>• Henna painting is not allowed on any part of the body. <br>• Body piercing of any form or body art is not allowed except for one piercing for a pair of simple, identical ear studs. Those with visible body art are required to have them removed.</sup>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>• Face must be clean-shaven and free of facial hair.
-<br>• Hair must be kept short, neat and well combed. It should not touch the
-eyebrows, ears or collar.
-<br>• Dyeing/highlighting of hair and /or fanciful hairstyle are not permitted.
-<br>• Nails are to be kept short and clean.
-<br>• Wearing of ear-sticks, rings, necklaces or pieces of jewelry of any
-kind is not permitted.
-<br>• Henna painting is not allowed on any part of the body.
-<br>• Body piercing of any form or body art is not allowed. Those with visible
-body art are required to have them removed.</p>
+<p><sup>• Face must be clean-shaven and free of facial hair. <br>• Hair must be kept short, neat and well combed. It should not touch the eyebrows, ears or collar. <br>• Dyeing/highlighting of hair and /or fanciful hairstyle are not permitted. <br>• Nails are to be kept short and clean. <br>• Wearing of ear-sticks, rings, necklaces or pieces of jewelry of any kind is not permitted. <br>• Henna painting is not allowed on any part of the body. <br>• Body piercing of any form or body art is not allowed. Those with visible body art are required to have them removed.</sup>
+</p>
 </td>
 </tr>
 </tbody>
