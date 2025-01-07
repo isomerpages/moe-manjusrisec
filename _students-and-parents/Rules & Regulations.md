@@ -132,13 +132,16 @@ disruptive&nbsp;to&nbsp;teaching&nbsp;and&nbsp;learning.</p>
 <p>Students&nbsp;must&nbsp;perform&nbsp;their&nbsp;assigned&nbsp;classroom&nbsp;duties&nbsp;diligently.</p>
 </li>
 <li>
-<p>Students&nbsp;must&nbsp;ensure&nbsp;that&nbsp;all&nbsp;lights,&nbsp;fans&nbsp;and&nbsp;any&nbsp;other&nbsp;electrical&nbsp;equipment&nbsp;are&nbsp;switched&nbsp;off&nbsp;when&nbsp;they&nbsp;leave&nbsp;any&nbsp;room&nbsp;after&nbsp;having&nbsp;used&nbsp;it.</p>
+<p>Students&nbsp;must&nbsp;ensure&nbsp;that&nbsp;all&nbsp;lights,&nbsp;fans&nbsp;and&nbsp;any&nbsp;other&nbsp;electrical&nbsp;equipment&nbsp;are&nbsp;switched&nbsp;off&nbsp;when&nbsp;they&nbsp;leave
+any&nbsp;room&nbsp;after&nbsp;having&nbsp;used&nbsp;it.</p>
 </li>
 <li>
-<p>Students&nbsp;are&nbsp;to&nbsp;consume&nbsp;food&nbsp;and&nbsp;sugary&nbsp;drinks&nbsp;in&nbsp;the&nbsp;canteen.</p>
+<p>Students&nbsp;are&nbsp;to&nbsp;consume&nbsp;food&nbsp;and&nbsp;sugary&nbsp;drinks&nbsp;in&nbsp;the
+canteen.</p>
 </li>
 <li>
-<p>Students&nbsp;are&nbsp;to&nbsp;return&nbsp;utensils&nbsp;to&nbsp;the&nbsp;collection&nbsp;bins&nbsp;after&nbsp;meals&nbsp;in&nbsp;the&nbsp;canteen.</p>
+<p>Students&nbsp;are&nbsp;to&nbsp;return&nbsp;utensils&nbsp;to&nbsp;the&nbsp;collection&nbsp;bins
+after&nbsp;meals&nbsp;in&nbsp;the&nbsp;canteen.</p>
 </li>
 <li>
 <p>Students&nbsp;must&nbsp;take&nbsp;full&nbsp;responsibility&nbsp;for&nbsp;the&nbsp;safe-keeping&nbsp;of&nbsp;their&nbsp;mobile&nbsp;phones,&nbsp;electronic
@@ -150,13 +153,15 @@ end of the school day.</p>
 </li>
 <li>
 <p>Students are to keep their mobile phones in their lockers prior to the
-first lesson, and may retrieve their mobile phones after schools.</p>
+first lesson and may retrieve their mobile phones after schools.</p>
 </li>
 <li>
 <p>All&nbsp;school&nbsp;bags&nbsp;are&nbsp;to&nbsp;be&nbsp;placed&nbsp;on&nbsp;the&nbsp;floor.</p>
 </li>
 <li>
-<p>All&nbsp;students&nbsp;are&nbsp;not&nbsp;allowed&nbsp;to&nbsp;have&nbsp;any&nbsp;weapons,&nbsp;weapon&nbsp;replicas&nbsp;or&nbsp;weapon-like&nbsp;items&nbsp;in&nbsp;their&nbsp;possession&nbsp;which&nbsp;can&nbsp;be&nbsp;used&nbsp;to&nbsp;cause&nbsp;harm&nbsp;to&nbsp;others.</p>
+<p>All&nbsp;students&nbsp;are&nbsp;not&nbsp;allowed&nbsp;to&nbsp;have&nbsp;any&nbsp;weapons,
+weapon&nbsp;replicas&nbsp;or&nbsp;weapon-like&nbsp;items&nbsp;in&nbsp;their&nbsp;possession&nbsp;which&nbsp;can&nbsp;be&nbsp;used&nbsp;to
+cause&nbsp;harm&nbsp;to&nbsp;others.</p>
 </li>
 <li>
 <p>No&nbsp;images&nbsp;or&nbsp;media&nbsp;recordings&nbsp;may&nbsp;be&nbsp;taken&nbsp;of&nbsp;school&nbsp;activities,&nbsp;lessons&nbsp;or&nbsp;programmes&nbsp;unless&nbsp;it&nbsp;is&nbsp;by&nbsp;authorised&nbsp;persons&nbsp;for&nbsp;purposes&nbsp;of&nbsp;official&nbsp;school
@@ -165,7 +170,8 @@ print and media&nbsp;publications.</p>
 </ul>
 <p><strong>Consequences</strong>
 </p>
-<p>Any&nbsp;student&nbsp;who&nbsp;violates&nbsp;the&nbsp;school&nbsp;rules&nbsp;and&nbsp;regulations&nbsp;will&nbsp;be&nbsp;subject&nbsp;to&nbsp;disciplinary&nbsp;action&nbsp;in&nbsp;accordance&nbsp;to&nbsp;the&nbsp;severity&nbsp;of&nbsp;the&nbsp;offence.</p>
+<p>Any&nbsp;student&nbsp;who&nbsp;violates&nbsp;the&nbsp;school&nbsp;rules&nbsp;and&nbsp;regulations&nbsp;will&nbsp;be&nbsp;subject&nbsp;to&nbsp;disciplinary&nbsp;action&nbsp;in&nbsp;accordance&nbsp;with&nbsp;the
+severity&nbsp;of&nbsp;the&nbsp;offence.</p>
 <p><strong>Category A – Minor</strong>
 </p>
 <table style="minWidth: 50px">
