@@ -102,19 +102,23 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
+<p></p>
 <ul>
 <li>
-<p><a href="/files/Useful%20links/Income%20IFMIS%20Brochure%20Final%202020.pdf" rel="noopener noreferrer nofollow" target="_blank">Income Family Micro-Insurance Scheme (IFMIS)</a>
-</p>
-</li>
-<li>
 <p><a href="/files/Useful links/Product_Fact_Sheet__Year_2025_.pdf" rel="noopener nofollow" target="_blank">GROUP PERSONAL ACCIDENT INSURANCE FOR STUDENTS</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Useful%20links/SLS%20Student%20Login%20guide.pdf" rel="noopener noreferrer nofollow" target="_blank">SLS Student Login Guide</a>
 </p>
 </li>
 <li>
