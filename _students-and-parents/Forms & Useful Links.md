@@ -118,7 +118,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://www.seab.gov.sg/home/examinations/approved-calculators" rel="noopener noreferrer nofollow" target="_blank">Approved Calculator List</a>
+<p><a href="https://www.seab.gov.sg/approved-calculators/" rel="noopener noreferrer nofollow" target="_blank">Approved Calculator List</a>
 </p>
 </li>
 </ul>
