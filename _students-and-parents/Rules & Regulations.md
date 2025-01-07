@@ -40,7 +40,8 @@ Citizens must sing the National Anthem and take the Pledge with the right
 fist placed over the heart.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>All&nbsp;students&nbsp;must&nbsp;sing&nbsp;the&nbsp;School&nbsp;Song&nbsp;with&nbsp;pride&nbsp;and&nbsp;respect.</p>
+<p>All&nbsp;students&nbsp;must&nbsp;sing&nbsp;the&nbsp;School&nbsp;Song&nbsp;with&nbsp;pride&nbsp;and
+respect.</p>
 </li>
 <li>
 <p>All students must be seated at the assembly venue by 0740 hrs for flag
@@ -53,8 +54,8 @@ must be presented to the teacher in class.&nbsp;Recalcitrant latecomers
 will face consequences.</p>
 </li>
 <li>
-<p>Students&nbsp;must&nbsp;attend&nbsp;school,&nbsp;remedial&nbsp;lessons,&nbsp;CCAs&nbsp;and&nbsp;other&nbsp;school&nbsp;activities
-punctually and&nbsp;regularly.</p>
+<p>Students&nbsp;must&nbsp;attend&nbsp;school,&nbsp;remedial&nbsp;lessons,&nbsp;CCAs
+and&nbsp;other&nbsp;school&nbsp;activities punctually and&nbsp;regularly.</p>
 </li>
 <li>
 <p>Any&nbsp;student returning to school during the school&nbsp;holidays&nbsp;/&nbsp;study
@@ -62,11 +63,12 @@ break&nbsp;for&nbsp;coursework&nbsp;or consultations must be in school
 uniform or&nbsp;P.E.&nbsp;t-shirt with school pants / culottes and school&nbsp;shoes.</p>
 </li>
 <li>
-<p>Absence&nbsp;from&nbsp;school&nbsp;or&nbsp;any&nbsp;school&nbsp;activities&nbsp;must&nbsp;be&nbsp;substantiated&nbsp;by&nbsp;a&nbsp;medical
-certificate or relevant official&nbsp;document.</p>
+<p>Absence&nbsp;from&nbsp;school&nbsp;or&nbsp;any&nbsp;school&nbsp;activities&nbsp;must&nbsp;be
+substantiated&nbsp;by&nbsp;a&nbsp;medical certificate or relevant official&nbsp;document.</p>
 </li>
 <li>
-<p>Permission&nbsp;to&nbsp;leave&nbsp;school&nbsp;early&nbsp;may&nbsp;be&nbsp;granted&nbsp;for&nbsp;special&nbsp;cases.&nbsp;Permission&nbsp;must&nbsp;be&nbsp;obtained&nbsp;from&nbsp;the&nbsp;Principal&nbsp;or&nbsp;the&nbsp;Vice-Principal.</p>
+<p>Permission&nbsp;to&nbsp;leave&nbsp;school&nbsp;early&nbsp;may&nbsp;be&nbsp;granted&nbsp;for&nbsp;special&nbsp;cases.&nbsp;Permission&nbsp;must&nbsp;be&nbsp;obtained&nbsp;from&nbsp;the&nbsp;
+Principal&nbsp;or&nbsp;the&nbsp;Vice-Principal.</p>
 </li>
 <li>
 <p>Uninterrupted Sustained Silent Reading will commence after the flag raising.&nbsp;All&nbsp;students&nbsp;must&nbsp;have&nbsp;their&nbsp;reading&nbsp;materials&nbsp;to&nbsp;do&nbsp;their&nbsp;silent&nbsp;reading.</p>
@@ -76,29 +78,31 @@ certificate or relevant official&nbsp;document.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>When&nbsp;moving&nbsp;as&nbsp;a&nbsp;class,&nbsp;students&nbsp;must&nbsp;proceed&nbsp;in&nbsp;a&nbsp;single&nbsp;file&nbsp;or&nbsp;double&nbsp;file&nbsp;and&nbsp;walk
-quietly in an orderly&nbsp;manner.</p>
+<p>When&nbsp;moving&nbsp;as&nbsp;a&nbsp;class,&nbsp;students&nbsp;must&nbsp;proceed&nbsp;in&nbsp;a&nbsp;
+single&nbsp;file&nbsp;or&nbsp;double&nbsp;file&nbsp;and&nbsp;walk quietly
+in an orderly&nbsp;manner.</p>
 </li>
 </ul>
 <p><strong>Classroom Conduct &amp; Academic Discipline</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Students&nbsp;must&nbsp;stand&nbsp;up&nbsp;to&nbsp;greet&nbsp;the&nbsp;teacher&nbsp;before&nbsp;the&nbsp;lesson&nbsp;and&nbsp;thank&nbsp;him/her&nbsp;after
-each&nbsp;lesson.</p>
+<p>Students&nbsp;must&nbsp;stand&nbsp;up&nbsp;to&nbsp;greet&nbsp;the&nbsp;teacher&nbsp;before&nbsp;the
+lesson&nbsp;and&nbsp;thank&nbsp;him/her&nbsp;after each&nbsp;lesson.</p>
 </li>
 <li>
-<p>Students&nbsp;are&nbsp;to&nbsp;get&nbsp;ready&nbsp;for&nbsp;each&nbsp;lesson&nbsp;with&nbsp;relevant&nbsp;learning&nbsp;materials&nbsp;on&nbsp;their&nbsp;desks
-at the start of each&nbsp;lesson.</p>
+<p>Students&nbsp;are&nbsp;to&nbsp;get&nbsp;ready&nbsp;for&nbsp;each&nbsp;lesson&nbsp;with&nbsp;relevant
+learning&nbsp;materials&nbsp;on&nbsp;their&nbsp;desks at the start of each&nbsp;lesson.</p>
 </li>
 <li>
-<p>Students&nbsp;should&nbsp;be&nbsp;attentive,&nbsp;co-operative&nbsp;and&nbsp;responsive&nbsp;during&nbsp;lessons.</p>
+<p>Students&nbsp;should&nbsp;be&nbsp;attentive, co-operative&nbsp;and&nbsp;responsive&nbsp;during&nbsp;lessons.</p>
 </li>
 <li>
-<p>Students&nbsp;must&nbsp;complete&nbsp;and&nbsp;submit&nbsp;all&nbsp;assignments&nbsp;on&nbsp;time,&nbsp;neatly&nbsp;done.</p>
+<p>Students&nbsp;must&nbsp;complete&nbsp;and&nbsp;submit&nbsp;all&nbsp;assignments&nbsp;on
+time,&nbsp;neatly&nbsp;done.</p>
 </li>
 <li>
-<p>Students&nbsp;must&nbsp;seek&nbsp;permission&nbsp;from&nbsp;the&nbsp;teacher&nbsp;if&nbsp;they&nbsp;need&nbsp;to&nbsp;leave&nbsp;the&nbsp;classroom&nbsp;and&nbsp;carry&nbsp;a&nbsp;permission&nbsp;pass&nbsp;with&nbsp;them.</p>
+<p>Students&nbsp;must&nbsp;seek&nbsp;permission&nbsp;from&nbsp;the&nbsp;teacher&nbsp;if&nbsp;they&nbsp;need&nbsp;to&nbsp;leave&nbsp;the&nbsp;classroom&nbsp;and&nbsp;carry&nbsp;a&nbsp;permission&nbsp;passwith&nbsp;them.</p>
 </li>
 </ul>
 <p><strong>Maintaining a Conducive Classroom Environment</strong>
