@@ -113,7 +113,8 @@ time,&nbsp;neatly&nbsp;done.</p>
 </li>
 <li>
 <p>No&nbsp;consumption&nbsp;of&nbsp;food&nbsp;or&nbsp;sugary&nbsp;drinks&nbsp;-
-soft&nbsp;drinks&nbsp;and&nbsp;cordials,&nbsp;fruit&nbsp;drinks,&nbsp;flavoured&nbsp;mineral&nbsp;or&nbsp;vitamin&nbsp;water,&nbsp;energy&nbsp;and&nbsp;sports&nbsp;drinks,&nbsp;is&nbsp;allowed&nbsp;in
+soft&nbsp;drinks&nbsp;and&nbsp;cordials,&nbsp;fruit&nbsp;drinks,&nbsp;flavoured&nbsp;mineral&nbsp;or
+vitamin water,&nbsp;energy&nbsp;and&nbsp;sports&nbsp;drinks,&nbsp;is&nbsp;allowed&nbsp;in
 the&nbsp;classroom</p>
 </li>
 <li>
@@ -132,8 +133,8 @@ disruptive&nbsp;to&nbsp;teaching&nbsp;and&nbsp;learning.</p>
 <p>Students&nbsp;must&nbsp;perform&nbsp;their&nbsp;assigned&nbsp;classroom&nbsp;duties&nbsp;diligently.</p>
 </li>
 <li>
-<p>Students&nbsp;must&nbsp;ensure&nbsp;that&nbsp;all&nbsp;lights,&nbsp;fans&nbsp;and&nbsp;any&nbsp;other&nbsp;electrical&nbsp;equipment&nbsp;are&nbsp;switched&nbsp;off&nbsp;when&nbsp;they&nbsp;leave
-any&nbsp;room&nbsp;after&nbsp;having&nbsp;used&nbsp;it.</p>
+<p>Students&nbsp;must&nbsp;ensure&nbsp;that&nbsp;all&nbsp;lights,&nbsp;fans&nbsp;and&nbsp;any&nbsp;other&nbsp;electrical
+equipment are&nbsp;switched&nbsp;off&nbsp;when&nbsp;they&nbsp;leave any&nbsp;room&nbsp;after&nbsp;having&nbsp;used&nbsp;it.</p>
 </li>
 <li>
 <p>Students&nbsp;are&nbsp;to&nbsp;consume&nbsp;food&nbsp;and&nbsp;sugary&nbsp;drinks&nbsp;in&nbsp;the
