@@ -112,13 +112,17 @@ time,&nbsp;neatly&nbsp;done.</p>
 <p>The&nbsp;classroom&nbsp;must&nbsp;be&nbsp;kept&nbsp;clean, neat&nbsp;and&nbsp;tidy&nbsp;at&nbsp;all&nbsp;times.</p>
 </li>
 <li>
-<p>No&nbsp;consumption&nbsp;of&nbsp;food&nbsp;or&nbsp;sugary&nbsp;drinks&nbsp;-&nbsp;soft&nbsp;drinks&nbsp;and&nbsp;cordials,&nbsp;fruit&nbsp;drinks,&nbsp;flavoured&nbsp;mineral&nbsp;or&nbsp;vitamin&nbsp;water,&nbsp;energy&nbsp;and&nbsp;sports&nbsp;drinks,&nbsp;is&nbsp;allowed&nbsp;in&nbsp;the&nbsp;classroom</p>
+<p>No&nbsp;consumption&nbsp;of&nbsp;food&nbsp;or&nbsp;sugary&nbsp;drinks&nbsp;-
+soft&nbsp;drinks&nbsp;and&nbsp;cordials,&nbsp;fruit&nbsp;drinks,&nbsp;flavoured&nbsp;mineral&nbsp;or&nbsp;vitamin&nbsp;water,&nbsp;energy&nbsp;and&nbsp;sports&nbsp;drinks,&nbsp;is&nbsp;allowed&nbsp;in
+the&nbsp;classroom</p>
 </li>
 <li>
-<p>Students&nbsp;are&nbsp;to&nbsp;refill&nbsp;their&nbsp;water&nbsp;bottles&nbsp;only&nbsp;during&nbsp;recess&nbsp;or&nbsp;lunch&nbsp;break.</p>
+<p>Students&nbsp;are&nbsp;to&nbsp;refill&nbsp;their&nbsp;water&nbsp;bottles&nbsp;only&nbsp;during
+recess&nbsp;or&nbsp;lunch&nbsp;break.</p>
 </li>
 <li>
-<p>Students&nbsp;must&nbsp;avoid&nbsp;behaviours&nbsp;or&nbsp;actions&nbsp;that&nbsp;are&nbsp;disruptive&nbsp;to&nbsp;teaching&nbsp;and&nbsp;learning.</p>
+<p>Students&nbsp;must&nbsp;avoid&nbsp;behaviours&nbsp;or&nbsp;actions&nbsp;that&nbsp;are
+disruptive&nbsp;to&nbsp;teaching&nbsp;and&nbsp;learning.</p>
 </li>
 </ul>
 <p><strong>Demonstrating Responsible Behaviour</strong>
