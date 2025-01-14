@@ -16,37 +16,26 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Meet the school (mts)/MTS 2024/01A_2024_S1_MTS_YH_Address.pdf" rel="noopener noreferrer nofollow" target="_blank">Year Head Address</a>
+<p><a href="/files/Meet the school (mts)/2025 MTS/2025_S1_MTS_YH_Address_11_Jan.pdf" rel="noopener nofollow" target="_blank">2025 S1 MTS YH Address_11 Jan</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Meet the school (mts)/MTS 2024/03_Parent_Support_Group__S1_MTS_2024_.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Support Group</a>
+<p><a href="/files/Meet the school (mts)/2025 MTS/Full_SBB___Parents_Engagement_Deck__Sec_1_MTS_2025_.pdf" rel="noopener nofollow" target="_blank">Full SBB - Parents Engagement Deck (Sec 1 MTS 2025)</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Meet the school (mts)/MTS 2024/04_CCA_briefing__S1_MTS_2024_.pdf" rel="noopener noreferrer nofollow" target="_blank">CCA Briefing</a>
+<p><a href="/files/Meet the school (mts)/2025 MTS/IP1_Chromebook____Parent_Engagement_Deck_2025__MJR_.pdf" rel="noopener nofollow" target="_blank">IP1(Chromebook) - Parent Engagement Deck 2025 (MJR)</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Meet the school (mts)/MTS 2024/05_Full_SBB__S1_MTS_2024_.pdf" rel="noopener noreferrer nofollow" target="_blank">Full Subject-Based Banding</a>
+<p><a href="/files/Meet the school (mts)/2025 MTS/Parents__Briefing_on_CCA_2025.pdf" rel="noopener nofollow" target="_blank">Parents' Briefing on CCA_2025</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Meet the school (mts)/MTS 2024/06_National_Digital_Literacy_Programme_and_the_PLD_Initiative__S1_MTS_2024_.pdf" rel="noopener noreferrer nofollow" target="_blank">National Digital Literacy Programme and the PLD Initiative</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
@@ -64,22 +53,15 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Meet the school (mts)/MTS 2024/07_Subject_Selection__S2_MTS_2024_.pdf" rel="noopener noreferrer nofollow" target="_blank">Subject Selection</a>
+<p><a href="/files/Meet the school (mts)/2025 MTS/Sec_2_Subject_Selection_Briefing_MTS_2025.pdf" rel="noopener nofollow" target="_blank">Sec 2 Subject Selection Briefing_MTS 2025</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
-<table style="minWidth: 75px">
+<table style="minWidth: 25px">
 <colgroup>
-<col>
-<col>
 <col>
 </colgroup>
 <tbody>
@@ -87,23 +69,11 @@ description: ""
 <th rowspan="1" colspan="1">
 <p>All</p>
 </th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="/files/Meet the school (mts)/2025 MTS/2025_S2_to_S5_MTS_YH_Address.pdf" rel="noopener nofollow" target="_blank">2025 S2 to S5 MTS YH Address</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -111,34 +81,17 @@ description: ""
 <p><a href="/files/Meet the school (mts)/2025 MTS/Educational_Support.pdf" rel="noopener nofollow" target="_blank">Educational Support</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="/files/Meet the school (mts)/2025 MTS/PSG_MTS_2025_11_jan.pdf" rel="noopener nofollow" target="_blank">PSG MTS 2025 11 Jan</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Meet the school (mts)/2025 MTS/SH_SWB_Cyberwellness_MTS_2025.pdf" rel="noopener nofollow" target="_blank">SH SWB Cyberwellness MTS 2025</a>
+</p>
 </td>
 </tr>
 </tbody>
