@@ -84,7 +84,6 @@ variant: markdown
 |Mr Huang Yuanpeng|huang_yuanpeng@moe.edu.sg|
 |Ms  Kang Ching Choon Bryan |kang_ching_choon@moe.edu.sg|
 |Ms  Goh Layna|goh_layna@moe.edu.sg|
-|Mr Ng Hong Ghee|ng_hong_ghee@moe.edu.sg|
 |Ms  Nurul A'mirah Binte Mohd Kamal|nurul_amirah_mohd_kamal@moe.edu.sg|
 |Mdm Pan Ping|pan_ping@moe.edu.sg|
 |Ms  Tan Ai Hua|tan_ai_hua@moe.edu.sg|
