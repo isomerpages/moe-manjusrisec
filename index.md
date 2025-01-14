@@ -20,7 +20,7 @@ sections:
         - title: Contact
           description: ""
           url: /contact-us/school-contact-details/
-      background: /images/1734352884601_2_1_MJR_sec_1_reg_banner.jpg
+      background: /images/homepage3.gif
   - infopic:
       title: 2025 Secondary One Registration
       id: infopic
