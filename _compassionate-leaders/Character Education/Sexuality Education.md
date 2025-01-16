@@ -36,16 +36,18 @@ and unintended pregnancies. Casual sex can harm and hurt you and your loved
 ones.</p>
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education.</p>
-<p><strong>Overview of Manjusri Secondary School’s Sexuality Education Programme for 2024</strong>
+<p><strong>Overview of Manjusri Secondary School’s Sexuality Education Programme for 2025</strong>
 </p>
 <p>4. Sexuality Education is delivered in a holistic manner through the school
 curriculum. The content for Sexuality Education is grouped into five main
 themes: Human Development, Interpersonal Relationships, Sexual Health,
-Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener nofollow" target="_blank">here</a> for
 more information on the scope of Sexuality Education in the school curriculum.</p>
 <p>5. The subjects that incorporate topics on sexuality include:</p>
-<p>a. Science
-<br>b. Character and Citizenship Education (CCE)</p>
+<p>a. Science</p>
+<p>b. Character and Citizenship Education (CCE)</p>
+<p></p>
+<p></p>
 <p><strong><u>Sexuality Education Lessons:</u></strong>
 </p>
 <p>6. The values and attitudes of our youth towards sexuality are increasingly
