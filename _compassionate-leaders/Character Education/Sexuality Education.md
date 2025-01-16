@@ -138,7 +138,7 @@ of assertiveness and responsible decision-making</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 3
-<br>Week 3</p>
+<br>Week 7</p>
 </td>
 </tr>
 </tbody>
