@@ -46,14 +46,12 @@ more information on the scope of Sexuality Education in the school curriculum.</
 <p>5. The subjects that incorporate topics on sexuality include:</p>
 <p>a. Science</p>
 <p>b. Character and Citizenship Education (CCE)</p>
-<p></p>
-<p></p>
 <p><strong><u>Sexuality Education Lessons:</u></strong>
 </p>
 <p>6. The values and attitudes of our youth towards sexuality are increasingly
 shaped by their peers, exposure to the media, popular culture and the internet.
 Adolescence is a complex stage in life as the adolescent attempts to find
-his/her own identity and often struggles with new social relationships.
+his or her own identity and often struggles with new social relationships.
 The period of middle adolescence (generally from 15 – 17 years old) can
 be a turbulent period for adolescents. The gap between physical and emotional/cognitive
 maturity may result in a tendency to act on impulse, experiment with various
@@ -68,6 +66,7 @@ consequences of sexual behaviour.</p>
 the opportunity to develop a positive self-esteem, develop their character,
 and expand their understanding and repertoire of skills to deal with various
 issues related to sexuality, which are of prime concern at this age.</p>
+<p></p>
 <p><strong>At MANJUSRI Secondary School, the following lessons from the Sexuality Education Programme will be taught in&nbsp;<u>2024:</u></strong>
 </p>
 <p><a href="/files/SED/2024_Info_on_SEd_for_Sec_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 1</a>
