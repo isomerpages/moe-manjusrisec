@@ -16,6 +16,12 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="/files/Meet the school (mts)/2025 MTS/2025_01_11_P_s_MTS_presentation_slides_to_S1_parents__Jan_2025__v2.pdf" rel="noopener nofollow" target="_blank">Principal's MTS Presentation Slides to S1 Parents (Jan 2025)</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="/files/Meet the school (mts)/2025 MTS/2025_S1_MTS_YH_Address_11_Jan.pdf" rel="noopener nofollow" target="_blank">2025 S1 MTS YH Address_11 Jan</a>
 </p>
 </td>
