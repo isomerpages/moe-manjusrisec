@@ -11,7 +11,7 @@ variant: markdown
 | Name|Designation|
 | -------- | -------- | 
 |Mr Sim Chong Boon |Principal    |
-|Mr Lin Junkai|Vice Principal (Educational Support)|
+|Mr Lin Junkai|Vice Principal (Student Development)|
 |Mr Goh Pai Shen|Vice Principal (Instructional Programmes)|
 
 <h4><strong>School Executive Committee</strong></h4><p></p><p></p><p></p>
