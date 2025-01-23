@@ -53,7 +53,8 @@ variant: markdown
 | -------- | -------- | ----------|
 |Ms Goh Qian Lei Krystal |School Counsellor|goh_qian_lei_krystal@moe.edu.sg|
 |Ms Jodi Tan|School Counsellor|jodi_tan@moe.edu.sg|
-|Ms Huang Zheng |FASC|huang_zheng@moe.edu.sg
+|Ms Huang Zheng |FASC|huang_zheng@moe.edu.sg|
+|Ms Juliana Poh|FASC|juliana_poh_shi_min@moe.edu.sg|
 |Ms Naliny d/o Krishnan|FASC|naliny_krishnan_a@moe.edu.sg|
 |Ms Lim Gek Ching Lyne |SENO|lim_gek_ching_lyne@moe.edu.sg|
 |Mdm  Suzila Binte Mohamed Sulaiman |SENO|suzila_mohd_sulaiman@moe.edu.sg|
