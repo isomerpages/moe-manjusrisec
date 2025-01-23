@@ -18,21 +18,22 @@ The teaching and learning of SEd is based on respect for the values and
 beliefs of the different ethnic and religious communities in Singapore
 on sexuality issues.</p>
 <p>2. The <strong>Goals</strong> of Sexuality Education are to:</p>
-<p><sup>(a) Support students in managing their physiological, social and emotional changes as they grow up and develop safe and healthy relationships.</sup>
-</p>
-<p><sup>(b) Guide students to make wise, informed and responsible decisions on sexuality matters.</sup>
-</p>
-<p><sup>(c) Help students develop a moral compass and respect for themselves and others by having positive mainstream values and attitudes about sexuality that are premised on the family as the basic unit of society.</sup>
-</p>
+<p>(a) Support students in managing their physiological, social and emotional
+changes as they grow up and develop safe and healthy relationships.</p>
+<p>(b) Guide students to make wise, informed and responsible decisions on
+sexuality matters.</p>
+<p>(c) Help students develop a moral compass and respect for themselves and
+others by having positive mainstream values and attitudes about sexuality
+that are premised on the family as the basic unit of society.</p>
 <p>3. The <strong>Key Messages</strong> of Sexuality Education are:</p>
-<p><sup>(a) Love and respect yourself as you love and respect others;</sup>
-</p>
-<p><sup>(b) Build positive relationships based on love and respect (which are the foundation for strong families);</sup>
-</p>
-<p><sup>(c) Make responsible decisions for yourself, your family and society; and</sup>
-</p>
-<p><sup>(d) Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.</sup>
-</p>
+<p>(a) Love and respect yourself as you love and respect others;</p>
+<p>(b) Build positive relationships based on love and respect (which are
+the foundation for strong families);</p>
+<p>(c) Make responsible decisions for yourself, your family and society;
+and</p>
+<p>(d) Abstinence before marriage is the best protection against STIs/HIV
+and unintended pregnancies. Casual sex can harm and hurt you and your loved
+ones.</p>
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education.</p>
 <p><strong>Overview of Manjusri Secondary School’s Sexuality Education Programme for 2025</strong>
@@ -43,10 +44,8 @@ themes: Human Development, Interpersonal Relationships, Sexual Health,
 Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener nofollow" target="_blank">here</a> for
 more information on the scope of Sexuality Education in the school curriculum.</p>
 <p>5. The subjects that incorporate topics on sexuality include:</p>
-<p><sup>a. Science</sup>
-</p>
-<p><sup>b. Character and Citizenship Education (CCE)</sup>
-</p>
+<p>a. Science</p>
+<p>b. Character and Citizenship Education (CCE)</p>
 <p><strong><u>Sexuality Education Lessons:</u></strong>
 </p>
 <p>6. The values and attitudes of our youth towards sexuality are increasingly
@@ -114,34 +113,32 @@ Abstinence and upholding family values are the key messages.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><sup>Mass Talk delivered through a pre-recorded video</sup>
-</p>
+<p>Mass Talk delivered through a pre-recorded video</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><sup>·&nbsp;Raise awareness and provide knowledge on:</sup>
-</p>
-<p><sup>a)&nbsp;&nbsp;&nbsp; Infectious diseases (STIs and HIV): what it is, how it spreads, how to prevent infection mainly through ABC (abstinence, being faithful, correct, and consistent condom use).</sup>
-</p>
-<p><sup>b)&nbsp;&nbsp;&nbsp; Managing relationships and risky situations in a healthy way.</sup>
-</p>
+<p>·&nbsp;Raise awareness and provide knowledge on:</p>
+<p>a)&nbsp;&nbsp;&nbsp; Infectious diseases (STIs and HIV): what it is, how
+it spreads, how to prevent infection mainly through ABC (abstinence, being
+faithful, correct, and consistent condom use).</p>
+<p>b)&nbsp;&nbsp;&nbsp; Managing relationships and risky situations in a
+healthy way.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><sup>Term 3 <br>Week 7</sup>
-</p>
+<p>Term 3
+<br>Week 7</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><sup>Classroom-based Lesson</sup>
-</p>
+<p>Classroom-based Lesson</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><sup>Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making</sup>
-</p>
+<p>Learn to negotiate their way out of a risky situation by applying skills
+of assertiveness and responsible decision-making</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><sup>Term 3 <br>Week 7</sup>
-</p>
+<p>Term 3
+<br>Week 7</p>
 </td>
 </tr>
 </tbody>
