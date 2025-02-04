@@ -54,7 +54,8 @@ Please make cheques payable to ‘Manjusri Secondary School’.</p>
 eNETS (AXS web or app) and ATM cards (AXS Kiosk).</p>
 </li>
 <li>
-<p></p>
+<p>Please visit <a href="https://www.axs.com.sg/" rel="noopener nofollow" target="_blank">AXS</a> Website
+for comprehensive list of payment methods.</p>
 </li>
 </ul>
 <p><strong>Financial Assistance Scheme and Bursaries</strong>
