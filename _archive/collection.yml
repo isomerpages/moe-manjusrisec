@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - School Canteen Advertisement.md
       - Overseas Exchange Trip to Schools in Japan.md
       - SembEnviro School Recycling League Gold Award 2024.md
       - Visit of Educators from Macau.md
