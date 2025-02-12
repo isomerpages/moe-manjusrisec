@@ -18,20 +18,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/canteen/" rel="noopener nofollow" target="_blank">School Canteen Advertisement</a>
+<p><a href="/collection-of-school-graduation-certificate-sgc-for-2024-sec-4-express-sec-4-nt-sec-5-students/" rel="noopener nofollow" target="_blank">Collection of School Graduation Certificate (SGC) for 2024 Secondary 4 Express, Secondary 4 NT &amp; Secondary 5 students</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/president-s-award-for-teachers-2025/" rel="noopener nofollow" target="_blank">President’s Award for Teachers 2025</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/outstanding-youth-in-education-award-2025/" rel="noopener nofollow" target="_blank">Outstanding Youth in Education Award 2025</a>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
