@@ -27,7 +27,7 @@ sections:
       id: infobar
       description: The Secondary 4 Express, Normal Technical and Secondary 5 SGCs are
         ready for collection from the school general office...
-      button: Button Text
+      button: click here to read more
       url: /collection-of-school-graduation-certificate-sgc-for-2024-sec-4-express-sec-4-nt-sec-5-students/
   - infopic:
       title: Change of Vice Principals
