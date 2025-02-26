@@ -18,8 +18,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Travel Declaration
-<br>(use Parent Gateway app)</p>
+<p><a href="https://go.gov.sg/mjrdma" rel="noopener nofollow" target="_blank">Indication of After-School DMA Parent Options for Chromebook PLDs</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://form.gov.sg/#!/5d01dc550816b400111ce980" rel="noopener noreferrer nofollow" target="_blank"><u>Student Password Reset and Account Unlock</u></a>
