@@ -30,10 +30,8 @@ description: ""
 </p>
 <ul>
 <li>
-<p>Nets payment can be made at any SAM Stations (kiosks).</p>
-</li>
-<li>
-<p>Pay via SAM e-Station at&nbsp;<a href="http://www.mysam.sg/" rel="noopener noreferrer nofollow" target="_blank">www.mysam.sg</a>&nbsp;or via SAM mobile app.</p>
+<p>Please visit <a href="https://www.axs.com.sg/" rel="noopener nofollow" target="_blank">AXS</a> Website
+for comprehensive list of payment methods.</p>
 </li>
 <li>
 <p>For cheque payment, either post the cheques or call into our General Office.
@@ -52,10 +50,6 @@ Please make cheques payable to ‘Manjusri Secondary School’.</p>
 <li>
 <p>AXS accept various payment methods such as credit card, digital wallet,
 eNETS (AXS web or app) and ATM cards (AXS Kiosk).</p>
-</li>
-<li>
-<p>Please visit <a href="https://www.axs.com.sg/" rel="noopener nofollow" target="_blank">AXS</a> Website
-for comprehensive list of payment methods.</p>
 </li>
 </ul>
 <p><strong>Financial Assistance Scheme and Bursaries</strong>
