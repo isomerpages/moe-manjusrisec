@@ -37,7 +37,7 @@ variant: markdown
 |Ms Tan Shi Jia  | AYH Sec 4/5 |tan_shi_jia@moe.edu.sg|
 |Ms Faith Kaylie Ong Yi Cheng|Lead Teacher, EL|faith_kaylie_ong@moe.edu.sg|
 |Mrs Teh-Tay Hwee Cheng Angeline  | SH Aesthetics |tay_hwee_cheng@moe.edu.sg|
-|Mr Edward Cheong|SH, Curriculum Innovation (Ag)|-|
+|Mr Edward Cheong|SH, Curriculum Innovation (Ag)|edward_cheong@moe.edu.sg|
 |Ms Jurana Binte Abdul Rahim  | SH CCE |jurana_abdul_rahim@moe.edu.sg|
 |Mr Amit Kumar Sharma s/o Amber Nath  | SH Chemistry |amit_kumar_sharma_amber@moe.edu.sg|
 |Mr Ting Kok Thiam  | SH EdTech |ting_kok_thiam@moe.edu.sg|
