@@ -21,6 +21,16 @@ sections:
           description: ""
           url: /contact-us/school-contact-details/
       background: /images/homepage3.gif
+  - infopic:
+      title: MJR Presents @ RELC International Conference 2025
+      subtitle: spotlight
+      id: infopic
+      description: Manjusri Sec EL teachers, presented a paper on ‘Integrating
+        Generative AI in Enhancing Students’ Writing Skills’ at the 59th RELC
+        International Conference...
+      button: click here to read more...
+      url: k
+      alt: Image alt text
   - infobar:
       title: Collection of School Graduation Certificate (SGC)
       subtitle: News
