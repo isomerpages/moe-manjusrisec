@@ -67,7 +67,7 @@ were:</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2025 O Level Result/O_Levels__1_.jpg">
+<img style="width: 85%;" height="auto" width="100%" alt="85" src="/images/Spotlight/2025 O Level Result/O_Levels__1_.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
@@ -79,7 +79,7 @@ were:</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2025 O Level Result/O_Levels__3_.jpg">
+<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/Spotlight/2025 O Level Result/O_Levels__3_.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -91,7 +91,7 @@ were:</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2025 O Level Result/O_Levels__5_.jpg">
+<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/Spotlight/2025 O Level Result/O_Levels__5_.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -103,7 +103,7 @@ were:</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2025 O Level Result/O_Levels__7_.jpg">
+<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/Spotlight/2025 O Level Result/O_Levels__7_.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
