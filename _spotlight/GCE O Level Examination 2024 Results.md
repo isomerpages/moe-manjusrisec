@@ -48,6 +48,14 @@ were:</p>
 <p>Tanisha Kaur d/o Harban Singh</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <table style="minWidth: 50px">
@@ -58,13 +66,11 @@ were:</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2025 O Level Result/O_Levels__1_.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2025 O Level Result/O_Levels__2_.jpg">
 </div>
@@ -72,13 +78,11 @@ were:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2025 O Level Result/O_Levels__3_.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2025 O Level Result/O_Levels__4_.jpg">
 </div>
@@ -86,13 +90,11 @@ were:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2025 O Level Result/O_Levels__5_.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2025 O Level Result/O_Levels__6_.jpg">
 </div>
@@ -100,13 +102,11 @@ were:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2025 O Level Result/O_Levels__7_.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2025 O Level Result/O_Levels__8_.jpg">
 </div>
@@ -114,7 +114,6 @@ were:</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <p>The school wishes our graduates the very best in their further studies
 and future endeavours.&nbsp; We hope that all Manjusrians will take inspiration
 from the success earned through hard work of their seniors.</p>
