@@ -28,8 +28,18 @@ sections:
       description: The results were released on 10 January 2025 to our candidates at
         the school hall in the presence of their teachers and family.
       button: click here to read more
-      url: https://manjusrisec.moe.edu.sg/gce-o-level-examination-2024-results/
+      url: /gce-o-level-examination-2024-results/
       image: /images/Spotlight/2025 O Level Result/O_Levels__5_.jpg
+      alt: Image alt text
+  - infopic:
+      title: GCE N Level Exam Results 2024
+      subtitle: spotlight
+      id: infopic
+      description: Our school candidates supported by their family members returned to
+        collect their N level results on 16 December at the Reflection Hall.
+      button: click here to read more
+      url: /gce-n-level-exam-results-2024/
+      image: /images/Spotlight/2025 N Level Result/insta2.jpg
       alt: Image alt text
   - infopic:
       title: MJR Presents @ RELC International Conference 2025
@@ -59,15 +69,5 @@ sections:
       button: click here to read more
       url: /change-of-vice-principals/
       image: /images/Spotlight/2024 Change of VP/New_VP2.jpg
-      alt: Image alt text
-  - infopic:
-      title: GCE N Level Exam Results 2024
-      subtitle: spotlight
-      id: infopic
-      description: Our school candidates supported by their family members returned to
-        collect their N level results on 16 December at the Reflection Hall.
-      button: click here to read more
-      url: /gce-n-level-exam-results-2024/
-      image: /images/Spotlight/2025 N Level Result/insta2.jpg
       alt: Image alt text
 ---
