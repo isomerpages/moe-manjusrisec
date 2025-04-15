@@ -100,3 +100,20 @@ Normal (Technical) course, 58% of students achieved 5 or more subject passes.</p
 </table>
 <p>Pictures of MJR students collecting their results were featured in senior
 government leaders’ social media posts. [<em>Photographs from Ministry of Digital Development and Information</em>]</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
