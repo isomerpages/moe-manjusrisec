@@ -60,4 +60,14 @@ sections:
       url: /change-of-vice-principals/
       image: /images/Spotlight/2024 Change of VP/New_VP2.jpg
       alt: Image alt text
+  - infopic:
+      title: GCE N Level Exam Results 2024
+      subtitle: spotlight
+      id: infopic
+      description: Our school candidates supported by their family members returned to
+        collect their N level results on 16 December at the Reflection Hall.
+      button: click here to read more
+      url: https://manjusrisec.moe.edu.sg/gce-n-level-exam-results-2024/
+      image: /images/Spotlight/2025 N Level Result/insta2.jpg
+      alt: Image alt text
 ---
