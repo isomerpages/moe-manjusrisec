@@ -159,7 +159,6 @@ textbooks or uniform.</p>
 <br>
 <br><a href="/files/Textbooks%20&amp;%20Uniforms/MJR%20Size%20Chart.pdf" rel="noopener noreferrer nofollow" target="_blank">School Uniform Size Chart</a> 
 <br>
-<br><a href="/files/Textbooks%20&amp;%20Uniforms/2024%20booklist/2024_Uniform_Price_List.pdf" rel="noopener noreferrer nofollow" target="_blank">School Uniform Price List</a>
 </p>
 </td>
 </tr>
