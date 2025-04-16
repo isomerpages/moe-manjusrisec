@@ -28,7 +28,7 @@ sections:
       description: The results were released on 10 January 2025 to our candidates at
         the school hall in the presence of their teachers and family.
       button: click here to read more
-      url: https://manjusrisec.moe.edu.sg/gce-o-level-examination-2024-results/
+      url: /gce-o-level-examination-2024-results/
       image: /images/Spotlight/2025 O Level Result/O_Levels__5_.jpg
       alt: Image alt text
   - infopic:
