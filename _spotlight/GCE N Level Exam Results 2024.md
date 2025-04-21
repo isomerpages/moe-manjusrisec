@@ -22,7 +22,7 @@ Normal (Technical) course, 58% of students achieved 5 or more subject passes.</p
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<p><strong><u>Normal (Academic) Course</u></strong>
+<p align="center"><strong><u>Normal (Academic) Course</u></strong>
 </p>
 </th>
 <th rowspan="1" colspan="1">
