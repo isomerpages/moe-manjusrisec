@@ -22,7 +22,7 @@ Normal (Technical) course, 58% of students achieved 5 or more subject passes.</p
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<p align="center"><strong><u>Normal (Academic) Course</u></strong>
+<p><strong><u>Normal (Academic) Course</u></strong>
 </p>
 </th>
 <th rowspan="1" colspan="1">
@@ -46,7 +46,7 @@ Normal (Technical) course, 58% of students achieved 5 or more subject passes.</p
 <p>Joshua Chen Yaohui&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yeo Hui Zi, Val&nbsp;&nbsp;&nbsp;</p>
+<p>Chui Ho Yan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tan Zi Shean</p>
@@ -57,17 +57,6 @@ Normal (Technical) course, 58% of students achieved 5 or more subject passes.</p
 <p>Dave Low Yun Tak&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chui Ho Yan&nbsp;&nbsp;&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Lew Jing Yu Vera&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Aryan Marc Shetty</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -76,7 +65,7 @@ Normal (Technical) course, 58% of students achieved 5 or more subject passes.</p
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Karl Tang Yong Kang&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>Lew Jing Yu Vera&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Yak Poh Kim Mike</p>
