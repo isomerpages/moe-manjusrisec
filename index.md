@@ -40,6 +40,16 @@ sections:
       image: /images/Spotlight/2025 O Level Result/O_Levels__5_.jpg
       alt: Image alt text
   - infopic:
+      title: GCE N Level Exam Results 2024
+      subtitle: spotlight
+      id: infopic
+      description: Our school candidates supported by their family members returned to
+        collect their N level results on 16 December at the Reflection Hall.
+      button: click here to read more
+      url: /gce-n-level-exam-results-2024/
+      image: /images/Spotlight/2025 N Level Result/insta2.jpg
+      alt: Image alt text
+  - infopic:
       title: MJR Presents @ RELC International Conference 2025
       subtitle: spotlight
       id: infopic
