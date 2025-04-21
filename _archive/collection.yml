@@ -2,7 +2,6 @@ collections:
   archive:
     output: true
     order:
-      - GCE N Level Exam Results 2024.md
       - 2025 Secondary One Registration.md
       - School Canteen Advertisement.md
       - Overseas Exchange Trip to Schools in Japan.md

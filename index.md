@@ -21,6 +21,14 @@ sections:
           description: ""
           url: /contact-us/school-contact-details/
       background: /images/homepage3.gif
+  - infobar:
+      title: Collection of Sch Graduation Cert for 2024 Sec 4 NA students
+      subtitle: news
+      id: infobar
+      description: The Secondary 4 Normal Academic SGCs are ready for collection from
+        the school general office.
+      button: click here to read more
+      url: /collection-of-school-graduation-certificate-sgc-for-2024-secondary-4-na-students/
   - infopic:
       title: GCE O Level Examination 2024 Results
       subtitle: spotlight
@@ -30,6 +38,16 @@ sections:
       button: click here to read more
       url: /gce-o-level-examination-2024-results/
       image: /images/Spotlight/2025 O Level Result/O_Levels__5_.jpg
+      alt: Image alt text
+  - infopic:
+      title: GCE N Level Exam Results 2024
+      subtitle: spotlight
+      id: infopic
+      description: Our school candidates supported by their family members returned to
+        collect their N level results on 16 December at the Reflection Hall.
+      button: click here to read more
+      url: /gce-n-level-exam-results-2024/
+      image: /images/Spotlight/2025 N Level Result/insta2.jpg
       alt: Image alt text
   - infopic:
       title: MJR Presents @ RELC International Conference 2025
