@@ -21,6 +21,16 @@ sections:
           description: ""
           url: /contact-us/school-contact-details/
       background: /images/homepage3.gif
+  - infopic:
+      title: Chinese New Year Celebrations 2025
+      subtitle: spotlight
+      id: infopic
+      description: Manjusri Sec celebrated the Chinese New Year (CNY) to usher in the
+        “Year of the Snake” at school on 28 January ...
+      button: click here to read more
+      url: /chinese-new-year-celebrations-2025/
+      image: /images/Spotlight/2025 CNY/CNY2025_4.jpg
+      alt: Image alt text
   - infobar:
       title: Collection of Sch Graduation Cert for 2024 Sec 4 NA students
       subtitle: news
