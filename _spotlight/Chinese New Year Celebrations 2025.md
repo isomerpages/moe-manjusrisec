@@ -91,25 +91,41 @@ with us at that time were able to witness the festive celebrations as well.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2025 CNY/CNY2025_10.jpg">
+</div>
 <p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2025 CNY/CNY2025_11.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2025 CNY/CNY2025_12.jpg">
+</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2025 CNY/CNY2025_13.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2025 CNY/CNY2025_14.jpg">
+</div>
 </td>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
