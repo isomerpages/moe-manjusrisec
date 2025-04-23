@@ -119,7 +119,7 @@ received many positive feedbacks from the public.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Woon Cheng Tat</p>
+<p>Lee Rui Ting, Clio</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Quarter Master (Instrument)</p>
@@ -127,7 +127,7 @@ received many positive feedbacks from the public.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chua Zhuo Yu Joey
+<p>Zhou Zi Yi
 <br>
 </p>
 </td>
@@ -137,7 +137,7 @@ received many positive feedbacks from the public.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Charis Cheong Yi En
+<p>Wut Hmone (Jia Ling)
 <br>
 </p>
 </td>
