@@ -69,7 +69,7 @@ our members to showcase their talents and creativity.</p>
 </table>
 <h3><strong>Our Student Leaders</strong></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cca/Chinese%20dance/dance%20exco.JPG">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cca/Chinese dance/Dance.png">
 </div>
 <h3><strong>Our Programmes</strong></h3>
 <p><strong>School Anniversary</strong>
