@@ -157,7 +157,7 @@ received many positive feedbacks from the public.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Yang Xinrong, Jazebel
+<p>Tay Zi Yi
 <br>
 </p>
 </td>
@@ -167,7 +167,7 @@ received many positive feedbacks from the public.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Hailey Ong Li Wen
+<p>Zhou Yixuan Bella
 <br>
 </p>
 </td>
