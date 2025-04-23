@@ -65,7 +65,7 @@ stress and anxiety.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>CHEN HONGRUI, DYLAN</p>
+<p>Lee Hong Yuan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Captain</p>
@@ -73,7 +73,7 @@ stress and anxiety.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>LIM HONG YI, CHEYDEN</p>
+<p>Ding Jing Xuan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice Captain</p>
@@ -81,24 +81,13 @@ stress and anxiety.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MUN YIXIN, MERVYN
-<br>PANG JIAN KHAI EDWIN
-<br>
-</p>
+<p>Yap Kang Zheng</p>
+<p>Neo Jia Bao, Jayden</p>
+<p>Seah Koh</p>
+<p>Jaron Ng Wei Zun</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Logistics</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>JAYDEN ONG JUN HENG
-<br>QUEK HAN XI
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Media Rep</p>
+<p>EXCO</p>
 </td>
 </tr>
 </tbody>
