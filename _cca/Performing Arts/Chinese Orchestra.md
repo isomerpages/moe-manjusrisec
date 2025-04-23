@@ -195,8 +195,8 @@ received many positive feedbacks from the public.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Jaymee Sow Yi Jie (SL)
-<br>Lovelle Koh En Ning (ASL)</p>
+<p>Lim Jiale (SL)
+<br>Tang Shi Jie (ASL)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Hu Qin</p>
@@ -204,8 +204,8 @@ received many positive feedbacks from the public.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ng Chi Ying (SL)
-<br>Tay Qi Xuan (ASL)</p>
+<p>Leow Chen Xi (SL)
+<br>Ng Xue Li (ASL)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Yan Qing / Pipa</p>
