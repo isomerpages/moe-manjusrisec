@@ -87,7 +87,7 @@ received many positive feedbacks from the public.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ng Chew Ngee</p>
+<p>Win Nie Tan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chairperson</p>
