@@ -95,7 +95,7 @@ received many positive feedbacks from the public.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ong Zi Nin</p>
+<p>Lim Shyan Tyn</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice-Chairperson</p>
@@ -103,7 +103,7 @@ received many positive feedbacks from the public.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Low Poh Yee Deline</p>
+<p>Charlotte Ng Xuan Wen</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Score Master</p>
@@ -111,7 +111,7 @@ received many positive feedbacks from the public.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lim Tze Ying</p>
+<p>Boey Shervonne</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Assistant Score Master</p>
