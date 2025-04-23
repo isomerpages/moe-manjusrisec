@@ -213,8 +213,8 @@ received many positive feedbacks from the public.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Leraine Ong Si Xuan (SL)
-<br>Lim Wen Fei Erin (ASL)</p>
+<p>Kylie Ong Xuan Ni (SL)
+<br>Wong Xing Wei (ASL)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Zhong Ruan / Liu Qin</p>
@@ -222,8 +222,8 @@ received many positive feedbacks from the public.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Loo Kai Cheng (SL)
-<br>Tan Yong Lin (ASL)</p>
+<p>Tan Yong Lin (SL)
+<br>Veltus Loo (ASL)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Dizi</p>
@@ -231,8 +231,8 @@ received many positive feedbacks from the public.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ong Zi Nin (SL)
-<br>Low Wei Cheng (ASL)</p>
+<p>Celine Ho Zi Xuan (SL)
+<br>Natalie Chan Zhi Xin (ASL)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sheng / Suona</p>
@@ -240,7 +240,7 @@ received many positive feedbacks from the public.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Jaclyn Chua Hui Zhen (SL)
+<p>Swe Zin Htet (SL)
 <br>Chua Ming Hua (ASL)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -249,8 +249,8 @@ received many positive feedbacks from the public.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Joey Gong Pei Shan (SL)
-<br>Wang Yu Han (ASL)</p>
+<p>Olivia Soo Yee Rou (SL)
+<br>Athena Yuen Shi Ya (ASL)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Percussion</p>
