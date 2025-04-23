@@ -106,18 +106,34 @@ experiences</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>RAY TAN JUN YOU</p>
+<p>Nuttaphum Soon Shen You</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Stage Manager</p>
+<p>Events Manager</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HO JIA HAO</p>
+<p>Thum Wei Yi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Stage Manager</p>
+<p>Assistant Events Manager</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chloe-Love Huang Aichen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Logistics Manager</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lian Shi Ting</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assistant Logistics Manager</p>
 </td>
 </tr>
 <tr>
