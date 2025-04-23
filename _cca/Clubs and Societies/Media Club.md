@@ -90,7 +90,7 @@ experiences</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>PECK LOKE HSUAN, GENEVIEVE</p>
+<p>Enriquez Cid Lorenzo Mosquite</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chairperson</p>
@@ -98,10 +98,7 @@ experiences</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>PANG SHAINE
-<br>GOH CHENG JUN (WU CHENGJUN)
-<br>
-</p>
+<p>Nur Sharlyz Binte Mohammed Ilmifidri</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice-Chairperson</p>
@@ -125,7 +122,7 @@ experiences</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>CHENG BO SEN</p>
+<p>Tan Qing Yang Bobby</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Publicity Manager</p>
@@ -133,7 +130,7 @@ experiences</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>NG HUI EN, ALDORA</p>
+<p>Darrell Loh</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Assistant Publicity Manager</p>
