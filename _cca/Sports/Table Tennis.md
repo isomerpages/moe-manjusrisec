@@ -99,7 +99,7 @@ Open-House outreach and Values-In-Action activities.&nbsp;</p>
 <p>Tristan Lau</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ONG CHENG YI</p>
+<p>Hoo Yu Xin</p>
 </td>
 </tr>
 <tr>
@@ -110,7 +110,7 @@ Open-House outreach and Values-In-Action activities.&nbsp;</p>
 <p>Lim Yi Zhao</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NG JIA WEI</p>
+<p>Lim Jia Yu</p>
 </td>
 </tr>
 <tr>
@@ -121,7 +121,7 @@ Open-House outreach and Values-In-Action activities.&nbsp;</p>
 <p>Asher Lim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ZUANN CHAN XIN YI</p>
+<p>Ow Pei En Hazeline</p>
 </td>
 </tr>
 <tr>
@@ -132,7 +132,7 @@ Open-House outreach and Values-In-Action activities.&nbsp;</p>
 <p>Chia Yi Chen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TAN SI YI CLARISSA</p>
+<p>Renee Sai Ming Yi</p>
 </td>
 </tr>
 </tbody>
