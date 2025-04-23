@@ -175,6 +175,14 @@ received many positive feedbacks from the public.</p>
 <p>Assistant Logistics Head</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Li Yixian</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Student Conductor</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p><strong>Sectional Leaders</strong>
