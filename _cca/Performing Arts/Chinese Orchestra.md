@@ -87,7 +87,7 @@ received many positive feedbacks from the public.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ng Chew Ngee</p>
+<p>Win Nie Tan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chairperson</p>
@@ -95,7 +95,7 @@ received many positive feedbacks from the public.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ong Zi Nin</p>
+<p>Lim Shyan Tyn</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice-Chairperson</p>
@@ -103,7 +103,7 @@ received many positive feedbacks from the public.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Low Poh Yee Deline</p>
+<p>Charlotte Ng Xuan Wen</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Score Master</p>
@@ -111,7 +111,7 @@ received many positive feedbacks from the public.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lim Tze Ying</p>
+<p>Boey Shervonne</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Assistant Score Master</p>
@@ -119,7 +119,7 @@ received many positive feedbacks from the public.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Woon Cheng Tat</p>
+<p>Lee Rui Ting, Clio</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Quarter Master (Instrument)</p>
@@ -127,7 +127,7 @@ received many positive feedbacks from the public.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chua Zhuo Yu Joey
+<p>Zhou Zi Yi
 <br>
 </p>
 </td>
@@ -137,7 +137,7 @@ received many positive feedbacks from the public.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Charis Cheong Yi En
+<p>Wut Hmone (Jia Ling)
 <br>
 </p>
 </td>
@@ -147,7 +147,7 @@ received many positive feedbacks from the public.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Alycia Leong
+<p>Adelynn Lau En Ling
 <br>
 </p>
 </td>
@@ -157,7 +157,7 @@ received many positive feedbacks from the public.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Yang Xinrong, Jazebel
+<p>Tay Zi Yi
 <br>
 </p>
 </td>
@@ -167,12 +167,20 @@ received many positive feedbacks from the public.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Hailey Ong Li Wen
+<p>Zhou Yixuan Bella
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Assistant Logistics Head</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Li Yixian</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Student Conductor</p>
 </td>
 </tr>
 </tbody>
@@ -195,8 +203,8 @@ received many positive feedbacks from the public.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Jaymee Sow Yi Jie (SL)
-<br>Lovelle Koh En Ning (ASL)</p>
+<p>Lim Jiale (SL)
+<br>Tang Shi Jie (ASL)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Hu Qin</p>
@@ -204,8 +212,8 @@ received many positive feedbacks from the public.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ng Chi Ying (SL)
-<br>Tay Qi Xuan (ASL)</p>
+<p>Leow Chen Xi (SL)
+<br>Ng Xue Li (ASL)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Yan Qing / Pipa</p>
@@ -213,8 +221,8 @@ received many positive feedbacks from the public.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Leraine Ong Si Xuan (SL)
-<br>Lim Wen Fei Erin (ASL)</p>
+<p>Kylie Ong Xuan Ni (SL)
+<br>Wong Xing Wei (ASL)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Zhong Ruan / Liu Qin</p>
@@ -222,8 +230,8 @@ received many positive feedbacks from the public.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Loo Kai Cheng (SL)
-<br>Tan Yong Lin (ASL)</p>
+<p>Tan Yong Lin (SL)
+<br>Veltus Loo (ASL)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Dizi</p>
@@ -231,8 +239,8 @@ received many positive feedbacks from the public.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ong Zi Nin (SL)
-<br>Low Wei Cheng (ASL)</p>
+<p>Celine Ho Zi Xuan (SL)
+<br>Natalie Chan Zhi Xin (ASL)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sheng / Suona</p>
@@ -240,7 +248,7 @@ received many positive feedbacks from the public.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Jaclyn Chua Hui Zhen (SL)
+<p>Swe Zin Htet (SL)
 <br>Chua Ming Hua (ASL)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -249,8 +257,8 @@ received many positive feedbacks from the public.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Joey Gong Pei Shan (SL)
-<br>Wang Yu Han (ASL)</p>
+<p>Olivia Soo Yee Rou (SL)
+<br>Athena Yuen Shi Ya (ASL)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Percussion</p>

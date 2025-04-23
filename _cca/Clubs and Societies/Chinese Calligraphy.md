@@ -74,7 +74,7 @@ the free interchange of techniques.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>CHERYLL WONG EE SHYAN</p>
+<p>ZHANG YIFEI</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chairperson</p>
@@ -82,7 +82,7 @@ the free interchange of techniques.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>DANYA WEE JIA EN</p>
+<p>YAW JIA YAUN</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice – Chairperson</p>
@@ -90,7 +90,7 @@ the free interchange of techniques.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>TOH JIA NI</p>
+<p>SHAO WEI NING</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Publicity Manager</p>
@@ -98,7 +98,7 @@ the free interchange of techniques.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ZHENG XINYI</p>
+<p>NG QIAN HUI</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Events Manager</p>
@@ -106,7 +106,7 @@ the free interchange of techniques.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>CHERYLL WONG EE SHYAN</p>
+<p>ZOE TAN ZI LIN</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Logistics Manager</p>
