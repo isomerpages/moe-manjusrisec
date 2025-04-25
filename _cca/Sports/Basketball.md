@@ -79,7 +79,7 @@ We train tirelessly and passionately. United we Stand!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Hooi Sik Hong</p>
+<p>RICAFORTE JOHN AXEL ROSETE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Captain (Boys)</p>
@@ -87,7 +87,8 @@ We train tirelessly and passionately. United we Stand!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ryan Tan Jun Ying</p>
+<p>CYRUS LOW JIN CHENG</p>
+<p>HUANG ZIKUAN</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice-Captain (Boys)</p>
@@ -95,9 +96,9 @@ We train tirelessly and passionately. United we Stand!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Brian Ting
-<br>Samuel Quek
-<br>Gary Woon</p>
+<p>KELVIN ZHENG KAIWEN</p>
+<p>BAI YONGHAN AYDEN</p>
+<p>ENG KYSHER</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Exco (Boys)</p>
