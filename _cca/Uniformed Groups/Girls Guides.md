@@ -173,18 +173,18 @@ from 2018 till present (2023).&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>PUTRI AISYAH AMELINA 2-6</p>
+<p>PUTRI AISYAH AMELINA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Patrol Second (Hibiscus)</p>
+<p>Hibiscus PL</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HUANG XUEQI 3F</p>
+<p>CAYLEE LIM YI XUAN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Patrol Second(Jasmine)</p>
+<p>Hibiscus PS</p>
 </td>
 </tr>
 </tbody>
