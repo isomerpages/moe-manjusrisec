@@ -93,91 +93,82 @@ from 2018 till present (2023).&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>LUA EN QI, CELINE 3D</p>
+<p>SIK YEE SIN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Company Leader</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>JEANNE NEO JIA EN 3G</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Assistant Company Leader</p>
+<p>Exco Company Leader</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>TONG KAR WENG (TANG JIAYING) 3G</p>
+<p>LIM ZI ROU</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Logistics IC</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>LOH JESSE 3B</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Assistant Logistics IC</p>
+<p>Exco ACL</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>JUNE HNINN HLAING&nbsp; 3B</p>
+<p>ADELE NG JING XUAN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Outreach IC</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>LOW YI FAN, CALLA (LIU YIFAN) 3B</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Patrol Leader (Sunflower)</p>
+<p>Exco QM</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SAHANA D/O KALLIKANDA KARIPPA 3B</p>
+<p>CHEE YUHAN REI</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Patrol Leader (Morning Glory)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>LIEW LIN JIA 3G</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Patrol Leader (Hibiscus)</p>
+<p>Exco AQM</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>FRANCENE PANG WAN SIM 3B
-<br>(FRANCENE PENG WANXIN)</p>
+<p>NUR DARWISHAH ALYSHAH BINTE MUHAMAD HASRAL</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Patrol Leader (Jasmine)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>LEI ENSHI, JAZELYNN 3A</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Patrol Second (Sunflower)</p>
+<p>Sunflower PL</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ADELE NG JING XUAN&nbsp; 2-6</p>
+<p>LIM HUI XIN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Patrol Second (Morning Glory)</p>
+<p>Sunflower PS</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>RANIATUL ISRAQ BINTE RAZALI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Jasmine PL</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>WANGYU XUANXUAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Jasmine PS</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TAN HUI TING</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Morning Glory PL</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NG E ZANN (HUANG YUHAN)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Morning Glory PS</p>
 </td>
 </tr>
 <tr>
