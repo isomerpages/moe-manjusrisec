@@ -97,42 +97,66 @@ Republic of Singapore.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sergeant (NPCC) Mock Jun Yang</p>
+<p>Sergeant (NPCC) YEO SER KHEE MEGAN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>(OIC) Oversee Training &amp; Admin</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Sergeant (NPCC) Tan Ni Hui</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>(AOIC) Training Field</p>
+<p>Overall-in-Charge</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sergeant (NPCC) Merissa Koo</p>
+<p>Sergeant (NPCC) KYLIE KHO</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>(AOIC) Outreach &amp; Administrative</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Sergeant (NPCC) Germaine Tan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>(AOIC) Events Management</p>
+<p>2nd in-charge</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sergeant (NPCC) Evan Huang</p>
+<p>Sergeant (NPCC) BOO YU ZHI CEDRIC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>(AOIC) Logistics</p>
+<p>Head of Training</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sergeant (NPCC) NATHAN HO ZHENG XIAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd in-charge of Training</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sergeant (NPCC) AVERYL YEO YUAN XIN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Head of Admin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Corporal (NPCC) NUR ANIQAH BINTE SUGIMAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd in-charge of Admin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sergeant (NPCC) ROXETTE TAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Head of Logistics</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sergeant (NPCC) SITI NUR AUNY BINTI MOHAMED ZAIDI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd in-charge of Logistics</p>
 </td>
 </tr>
 </tbody>

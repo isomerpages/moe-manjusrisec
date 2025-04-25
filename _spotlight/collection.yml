@@ -2,6 +2,7 @@ collections:
   spotlight:
     output: true
     order:
+      - test1.md
       - Chinese New Year Celebrations 2025.md
       - GCE O Level Examination 2024 Results.md
       - GCE N Level Exam Results 2024.md
