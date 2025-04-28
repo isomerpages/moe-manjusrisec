@@ -93,7 +93,7 @@ Open-House outreach and Values-In-Action activities.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Captain</p>
+<p>Upper Sec Captain</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tristan Lau</p>
@@ -104,7 +104,18 @@ Open-House outreach and Values-In-Action activities.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Vice-Captain</p>
+<p>Lower Sec Captain</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Isiaah Ng Tien Kai</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Goh Yong Yi</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Upper Sec Vice-Captain</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Lim Yi Zhao</p>
@@ -115,13 +126,13 @@ Open-House outreach and Values-In-Action activities.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Logistic Manager</p>
+<p>Lower Sec Vice-Captain</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Asher Lim</p>
+<p>Ng Aik Luck Jowell</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ow Pei En Hazeline</p>
+<p>Gerisa Lim Jia Yi</p>
 </td>
 </tr>
 <tr>
