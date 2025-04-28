@@ -135,17 +135,6 @@ Open-House outreach and Values-In-Action activities.&nbsp;</p>
 <p>Gerisa Lim Jia Yi</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Publicity Manager</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chia Yi Chen</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Renee Sai Ming Yi</p>
-</td>
-</tr>
 </tbody>
 </table>
 <h3><strong>Our Programmes</strong></h3>
