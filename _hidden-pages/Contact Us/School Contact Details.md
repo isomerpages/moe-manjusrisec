@@ -7,8 +7,20 @@ variant: tiptap
 ---
 <h1>School Contact Details</h1>
 <p><strong>Address</strong>
-<br>20 Ubi Avenue 1
+</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>20 Ubi Avenue 1
 <br>Singapore 408940 &nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong>General Office Operation Hours</strong>
 </p>
 <table style="minWidth: 50px">
