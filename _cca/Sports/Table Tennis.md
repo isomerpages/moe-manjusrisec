@@ -93,7 +93,7 @@ Open-House outreach and Values-In-Action activities.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Captain</p>
+<p>Upper Sec Captain</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tristan Lau</p>
@@ -104,7 +104,18 @@ Open-House outreach and Values-In-Action activities.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Vice-Captain</p>
+<p>Lower Sec Captain</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Isiaah Ng Tien Kai</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Goh Yong Yi</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Upper Sec Vice-Captain</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Lim Yi Zhao</p>
@@ -115,24 +126,13 @@ Open-House outreach and Values-In-Action activities.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Logistic Manager</p>
+<p>Lower Sec Vice-Captain</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Asher Lim</p>
+<p>Ng Aik Luck Jowell</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ow Pei En Hazeline</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Publicity Manager</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chia Yi Chen</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Renee Sai Ming Yi</p>
+<p>Gerisa Lim Jia Yi</p>
 </td>
 </tr>
 </tbody>
@@ -150,17 +150,17 @@ Open-House outreach and Values-In-Action activities.&nbsp;</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/Cca/Table%20Tennis/EZ%20Inter-School%20TT%20Championship%20BOYS.jpg">
+<img style="width: 65%;" height="auto" width="100%" src="/images/Cca/Table%20Tennis/EZ%20Inter-School%20TT%20Championship%20BOYS.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cca/Table%20Tennis/EZ%20Inter-School%20TT%20Championship%20GIRLS.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Cca/Table%20Tennis/EZ%20Inter-School%20TT%20Championship%20GIRLS.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/Cca/Table%20Tennis/National%20School%20Game%20BOYS.jpg">
+<img style="width: 65%;" height="auto" width="100%" src="/images/Cca/Table%20Tennis/National%20School%20Game%20BOYS.jpg">
 </div>
 </td>
 </tr>
