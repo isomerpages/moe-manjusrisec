@@ -34,11 +34,9 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Last Friday of each Month and Each Term</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Close at 5.00pm</p>
+<td rowspan="1" colspan="2">
+<p><em>* For Last Friday of each Month and Each Term, School Close at 5.00pm</em>
+</p>
 </td>
 </tr>
 </tbody>
