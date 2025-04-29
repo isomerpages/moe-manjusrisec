@@ -75,6 +75,6 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>View location map at&nbsp;<a href="http://www.onemap.sg/?SearchVal=408940&amp;LW:Y&amp;wO5d:IfYIR_J,IhqhI_f,Iaqbf_c,Ihacc_R,c" rel="noopener noreferrer nofollow" target="_blank">onemap.sg</a>
+<p>View location map at&nbsp;<a href="https://www.onemap.gov.sg/?SearchVal=408940&amp;LW:Y&amp;wO5d:IfYIR_J,IhqhI_f,Iaqbf_c,Ihacc_R,c" rel="noopener noreferrer nofollow" target="_blank">onemap.sg</a>
 </p>
 <p></p>
