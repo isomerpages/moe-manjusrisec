@@ -98,10 +98,10 @@ scouts who uphold the motto of ‘Be Prepared’ at all times.</p>
 <p>Lee Kai Ge,Achilles</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Koh Yiteng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>Jaan</p>
 </td>
 </tr>
 <tr>
@@ -109,20 +109,18 @@ scouts who uphold the motto of ‘Be Prepared’ at all times.</p>
 <p>Assistant Patrol Leaders</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lee Kang Quan
-<br>Seth Ong Zhiyi
+<p>Jayden leong
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>Amir Muhamma</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Dave Low Yun Tak</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>How Weifan
-<br>Rayne Tok</p>
+<p>Ivan Ng</p>
 </td>
 </tr>
 </tbody>
