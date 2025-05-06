@@ -28,7 +28,7 @@ sections:
       description: Application for Direct School Admission (DSA) will be opened from 7
         May 2025 to 3 Jun 2025, 3pm
       button: click here to read more
-      url: l
+      url: /discover-manjusri/direct-school-admission/introduction-to-dsa-sec-at-manjusri/
   - infopic:
       title: Chinese New Year Celebrations 2025
       subtitle: spotlight
