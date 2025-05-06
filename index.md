@@ -88,4 +88,11 @@ sections:
       url: /change-of-vice-principals/
       image: /images/Spotlight/2024 Change of VP/New_VP2.jpg
       alt: Image alt text
+  - infobar:
+      title: DSA-Sec 2025
+      subtitle: News
+      id: infobar
+      description: Application for Direct School Admission (DSA)
+      button: click here to read more
+      url: l
 ---
