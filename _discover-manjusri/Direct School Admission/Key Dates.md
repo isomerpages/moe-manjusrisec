@@ -50,19 +50,18 @@ issue a letter stating the outcome of the application, (i) Confirmed Offer
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>21 Oct – 25 Oct 2024</p>
+<p>27 Oct – 31 Oct 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Applicants with CO or WL will receive email and SMS notification via&nbsp;Postman.gov.sg
-on the School Preference Submission.
-<br>
-<br>Applicants are to submit school preference form via the online DSA-Sec
+<p>Applicants with CO or WL will receive email and SMS notification via Postman.gov.sg
+on the School Preference Submission.</p>
+<p>Applicants are to submit school preference form via the online DSA-Sec
 Portal or at their Primary Schools.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Late-Nov 2024</p>
+<p>Late-Nov 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>The results of the DSA-Sec Exercise will be released to the students through
