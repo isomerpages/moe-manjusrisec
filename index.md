@@ -92,7 +92,8 @@ sections:
       title: DSA-Sec 2025
       subtitle: News
       id: infobar
-      description: Application for Direct School Admission (DSA)
+      description: Application for Direct School Admission (DSA) will be opened from 7
+        May 2025 to 3 Jun 2025, 3pm
       button: click here to read more
       url: l
 ---
