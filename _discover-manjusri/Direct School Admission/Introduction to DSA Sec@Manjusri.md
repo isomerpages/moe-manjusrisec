@@ -12,9 +12,9 @@ academic and non-academic achievements and talents that they can demonstrate
 beyond the Primary School Leaving Examination (PSLE). Primary 6 (P6) students
 who do not participate in the DSA-Sec will continue to seek admission based
 on their PSLE results through the Secondary 1 (S1) Posting.</p>
-<p>&nbsp;Manjusri Secondary School admits students through the Direct School
-Admission – Secondary Schools exercise (DSA-Sec). Our DSA-Sec selection
-criteria is premised on the applicants’ aptitude and interests in either:</p>
+<p>Manjusri Secondary School admits students through the Direct School Admission
+– Secondary Schools exercise (DSA-Sec). Our DSA-Sec selection criteria
+is premised on the applicants’ aptitude and interests in either:</p>
 <p><strong>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="/cca/performing-arts/chinese-dance/" rel="noopener noreferrer nofollow" target="_blank">Chinese Dance</a>&nbsp;</strong>
 </p>
 <p><strong>2.&nbsp;&nbsp;&nbsp;&nbsp; <a href="/cca/performing-arts/chinese-orchestra/" rel="noopener noreferrer nofollow" target="_blank">Chinese Orchestra</a></strong>
@@ -30,7 +30,8 @@ criteria is premised on the applicants’ aptitude and interests in either:</p>
 <p>For more information in the DSA-Sec talent area, please click on the respective
 above link.</p>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
-The application is free-of-charge and will be opened from <strong>7 May 2024, 11am to 3 Jun 2024, 3pm</strong>.</p>
+The application is free-of-charge and will be opened from <strong>7 May 2025 to 3 Jun 2025, 3pm.</strong>
+</p>
 <p>For more details, please refer to MOE website –</p>
 <p><a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>
 </p>

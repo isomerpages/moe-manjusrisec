@@ -22,7 +22,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6 May 2024</p>
+<p>2 May 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>DSA-Sec @ Manjusri Launched</p>
@@ -30,42 +30,38 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>7 May 2024, 11am
-<br>
-<br>- 3 Jun 2024, 3pm</p>
+<p>7 May 2025 - 3 Jun 2025, 3pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Submission of Application via the online DSA-Sec Portal.
-<br>
 <br><a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>24 Jun – 9 Sep 2024</p>
+<p>30 Jun – 4 Sep 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Selection and interview of shortlisted applicants. School will email or
 issue a letter stating the outcome of the application, (i) Confirmed Offer
-(CO), (ii) Wait List (WL) or (iii) Unsuccessful, by 12 Sep 2024.</p>
+(CO), (ii) Wait List (WL) or (iii) Unsuccessful, by 4 Sep 2025.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>21 Oct – 25 Oct 2024</p>
+<p>27 Oct – 31 Oct 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Applicants with CO or WL will receive email and SMS notification via&nbsp;Postman.gov.sg
-on the School Preference Submission.
-<br>
-<br>Applicants are to submit school preference form via the online DSA-Sec
+<p>Applicants with CO or WL will receive email and SMS notification via Postman.gov.sg
+on the School Preference Submission.</p>
+<p>Applicants are to submit school preference form via the online DSA-Sec
 Portal or at their Primary Schools.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Late-Nov 2024</p>
+<p>Late-Nov 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>The results of the DSA-Sec Exercise will be released to the students through
