@@ -12,7 +12,7 @@ variant: markdown
 
 | Name | Designation | 
 | -------- | -------- | 
-|Mdm Lim Boon Lian (Mrs Wang) |Administration Manager|
+|Mdm Lim Boon Lian (Mrs Wang) |Adkministration Manager|
 |Ms Oh Ai Li |Administration Manager|
 |Mr Han Baw Kuang David |Operations Manager 1|
 |Mr Lee Moon Loong|Operations Manager 2|
