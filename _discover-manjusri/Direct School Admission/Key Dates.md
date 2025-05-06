@@ -22,7 +22,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6 May 2024</p>
+<p>2 May 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>DSA-Sec @ Manjusri Launched</p>
@@ -30,13 +30,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>7 May 2024, 11am
-<br>
-<br>- 3 Jun 2024, 3pm</p>
+<p>7 May 2025 - 3 Jun 2025, 3pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Submission of Application via the online DSA-Sec Portal.
-<br>
 <br><a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>
 </p>
 </td>
