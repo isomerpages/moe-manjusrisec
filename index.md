@@ -21,6 +21,14 @@ sections:
           description: ""
           url: /contact-us/school-contact-details/
       background: /images/homepage3.gif
+  - infobar:
+      title: DSA-Sec 2025
+      subtitle: News
+      id: infobar
+      description: Application for Direct School Admission (DSA) will be opened from 7
+        May 2025 to 3 Jun 2025, 3pm
+      button: click here to read more
+      url: l
   - infopic:
       title: Chinese New Year Celebrations 2025
       subtitle: spotlight
@@ -88,12 +96,4 @@ sections:
       url: /change-of-vice-principals/
       image: /images/Spotlight/2024 Change of VP/New_VP2.jpg
       alt: Image alt text
-  - infobar:
-      title: DSA-Sec 2025
-      subtitle: News
-      id: infobar
-      description: Application for Direct School Admission (DSA) will be opened from 7
-        May 2025 to 3 Jun 2025, 3pm
-      button: click here to read more
-      url: l
 ---
