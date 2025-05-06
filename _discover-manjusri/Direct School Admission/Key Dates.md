@@ -40,12 +40,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>24 Jun – 9 Sep 2024</p>
+<p>30 Jun – 4 Sep 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Selection and interview of shortlisted applicants. School will email or
 issue a letter stating the outcome of the application, (i) Confirmed Offer
-(CO), (ii) Wait List (WL) or (iii) Unsuccessful, by 12 Sep 2024.</p>
+(CO), (ii) Wait List (WL) or (iii) Unsuccessful, by 4 Sep 2025.</p>
 </td>
 </tr>
 <tr>
