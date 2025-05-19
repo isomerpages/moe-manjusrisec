@@ -16,7 +16,7 @@ variant: markdown
 |1-2|Ms Sim Yi Wei Mabel|sim_yi_wei_mabel@moe.edu.sg|
 ||Ms Chong Nyok Fang|chong_nyok_fang@moe.edu.sg|
 |1-3|Ms Siti Raudhah Sukri|siti_raudhah_sukri@moe.edu.sg|
-||Mdm See Khooi Sim Catherine|see_khooi_sim_catherine@moe.edu.sg|
+||Mr Low Sun Yuan|low_sun_yuan@moe.edu.sg|
 |1-4|Ms Ng Yeou Chiann Angeline|ng_yeou_chiann_angeline@moe.edu.sg|
 ||Ms Siti Shahirah Haider Bagesher|siti_shahirah_haider_bagesher@moe.edu.sg|
 |1-5|Hajjah Haslinda Yusof|haslinda_yusof@moe.edu.sg|
