@@ -40,7 +40,6 @@ variant: markdown
 | -------- | -------- | 
 |Mdm Chan Poh Yoke Doris |Receptionist|
 |Ms Lee Yien Joo Christine|Finance Admin Officer|
-|Ms Satinah Binte Sumali  |School Health Advisor (HPB)|
 |Mr Mashuqur Bin Rahman |Desktop Engineer (NCS)|
 |Mr Mohamad Syakir Bin Nor Azmi |Desktop Engineer (NCS)|
 |Mdm  Zuriah Bte Mohd Ali |Library Assistant|
