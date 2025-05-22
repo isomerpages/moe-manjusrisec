@@ -100,7 +100,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Timetable &amp; Schedules/2025 TT/2025_March_Holiday_CCA_Schedule.pdf" rel="noopener nofollow" target="_blank">March Holiday CCA Schedule</a>
+<p><a href="/files/Timetable &amp; Schedules/2025 TT/2025_June_Holiday_CCA_Schedule.pdf" rel="noopener nofollow" target="_blank">June Holiday CCA Schedule</a>
 </p>
 </td>
 </tr>
