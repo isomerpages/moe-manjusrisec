@@ -43,10 +43,11 @@ career interests, strengths and passions can make an appointment to have
 a chat with her every&nbsp;<strong>Monday</strong> and <strong>Thursday</strong>.&nbsp;</p>
 <p>Please email her at&nbsp;<a href="mailto:Woo_WAI_YENG@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Woo_WAI_YENG@schools.gov.sg</a>&nbsp;and
 indicate your name, class and school in the email.</p>
-<p>Alternatively, you can book an appointment at&nbsp;<a href="https://tinyurl.com/ecgmanjusri" rel="noopener noreferrer nofollow" target="_blank">https://tinyurl.com/ecgmanjusri</a>&nbsp;or
+<p>Alternatively, you can book an appointment at&nbsp;<a href="https://go.gov.sg/mjr-ecg" rel="noopener nofollow" target="_blank">https://go.gov.sg/mjr-ecg</a>&nbsp;or
 scan the QR code below.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:25%" height="auto" width="100%" src="/images/Students%20and%20Parents/Counselling%20Services/QR_CODE_ECG.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Students and Parents/Counselling Services/mjr_ecg.png">
 </div>
 <h4><strong>24hrs Contact Numbers</strong></h4>
 <p>Some useful 24hrs contact numbers provided by REACH (a mental healthcare
