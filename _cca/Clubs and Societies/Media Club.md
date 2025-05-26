@@ -152,22 +152,6 @@ experiences</p>
 <p>Assistant Publicity Manager</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>TEY KAI JUN</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>AV Manager</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>LIU JUN HONG</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Assistant AV Manager</p>
-</td>
-</tr>
 </tbody>
 </table>
 <h3><strong>Our Programmes</strong></h3>
