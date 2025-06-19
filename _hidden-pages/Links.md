@@ -109,7 +109,7 @@ variant: tiptap
 <br>(for staff only)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="http://n7307sadmw01482/ras" rel="noopener noreferrer nofollow" target="_blank">FiGi RAS Portal</a> 
+<p><a href="http://n7307sadmw01857/ras/" rel="noopener noreferrer nofollow" target="_blank">FiGi RAS Portal</a> 
 <br>(for staff only - access from school)</p>
 </td>
 <td rowspan="1" colspan="1">
