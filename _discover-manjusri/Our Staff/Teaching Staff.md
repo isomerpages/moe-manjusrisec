@@ -61,7 +61,7 @@ variant: markdown
 |4A|Mr Ang Soon Hock Andrew|ang_soon_hock_andrew@moe.edu.sg|
 ||Ms Tan Shi Jia|tan_shi_jia@moe.edu.sg|
 |4B1|Mr Ong Boon Siong|ong_boon_siong@moe.edu.sg|
-||Ms Ahadiyah Binte Rosmani|ahadiyah_rosmani@moe.edu.sg|
+||Ms Oh Ee-Laine (ST)|oh_ee-laine@moe.edu.sg|
 |4B2|Mr Tay Tse Min Daniel|tay_tse_min_daniel@moe.edu.sg|
 ||Ms Elna Shirin Binte Him Pon|elna_shirin_him_pon@moe.edu.sg|
 |4B3|Ms Salina Binte Abdul Majid (Senior Teacher)|salina_abdul_majid@moe.edu.sg|
