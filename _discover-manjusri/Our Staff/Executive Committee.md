@@ -25,7 +25,6 @@ variant: markdown
 |Ms Lim Mei Chen Joani  | HOD Humanities |lim_mei_chen_joani@moe.edu.sg|
 |Mrs PakYap Wei Ling Evelynn  | HOD Mathematics |yap_wei_ling_evelynn@moe.edu.sg|
 |Ms Cheong Wai Heng Madeleine  | HOD MTL |cheong_wai_heng_madeleine@moe.edu.sg|
-|Mdm Sim Mui Keow Catherine  | HOD PE &amp; CCA |sim_mui_keow@moe.edu.sg|
 |Mr Ng Jia Jun Justin  | HOD Science |ng_jia_jun_justin@moe.edu.sg|
 |Ms Tan Cai Ting (Mrs Thah)  |HOD, Craft &amp; Technology (Ag) |tan_cai_ting@moe.edu.sg|
 |Ms Wee Yee Yun   |School Staff Developer|wee_yee_yun@moe.edu.sg|
