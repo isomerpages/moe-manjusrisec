@@ -16,7 +16,6 @@ variant: markdown
 |1-2|Ms Sim Yi Wei Mabel|sim_yi_wei_mabel@moe.edu.sg|
 ||Ms Chong Nyok Fang|chong_nyok_fang@moe.edu.sg|
 |1-3|Ms Siti Raudhah Sukri|siti_raudhah_sukri@moe.edu.sg|
-||Mr Low Sun Yuan|low_sun_yuan@moe.edu.sg|
 ||Mdm Cheong Siew Yie|cheong_siew_yie@moe.edu.sg|
 |1-4|Ms Ng Yeou Chiann Angeline|ng_yeou_chiann_angeline@moe.edu.sg|
 ||Ms Siti Shahirah Haider Bagesher|siti_shahirah_haider_bagesher@moe.edu.sg|
@@ -62,7 +61,7 @@ variant: markdown
 |4A|Mr Ang Soon Hock Andrew|ang_soon_hock_andrew@moe.edu.sg|
 ||Ms Tan Shi Jia|tan_shi_jia@moe.edu.sg|
 |4B1|Mr Ong Boon Siong|ong_boon_siong@moe.edu.sg|
-||Ms Ahadiyah Binte Rosmani|ahadiyah_rosmani@moe.edu.sg|
+||Ms Oh Ee-Laine (Senior Teacher)|oh_ee-laine@moe.edu.sg|
 |4B2|Mr Tay Tse Min Daniel|tay_tse_min_daniel@moe.edu.sg|
 ||Ms Elna Shirin Binte Him Pon|elna_shirin_him_pon@moe.edu.sg|
 |4B3|Ms Salina Binte Abdul Majid (Senior Teacher)|salina_abdul_majid@moe.edu.sg|
@@ -70,7 +69,7 @@ variant: markdown
 |4D|Ms Lee Li Yun|lee_li_yun@moe.edu.sg|
 ||Mr Amit Kumar Sharma s/o Amber Nath|amit_kumar_sharma_amber@moe.edu.sg|
 |4E|Mr Marcus Goh Wei Ming|marcus_goh_wei_ming@moe.edu.sg|
-||Ms Tuan Chui Lin|tuan_chui_lin@moe.edu.sg|
+||Mr Low Sun Yuan|low_sun_yuan@moe.edu.sg|
 |4F|Ms Lee Shi Hua Candice (Senior Teacher)|lee_shi_hua_candice@moe.edu.sg|
 ||Ms Chan Sock Cheng|chan_sock_cheng@moe.edu.sg|
 |4G|Mr Lee Zhong Shun|lee_zhong_shun@moe.edu.sg|
