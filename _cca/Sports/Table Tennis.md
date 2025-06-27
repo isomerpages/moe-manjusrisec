@@ -107,7 +107,7 @@ Open-House outreach and Values-In-Action activities.&nbsp;</p>
 <p>Lower Sec Captain</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Isiaah Ng Tien Kai</p>
+<p>Ng Tien Kai, Isaiah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Goh Yong Yi</p>
