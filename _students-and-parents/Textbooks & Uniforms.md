@@ -179,10 +179,10 @@ textbooks or uniform.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Opening Hours in School:</p>
-<p>(During School Terms only)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Thursdays: 9 am to 1 pm</p>
+<p>(During School Terms only)</p>
 </td>
 </tr>
 <tr>
