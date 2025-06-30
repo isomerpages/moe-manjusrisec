@@ -177,6 +177,15 @@ textbooks or uniform.</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>Opening Hours in School:</p>
+<p>(School Terms only)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Thursdays: 9 am to 1 pm</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="2">
 <p>For urgent orders, please contact Mr Victor Zhang at 94236150</p>
 </td>
