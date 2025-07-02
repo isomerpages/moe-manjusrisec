@@ -58,26 +58,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Timetable &amp; Schedules/2025 TT/2025_SEM1_HBL_Timetable___Sec_1.pdf" rel="noopener nofollow" target="_blank">Sec 1</a>
+<p><a href="/files/Timetable &amp; Schedules/2025 TT/2025_HBL_Timetable_SEM2___Sec_1_2.pdf" rel="noopener nofollow" target="_blank">Sec 1 and 2</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Timetable &amp; Schedules/2025 TT/2025_SEM1_HBL_Timetable___Sec_2.pdf" rel="noopener nofollow" target="_blank">Sec 2</a>
+<p><a href="/files/Timetable &amp; Schedules/2025 TT/2025_HBL_Timetable_SEM2___Sec_3.pdf" rel="noopener nofollow" target="_blank">Sec 3</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Timetable &amp; Schedules/2025 TT/2025_SEM1_HBL_Timetable___Sec_3.pdf" rel="noopener nofollow" target="_blank">Sec 3</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Timetable &amp; Schedules/2025 TT/2025_SEM1_HBL_Timetable___Sec_4_5.pdf" rel="noopener nofollow" target="_blank">Sec 4 and 5</a>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
