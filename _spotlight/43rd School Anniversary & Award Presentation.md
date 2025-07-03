@@ -20,7 +20,7 @@ an Executive member of both the Student Council Exco as well as the Choir.
 &nbsp;&nbsp;She is continuing her education at Nanyang Junior College.&nbsp;</p>
 <p>Other than celebrating the academic achievements of past and present Manjusrians,
 the event also showcased stellar performances put up by the choir, Chinese
-dancers, Chinese orchestra and Wushu team members. &nbsp;&nbsp;Mee Toh
+dancers, Chinese orchestra and Concert Band members. &nbsp;&nbsp;Mee Toh
 Foundation Arts scholarships and Kwan Im Thong Hood Cho temple scholarships
 (in Sports &amp; Uniformed Groups) were presented to deserving Manjusrians
 to support them in their studies and furtherance of their talent or leadership
