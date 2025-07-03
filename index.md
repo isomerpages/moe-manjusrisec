@@ -29,6 +29,7 @@ sections:
       button: click here to read more
       url: /43rd-school-anniversary-award-presentation/
       alt: Image alt text
+      image: /images/Spotlight/2025 43 Anniversary/X1010086.png
   - infobar:
       title: DSA-Sec 2025
       subtitle: News
