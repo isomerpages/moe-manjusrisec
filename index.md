@@ -21,6 +21,15 @@ sections:
           description: ""
           url: /contact-us/school-contact-details/
       background: /images/homepage3.gif
+  - infopic:
+      title: 43rd School Anniversary & Award Presentation
+      subtitle: spotlight
+      id: infopic
+      description: On 11 April, the school joyously celebrated its 43rd anniversary...
+      button: click here to read more
+      url: /43rd-school-anniversary-award-presentation/
+      alt: Image alt text
+      image: /images/Spotlight/2025 43 Anniversary/X1010086.png
   - infobar:
       title: DSA-Sec 2025
       subtitle: News
