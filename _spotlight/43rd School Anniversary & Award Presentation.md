@@ -37,7 +37,7 @@ pursuits and future endeavours.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2025 43 Anniversary/P1010016.png">
+<img style="width: 92%;" height="auto" width="100%" alt="" src="/images/Spotlight/2025 43 Anniversary/P1010016.png">
 </div>
 </th>
 <th rowspan="1" colspan="1">
@@ -49,7 +49,7 @@ pursuits and future endeavours.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2025 43 Anniversary/X1010086.png">
+<img style="width: 92%;" height="auto" width="100%" alt="" src="/images/Spotlight/2025 43 Anniversary/X1010086.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -61,7 +61,7 @@ pursuits and future endeavours.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2025 43 Anniversary/X1010048.png">
+<img style="width: 92%;" height="auto" width="100%" alt="" src="/images/Spotlight/2025 43 Anniversary/X1010048.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -73,7 +73,7 @@ pursuits and future endeavours.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2025 43 Anniversary/X1010452.png">
+<img style="width: 92%;" height="auto" width="100%" alt="" src="/images/Spotlight/2025 43 Anniversary/X1010452.png">
 </div>
 <p></p>
 </td>
