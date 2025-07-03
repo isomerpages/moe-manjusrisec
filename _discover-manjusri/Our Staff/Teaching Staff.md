@@ -35,7 +35,7 @@ variant: markdown
 |2-3 |Mr Mohamad Hafiz Khan|hafiz_emran_khan@moe.edu.sg|
 ||Ms Erica Reyes Rodriguez|erica_reyes_rodriguez@moe.edu.sg|
 |2-4|Ms Tan Siew Boon Vivian|tan_siew_boon_vivian@moe.edu.sg|
-||Ms Ellia Zulkarnain Darul|darul_ellia_zulkarnain@moe.edu.sg|
+||Ms Darul Ellia Zulkarnain|darul_ellia_zulkarnain@moe.edu.sg|
 |2-5|Mr Izham Sidek|izham_sidek@moe.edu.sg|
 ||Ms Jurana Abdul Rahim|jurana_abdul_rahim@moe.edu.sg|
 ||Ms Tee Beng Lian Serene|tee_beng_lian@moe.edu.sg|
