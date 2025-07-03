@@ -117,7 +117,7 @@ scouts who uphold the motto of ‘Be Prepared’ at all times.</p>
 <p>Amir Muhamma</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>--</p>
+<p>-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ivan Ng</p>
