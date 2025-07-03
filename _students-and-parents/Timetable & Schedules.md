@@ -52,7 +52,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong>2025 HBL Timetables</strong>
+<p><strong>2025 Semester 2 HBL Timetable</strong>
 </p>
 </th>
 </tr>
