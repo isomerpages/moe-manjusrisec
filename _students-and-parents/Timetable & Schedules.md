@@ -64,7 +64,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Timetable &amp; Schedules/2025 TT/2025_HBL_Timetable_SEM2___Sec_3.pdf" rel="noopener nofollow" target="_blank">Sec 3</a>
+<p><a href="/files/Timetable &amp; Schedules/2025 TT/2025_HBL_Timetable_SEM2_v6___Sec_3.pdf" rel="noopener nofollow" target="_blank">Sec 3</a>
 </p>
 </td>
 </tr>
