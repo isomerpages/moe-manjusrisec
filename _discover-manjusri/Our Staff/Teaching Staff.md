@@ -20,7 +20,6 @@ variant: markdown
 |1-4|Ms Ng Yeou Chiann Angeline|ng_yeou_chiann_angeline@moe.edu.sg|
 ||Ms Siti Shahirah Haider Bagesher|siti_shahirah_haider_bagesher@moe.edu.sg|
 |1-5|Hajjah Haslinda Yusof|haslinda_yusof@moe.edu.sg|
-||Ms Loh Tzi Wui Natasha|loh_tzi_wui_natasha@moe.edu.sg|
 ||Mdm Bao Bingqing|bao_bingqing@moe.edu.sg|
 |1-6|Mr Edward Cheong Zhen Kuang|edward_cheong@moe.edu.sg|
 ||Ms Mary Rose P Gonsalvez|mary_rose_p_gonsalvez@moe.edu.sg|
