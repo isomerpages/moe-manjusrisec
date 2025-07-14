@@ -99,5 +99,6 @@ variant: markdown
 |Mr Kaddy Koh|koh_kaddy@moe.edu.sg|
 |Mdm Mok Yee Wan (Mrs Lai)|mok_yee_wan@moe.edu.sg|
 |Mdm Zoe Yeo (Mrs Chu)|yeo_zoe@moe.edu.sg|
+|Mdm Neo Soh Cheng (Cheryl)|neo_soh_cheng_b@moe.edu.sg|
 |Mr Raymond Khaw Hock Keat|raymond_khaw_hock_keat@moe.edu.sg|
 |Ms Yeo Yam Cher|yeo_yam_cher_c@moe.edu.sg|
