@@ -89,6 +89,7 @@ variant: markdown
 |Ms Tan Hsiao Wey|tan_hsiao_wey@moe.edu.sg|
 |Ms Tan Tien Tien Victoria Lynn |victoria_lynn_tan_tien@moe.edu.sg|
 |Ms Pang Chiaw Yong|pang_chiaw_yong_a@moe.edu.sg|
+|Susan Lim Siok Hiang|susan_lim_siok_hiang@moe.edu.sg|
 |Ms  Elna Shirin Binte Him Pon|elna_shirin_him_pon@moe.edu.sg|
 |Ms  Ho Poh Choo Adrienne|adrienne_ho_poh_choo@moe.edu.sg|
 |Ms Lee Wai Ying Winnie|winnie_lee_wai_ying_a@moe.edu.sg|
