@@ -70,7 +70,7 @@ events and taking part in competitions.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Darren Sin Jun An</p>
+<p>TAN JHIN SHUEN KYLENE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chairperson</p>
@@ -78,15 +78,15 @@ events and taking part in competitions.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>See Hui Yee</p>
+<p>NEO WOON TONG</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Vice-Chairpersons</p>
+<p>Vice-Chairperson</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chong Ming Xuan Carol</p>
+<p>KWEK LING HUI ALICIA</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Logistics and Events</p>
@@ -94,7 +94,7 @@ events and taking part in competitions.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lucas M Tok</p>
+<p>HIUW HUI YI</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Publicity and Media</p>
