@@ -28,13 +28,13 @@ contributions in an artistic field.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2025 SYF/Manjusri_Secondary_School_R1_2026.jpg">
 </div>
-<p align="center">Chinese Orchestra – Certificate of Distinction</p>
+<p style="font-size:14px" align="center">Chinese Orchestra – Certificate of Distinction</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 81%;" height="auto" width="100%" alt="" src="/images/Spotlight/2025 SYF/MANJUSRI_SECONDARY_SCHOOL_NZ9_2979.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Spotlight/2025 SYF/MANJUSRI_SECONDARY_SCHOOL_NZ9_2979.jpg">
 </div>
-<p align="center">Chinese Dance – Certificate of Accomplishment</p>
+<p style="font-size:14px" align="center">Chinese Dance – Certificate of Accomplishment</p>
 </td>
 </tr>
 <tr>
@@ -42,13 +42,13 @@ contributions in an artistic field.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2025 SYF/MANJUSRI_SECONDARY_SCHOOL_Z62_1704.jpg">
 </div>
-<p align="center">Choir – Certificate of Distinction</p>
+<p style="font-size:14px" align="center">Choir – Certificate of Distinction</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 78%;" height="auto" width="100%" alt="" src="/images/Spotlight/2025 SYF/Manjusri_Secondary_School_NZ9_7219.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Spotlight/2025 SYF/Manjusri_Secondary_School_NZ9_7219.jpg">
 </div>
-<p align="center">Concert Band – Certificate of Distinction</p>
+<p style="font-size:14px" align="center">Concert Band – Certificate of Distinction</p>
 </td>
 </tr>
 </tbody>
