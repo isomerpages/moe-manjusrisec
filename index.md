@@ -22,16 +22,6 @@ sections:
           url: /contact-us/school-contact-details/
       background: /images/homepage3.gif
   - infopic:
-      title: Manjusri Sec @ SYF Arts Presentations 2025
-      subtitle: spotlight
-      id: infopic
-      description: Manjusri Sec celebrates the fine achievements of its performing
-        arts groups at the Singapore Youth Festival Arts Presentations...
-      button: click here to read more
-      url: /manjusri-sec-syf-arts-presentations-2025/
-      image: /images/Spotlight/2025 SYF/Manjusri_Secondary_School_R1_2026.jpg
-      alt: Image alt text
-  - infopic:
       title: 2025 Mid-Year GCE O Level MTLs Exam Results
       subtitle: SPOTLIGHT
       id: infopic
@@ -41,6 +31,16 @@ sections:
       url: /2025-mid-year-gce-o-level-mother-tongue-languages-exam-results/
       alt: Image alt text
       image: /images/Spotlight/2025 O LEVEL MTL/MTL4.jpg
+  - infopic:
+      title: Manjusri Sec @ SYF Arts Presentations 2025
+      subtitle: spotlight
+      id: infopic
+      description: Manjusri Sec celebrates the fine achievements of its performing
+        arts groups at the Singapore Youth Festival Arts Presentations...
+      button: click here to read more
+      url: /manjusri-sec-syf-arts-presentations-2025/
+      image: /images/Spotlight/2025 SYF/Manjusri_Secondary_School_R1_2026.jpg
+      alt: Image alt text
   - infopic:
       title: 43rd School Anniversary & Award Presentation
       subtitle: spotlight
