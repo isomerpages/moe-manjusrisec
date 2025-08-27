@@ -32,7 +32,7 @@ contributions in an artistic field.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 82%;" height="auto" width="100%" alt="" src="/images/Spotlight/2025 SYF/MANJUSRI_SECONDARY_SCHOOL_NZ9_2979.jpg">
+<img style="width: 92%;" height="auto" width="100%" alt="" src="/images/Spotlight/2025 SYF/MANJUSRI_SECONDARY_SCHOOL_NZ9_2979.jpg">
 </div>
 <p style="font-size:14px" align="center">Chinese Dance – Certificate of Accomplishment</p>
 </td>
@@ -46,7 +46,7 @@ contributions in an artistic field.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Spotlight/2025 SYF/Manjusri_Secondary_School_NZ9_7219.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Spotlight/2025 SYF/Manjusri_Secondary_School_NZ9_7219.jpg">
 </div>
 <p style="font-size:14px" align="center">Concert Band – Certificate of Distinction</p>
 </td>
