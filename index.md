@@ -22,6 +22,15 @@ sections:
           url: /contact-us/school-contact-details/
       background: /images/homepage3.gif
   - infopic:
+      title: 2025 Mid-Year GCE O Level MTLs Exam Results
+      subtitle: SPOTLIGHT
+      id: infopic
+      description: The results for candidates were released on Thursday 21 August, and
+        the school was heartened by performance of our candidates...
+      button: click here to read more
+      url: /2025-mid-year-gce-o-level-mother-tongue-languages-exam-results/
+      alt: Image alt text
+  - infopic:
       title: 43rd School Anniversary & Award Presentation
       subtitle: spotlight
       id: infopic
