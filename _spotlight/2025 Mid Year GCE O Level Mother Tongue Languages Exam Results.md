@@ -26,18 +26,26 @@ to improve their overall grade.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 97%;" height="auto" width="100%" alt="" src="/images/Spotlight/2025 O LEVEL MTL/MTL1.jpg">
+</div>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2025 O LEVEL MTL/MTL2.jpg">
+</div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 97%;" height="auto" width="100%" alt="" src="/images/Spotlight/2025 O LEVEL MTL/MTL3.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2025 O LEVEL MTL/MTL4.jpg">
+</div>
 </td>
 </tr>
 <tr>
