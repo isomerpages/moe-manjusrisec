@@ -87,7 +87,6 @@ contributions in an artistic field.</p>
 <p>Zhou Ziyi</p>
 <p>Tay Qi Xuan</p>
 <p>Yang Ruoning</p>
-<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -105,8 +104,7 @@ contributions in an artistic field.</p>
 <p>Tan Shao Long Aiken</p>
 <p>Nur Iryani Binte Abdul Razak</p>
 <p>Maegan Tan Si Hui</p>
-<p>Iris Leong Shan (Liang Shan)</p>
-<p>&nbsp;</p>
+<p>Iris Leong Shan (Liang Shan)&nbsp;</p>
 </td>
 </tr>
 <tr>
