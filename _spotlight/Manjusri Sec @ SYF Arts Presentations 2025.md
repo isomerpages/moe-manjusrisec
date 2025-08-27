@@ -117,6 +117,10 @@ contributions in an artistic field.</p>
 <td rowspan="1" colspan="2">
 <p><strong><u>Chinese Calligraphy</u></strong>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
 <p>Qi Ge</p>
 </td>
 </tr>
