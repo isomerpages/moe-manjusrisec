@@ -30,14 +30,6 @@ sections:
       url: /43rd-school-anniversary-award-presentation/
       alt: Image alt text
       image: /images/Spotlight/2025 43 Anniversary/X1010086.png
-  - infobar:
-      title: DSA-Sec 2025
-      subtitle: News
-      id: infobar
-      description: Application for Direct School Admission (DSA) will be opened from 7
-        May 2025 to 3 Jun 2025, 3pm
-      button: click here to read more
-      url: /discover-manjusri/direct-school-admission/introduction-to-dsa-sec-at-manjusri/
   - infopic:
       title: Chinese New Year Celebrations 2025
       subtitle: spotlight
