@@ -93,14 +93,20 @@ contributions in an artistic field.</p>
 <td rowspan="1" colspan="1">
 <p><strong><u>Choir</u></strong>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Concert Band</u></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Wong Shi Ling, Danielle</p>
 <p>Alicia Kuah</p>
 <p>Charlene Cheok Eu Xing</p>
 <p>Yip Ler Quan Gareth</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>Concert Band</u></strong>
-</p>
 <p>Tan Shao Long Aiken</p>
 <p>Nur Iryani Binte Abdul Razak</p>
 <p>Maegan Tan Si Hui</p>
