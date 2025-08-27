@@ -30,7 +30,7 @@ sections:
       button: click here to read more
       url: /2025-mid-year-gce-o-level-mother-tongue-languages-exam-results/
       alt: Image alt text
-      image: /images/Spotlight/2025 O LEVEL MTL/MTL1.jpg
+      image: /images/Spotlight/2025 O LEVEL MTL/MTL4.jpg
   - infopic:
       title: 43rd School Anniversary & Award Presentation
       subtitle: spotlight
