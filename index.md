@@ -22,6 +22,16 @@ sections:
           url: /contact-us/school-contact-details/
       background: /images/homepage3.gif
   - infopic:
+      title: 2025 Mid-Year GCE O Level MTLs Exam Results
+      subtitle: SPOTLIGHT
+      id: infopic
+      description: The results for candidates were released on Thursday 21 August, and
+        the school was heartened by performance of our candidates...
+      button: click here to read more
+      url: /2025-mid-year-gce-o-level-mother-tongue-languages-exam-results/
+      alt: Image alt text
+      image: /images/Spotlight/2025 O LEVEL MTL/MTL4.jpg
+  - infopic:
       title: 43rd School Anniversary & Award Presentation
       subtitle: spotlight
       id: infopic
@@ -30,14 +40,6 @@ sections:
       url: /43rd-school-anniversary-award-presentation/
       alt: Image alt text
       image: /images/Spotlight/2025 43 Anniversary/X1010086.png
-  - infobar:
-      title: DSA-Sec 2025
-      subtitle: News
-      id: infobar
-      description: Application for Direct School Admission (DSA) will be opened from 7
-        May 2025 to 3 Jun 2025, 3pm
-      button: click here to read more
-      url: /discover-manjusri/direct-school-admission/introduction-to-dsa-sec-at-manjusri/
   - infopic:
       title: Chinese New Year Celebrations 2025
       subtitle: spotlight
