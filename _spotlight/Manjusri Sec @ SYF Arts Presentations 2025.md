@@ -69,14 +69,20 @@ contributions in an artistic field.</p>
 <td rowspan="1" colspan="1">
 <p><strong><u>Chinese Dance</u></strong>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Chinese Orchestra</u></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Alicia Tan Jia Ying</p>
 <p>Claire Koh Jing En</p>
 <p>Poh Jie Qi Jaemie</p>
 <p>Wu Qi Jia Chermaine</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>Chinese Orchestra</u></strong>
-</p>
 <p>Charlotte Ng Xuan Wen</p>
 <p>Zhou Ziyi</p>
 <p>Tay Qi Xuan</p>
