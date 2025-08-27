@@ -50,7 +50,7 @@ to improve their overall grade.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong><sup>Manjusrian candidates receiving their results at the school Multi-Purpose Hall</sup></strong>
+<p style="font-size:14px" align="center"><strong><sup>Manjusrian candidates receiving their results at the school Multi-Purpose Hall</sup></strong>
 </p>
 </td>
 </tr>
