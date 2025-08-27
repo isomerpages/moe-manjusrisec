@@ -77,16 +77,16 @@ contributions in an artistic field.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Alicia Tan Jia Ying</p>
-<p>Claire Koh Jing En</p>
-<p>Poh Jie Qi Jaemie</p>
-<p>Wu Qi Jia Chermaine</p>
+<p align="center">Alicia Tan Jia Ying</p>
+<p align="center">Claire Koh Jing En</p>
+<p align="center">Poh Jie Qi Jaemie</p>
+<p align="center">Wu Qi Jia Chermaine</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Charlotte Ng Xuan Wen</p>
-<p>Zhou Ziyi</p>
-<p>Tay Qi Xuan</p>
-<p>Yang Ruoning</p>
+<p align="center">Charlotte Ng Xuan Wen</p>
+<p align="center">Zhou Ziyi</p>
+<p align="center">Tay Qi Xuan</p>
+<p align="center">Yang Ruoning</p>
 </td>
 </tr>
 <tr>
@@ -101,16 +101,16 @@ contributions in an artistic field.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Wong Shi Ling, Danielle</p>
-<p>Alicia Kuah</p>
-<p>Charlene Cheok Eu Xing</p>
-<p>Yip Ler Quan Gareth</p>
+<p align="center">Wong Shi Ling, Danielle</p>
+<p align="center">Alicia Kuah</p>
+<p align="center">Charlene Cheok Eu Xing</p>
+<p align="center">Yip Ler Quan Gareth</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tan Shao Long Aiken</p>
-<p>Nur Iryani Binte Abdul Razak</p>
-<p>Maegan Tan Si Hui</p>
-<p>Iris Leong Shan (Liang Shan)&nbsp;</p>
+<p align="center">Tan Shao Long Aiken</p>
+<p align="center">Nur Iryani Binte Abdul Razak</p>
+<p align="center">Maegan Tan Si Hui</p>
+<p align="center">Iris Leong Shan (Liang Shan)&nbsp;</p>
 </td>
 </tr>
 <tr>
