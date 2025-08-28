@@ -95,23 +95,23 @@ through discipline, service and commitment.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><u>National Police Cadet Corps</u></strong>
+<p align="center"><strong><u>National Police Cadet Corps</u></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>Scouts</u></strong>
+<p align="center"><strong><u>Scouts</u></strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Roxette Tan</p>
-<p>Chen Yingjia Elisabeth</p>
-<p>Seow You Zhen Karel</p>
+<p align="center">Roxette Tan</p>
+<p align="center">Chen Yingjia Elisabeth</p>
+<p align="center">Seow You Zhen Karel</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chean Yu Xun</p>
-<p>Bay Ting Boon Darren</p>
+<p align="center">Chean Yu Xun</p>
+<p align="center">Bay Ting Boon Darren</p>
 </td>
 </tr>
 </tbody>
