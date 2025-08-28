@@ -38,8 +38,10 @@ sections:
       description: Manjusri Secondary’s Uniformed Groups carried on their proud
         tradition of attaining the unit pinnacle awards from all their
         respective Headquarters...
-      button: Button Text
+      button: click here to read more
       alt: Image alt text
+      url: /manjusrian-excellence-in-uniformed-groups-2025/
+      image: /images/Spotlight/2025 Uniform Group/UG_Award_2025.png
   - infopic:
       title: Manjusri Sec @ SYF Arts Presentations 2025
       subtitle: spotlight
