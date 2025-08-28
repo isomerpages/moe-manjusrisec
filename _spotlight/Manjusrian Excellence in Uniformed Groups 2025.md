@@ -54,6 +54,7 @@ through discipline, service and commitment.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Spotlight/2025 Uniform Group/Unifrom_Group_Logo.png">
 </div>
+<p></p>
 </td>
 </tr>
 </tbody>
