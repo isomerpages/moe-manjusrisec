@@ -25,28 +25,28 @@ through discipline, service and commitment.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Uniformed Group Unit Recognitions 2025</strong>
+<p align="center"><strong>Uniformed Group Unit Recognitions 2025</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>National Cadet Corps (Land) – Unit Recognition Award (Distinction)</p>
+<p align="center">National Cadet Corps (Land) – Unit Recognition Award (Distinction)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>National Police Cadet Corps – Unit Overall Proficiency Award (Distinction)</p>
+<p align="center">National Police Cadet Corps – Unit Overall Proficiency Award (Distinction)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Girl Guides – Puan Noor Aishah Award (Gold)</p>
+<p align="center">Girl Guides – Puan Noor Aishah Award (Gold)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Scouts – Frank Cooper Sands Award</p>
+<p align="center">Scouts – Frank Cooper Sands Award</p>
 </td>
 </tr>
 <tr>
@@ -67,30 +67,30 @@ through discipline, service and commitment.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>Kwan Im Thong Hood Cho Temple Scholarships (Uniformed Groups) Recipients 2025</strong>
+<p align="center"><strong>Kwan Im Thong Hood Cho Temple Scholarships (Uniformed Groups) Recipients 2025</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><u>Girl Guides</u></strong>
+<p align="center"><strong><u>Girl Guides</u></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>National Cadet Corps</u></strong>
+<p align="center"><strong><u>National Cadet Corps</u></strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Adele Ng Jing Xuan</p>
-<p>Loh Jesse</p>
-<p>Lua En Qi, Celine</p>
+<p align="center">Adele Ng Jing Xuan</p>
+<p align="center">Loh Jesse</p>
+<p align="center">Lua En Qi, Celine</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fong Ek Hun</p>
-<p>Enzo Sembiring Kembaran</p>
-<p>Tan Kian Chuan</p>
+<p align="center">Fong Ek Hun</p>
+<p align="center">Enzo Sembiring Kembaran</p>
+<p align="center">Tan Kian Chuan</p>
 </td>
 </tr>
 <tr>
