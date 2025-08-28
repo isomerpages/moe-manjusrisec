@@ -25,28 +25,28 @@ through discipline, service and commitment.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p align="center"><strong>Uniformed Group Unit Recognitions 2025</strong>
+<p><strong>Uniformed Group Unit Recognitions 2025</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p align="center">National Cadet Corps (Land) – Unit Recognition Award (Distinction)</p>
+<p>National Cadet Corps (Land) – Unit Recognition Award (Distinction)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p align="center">National Police Cadet Corps – Unit Overall Proficiency Award (Distinction)</p>
+<p>National Police Cadet Corps – Unit Overall Proficiency Award (Distinction)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p align="center">Girl Guides – Puan Noor Aishah Award (Gold)</p>
+<p>Girl Guides – Puan Noor Aishah Award (Gold)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p align="center">Scouts – Frank Cooper Sands Award</p>
+<p>Scouts – Frank Cooper Sands Award</p>
 </td>
 </tr>
 <tr>
@@ -58,5 +58,63 @@ through discipline, service and commitment.</p>
 </tr>
 </tbody>
 </table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Kwan Im Thong Hood Cho Temple Scholarships (Uniformed Groups) Recipients 2025</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><u>Girl Guides</u></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>National Cadet Corps</u></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Adele Ng Jing Xuan</p>
+<p>Loh Jesse</p>
+<p>Lua En Qi, Celine</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Fong Ek Hun</p>
+<p>Enzo Sembiring Kembaran</p>
+<p>Tan Kian Chuan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><u>National Police Cadet Corps</u></strong>
+</p>
+<p>Roxette Tan</p>
+<p>Chen Yingjia Elisabeth</p>
+<p>Seow You Zhen Karel</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Scouts</u></strong>
+</p>
+<p>Chean Yu Xun</p>
+<p>Bay Ting Boon Darren</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
