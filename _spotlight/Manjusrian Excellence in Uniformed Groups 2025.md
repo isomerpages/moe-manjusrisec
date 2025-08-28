@@ -54,9 +54,66 @@ through discipline, service and commitment.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Spotlight/2025 Uniform Group/Unifrom_Group_Logo.png">
 </div>
+<p></p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<p align="center"><strong>Kwan Im Thong Hood Cho Temple Scholarships (Uniformed Groups) Recipients 2025</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p align="center"><strong><u>Girl Guides</u></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p align="center"><strong><u>National Cadet Corps</u></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p align="center">Adele Ng Jing Xuan</p>
+<p align="center">Loh Jesse</p>
+<p align="center">Lua En Qi, Celine</p>
+</td>
+<td rowspan="1" colspan="1">
+<p align="center">Fong Ek Hun</p>
+<p align="center">Enzo Sembiring Kembaran</p>
+<p align="center">Tan Kian Chuan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p align="center"><strong><u>National Police Cadet Corps</u></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p align="center"><strong><u>Scouts</u></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p align="center">Roxette Tan</p>
+<p align="center">Chen Yingjia Elisabeth</p>
+<p align="center">Seow You Zhen Karel</p>
+</td>
+<td rowspan="1" colspan="1">
+<p align="center">Chean Yu Xun</p>
+<p align="center">Bay Ting Boon Darren</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
