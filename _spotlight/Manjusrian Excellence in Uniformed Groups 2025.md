@@ -25,28 +25,28 @@ through discipline, service and commitment.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Uniformed Group Unit Recognitions 2025</strong>
+<p align="center"><strong>Uniformed Group Unit Recognitions 2025</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>National Cadet Corps (Land) – Unit Recognition Award (Distinction)</p>
+<p align="center">National Cadet Corps (Land) – Unit Recognition Award (Distinction)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>National Police Cadet Corps – Unit Overall Proficiency Award (Distinction)</p>
+<p align="center">National Police Cadet Corps – Unit Overall Proficiency Award (Distinction)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Girl Guides – Puan Noor Aishah Award (Gold)</p>
+<p align="center">Girl Guides – Puan Noor Aishah Award (Gold)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Scouts – Frank Cooper Sands Award</p>
+<p align="center">Scouts – Frank Cooper Sands Award</p>
 </td>
 </tr>
 <tr>
