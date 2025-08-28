@@ -14,6 +14,10 @@ anniversary event held in April.</p>
 April 2025. It symbolically marked the handing over of the leadership torch
 by the senior cadets to their juniors for them to continue the good work
 through discipline, service and commitment.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2025 Uniform Group/UG_Award_2025.png">
+</div>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -47,7 +51,11 @@ through discipline, service and commitment.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2025 Uniform Group/Unifrom_Group_Logo.png">
+</div>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </td>
 </tr>
 </tbody>
