@@ -19,13 +19,11 @@ dalam konteks masyarakat majmuk Singapura dan masyarakat dunia.</p>
 <h3><strong>Our Programmes</strong></h3>
 <p><strong>母语周活动</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Passionate Learners/Mother Tongue/CL_google_site.png">
 </div>
 <p><strong>Aktiviti-aktiviti</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Passionate Learners/Mother Tongue/ML_Google_site.png">
 </div>
