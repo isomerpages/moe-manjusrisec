@@ -32,6 +32,16 @@ sections:
       alt: Image alt text
       image: /images/Spotlight/2025 O LEVEL MTL/MTL4.jpg
   - infopic:
+      title: Visit by Seki City Junior High Schools (Japan)
+      subtitle: spotlight
+      id: infopic
+      description: MJR welcomed a delegation of Japanese students, teachers and
+        officials from Seki City, Gifu Prefecture...
+      button: click here to read more
+      url: /visit-by-seki-city-junior-high-schools-japan/
+      image: /images/Spotlight/2025 Japan/Jap_4.jpg
+      alt: Image alt text
+  - infopic:
       title: Manjusrian Excellence in Uniformed Groups
       subtitle: spotlight
       id: infopic
@@ -60,7 +70,7 @@ sections:
       button: click here to read more
       url: /43rd-school-anniversary-award-presentation/
       alt: Image alt text
-      image: /images/Spotlight/2025 43 Anniversary/X1010086.png
+      image: /images/Spotlight/2025 43 Anniversary/X1010048.png
   - infopic:
       title: Chinese New Year Celebrations 2025
       subtitle: spotlight
