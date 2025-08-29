@@ -24,7 +24,7 @@ for CCA as well as a family hosting experience in the evening.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2025 Japan/Jap_6.jpg">
 </div>
-<p>Manjusri and Seki staff and students at school roundabout</p>
+<p style="font-size:14px" align="center">Manjusri and Seki staff and students at school roundabout</p>
 </td>
 </tr>
 <tr>
@@ -32,7 +32,7 @@ for CCA as well as a family hosting experience in the evening.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2025 Japan/Jap_1.jpg">
 </div>
-<p>Seki students posing with their creations of local dishes</p>
+<p style="font-size:14px" align="center">Seki students posing with their creations of local dishes</p>
 </td>
 </tr>
 <tr>
@@ -40,7 +40,7 @@ for CCA as well as a family hosting experience in the evening.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2025 Japan/Jap_2.jpg">
 </div>
-<p>Seki visitors joining a Chinese Calligraphy CCA session</p>
+<p style="font-size:14px" align="center">Seki visitors joining a Chinese Calligraphy CCA session</p>
 </td>
 </tr>
 </tbody>
@@ -64,7 +64,7 @@ are looking forward to visiting schools in Seki City in November 2025.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2025 Japan/Jap_4.jpg">
 </div>
-<p>Seki students after performing a traditional dance for our Secondary 3
+<p style="font-size:14px" align="center">Seki students after performing a traditional dance for our Secondary 3
 students</p>
 </td>
 </tr>
@@ -73,7 +73,7 @@ students</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2025 Japan/Jap_5.jpg">
 </div>
-<p>Group picture of Manjusri Sec and Seki Education Board staff</p>
+<p style="font-size:14px" align="center">Group picture of Manjusri Sec and Seki Education Board staff</p>
 </td>
 </tr>
 </tbody>
