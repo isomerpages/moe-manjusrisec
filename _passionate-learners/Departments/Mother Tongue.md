@@ -10,12 +10,14 @@ variant: tiptap
 <p>文殊中学的华文课程包括G1-G3华文和中华文学（选修）。</p>
 <p>华文课程遵循语言学习规律，注重技能训练，提高学生听说读写的能力，以及进一步培养学生综合运用语言的能力。课程也重视情意品德的培养以及对华族文化的认知与传承，从而提高学生的人文素养。在培养学生语言能力的同时，我校课程有意识地发展学生的全面思维能力，提高他们分析和解决问题的能力。请点击
 <a href="https://sites.google.com/moe.edu.sg/mjrclreadingsite/%E4%B8%BB%E9%A1%B5" rel="noopener noreferrer nofollow" target="_blank">文殊华文文化站</a>了解更多华文部的精彩活动。</p>
-<p>Program Bahasa Melayu peringkat sekolah menengah adalah untuk melengkapkan
-pelajar dengan kecekapan berbahasa dan membolehkan pelajar mendalami dan
-menghargai bahasa dan budaya masyarakat Melayu dalam pelanjutan pembangunan
-negara. Pelajar diharap akan berupaya untuk berkomunikasi dengan menggunakan
-bahasa Melayu baku bagi memenuhi keperluan diri dan membina hubungan sosial
-dalam konteks masyarakat majmuk Singapura dan masyarakat dunia.</p>
+<p>Di Sekolah Menengah Manjusri, Program Bahasa Melayu berhasrat untuk melahirkan
+pelajar yang yakin dan mahir bertutur serta menghargai keindahan bahasa
+dan budaya Melayu. Melalui pelbagai program, pertandingan dan pengalaman
+budaya, pelajar didedahkan kepada peluang autentik untuk berkomunikasi
+menggunakan Bahasa Melayu Baku, mendalami warisan, serta mengukuhkan ikatan
+dalam masyarakat majmuk Singapura dan komuniti dunia. Dengan itu, kami
+beraspirasi untuk <strong>memperkayakan setiap pelajar agar terus memartabatkan bahasa dan budaya Melayu</strong> serta
+menyumbang secara bermakna kepada pembangunan negara.</p>
 <h3><strong>Our Programmes</strong></h3>
 <p><strong>母语周活动</strong>
 </p>
