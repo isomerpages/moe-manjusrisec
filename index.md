@@ -60,7 +60,7 @@ sections:
       button: click here to read more
       url: /43rd-school-anniversary-award-presentation/
       alt: Image alt text
-      image: /images/Spotlight/2025 43 Anniversary/X1010086.png
+      image: /images/Spotlight/2025 43 Anniversary/X1010048.png
   - infopic:
       title: Chinese New Year Celebrations 2025
       subtitle: spotlight
