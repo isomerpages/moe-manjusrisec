@@ -6,7 +6,7 @@ description: ""
 ---
 <p>On 11 April, the school joyously celebrated its 43<sup>rd</sup> anniversary.
 &nbsp;The event was graced by our Guest-of-Honour, Mr Mohd Fahmi Bin Aliman,
-Mayor of the South East District, esteemed members of our School Management
+then Mayor of the South East District, esteemed members of our School Management
 Committee, award recipients past and present as well as their parents.</p>
 <p>The theme for this year’s occasion was ‘<em>For Wisdom and Compassion’</em>,
 two qualities that Manjusri Bodhisattva possessed and what we hope to nurture
