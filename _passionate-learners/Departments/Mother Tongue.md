@@ -23,8 +23,8 @@ dalam konteks masyarakat majmuk Singapura dan masyarakat dunia.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Passionate Learners/Mother Tongue/CL_google_site.png">
 </div>
 <p><strong>Aktiviti-aktiviti</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Passionate Learners/Mother Tongue/ML_Google_site.png">
-</div>
+</p><a class="isomer-image-wrapper" href="https://sites.google.com/moe.edu.sg/melayudimjr/lelaman-utama"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Passionate Learners/Mother Tongue/ML_Google_site.png"></a>
+<p>Sila tekan pautan ini untuk ke lelaman <a href="https://sites.google.com/moe.edu.sg/melayudimjr/lelaman-utama" rel="noopener nofollow" target="_blank">Google Site</a> Jabatan
+Bahasa Melayu.</p>
+<p>&nbsp;</p>
 <p></p>
