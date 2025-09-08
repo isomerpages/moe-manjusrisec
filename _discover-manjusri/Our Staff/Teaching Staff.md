@@ -81,7 +81,7 @@ variant: markdown
 |Name|Email| 
 | -------- | -------- | 
 |Mr Huang Yuanpeng|huang_yuanpeng@moe.edu.sg|
-|Ms  Kang Ching Choon Bryan |kang_ching_choon@moe.edu.sg|
+|Mr Kang Ching Choon Bryan |kang_ching_choon@moe.edu.sg|
 |Ms  Goh Layna|goh_layna@moe.edu.sg|
 |Ms  Nurul A'mirah Binte Mohd Kamal|nurul_amirah_mohd_kamal@moe.edu.sg|
 |Mdm Pan Ping|pan_ping@moe.edu.sg|
