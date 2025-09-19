@@ -9,7 +9,7 @@ variant: markdown
 
 <iframe width="628" height="353" src="https://www.youtube.com/embed/PE2ULlielR8" title="Manjusri Secondary School Song" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-<center>文殊师利， 智慧之光，<br>wén shū shī lì, zhì&nbsp;huì&nbsp;zhī&nbsp;guāng,<br>&nbsp;&nbsp;闪耀在青年学生的胸膛。<br>shăn yào zài qīng nían xué shēng dè xīong táng<br>远离贪嗔痴， 树立道德风范，&nbsp;<br>yuǎn lĭ&nbsp;tān chēn chī, shù lì dào dé fēng fàn,<br>指引学生向前方。<br>zhí yĭn xué shēng xiàng qián fāng.<br>启大慈悲， 普度众生，<br>qĭ dà cí bēi, pŭ dù zhòng shēng<br>&nbsp;&nbsp;挥智慧剑， 破除迷障。<br>huī zhì huī jìan, pò chú mí zhàng.<br>只等待雄狮奋起， 吼声震荡，<br>zhí dĕng dài xíong shī fèn qĭ, hǒu shēng zhèn dàng,<br>&nbsp;&nbsp;佛陀真理放光芒。<br>fó tuó zhēn lĭ fàng guāng máng. </center>
+<center>文殊师利， 智慧之光，<br>wén shū shī lì, zhì&nbsp;huì&nbsp;zhī&nbsp;guāng,<br>&nbsp;&nbsp;闪耀在青年学生的胸膛。<br>shăn yào zài qīng nían xué shēng dè xīong táng<br>远离贪嗔痴， 树立道德风范，&nbsp;<br>yuǎn lĭ&nbsp;tān chēn chī, shù lì dào dé fēng fàn,<br>指引学生向前方。<br>zhí yĭn xué shēng xiàng qián fāng.<br>启大慈悲， 普度众生，<br>qĭ dà cí bēi, pŭ dù zhòng shēng<br>&nbsp;&nbsp;挥智慧剑， 破除迷障。<br>huī zhì huī jìan, pò chú mí zhàng.<br>只等待雄狮奋起， 吼声震荡，<br>zhǐ dĕng dài xíong shī fèn qĭ, hǒu shēng zhèn dàng,<br>&nbsp;&nbsp;佛陀真理放光芒。<br>fó tuó zhēn lĭ fàng guāng máng. </center>
 
 ### **English Translation**
 
