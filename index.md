@@ -22,6 +22,16 @@ sections:
           url: /contact-us/school-contact-details/
       background: /images/homepage3.gif
   - infopic:
+      title: Goh Chok Tong NexGen Outstanding Student Leader Awards 2025
+      subtitle: spotlight
+      id: infopic
+      description: Four of our students were each conferred an award certificate and
+        plaque by the Marine Parade Leadership Foundation on 20 July 2025...
+      button: click here to read more
+      url: /goh-chok-tong-nexgen-outstanding-student-leader-awards-2025/
+      image: /images/Spotlight/2025 GCT Award/IMG_20250721_WA0000__2_.jpg
+      alt: Image alt text
+  - infopic:
       title: 2025 Mid-Year GCE O Level MTLs Exam Results
       subtitle: SPOTLIGHT
       id: infopic
