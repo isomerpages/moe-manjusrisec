@@ -17,6 +17,24 @@ image: /images/memory_lane.jpg
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
+<p>2025</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/change-of-vice-principals/" rel="noopener nofollow" target="_blank">Change of Vice Principals</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p>2024</p>
 </th>
 </tr>

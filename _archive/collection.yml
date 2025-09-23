@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - Change of Vice Principals.md
       - 2025 Secondary One Registration.md
       - School Canteen Advertisement.md
       - Overseas Exchange Trip to Schools in Japan.md
