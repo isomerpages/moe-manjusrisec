@@ -27,4 +27,7 @@ ambassador of the school</p>
 </li>
 </ul>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2025 Hero/Manjusri_Secondary_School__SSH_2025_.jpg">
+</div>
 <p></p>
