@@ -22,7 +22,7 @@ sections:
           url: /contact-us/school-contact-details/
       background: /images/homepage3.gif
   - infopic:
-      title: Goh Chok Tong NexGen Outstanding Student Leader Awards 2025
+      title: Goh Chok Tong NextGen Outstanding Student Leader Awards 2025
       subtitle: spotlight
       id: infopic
       description: Four of our students were each conferred an award certificate and
