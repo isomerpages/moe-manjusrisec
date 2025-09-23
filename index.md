@@ -32,6 +32,17 @@ sections:
       image: /images/Spotlight/2025 GCT Award/IMG_20250721_WA0000__2_.jpg
       alt: Image alt text
   - infopic:
+      title: Singapore Silent Heroes Student Awards 2025
+      subtitle: spotlight
+      id: infopic
+      description: This award is presented by Civilians Association (Singapore) to
+        students who have demonstrated dedication to inspiring the lives of
+        others or the environment...
+      button: click here to read more
+      url: /singapore-silent-heroes-student-awards-2025/
+      image: /images/Spotlight/2025 Hero/Manjusri_Secondary_School__SSH_2025_.jpg
+      alt: Image alt text
+  - infopic:
       title: 2025 Mid-Year GCE O Level MTLs Exam Results
       subtitle: SPOTLIGHT
       id: infopic
