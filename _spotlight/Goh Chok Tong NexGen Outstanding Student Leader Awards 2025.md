@@ -12,3 +12,7 @@ Mr Seah Kian Peng, Speaker of the Singapore Parliament.&nbsp; The student
 recipients are Ling Kheng Ying, Ng Jia Wei, Jasavelle Ang and Lian Kai
 Jun Kenji who are all from the graduating cohort of 2024.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2025 GCT Award/IMG_20250721_WA0000__2_.jpg">
+</div>
+<p></p>
