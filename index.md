@@ -62,6 +62,7 @@ sections:
       button: click here to read more
       url: /sg60-national-day-celebrations/
       alt: Image alt text
+      image: /images/Spotlight/2025 SG60/Picnic_3.jpg
   - infopic:
       title: Visit by Seki City Junior High Schools (Japan)
       subtitle: spotlight
