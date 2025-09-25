@@ -59,7 +59,6 @@ Centre Hall.</p>
 <p>Picnic at the Indoor Sports Hall (4F)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2025 SG60/Picnic_4.jpg">
 </div>
