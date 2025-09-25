@@ -4,3 +4,113 @@ permalink: /sg60-national-day-celebrations/
 variant: tiptap
 description: ""
 ---
+<p>In the spirit of the SG60 theme “<em>Building Our Singapore Together</em>”
+our students were tasked to find out more on various groups of people who
+had contributed in the background to allow Singapore to prosper over the
+past 60 years. &nbsp;Leading up to National Day, students learnt about
+these unsung heroes – the people who make significant contributions to
+society and improve our lives in ways that often go unnoticed including
+hawkers, transport workers, migrant workers, and our own MJR non-teaching
+staff. They then wrote thank-you messages to express their appreciation
+and gave them to these unsung heroes. These acts of kindness were recorded
+to foster gratitude and shown during our National Day celebrations to build
+a stronger sense of community.</p>
+<p>On the eve of National Day, all classes enjoyed a school-wide picnic to
+foster togetherness through communal celebration. &nbsp;Classes held their
+respective picnics at different locations across the campus, e.g. central
+garden and sheltered basketball courts.&nbsp; The Sec 4 classes also invited
+school support staff to join them for their picnics to show gratitude and
+appreciation. &nbsp;&nbsp;The celebration closed with concert performances
+and singing of national songs at our Multi-Purpose Hall.</p>
+<p>On National Day itself, our Girl Guides sent a contingent to participate
+in the Kembangan National Day Observance Ceremony held at Kampong Ubi Community
+Centre Hall.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
