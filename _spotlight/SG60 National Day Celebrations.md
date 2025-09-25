@@ -83,21 +83,29 @@ Centre Hall.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2025 SG60/Unsung_heroes_1__canteen_stallholder_.png">
+</div>
 <p>Canteen stallholders</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2025 SG60/Unsung_heroes_2__ICT_staff_.png">
+</div>
 <p>ICT support staff</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2025 SG60/Unsung_heroes_3__transport_.png">
+</div>
 <p>Transport workers</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2025 SG60/Unsung_heroes_4__migrant_workers_.png">
+</div>
 <p>Migrant workers</p>
 </td>
 </tr>
