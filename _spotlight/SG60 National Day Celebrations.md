@@ -40,7 +40,7 @@ Centre Hall.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2025 SG60/Picnic_1.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Spotlight/2025 SG60/Picnic_1.jpg">
 </div>
 <p>Picnic at the central garden (3C3)</p>
 </td>
@@ -54,7 +54,7 @@ Centre Hall.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2025 SG60/Picnic_3.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Spotlight/2025 SG60/Picnic_3.jpg">
 </div>
 <p>Picnic at the Indoor Sports Hall (4F)</p>
 </td>
@@ -84,7 +84,7 @@ Centre Hall.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2025 SG60/Unsung_heroes_1__canteen_stallholder_.png">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Spotlight/2025 SG60/Unsung_heroes_1__canteen_stallholder_.png">
 </div>
 <p>Canteen stallholders</p>
 </td>
@@ -98,7 +98,7 @@ Centre Hall.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2025 SG60/Unsung_heroes_3__transport_.png">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Spotlight/2025 SG60/Unsung_heroes_3__transport_.png">
 </div>
 <p>Transport workers</p>
 </td>
@@ -118,7 +118,7 @@ Centre Hall.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2025 SG60/kembangan1.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Spotlight/2025 SG60/kembangan1.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
