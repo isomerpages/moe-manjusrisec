@@ -86,7 +86,7 @@ Centre Hall.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 87%;" height="auto" width="100%" alt="" src="/images/Spotlight/2025 SG60/Unsung_heroes_1__canteen_stallholder_.png">
 </div>
-<p>Canteen stallholders</p>
+<p>Hawker</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
