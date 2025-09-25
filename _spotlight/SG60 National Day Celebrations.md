@@ -116,4 +116,3 @@ Senior Minister of State for Home Affairs) inspecting MJR Girl Guides contingent
 </tbody>
 </table>
 <p></p>
-<p>Canteen stallholders</p>
