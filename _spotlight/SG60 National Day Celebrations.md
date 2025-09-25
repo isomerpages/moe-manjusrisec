@@ -76,9 +76,27 @@ Centre Hall.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<p>Canteen stallholders</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<p>ICT support staff</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<p>Transport workers</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<p>Migrant workers</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Kembangan National Day Observance Ceremony</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -90,29 +108,12 @@ Centre Hall.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="2">
+<p>AP Muhammad Faisal Ibrahim (Acting Minister-in-charge of Muslim Affairs,
+Senior Minister of State for Home Affairs) inspecting MJR Girl Guides contingent</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
+<p>Canteen stallholders</p>
