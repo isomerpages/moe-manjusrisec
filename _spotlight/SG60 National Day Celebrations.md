@@ -32,43 +32,45 @@ Centre Hall.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
+<th rowspan="1" colspan="2">
+<p><strong>School National Day Picnic &amp; Concert</strong>
+</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<p>Picnic at the central garden (3C3)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Picnic at the parade square (2-5)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<p>Picnic at the Indoor Sports Hall (4F)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<p>Parents Support Group lending a hand</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<p>Student voices raised in song</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<p>Teachers flag waving in celebration</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Thanking unsung heroes who contribute to our community</strong>
+</p>
 </td>
 </tr>
 <tr>
