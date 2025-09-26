@@ -47,9 +47,6 @@ Centre Hall.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Spotlight/2025 SG60/Picnic_3.jpg">
-</div>
 <p>Picnic at the Indoor Sports Hall (4F)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -58,15 +55,28 @@ Centre Hall.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 87%;" height="auto" width="100%" alt="" src="/images/Spotlight/2025 SG60/Concert1.jpg">
-</div>
 <p>Student voices raised in song</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teachers flag waving in celebration</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
 <tr>
 <td rowspan="1" colspan="2">
 <p><strong>Thanking unsung heroes who contribute to our community</strong>
