@@ -33,22 +33,17 @@ Centre Hall.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<p align="center"><strong>School National Day Picnic &amp; Concert</strong>
+<p><strong>School National Day Picnic &amp; Concert</strong>
 </p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Spotlight/2025 SG60/Picnic_1.jpg">
-</div>
-<p align="center">Picnic at the central garden (3C3)</p>
+<p></p>
+<p>Picnic at the central garden (3C3)</p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 80%" height="auto" width="100%" alt="" src="/images/Spotlight/2025 SG60/Picnic_2.jpg">
-</div>
-<p align="center">Picnic at the parade square (2-5)</p>
+<p>Picnic at the parade square (2-5)</p>
 </td>
 </tr>
 <tr>
@@ -56,13 +51,13 @@ Centre Hall.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Spotlight/2025 SG60/Picnic_3.jpg">
 </div>
-<p align="center">Picnic at the Indoor Sports Hall (4F)</p>
+<p>Picnic at the Indoor Sports Hall (4F)</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2025 SG60/Picnic_4.jpg">
 </div>
-<p align="center">Parents Support Group lending a hand</p>
+<p>Parents Support Group lending a hand</p>
 </td>
 </tr>
 <tr>
@@ -70,18 +65,18 @@ Centre Hall.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 87%;" height="auto" width="100%" alt="" src="/images/Spotlight/2025 SG60/Concert1.jpg">
 </div>
-<p align="center">Student voices raised in song</p>
+<p>Student voices raised in song</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2025 SG60/Concert2.jpg">
 </div>
-<p align="center">Teachers flag waving in celebration</p>
+<p>Teachers flag waving in celebration</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p align="center"><strong>Thanking unsung heroes who contribute to our community</strong>
+<p><strong>Thanking unsung heroes who contribute to our community</strong>
 </p>
 </td>
 </tr>
@@ -90,13 +85,13 @@ Centre Hall.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 87%;" height="auto" width="100%" alt="" src="/images/Spotlight/2025 SG60/Unsung_heroes_1__canteen_stallholder_.png">
 </div>
-<p align="center">Hawker</p>
+<p>Hawker</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2025 SG60/Unsung_heroes_2__ICT_staff_.png">
 </div>
-<p align="center">ICT support staff</p>
+<p>ICT support staff</p>
 </td>
 </tr>
 <tr>
@@ -104,18 +99,18 @@ Centre Hall.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 87%;" height="auto" width="100%" alt="" src="/images/Spotlight/2025 SG60/Unsung_heroes_3__transport_.png">
 </div>
-<p align="center">Transport workers</p>
+<p>Transport workers</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2025 SG60/Unsung_heroes_4__migrant_workers_.png">
 </div>
-<p align="center">Migrant workers</p>
+<p>Migrant workers</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p align="center"><strong>Kembangan National Day Observance Ceremony</strong>
+<p><strong>Kembangan National Day Observance Ceremony</strong>
 </p>
 </td>
 </tr>
@@ -133,7 +128,7 @@ Centre Hall.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p align="center">AP Muhammad Faisal Ibrahim (Acting Minister-in-charge of Muslim Affairs,
+<p>AP Muhammad Faisal Ibrahim (Acting Minister-in-charge of Muslim Affairs,
 Senior Minister of State for Home Affairs) inspecting MJR Girl Guides contingent</p>
 </td>
 </tr>
