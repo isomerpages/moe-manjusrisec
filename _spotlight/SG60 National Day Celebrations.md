@@ -78,7 +78,7 @@ Centre Hall.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 82%;" height="auto" width="100%" alt="" src="/images/Spotlight/2025 SG60/Unsung_heroes_1__canteen_stallholder_.png">
+<img style="width: 96%;" height="auto" width="100%" alt="" src="/images/Spotlight/2025 SG60/Unsung_heroes_1__canteen_stallholder_.png">
 </div>
 <p>Hawker</p>
 </td>
@@ -92,7 +92,7 @@ Centre Hall.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 82%;" height="auto" width="100%" alt="" src="/images/Spotlight/2025 SG60/Unsung_heroes_3__transport_.png">
+<img style="width: 96%;" height="auto" width="100%" alt="" src="/images/Spotlight/2025 SG60/Unsung_heroes_3__transport_.png">
 </div>
 <p>Transport workers</p>
 </td>
@@ -103,31 +103,29 @@ Centre Hall.</p>
 <p>Migrant workers</p>
 </td>
 </tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
 <tr>
-<td rowspan="1" colspan="2">
+<th rowspan="1" colspan="2">
 <p><strong>Kembangan National Day Observance Ceremony</strong>
 </p>
-</td>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 82%;" height="auto" width="100%" alt="" src="/images/Spotlight/2025 SG60/kembangan1.jpg">
-</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2025 SG60/kembangan2.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>AP Muhammad Faisal Ibrahim (Acting Minister-in-charge of Muslim Affairs,
-Senior Minister of State for Home Affairs) inspecting MJR Girl Guides contingent</p>
+<p></p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
+<p>AP Muhammad Faisal Ibrahim (Acting Minister-in-charge of Muslim Affairs,
+Senior Minister of State for Home Affairs) inspecting MJR Girl Guides contingent</p>
