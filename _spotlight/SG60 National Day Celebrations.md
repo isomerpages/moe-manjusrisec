@@ -39,7 +39,6 @@ Centre Hall.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <p>Picnic at the central garden (3C3)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -54,9 +53,6 @@ Centre Hall.</p>
 <p>Picnic at the Indoor Sports Hall (4F)</p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2025 SG60/Picnic_4.jpg">
-</div>
 <p>Parents Support Group lending a hand</p>
 </td>
 </tr>
@@ -68,9 +64,6 @@ Centre Hall.</p>
 <p>Student voices raised in song</p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2025 SG60/Concert2.jpg">
-</div>
 <p>Teachers flag waving in celebration</p>
 </td>
 </tr>
@@ -134,4 +127,5 @@ Senior Minister of State for Home Affairs) inspecting MJR Girl Guides contingent
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
