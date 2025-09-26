@@ -46,7 +46,7 @@ Centre Hall.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 90%" height="auto" width="100%" alt="" src="/images/Spotlight/2025 SG60/Picnic_2.jpg">
+<img style="width: 80%" height="auto" width="100%" alt="" src="/images/Spotlight/2025 SG60/Picnic_2.jpg">
 </div>
 <p align="center">Picnic at the parade square (2-5)</p>
 </td>
