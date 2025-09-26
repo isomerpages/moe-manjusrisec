@@ -53,6 +53,17 @@ sections:
       alt: Image alt text
       image: /images/Spotlight/2025 O LEVEL MTL/MTL4.jpg
   - infopic:
+      title: SG60 National Day Celebrations
+      subtitle: spotlight
+      id: infopic
+      description: In the spirit of the SG60 theme “Building Our Singapore Together”
+        our students were tasked to find out more on various groups of people
+        who had contributed ...
+      button: click here to read more
+      url: /sg60-national-day-celebrations/
+      alt: Image alt text
+      image: /images/Spotlight/2025 SG60/Picnic_3.jpg
+  - infopic:
       title: Visit by Seki City Junior High Schools (Japan)
       subtitle: spotlight
       id: infopic
