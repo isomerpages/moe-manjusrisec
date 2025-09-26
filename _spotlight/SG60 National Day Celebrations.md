@@ -40,7 +40,7 @@ Centre Hall.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2025 SG60/Picnic_1.jpg">
+<img style="width: 98%" height="auto" width="100%" alt="" src="/images/Spotlight/2025 SG60/Picnic_1.jpg">
 </div>
 <p align="center">Picnic at the central garden (3C3)</p>
 </td>
@@ -54,7 +54,7 @@ Centre Hall.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2025 SG60/Picnic_3.jpg">
+<img style="width: 98%" height="auto" width="100%" alt="" src="/images/Spotlight/2025 SG60/Picnic_3.jpg">
 </div>
 <p align="center">Picnic at the Indoor Sports Hall (4F)</p>
 </td>
@@ -68,7 +68,7 @@ Centre Hall.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Spotlight/2025 SG60/Concert1.jpg">
+<img style="width: 98%;" height="auto" width="100%" alt="" src="/images/Spotlight/2025 SG60/Concert1.jpg">
 </div>
 <p align="center">Student voices raised in song</p>
 </td>
