@@ -86,13 +86,13 @@ Centre Hall.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 87%;" height="auto" width="100%" alt="" src="/images/Spotlight/2025 SG60/Unsung_heroes_1__canteen_stallholder_.png">
+<img style="width: 82%;" height="auto" width="100%" alt="" src="/images/Spotlight/2025 SG60/Unsung_heroes_1__canteen_stallholder_.png">
 </div>
 <p>Hawker</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2025 SG60/Unsung_heroes_2__ICT_staff_.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Spotlight/2025 SG60/Unsung_heroes_2__ICT_staff_.png">
 </div>
 <p>ICT support staff</p>
 </td>
@@ -100,7 +100,7 @@ Centre Hall.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 87%;" height="auto" width="100%" alt="" src="/images/Spotlight/2025 SG60/Unsung_heroes_3__transport_.png">
+<img style="width: 82%;" height="auto" width="100%" alt="" src="/images/Spotlight/2025 SG60/Unsung_heroes_3__transport_.png">
 </div>
 <p>Transport workers</p>
 </td>
@@ -120,7 +120,7 @@ Centre Hall.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 87%;" height="auto" width="100%" alt="" src="/images/Spotlight/2025 SG60/kembangan1.jpg">
+<img style="width: 82%;" height="auto" width="100%" alt="" src="/images/Spotlight/2025 SG60/kembangan1.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
