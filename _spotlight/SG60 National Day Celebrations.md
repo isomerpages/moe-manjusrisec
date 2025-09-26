@@ -68,13 +68,13 @@ Centre Hall.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2025 SG60/Concert1.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Spotlight/2025 SG60/Concert1.jpg">
 </div>
 <p>Student voices raised in song</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 96%;" height="auto" width="100%" alt="" src="/images/Spotlight/2025 SG60/Concert2b.jpg">
+<img style="width: 94%;" height="auto" width="100%" alt="" src="/images/Spotlight/2025 SG60/Concert2b.jpg">
 </div>
 <p>Teachers flag waving in celebration</p>
 </td>
