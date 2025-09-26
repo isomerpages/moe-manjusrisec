@@ -102,7 +102,7 @@ Centre Hall.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Spotlight/2025 SG60/Unsung_heroes_2__ICT_staff_.png">
+<img style="width: 99%;" height="auto" width="100%" alt="" src="/images/Spotlight/2025 SG60/Unsung_heroes_2__ICT_staff_.png">
 </div>
 <p align="center">ICT support staff</p>
 </td>
