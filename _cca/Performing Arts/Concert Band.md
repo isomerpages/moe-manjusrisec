@@ -16,8 +16,7 @@ favourites, the band strives hard to achieve its vision of musical excellence.</
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ovvRhOLCTAY"></iframe>
 </div>
 <h3><strong>Training Schedule</strong></h3>
-<p>Monday and Thursday 3-6pm (Combined)
-<br>Wednesday 3-5pm (Self-Practice)</p>
+<p>Monday and Thursday 3-6pm (Combined)</p>
 <h3><strong>Our Teachers</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
