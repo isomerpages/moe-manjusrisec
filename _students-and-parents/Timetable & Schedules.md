@@ -21,6 +21,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="/files/Timetable &amp; Schedules/2025 TT/2025_Sec_3Extended_Student_TT_Final.pdf" rel="noopener nofollow" target="_blank">Sec 3 Extended Timetable</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="/files/Timetable &amp; Schedules/2025 TT/MJR_Semester_2_Secondary_1_Class_Timetable_26_June_2025.pdf" rel="noopener nofollow" target="_blank">Sec 1</a>
 </p>
 </td>
