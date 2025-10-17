@@ -21,6 +21,8 @@ sections:
           description: ""
           url: /contact-us/school-contact-details/
       background: /images/Open House/2025_Open__House_Banner_FINAL_15102025_v2.jpg
+      button: Open house
+      url: /open-house-2025/
   - infopic:
       title: Goh Chok Tong NextGen Outstanding Student Leader Awards 2025
       subtitle: spotlight
