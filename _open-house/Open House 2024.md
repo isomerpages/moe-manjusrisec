@@ -63,7 +63,7 @@ register</p>
 </table>
 <p>Catch a glimpse of our school programme and events.</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/x4t-z8u7jJE?si=KXXDw5zZtCTXid0L"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/zc1JGWRg3lY?si=KXXDw5zZtCTXid0L"></iframe>
 </div>
 <p></p>
 <p></p>
