@@ -135,15 +135,4 @@ sections:
       url: /gce-n-level-exam-results-2024/
       image: /images/Spotlight/2025 N Level Result/insta2.jpg
       alt: Image alt text
-  - infopic:
-      title: MJR Presents @ RELC International Conference 2025
-      subtitle: spotlight
-      id: infopic
-      description: Manjusri Sec EL teachers, presented a paper on ‘Integrating
-        Generative AI in Enhancing Students’ Writing Skills’ at the 59th RELC
-        International Conference...
-      button: click here to read more
-      url: /mjr-presents-relc-international-conference-2025/
-      alt: Image alt text
-      image: /images/Spotlight/2025 RELC/Relc__5_.jpg
 ---
