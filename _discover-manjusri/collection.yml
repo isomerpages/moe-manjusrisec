@@ -2,7 +2,6 @@ collections:
   discover-manjusri:
     output: true
     order:
-      - Open House 2025.md
       - A Story on Manjusri Bodhisattva.md
       - Our School.md
       - School Management Committee.md
@@ -19,3 +18,4 @@ collections:
       - Direct School Admission/Introduction to DSA Sec@Manjusri.md
       - Direct School Admission/Criteria and Selection Process.md
       - Direct School Admission/Key Dates.md
+      - Open House 2025.md
