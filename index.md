@@ -20,7 +20,7 @@ sections:
         - title: Contact
           description: ""
           url: /contact-us/school-contact-details/
-      background: /images/Open House/Banner.png
+      background: /images/Open House/2025_Open__House_Banner_FINAL_15102025_v3.jpg
       button: Open house (click here to register)
       url: /open-house-2025/
   - infopic:
