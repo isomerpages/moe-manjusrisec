@@ -5,6 +5,9 @@ description: ""
 variant: tiptap
 ---
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Open House/2025_Open__House_Banner_FINAL_15102025_v2.jpg">
+</div>
 <p><strong>Programme:</strong>
 </p>
 <table style="minWidth: 50px">
@@ -65,5 +68,4 @@ register</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/zc1JGWRg3lY?si=KXXDw5zZtCTXid0L"></iframe>
 </div>
-<p></p>
 <p></p>
