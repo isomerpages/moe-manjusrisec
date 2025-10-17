@@ -22,6 +22,12 @@ image: /images/memory_lane.jpg
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="/mjr-presents-relc-international-conference-2025/" rel="noopener nofollow" target="_blank">MJR Presents @ RELC International Conference 2025</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="/change-of-vice-principals/" rel="noopener nofollow" target="_blank">Change of Vice Principals</a>
 </p>
 </td>
