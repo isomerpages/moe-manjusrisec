@@ -30,8 +30,10 @@ sections:
       description: As part of our school’s commitment to nurturing environmentally
         responsible citizens, students from Secondary 3A participated in a Joint
         E-Waste Collection ...
-      button: Button Text
+      button: click here to read more
       alt: Image alt text
+      url: /joint-ewaste-collection-drive-in-ubi/
+      image: /images/Spotlight/2025 ewaste/ewaste1.jpg
   - infopic:
       title: Goh Chok Tong NextGen Outstanding Student Leader Awards 2025
       subtitle: spotlight
