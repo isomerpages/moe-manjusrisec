@@ -24,6 +24,17 @@ sections:
       button: Open house (click here to register)
       url: /open-house-2025/
   - infopic:
+      title: Joint e-Waste Collection Drive in Ubi
+      subtitle: spotlight
+      id: infopic
+      description: As part of our school’s commitment to nurturing environmentally
+        responsible citizens, students from Secondary 3A participated in a Joint
+        E-Waste Collection ...
+      button: click here to read more
+      alt: Image alt text
+      url: /joint-ewaste-collection-drive-in-ubi/
+      image: /images/Spotlight/2025 ewaste/ewaste1.jpg
+  - infopic:
       title: Goh Chok Tong NextGen Outstanding Student Leader Awards 2025
       subtitle: spotlight
       id: infopic
