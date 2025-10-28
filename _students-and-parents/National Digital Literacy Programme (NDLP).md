@@ -287,6 +287,16 @@ or Lenovo Service Centre regarding issues with PLD.</p>
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><sup>Acceptable User Policy</sup>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Ndlp/Acceptable_Use_Policy__AUP__MJR.pdf" rel="noopener nofollow" target="_blank"><sup>Acceptable User Policy</sup></a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
