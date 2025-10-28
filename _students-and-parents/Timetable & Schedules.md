@@ -74,11 +74,6 @@ variant: tiptap
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <table style="minWidth: 25px">
@@ -99,7 +94,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Timetable &amp; Schedules/2025 TT/2025_Nov_Dec_CCA_Schedule.pdf" rel="noopener nofollow" target="_blank">CCA Nov and Dec Schedule</a>
+<p><a href="/files/Timetable &amp; Schedules/2025 TT/2025_Nov_Dec_CCA_Schedule_Updated_23_Oct_v2.pdf" rel="noopener nofollow" target="_blank">Nov &amp; Dec CCA Schedule</a>
 </p>
 </td>
 </tr>
