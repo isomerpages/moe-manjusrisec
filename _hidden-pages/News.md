@@ -18,18 +18,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/collection-of-school-graduation-certificate-sgc-for-2024-secondary-4-na-students/" rel="noopener nofollow" target="_blank">Collection of School Graduation Certificate (SGC) for 2024 Secondary 4 NA students</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/collection-of-school-graduation-certificate-sgc-for-2024-sec-4-express-sec-4-nt-sec-5-students/" rel="noopener nofollow" target="_blank">Collection of School Graduation Certificate (SGC) for 2024 Secondary 4 Express, Secondary 4 NT &amp; Secondary 5 students</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
