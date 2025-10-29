@@ -97,7 +97,8 @@ below:</p>
 <td rowspan="1" colspan="1">
 <p>Transport Subsidy</p>
 <p>Additional School Subsidy</p>
-<p>(NOT APPLICALBE TO STUDENTS STAYING IN UBI)</p>
+<p><strong>(NOT APPLICALBE TO STUDENTS STAYING IN UBI)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>$ 21 per month or $ 252 per annum</p>
