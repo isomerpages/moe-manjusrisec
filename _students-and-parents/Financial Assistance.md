@@ -99,15 +99,7 @@ below:</p>
 <p>$21 per month or $252 per annum</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
-<p>Students who wish to apply for the scheme can click on this link <a href="https://go.gov.sg/moe-efasggas" rel="noopener nofollow" target="_blank">2026 E-FAS </a>
+<p>Students who wish to apply for the scheme can click on this link <a href="https://go.gov.sg/moe-efasggas" rel="noopener nofollow" target="_blank">2026 E-FAS</a>
 </p>
