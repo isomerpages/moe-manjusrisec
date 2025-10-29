@@ -41,7 +41,7 @@ below:</p>
 <p>School Fees</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Full waiver of $5.00 per month</p>
+<p>Full subsidy of $5.00 per month</p>
 </td>
 </tr>
 <tr>
@@ -49,7 +49,7 @@ below:</p>
 <p>Standard Miscellaneous Fee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Full waiver of $10.00 per month</p>
+<p>Full subsidy of $20.00 per month</p>
 </td>
 </tr>
 <tr>
@@ -65,15 +65,44 @@ below:</p>
 <p>School attire</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Free school attire</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Uniforms (2 sets)</p>
+</li>
+<li>
+<p>PE attire (2 sets)</p>
+</li>
+<li>
+<p>Shoes (1 pair)</p>
+</li>
+<li>
+<p>Socks (2 pairs)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School Meal Subsidy</p>
+<p><em>Additional School Subsidy</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$ 4.10 per meal for 10 meals per school week</p>
+<p><em>$ 0.40 per meal for 10 meals per school week</em>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Transport Subsidy</p>
+<p>Additional School Subsidy</p>
+<p>(NOT APPLICALBE TO STUDENTS STAYING IN UBI)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$204 transport credit per annum for students taking public transport</p>
+<p>$ 21 per month or $ 252 per annum</p>
+<p><em>$ 3 per month or $ 36 per annum</em> in the form of an E-Voucher redeemable
+at Transitlink Add Value Machines (AVMs)</p>
 </td>
 </tr>
 </tbody>
