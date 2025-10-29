@@ -96,8 +96,10 @@ below:</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Transport Subsidy</p>
-<p>Additional School Subsidy</p>
-<p><strong>(NOT APPLICALBE TO STUDENTS STAYING IN UBI)</strong>
+<p></p>
+<p><em>Additional School Subsidy</em>
+</p>
+<p><strong>(NOT APPLICABLE TO STUDENTS STAYING IN UBI)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
