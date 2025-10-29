@@ -101,17 +101,11 @@ below:</p>
 </tr>
 </tbody>
 </table>
-<ul data-tight="true" class="tight">
-<li>
-<p>First-time users are to present their School Smartcard to the General
+<p>*First-time users are to present their School Smartcard to the General
 Office for a one-time activation when school reopens.</p>
-</li>
-<li>
 <p>**Redemption of E-voucher is from 28th of the month to the 10th of the
 following month. <strong>Please note if your child fails to redeem the voucher for 3 consecutive months, this transport voucher will be revoked for the subsequent month(s).</strong>
 </p>
-</li>
-</ul>
-<p>Parents and Students who wish to apply for the scheme can click on this
+<p>Parents or Students who wish to apply for the scheme can click on this
 link <a href="https://go.gov.sg/moe-efasggas" rel="noopener nofollow" target="_blank">2026 E-FAS</a>
 </p>
