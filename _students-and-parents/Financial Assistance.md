@@ -112,5 +112,6 @@ following month. <strong>Please note if your child fails to redeem the voucher f
 </p>
 </li>
 </ul>
-<p>Students who wish to apply for the scheme can click on this link <a href="https://go.gov.sg/moe-efasggas" rel="noopener nofollow" target="_blank">2026 E-FAS</a>
+<p>Parents and Students who wish to apply for the scheme can click on this
+link <a href="https://go.gov.sg/moe-efasggas" rel="noopener nofollow" target="_blank">2026 E-FAS</a>
 </p>
