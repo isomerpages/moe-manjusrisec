@@ -13,10 +13,10 @@ below:</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Gross household income ≤ $3000 per month; or</p>
+<p>Gross household income ≤ $4000 per month; or</p>
 </li>
 <li>
-<p>Per capita income ≤ $750.00 per month</p>
+<p>Per capita income ≤ $1000 per month</p>
 </li>
 </ul>
 <p><strong>Benefit Under Scheme</strong>
@@ -85,26 +85,18 @@ below:</p>
 <td rowspan="1" colspan="1">
 <p>School Meal Subsidy</p>
 <p></p>
-<p><em>Additional School Subsidy</em>
-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$ 4.10 per meal for 10 meals per school week</p>
-<p><em>$ 0.40 per meal for 10 meals per school week</em>
-</p>
+<p>$4.10 per meal for 10 meals per school week</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Transport Subsidy</p>
 <p></p>
-<p><em>Additional School Subsidy </em><strong>(NOT APPLICABLE TO STUDENTS STAYING IN UBI)</strong>
-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$ 21 per month or $ 252 per annum</p>
-<p><em>$ 3 per month or $ 36 per annum</em> in the form of an E-Voucher redeemable
-at Transitlink Add Value Machines (AVMs)</p>
+<p>$21 per month or $252 per annum</p>
 </td>
 </tr>
 <tr>
@@ -117,6 +109,5 @@ at Transitlink Add Value Machines (AVMs)</p>
 </tr>
 </tbody>
 </table>
-<p>Students who wish to apply for the scheme can obtain the&nbsp;<a href="/files/FAS/FAS_2025.pdf" rel="noopener nofollow" target="_blank">Application Form</a>&nbsp;from
-General Office and submit the application form together with the relevant
-documents to their Form Teachers.</p>
+<p>Students who wish to apply for the scheme can click on this link <a href="https://go.gov.sg/moe-efasggas" rel="noopener nofollow" target="_blank">2026 E-FAS </a>
+</p>
