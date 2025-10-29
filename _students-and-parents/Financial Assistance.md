@@ -96,7 +96,8 @@ below:</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$21 per month or $252 per annum</p>
+<p>$21 per month or $252 per annum in the form of an E-Voucher redeemable
+at Transitlink Add Value Machines (AVMs)</p>
 </td>
 </tr>
 </tbody>
