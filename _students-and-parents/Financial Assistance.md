@@ -107,6 +107,14 @@ below:</p>
 at Transitlink Add Value Machines (AVMs)</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <p>Students who wish to apply for the scheme can obtain the&nbsp;<a href="/files/FAS/FAS_2025.pdf" rel="noopener nofollow" target="_blank">Application Form</a>&nbsp;from
