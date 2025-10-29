@@ -107,7 +107,9 @@ below:</p>
 Office for a one-time activation when school reopens.</p>
 </li>
 <li>
-<p>**</p>
+<p>**Redemption of E-voucher is from 28th of the month to the 10th of the
+following month. <strong>Please note if your child fails to redeem the voucher for 3 consecutive months, this transport voucher will be revoked for the subsequent month(s).</strong>
+</p>
 </li>
 </ul>
 <p>Students who wish to apply for the scheme can click on this link <a href="https://go.gov.sg/moe-efasggas" rel="noopener nofollow" target="_blank">2026 E-FAS</a>
