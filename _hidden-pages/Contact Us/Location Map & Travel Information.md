@@ -23,12 +23,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Bus Services:</strong>&nbsp;63/63M/137</p>
+<p><strong>Bus Services:</strong>&nbsp;63/63M/137 - 2 minutes walking distance</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Nearest MRT Station:</strong>&nbsp;Ubi MRT (DT27 line)</p>
+<p><strong>Nearest MRT Station:</strong>&nbsp;Ubi MRT (DT27 line) – 10 minutes
+walking distance</p>
 </td>
 </tr>
 </tbody>
