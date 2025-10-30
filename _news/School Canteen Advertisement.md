@@ -4,9 +4,8 @@ permalink: /school-canteen-advertisement/
 variant: markdown
 description: ""
 ---
-<p>#### School Canteen Advertisement
-
 | Type of Stall | Closing Date | Requirements |
+| -------- | -------- | -------- |
 | Vegetarian Food Stall (Buddhist)| 10 Nov 2025 | Rice and Noodles acceptable |
 
 **Application Procedure**
@@ -36,6 +35,7 @@ description: ""
 * Healthy and fit to operate the stall.
 * Must be in personal attendance at the stall during operation hours
 * Applicant must abide by the rules and regulations set by the school
+
 **Applicants should preferably fulfil the following criteria:**
 * Successful applicant and stall assistant(s) must possess the WSQ Basic Food Hygiene Certificate.
 * Possess catering experience or experience operating in a school environment.
@@ -43,4 +43,4 @@ description: ""
 * Understands and reads English, for e.g. WhatsApp messages.
 
 *Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's own expense.  Applicant’s NRIC (photocopy with front and back on same page) will be required if applicant is shortlisted for interview. *
-</p>
+<p></p>
