@@ -13,10 +13,10 @@ below:</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Gross household income ≤ $3000 per month; or</p>
+<p>Gross household income ≤ $4000 per month; or</p>
 </li>
 <li>
-<p>Per capita income ≤ $750.00 per month</p>
+<p>Per capita income ≤ $1000 per month</p>
 </li>
 </ul>
 <p><strong>Benefit Under Scheme</strong>
@@ -41,7 +41,7 @@ below:</p>
 <p>School Fees</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Full waiver of $5.00 per month</p>
+<p>Full subsidy of $5.00 per month</p>
 </td>
 </tr>
 <tr>
@@ -49,7 +49,7 @@ below:</p>
 <p>Standard Miscellaneous Fee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Full waiver of $10.00 per month</p>
+<p>Full subsidy of $20.00 per month</p>
 </td>
 </tr>
 <tr>
@@ -65,19 +65,47 @@ below:</p>
 <p>School attire</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Free school attire</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Uniforms (2 sets)</p>
+</li>
+<li>
+<p>PE attire (2 sets)</p>
+</li>
+<li>
+<p>Shoes (1 pair)</p>
+</li>
+<li>
+<p>Socks (2 pairs)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Transport Subsidy</p>
+<p>School Meal Subsidy*</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$204 transport credit per annum for students taking public transport</p>
+<p>$4.10 per meal for 10 meals per school week</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Transport Subsidy**</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$21 per month or $252 per annum in the form of an E-Voucher redeemable
+at Transitlink Add Value Machines (AVMs)</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>Students who wish to apply for the scheme can obtain the&nbsp;<a href="/files/FAS/FAS_2025.pdf" rel="noopener nofollow" target="_blank">Application Form</a>&nbsp;from
-General Office and submit the application form together with the relevant
-documents to their Form Teachers.</p>
+<p><sup>*First-time users are to present their School Smartcard to the General Office for a one-time activation when school reopens.</sup>
+</p>
+<p><sup>**Redemption of E-voucher is from 28th of the month to the 10th of the following month. </sup><strong><sup>Please note if your child fails to redeem the voucher for 3 consecutive months, this transport voucher will be revoked for the subsequent month(s).</sup></strong>
+</p>
+<p>Parents or Students who wish to apply for the scheme can click on this
+link <a href="https://go.gov.sg/moe-efasggas" rel="noopener nofollow" target="_blank">2026 E-FAS</a>
+</p>
