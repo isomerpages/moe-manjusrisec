@@ -11,5 +11,28 @@ variant: tiptap
 </div>
 <p><strong>Travel Information</strong>
 </p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Bus Services:</strong>&nbsp;63/63M/137</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Nearest MRT Station:</strong>&nbsp;Ubi MRT (DT27 line)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
+<p></p>
