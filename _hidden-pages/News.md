@@ -18,7 +18,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/school-canteen-advertisement/" rel="noopener nofollow" target="_blank">School Canteen Advertisement</a>
+</p>
 </td>
 </tr>
 </tbody>
