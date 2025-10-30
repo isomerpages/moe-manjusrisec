@@ -39,8 +39,8 @@ description: ""
 </p>
 <ol>
 <li>
-<p>Download and complete the application form. You may also request for a
-hardcopy from the School’s General Office.</p>
+<p><a href="/files/News/application for canteen stall.pdf" rel="noopener nofollow" target="_blank">Download and complete the application form.</a> You
+may also request for a hardcopy from the School’s General Office.</p>
 </li>
 <li>
 <p>Attached the following documents together with the application form:</p>
