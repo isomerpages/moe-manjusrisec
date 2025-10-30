@@ -18,11 +18,6 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Bus Services:</strong>&nbsp;63/63M/137 - 2 minutes walking distance</p>
 </td>
 </tr>
