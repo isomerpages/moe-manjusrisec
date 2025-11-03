@@ -11,61 +11,32 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>2025 Booklist</p>
+<p>2026 Booklist</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Textbooks &amp; Uniforms/2025 booklist/2025_S1_Booklist.pdf" rel="noopener nofollow" target="_blank">Sec 1</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Textbooks &amp; Uniforms/2025 booklist/2025_S2_Booklist.pdf" rel="noopener nofollow" target="_blank">Sec 2</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Textbooks &amp; Uniforms/2025 booklist/2025_S3_NT__Booklist.pdf" rel="noopener nofollow" target="_blank">Sec 3 NT</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Textbooks &amp; Uniforms/2025 booklist/2025_S3_NA__Booklist.pdf" rel="noopener nofollow" target="_blank">Sec 3 NA</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Textbooks &amp; Uniforms/2025 booklist/2025_S3_EXP__Booklist.pdf" rel="noopener nofollow" target="_blank">Sec 3 EXP</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Textbooks &amp; Uniforms/2025 booklist/2025_S4_NT__Booklist.pdf" rel="noopener nofollow" target="_blank">Sec 4 NT</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Textbooks &amp; Uniforms/2025 booklist/2025_S4_NA__Booklist.pdf" rel="noopener nofollow" target="_blank">Sec 4 NA</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Textbooks &amp; Uniforms/2025 booklist/2025_S4_EXP__Booklist.pdf" rel="noopener nofollow" target="_blank">Sec 4 EXP</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Textbooks &amp; Uniforms/2025 booklist/2025_S5_NA__Booklist.pdf" rel="noopener nofollow" target="_blank">Sec 5 NA</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
