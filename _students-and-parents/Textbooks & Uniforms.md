@@ -16,27 +16,32 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Textbooks &amp; Uniforms/2026 Booklist/2026_Secondary_1_Booklist.pdf" rel="noopener nofollow" target="_blank">Sec 1</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Textbooks &amp; Uniforms/2026 Booklist/2026_Secondary_2_Booklist.pdf" rel="noopener nofollow" target="_blank">Sec 2</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Textbooks &amp; Uniforms/2026 Booklist/2026_Secondary_3_Booklist.pdf" rel="noopener nofollow" target="_blank">Sec 3</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Textbooks &amp; Uniforms/2026 Booklist/2026_Secondary_4_Booklist.pdf" rel="noopener nofollow" target="_blank">Sec 4</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Textbooks &amp; Uniforms/2026 Booklist/2026_Secondary_5_Booklist.pdf" rel="noopener nofollow" target="_blank">Sec 5</a>
+</p>
 </td>
 </tr>
 <tr>
