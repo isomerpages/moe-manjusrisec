@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Uniformed Groups
 variant: tiptap
 ---
-<h1><strong>Girls Guides</strong></h1>
+<h1><strong>Girl Guides</strong></h1>
 <p>The motto of&nbsp;Manjusri Girl Guides is “Be Prepared” as we hope our
 girls can be independent problem solvers who are able to think and respond
 promptly in everyday life situations. Manjusri Girl Guides is also part
