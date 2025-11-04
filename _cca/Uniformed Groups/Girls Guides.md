@@ -259,11 +259,20 @@ about world issues such as sustainability.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>East Division Day</strong>
+<p><strong>East Division Learning Festival, Service Learning @ St Johns, School Recess Engagement Booth</strong>
 </p>
-<p>East Division Day is a day where Girl Guides from the East Division schools
-come together to showcase their skills and to take part in friendly competitions
-in areas such as Gadget Making, Art and Cooking.</p>
+<p>Such sessions create meaningful opportunities for our Girl Guides to showcase
+their skills, creativity, and teamwork.</p>
+<p>During the East Division Learning Festival, Guides from schools across
+the East Division came together to take part in friendly competitions such
+as Gadget Making, Art, Snack Making, and Advocacy Booths, as well as to
+conduct learning booths like the <em>Pipe Cleaner Flower Craft</em>.Through
+Service Learning @ St John’s, our Guides engaged in projects that promoted
+care, leadership, and community service, while the School Recess Engagement
+Booths allowed them to connect with their peers through fun, hands-on activities
+that encouraged learning and advocacy. These experiences strengthened their
+teamwork, confidence, and commitment to the Guiding values of service,
+creativity, and compassion.</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
