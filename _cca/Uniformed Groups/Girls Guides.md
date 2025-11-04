@@ -229,7 +229,7 @@ and teamwork.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Cca/Girls Guides/Annual_Guides_Camp_4.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Cca/Girls Guides/Annual_Guides_Camp_4.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
