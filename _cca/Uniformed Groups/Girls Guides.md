@@ -22,8 +22,8 @@ Development, Home, Outdoor, Community and International. This provides
 our Guides with necessary experiences that will enrich their learning beyond
 the classroom and develop our Guides such that they are able to negotiate
 the challenges and obstacles that they may face in future.</p>
-<p>Manjusri Girl Guides has attained a Gold Award in Puan Noor Aishah Award
-from 2018 till present (2023).&nbsp;</p>
+<p>Manjusri Girl Guides has successfully attained a Gold Award in Puan Noor
+Aishah Award from 2018 till present.</p>
 <h3><strong>Training Schedule</strong></h3>
 <p>Every Monday and Wednesday
 <br>3.15pm – 5.45pm @ Recycling corner</p>
