@@ -210,13 +210,14 @@ and teamwork.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 86%;" height="auto" width="100%" alt="" src="/images/Cca/Girls Guides/Annual_Guides_Camp_1.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cca/Girls Guides/Annual_Guides_Camp_2.jpg">
 </div>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -230,7 +231,6 @@ and teamwork.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Cca/Girls Guides/Annual_Guides_Camp_4.jpg">
 </div>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
