@@ -228,7 +228,7 @@ and teamwork.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cca/Girls Guides/Annual_Guides_Camp_4.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Cca/Girls Guides/Annual_Guides_Camp_4.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -307,7 +307,7 @@ creativity, and compassion.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cca/Girls Guides/East_Division_Learning_Fest_1.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Cca/Girls Guides/East_Division_Learning_Fest_1.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -317,14 +317,14 @@ creativity, and compassion.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cca/Girls Guides/East_Division_learning_Fest_3.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Cca/Girls Guides/East_Division_learning_Fest_3.jpg">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cca/Girls Guides/Service_Learning_1.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Cca/Girls Guides/Service_Learning_1.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -334,7 +334,7 @@ creativity, and compassion.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cca/Girls Guides/Recess_Booth.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Cca/Girls Guides/Recess_Booth.jpg">
 </div>
 </td>
 </tr>
