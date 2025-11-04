@@ -258,7 +258,7 @@ about world issues such as sustainability.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Cca/Girls Guides/Wtd_1.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Cca/Girls Guides/Wtd_1.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -270,12 +270,12 @@ about world issues such as sustainability.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cca/Girls Guides/wtd_2.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Cca/Girls Guides/wtd_2.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Cca/Girls Guides/WTD_3.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Cca/Girls Guides/WTD_3.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
