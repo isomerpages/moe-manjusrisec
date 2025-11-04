@@ -273,7 +273,9 @@ about world issues such as sustainability.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cca/Girls Guides/WTD_3.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -334,4 +336,5 @@ creativity, and compassion.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
