@@ -1,11 +1,11 @@
 ---
-title: Girls Guides
-permalink: /cca/uniformed-groups/girls-guides/
+title: Girl Guides
+permalink: /cca/uniformed-groups/girl-guides/
 description: ""
 third_nav_title: Uniformed Groups
 variant: tiptap
 ---
-<h1><strong>Girls Guides</strong></h1>
+<h1><strong>Girl Guides</strong></h1>
 <p>The motto of&nbsp;Manjusri Girl Guides is “Be Prepared” as we hope our
 girls can be independent problem solvers who are able to think and respond
 promptly in everyday life situations. Manjusri Girl Guides is also part
@@ -22,8 +22,8 @@ Development, Home, Outdoor, Community and International. This provides
 our Guides with necessary experiences that will enrich their learning beyond
 the classroom and develop our Guides such that they are able to negotiate
 the challenges and obstacles that they may face in future.</p>
-<p>Manjusri Girl Guides has attained a Gold Award in Puan Noor Aishah Award
-from 2018 till present (2023).&nbsp;</p>
+<p>Manjusri Girl Guides has successfully attained a Gold Award in Puan Noor
+Aishah Award from 2018 till present.</p>
 <h3><strong>Training Schedule</strong></h3>
 <p>Every Monday and Wednesday
 <br>3.15pm – 5.45pm @ Recycling corner</p>
@@ -206,29 +206,30 @@ and teamwork.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Cca/Girls%20Guides/gg6.png">
+<img style="width: 86%;" height="auto" width="100%" alt="" src="/images/Cca/Girls%20Guides/Girl%20Guides.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 94%;" height="auto" width="100%" alt="" src="/images/Cca/Girls%20Guides/gg4.png">
+<img style="width: 86%;" height="auto" width="100%" alt="" src="/images/Cca/Girls Guides/Annual_Guides_Camp_1.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Cca/Girls%20Guides/gg5.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cca/Girls Guides/Annual_Guides_Camp_2.jpg">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cca/Girls%20Guides/Girl%20Guides.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cca/Girls Guides/Annual_Guides_Camp_3.jpg">
 </div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cca/Girls%20Guides/gg3.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Cca/Girls Guides/Annual_Guides_Camp_4.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -257,39 +258,46 @@ about world issues such as sustainability.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cca/Girls%20Guides/GG%20World2.jpeg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Cca/Girls Guides/Wtd_1.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cca/Girls%20Guides/GG%20World6.jpeg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Cca/Girls%20Guides/GG%20World6.jpeg">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cca/Girls%20Guides/GG%20World3.jpeg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Cca/Girls Guides/wtd_2.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cca/Girls%20Guides/GG%20World4.jpeg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Cca/Girls Guides/WTD_3.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cca/Girls%20Guides/GG%20World5.jpeg">
-</div>
+<p></p>
 </td>
 </tr>
 </tbody>
 </table>
-<p><strong>East Division Day</strong>
+<p><strong>East Division Learning Festival, Service Learning @ St Johns, School Recess Engagement Booth</strong>
 </p>
-<p>East Division Day is a day where Girl Guides from the East Division schools
-come together to showcase their skills and to take part in friendly competitions
-in areas such as Gadget Making, Art and Cooking.</p>
+<p>Such sessions create meaningful opportunities for our Girl Guides to showcase
+their skills, creativity, and teamwork.</p>
+<p>During the East Division Learning Festival, Guides from schools across
+the East Division came together to take part in friendly competitions such
+as Gadget Making, Art, Snack Making, and Advocacy Booths, as well as to
+conduct learning booths like the <em>Pipe Cleaner Flower Craft</em>.Through
+Service Learning @ St John’s, our Guides engaged in projects that promoted
+care, leadership, and community service, while the School Recess Engagement
+Booths allowed them to connect with their peers through fun, hands-on activities
+that encouraged learning and advocacy. These experiences strengthened their
+teamwork, confidence, and commitment to the Guiding values of service,
+creativity, and compassion.</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -300,33 +308,38 @@ in areas such as Gadget Making, Art and Cooking.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Cca/Girls%20Guides/gg12.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Cca/Girls Guides/East_Division_Learning_Fest_1.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cca/Girls%20Guides/gg13.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cca/Girls Guides/East_Division_learning_Fest_2.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Cca/Girls Guides/East_Division_learning_Fest_3.jpg">
+</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cca/Girls%20Guides/gg16.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Cca/Girls Guides/Service_Learning_1.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 92%;" height="auto" width="100%" alt="" src="/images/Cca/Girls%20Guides/gg17.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cca/Girls Guides/Servie_Learning_2.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Cca/Girls Guides/Recess_Booth.jpg">
+</div>
 </td>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
