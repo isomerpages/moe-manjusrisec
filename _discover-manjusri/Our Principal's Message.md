@@ -61,6 +61,5 @@ of the Sec 1 (2025) cohort.
 and community to provide a balanced all-round education for our pupils;
 and to ensure that they are ready for the future as morally upright individuals
 and responsible contributors in society.</p>
-<p>&nbsp;</p>
-<p>Sim Chong Boon</p>
+<p>&nbsp;Sim Chong Boon</p>
 <p>Principal</p>
