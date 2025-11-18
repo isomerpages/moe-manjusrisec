@@ -33,7 +33,6 @@ students in English and Mother Tongue Languages.&nbsp; The school offers
 both Higher Chinese and Chinese Literature for students with the aptitude
 and interest.
 <br>
-<br>
 </p>
 <p>MJR has an active and vibrant co-curricular curriculum to support student
 character development.&nbsp; Prestigious Mee Toh Foundation Arts Scholarships
@@ -43,7 +42,6 @@ Thong Hood Cho Temple Scholarships for excellence in Uniformed Groups leadership
 as well as in Sports have been established.&nbsp;&nbsp; The school also
 welcomes Direct School Admission (Sec) applicants in the areas of Chinese
 Dance, Chinese Orchestra, Concert Band, Choir, Calligraphy and Wushu.</p>
-<p>&nbsp;</p>
 <p>We were heartened to receive strong affirmation from our students about
 their schooling experiences in the biennial <strong>Quality of School Experience</strong> survey
 findings.&nbsp; For 2025, student responses on our school’s structures
@@ -52,8 +50,7 @@ is a continuation of upward trends (since 2021).&nbsp; These encompassed
 the areas of developing students holistically, engaging for learning, recognizing
 students, disciplinary practices, fostering teacher-student relationship
 and fostering peer relationship.</p>
-<p>
-<br>The school continues to enjoy the confidence of partners and stakeholders.
+<p>The school continues to enjoy the confidence of partners and stakeholders.
 &nbsp;For the current year’s Sec 1 posting exercise, MJR admitted about
 282 students.&nbsp; The mean AL aggregate for the cohort also improved
 for a second consecutive year.&nbsp; Pupils from our affiliated primary
