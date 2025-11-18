@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <p>Welcome to the website of Manjusri Secondary School (MJR).&nbsp; We are
-at present the only government-aided mission school benefiting from the
+at present the only government-aided secondary school benefiting from the
 support of the Singapore Buddhist Federation in adopting a holistic approach
 towards educating students from varied backgrounds.&nbsp; Our school sees
 its mission as nurturing&nbsp;Passionate Learners&nbsp;and Compassionate
