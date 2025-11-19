@@ -17,19 +17,37 @@ variant: tiptap
 <p>QR code for online <strong>uniform</strong> order:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>QR code for <strong>textbook </strong>order:</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="QR code for online uniform order:" src="/images/Students and Parents/Booklist/uniform.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>QR code for <strong>textbook </strong>order:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students and Parents/Booklist/textbook.png">
 </div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -114,7 +132,7 @@ textbooks or uniform.</p>
 <td rowspan="1" colspan="1">
 <p>Monday to Friday (8.00am to 3.00pm),
 <br>
-<br>Website: <a href="http://www.pacificbookstores.com" rel="noopener noreferrer nofollow" target="_blank">www.pacificbookstores.com</a> 
+<br>Website: <a href="http://www.pacificbookstores.com" rel="noopener noreferrer nofollow" target="_blank">www.pacificbookstores.com</a>
 </p>
 <p>
 <br>Hotline: 69298012<strong> </strong>(Monday to Friday: 9.00am to 5.00pm
