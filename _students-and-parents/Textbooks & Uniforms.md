@@ -84,7 +84,6 @@ variant: tiptap
 <p>Please note: students should be attired in their Manjusri school uniform
 (full/half-uniform/PE attire) if they are coming to school to purchase
 textbooks or uniform.</p>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -113,14 +112,11 @@ textbooks or uniform.</p>
 <p>Opening Hours:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Monday to Friday (8.00am to 3.30pm),
-<br>
-<br>Closed during school holidays, eve of PH and PH
+<p>Monday to Friday (8.00am to 3.00pm),
 <br>
 <br>Website: www.pacificbookstores.com
-<br>
-<br>Hotline: +65 65592269 [Monday to Friday: 9.00am to 5.30pm, closed weekends
-&amp; PH]</p>
+<br>Hotline: 69298012<strong> </strong>(Monday to Friday: 9.00am to 5.00pm
+excluding eve of public holidays and public holidays)</p>
 </td>
 </tr>
 <tr>
