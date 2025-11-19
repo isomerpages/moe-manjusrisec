@@ -24,7 +24,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="QR code for online uniform order:" src="/images/Students and Parents/Booklist/uniform.png">
+<img style="width: 60%;" height="auto" width="100%" alt="QR code for online uniform order:" src="/images/Students and Parents/Booklist/uniform.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -42,7 +42,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students and Parents/Booklist/textbook.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Students and Parents/Booklist/textbook.png">
 </div>
 <p></p>
 </td>
