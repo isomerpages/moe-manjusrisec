@@ -4,6 +4,54 @@ permalink: /students-and-parents/textbooks-n-uniforms/
 description: ""
 variant: tiptap
 ---
+<p><a href="/files/Textbooks &amp; Uniforms/2026 Booklist/Info_to_Parent_for_Purchase_of_2026_Textbooks_and_Uniforms.pdf" rel="noopener nofollow" target="_blank">Info to Parent for Purchase of 2026 Textbooks and Uniforms</a>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>QR code for online <strong>uniform</strong> order:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="QR code for online uniform order:" src="/images/Students and Parents/Booklist/uniform.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>QR code for <strong>textbook </strong>order:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Students and Parents/Booklist/textbook.png">
+</div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -51,10 +99,6 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><a href="/files/Textbooks%20&amp;%20Uniforms/2024%20booklist/mjrss_pacific%20bookstores%20purchase%20info%20guide%202023.pdf" rel="noopener noreferrer nofollow" target="_blank">MJRSS_PACIFIC BOOKSTORES Purchase Info Guide 2023</a>
-</p>
-<p><a href="/files/Textbooks%20&amp;%20Uniforms/2024%20booklist/pacific%20bookstores%20online%20purchase%20guide%202023.pdf" rel="noopener noreferrer nofollow" target="_blank">PACIFIC BOOKSTORES ONLINE PURCHASE GUIDE 2023</a>
-</p>
 <p>Please note: students should be attired in their Manjusri school uniform
 (full/half-uniform/PE attire) if they are coming to school to purchase
 textbooks or uniform.</p>
@@ -86,14 +130,12 @@ textbooks or uniform.</p>
 <p>Opening Hours:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Monday to Friday (8.00am to 3.30pm),
+<p>Monday to Friday (8.00am to 3.00pm),
 <br>
-<br>Closed during school holidays, eve of PH and PH
-<br>
-<br>Website: www.pacificbookstores.com
-<br>
-<br>Hotline: +65 65592269 [Monday to Friday: 9.00am to 5.30pm, closed weekends
-&amp; PH]</p>
+<br>Website: <a href="http://www.pacificbookstores.com" rel="noopener noreferrer nofollow" target="_blank">www.pacificbookstores.com</a>
+</p>
+<p>Hotline: 69298012<strong> </strong>(Monday to Friday: 9.00am to 5.00pm
+excluding eve of public holidays and public holidays)</p>
 </td>
 </tr>
 <tr>
