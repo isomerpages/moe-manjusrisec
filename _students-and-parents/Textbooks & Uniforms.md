@@ -134,8 +134,7 @@ textbooks or uniform.</p>
 <br>
 <br>Website: <a href="http://www.pacificbookstores.com" rel="noopener noreferrer nofollow" target="_blank">www.pacificbookstores.com</a>
 </p>
-<p>
-<br>Hotline: 69298012<strong> </strong>(Monday to Friday: 9.00am to 5.00pm
+<p>Hotline: 69298012<strong> </strong>(Monday to Friday: 9.00am to 5.00pm
 excluding eve of public holidays and public holidays)</p>
 </td>
 </tr>
