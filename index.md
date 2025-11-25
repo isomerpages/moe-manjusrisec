@@ -22,6 +22,13 @@ sections:
           url: /contact-us/school-contact-details/
       background: /images/homepage3.gif
   - infopic:
+      title: Corporate Video
+      subtitle: spotlight
+      id: infopic
+      button: Button Text
+      url: click here to watch
+      alt: Image alt text
+  - infopic:
       title: Joint e-Waste Collection Drive in Ubi
       subtitle: spotlight
       id: infopic
