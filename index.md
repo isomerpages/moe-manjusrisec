@@ -25,8 +25,8 @@ sections:
       title: Corporate Video
       subtitle: spotlight
       id: infopic
-      button: Button Text
-      url: click here to watch
+      button: click here to watch
+      url: https://www.youtube.com/watch?v=zc1JGWRg3lY
       alt: Image alt text
   - infopic:
       title: Joint e-Waste Collection Drive in Ubi
