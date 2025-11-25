@@ -28,6 +28,7 @@ sections:
       button: click here to watch
       url: https://www.youtube.com/watch?v=zc1JGWRg3lY
       alt: Image alt text
+      image: /images/Open House/corporate_video_on_youtube.png
   - infopic:
       title: Joint e-Waste Collection Drive in Ubi
       subtitle: spotlight
