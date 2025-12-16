@@ -28,7 +28,7 @@ sections:
       description: Congratulations on your posting to Manjusri Secondary School to
         begin your secondary school education...
       button: click here to read more
-      url: https://manjusrisec.moe.edu.sg/2026-secondary-one-registration/
+      url: /2026-secondary-one-registration/
       image: /images/s1_reg.png
   - infopic:
       title: Corporate Video
