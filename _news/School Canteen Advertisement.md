@@ -24,13 +24,13 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Vegetarian Food Stall (Buddhist)</p>
+<p>Chinese Mixed Rice Food Stall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>10 Nov 2025</p>
+<p>26 Dec 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Rice and Noodles acceptable</p>
+<p>Assorted Dishes</p>
 </td>
 </tr>
 </tbody>
