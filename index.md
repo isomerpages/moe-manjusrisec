@@ -30,6 +30,7 @@ sections:
       button: click here to read more
       url: /2026-secondary-one-registration/
       image: /images/s1_reg.png
+      alt: Image alt text
   - infopic:
       title: Corporate Video
       subtitle: spotlight
