@@ -20,7 +20,17 @@ sections:
         - title: Contact
           description: ""
           url: /contact-us/school-contact-details/
-      background: /images/homepage3.gif
+      background: /images/s1_reg.png
+  - infopic:
+      title: 2026 Secondary One Registration
+      subtitle: spotlight
+      id: infopic
+      description: Congratulations on your posting to Manjusri Secondary School to
+        begin your secondary school education...
+      button: click here to read more
+      url: /2026-secondary-one-registration/
+      image: /images/s1_reg.png
+      alt: Image alt text
   - infopic:
       title: Corporate Video
       subtitle: spotlight
