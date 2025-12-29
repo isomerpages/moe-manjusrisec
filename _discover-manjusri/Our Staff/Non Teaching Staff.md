@@ -57,5 +57,4 @@ variant: markdown
 |Ms Lim Gek Ching Lyne |SENO|lim_gek_ching_lyne@moe.edu.sg|
 |Mdm  Suzila Binte Mohamed Sulaiman |Senior SENO|suzila_mohd_sulaiman@moe.edu.sg|
 |Ms Samantha Woo -|Senior ECG Counsellor |woo_wai_yeng@schools.gov.sg|
-|Ms Sarah Poh |FASC    |poh_shu_siang_sarah@moe.edu.sg|
 |Ms Lim Hui Ping |Student Welfare Officer |lim_hui_ping@moe.edu.sg |
