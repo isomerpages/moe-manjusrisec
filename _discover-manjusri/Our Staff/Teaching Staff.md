@@ -16,14 +16,14 @@ variant: markdown
 |1-2|Ms Darul Ellia Binte Zulkarnain|darul_ellia_zulkarnain@moe.edu.sg|
 | |Mr Ong Boon Siong|ong_boon_siong@moe.edu.sg|
 | |Mr Han Ah Teck, Michael |han_ah_teck@moe.edu.sg|
-|1-3|Ms Salina Binte Abdul Majid (ST)|salina_abdul_majid@moe.edu.sg|
+|1-3|Ms Salina Binte Abdul Majid (Senior Teacher)|salina_abdul_majid@moe.edu.sg|
 | |Mr  Suresh |-|
 |1-4|Mr Lim Xu Yao|lim_xu_yao@moe.edu.sg|
 | |Ms Elna Shirin Binte Him Pon |elna_shirin_him_pon@moe.edu.sg|
 |1-5|Mr Ang Soon Hock Andrew|ang_soon_hock_andrew@moe.edu.sg|
 | |Ms Faith Kaylie Ong Yi Cheng (LT)|faith_kaylie_ong@moe.edu.sg|
 |1-6|Mr Hafiz Emran Khan|hafiz_emran_khan@moe.edu.sg|
-| |Ms Lee Shi Hua Candice (ST)|lee_shi_hua_candice@moe.edu.sg|
+| |Ms Lee Shi Hua Candice (Senior Teacher)|lee_shi_hua_candice@moe.edu.sg|
 |1-7|Mr Goh Young Koon, Francis|Goh_Young_Koon@moe.edu.sg|
 | |- -|-|
 |2-1|Ms Seah Yi Fan|seah_yi_fan@moe.edu.sg|
