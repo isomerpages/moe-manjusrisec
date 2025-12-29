@@ -38,12 +38,13 @@ variant: markdown
 
 | Name | Designation | 
 | -------- | -------- | 
-|Mdm Chan Poh Yoke Doris |Receptionist|
-|Ms Lee Yien Joo Christine|Finance Admin Officer|
-|Mr Mashuqur Bin Rahman |Desktop Engineer (NCS)|
-|Mr Mohamad Syakir Bin Nor Azmi |Desktop Engineer (NCS)|
-|Mdm  Zuriah Bte Mohd Ali |Library Assistant|
-|Mdm Chan Dai Wei|OSO (Kitchen)|
+|Ms Shahrulbariah | Receptionist |
+|Mdm  Chan Daiwei  | OSO (Kitchen)|
+|Mr Mashuqur Bin Rahman |Desktop Engineer|
+|Mr Mohamad Syakir B Nor Azmi |Desktop Engineer|
+|Mdm  Zuriah Bte Mohd Ali | Library Assistant|
+
+
 
 ##### **Student Emotional and Learning Support**	
 
