@@ -22,6 +22,45 @@ image: /images/memory_lane.jpg
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="/visit-by-seki-city-junior-high-schools-japan/" rel="noopener nofollow" target="_blank">Visit by Seki City Junior High Schools (Japan)</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/manjusrian-excellence-in-uniformed-groups-2025/" rel="noopener nofollow" target="_blank">Manjusrian Excellence in Uniformed Groups 2025</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/manjusri-sec-syf-arts-presentations-2025/" rel="noopener nofollow" target="_blank">Manjusri Sec @ SYF Arts Presentations 2025</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/43rd-school-anniversary-award-presentation/" rel="noopener nofollow" target="_blank">43rd School Anniversary &amp; Award Presentation</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="/mjr-presents-relc-international-conference-2025/" rel="noopener nofollow" target="_blank">MJR Presents @ RELC International Conference 2025</a>
 </p>
 </td>
