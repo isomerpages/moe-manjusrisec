@@ -73,7 +73,7 @@ variant: markdown
 |4C3|Mr Lee Xinzhan Andrew|lee_xinzhan_andrew@moe.edu.sg|
 | |Ms Nur Atiqah Binti Abdul Fattah|nur_atiqah_abdul_fattah@moe.edu.sg|
 |4C4|Mr Sng Peng Han Kain (ST)|sng_peng_han@moe.edu.sg|
-| |Ms Lee Wai Ying Winnie |winnie\_lee\_wai\_ying\_a@moe.edu.sg|
+| |Ms Lee Wai Ying Winnie |winnie_lee_wai_ying_a@moe.edu.sg|
 |5A|Mr Tay Tse Min Daniel|tay_tse_min_daniel@moe.edu.sg|
 
 
