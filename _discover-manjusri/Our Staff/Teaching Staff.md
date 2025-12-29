@@ -80,26 +80,24 @@ variant: markdown
 ##### **Other Teachers**	
 
 |Name|Email| 
-| -------- | -------- | 
+| -------- | -------- |
 |Mr Huang Yuanpeng|huang_yuanpeng@moe.edu.sg|
-|Mr Kang Ching Choon Bryan |kang_ching_choon@moe.edu.sg|
-|Ms  Goh Layna|goh_layna@moe.edu.sg|
+|Ms  Kang Ching Choon Bryan |kang_ching_choon@moe.edu.sg|
+|Mdm Kok Jia En Yvonne|jia_en_yvonne_kok@moe.edu.sg|
 |Ms  Nurul A'mirah Binte Mohd Kamal|nurul_amirah_mohd_kamal@moe.edu.sg|
 |Mdm Pan Ping|pan_ping@moe.edu.sg|
+|Ms Pang Chiaw Yong|pang_chiaw_yong_a@moe.edu.sg|
 |Ms  Tan Ai Hua|tan_ai_hua@moe.edu.sg|
 |Ms Tan Hsiao Wey|tan_hsiao_wey@moe.edu.sg|
 |Ms Tan Tien Tien Victoria Lynn |victoria_lynn_tan_tien@moe.edu.sg|
-|Ms Pang Chiaw Yong|pang_chiaw_yong_a@moe.edu.sg|
-|Susan Lim Siok Hiang|susan_lim_siok_hiang@moe.edu.sg|
-|Ms  Elna Shirin Binte Him Pon|elna_shirin_him_pon@moe.edu.sg|
-|Ms  Ho Poh Choo Adrienne|adrienne_ho_poh_choo@moe.edu.sg|
+|Mdm Sun Guangpu (ST)|sun_guangpu@moe.edu.sg|
+|Mr Chan Boon Keat Andrew|chan_boon_keat@moe.edu.sg|
 |Ms Lee Wai Ying Winnie|winnie_lee_wai_ying_a@moe.edu.sg|
-|Ms Mazlinda Bte Ahmad|mazlinda_ahmad@moe.edu.sg|
 |Ms Wong Sook Fong Shirley|wong_sook_fong@moe.edu.sg|
 |Mrs  Yong-Liow Chai Leng|liow_chai_leng@moe.edu.sg|
-|Mr Kaddy Koh|koh_kaddy@moe.edu.sg|
-|Mdm Mok Yee Wan (Mrs Lai)|mok_yee_wan@moe.edu.sg|
 |Mdm Zoe Yeo (Mrs Chu)|yeo_zoe@moe.edu.sg|
 |Mdm Neo Soh Cheng (Cheryl)|neo_soh_cheng_b@moe.edu.sg|
-|Mr Raymond Khaw Hock Keat|raymond_khaw_hock_keat@moe.edu.sg|
-|Ms Yeo Yam Cher|yeo_yam_cher_c@moe.edu.sg|
+|Mdm Fang Chunhua Helen|-|
+|Mr Jason Sin |-|
+|Mr Suresh |-|
+|Ms Liza SEM |-|
