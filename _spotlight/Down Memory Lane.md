@@ -46,17 +46,20 @@ image: /images/memory_lane.jpg
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/chinese-new-year-celebrations-2025/" rel="noopener nofollow" target="_blank">Chinese New Year Celebrations 2025	</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/gce-o-level-examination-2024-results/" rel="noopener nofollow" target="_blank">GCE O Level Examination 2024 Results</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/gce-n-level-exam-results-2024/" rel="noopener nofollow" target="_blank">GCE N Level Exam Results 2024</a>
+</p>
 </td>
 </tr>
 <tr>
