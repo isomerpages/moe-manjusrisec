@@ -12,7 +12,7 @@ variant: markdown
 
 | Name | Designation | 
 | -------- | -------- | 
-|Seo Wei Lin, Sharon|Administration Manager|
+|Ms Seo Wei Lin, Sharon|Administration Manager|
 |Ms Oh Ai Li |Administration Manager|
 |Mr Lee Moon Loong|Operations Manager 1|
 |Mr Cheng Poh Teck |Operations Manager 2|
