@@ -44,6 +44,6 @@ variant: markdown
 |Ms  Amira Begum d/o Abdul Naseer | SH, Malay Language|amira_begum_abdul_naseer@moe.edu.sg|
 |Ms  Goh Pei Shan | SH, Mathematics|goh_pei_shan@moe.edu.sg|
 |Mr Han Ah Teck, Michael | SH, School Partnerships|han_ah_teck@moe.edu.sg|
-|Ms Alexandra Pang Yan Feng | SH, Student Well|Being|PANG_Yanfeng_Alexandra@moe.edu.sg|
+|Ms Alexandra Pang Yan Feng | SH, Student Well-Being|PANG_Yanfeng_Alexandra@moe.edu.sg|
 |Ms Seo Wei Lin, Sharon | Administration Manager|sharon_seo@moe.edu.sg|
 |Ms Oh Ai Li | Administration Manager |oh_ai_li@moe.edu.sg|
