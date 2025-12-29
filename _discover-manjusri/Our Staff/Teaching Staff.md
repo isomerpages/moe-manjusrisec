@@ -21,7 +21,7 @@ variant: markdown
 |1-4|Mr Lim Xu Yao|lim_xu_yao@moe.edu.sg|
 | |Ms Elna Shirin Binte Him Pon |elna_shirin_him_pon@moe.edu.sg|
 |1-5|Mr Ang Soon Hock Andrew|ang_soon_hock_andrew@moe.edu.sg|
-| |Ms Faith Kaylie Ong Yi Cheng (LT)|faith_kaylie_ong@moe.edu.sg|
+| |Ms Faith Kaylie Ong Yi Cheng (Lead Teacher)|faith_kaylie_ong@moe.edu.sg|
 |1-6|Mr Hafiz Emran Khan|hafiz_emran_khan@moe.edu.sg|
 | |Ms Lee Shi Hua Candice (Senior Teacher)|lee_shi_hua_candice@moe.edu.sg|
 |1-7|Mr Goh Young Koon, Francis|Goh_Young_Koon@moe.edu.sg|
@@ -45,7 +45,7 @@ variant: markdown
 | |Ms Nurjannah Binte Othman|nurjannah_othman@moe.edu.sg|
 |3A|Mr Izham Bin Sidek|izham_sidek@moe.edu.sg|
 | |Ms  Goh Layna|goh_layna@moe.edu.sg|
-|3B1|Ms Oh Ee-Laine (ST)|oh_ee-laine@moe.edu.sg|
+|3B1|Ms Oh Ee-Laine (Senior Teacher)|oh_ee-laine@moe.edu.sg|
 | | Ng Yuan Hui|-|
 |3B2|Ms Jurana Binte Abdul Rahim|jurana_abdul_rahim@moe.edu.sg|
 |3B3|Mdm Ernieyanty Hasan |ernieyanty_hasan@moe.edu.sg|
@@ -72,7 +72,7 @@ variant: markdown
 | |Dr Lim Si Hui|lim_si_hui@moe.edu.sg|
 |4C3|Mr Lee Xinzhan Andrew|lee_xinzhan_andrew@moe.edu.sg|
 | |Ms Nur Atiqah Binti Abdul Fattah|nur_atiqah_abdul_fattah@moe.edu.sg|
-|4C4|Mr Sng Peng Han Kain (ST)|sng_peng_han@moe.edu.sg|
+|4C4|Mr Sng Peng Han Kain (Senior Teacher)|sng_peng_han@moe.edu.sg|
 | |Ms Lee Wai Ying Winnie |winnie_lee_wai_ying_a@moe.edu.sg|
 |5A|Mr Tay Tse Min Daniel|tay_tse_min_daniel@moe.edu.sg|
 
