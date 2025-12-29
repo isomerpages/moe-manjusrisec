@@ -48,7 +48,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong>2026 Semester 2 HBL Timetable</strong>
+<p><strong>2026 Semester 1 HBL Timetable</strong>
 </p>
 </th>
 </tr>
