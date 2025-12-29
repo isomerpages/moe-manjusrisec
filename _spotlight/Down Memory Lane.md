@@ -22,6 +22,36 @@ image: /images/memory_lane.jpg
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="/joint-ewaste-collection-drive-in-ubi/" rel="noopener nofollow" target="_blank"> Joint eWaste Collection Drive in Ubi</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/goh-chok-tong-nextgen-outstanding-student-leader-awards-2025/" rel="noopener nofollow" target="_blank">Goh Chok Tong NextGen Outstanding Student Leader Awards 2025</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/singapore-silent-heroes-student-awards-2025/" rel="noopener nofollow" target="_blank">Singapore Silent Heroes Student Awards 2025</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/2025-mid-year-gce-o-level-mother-tongue-languages-exam-results/" rel="noopener nofollow" target="_blank">2025 Mid Year GCE O Level Mother Tongue Languages Exam Results</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/sg60-national-day-celebrations/" rel="noopener nofollow" target="_blank">SG60 National Day Celebrations</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="/visit-by-seki-city-junior-high-schools-japan/" rel="noopener nofollow" target="_blank">Visit by Seki City Junior High Schools (Japan)</a>
 </p>
 </td>
@@ -46,7 +76,7 @@ image: /images/memory_lane.jpg
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/chinese-new-year-celebrations-2025/" rel="noopener nofollow" target="_blank">Chinese New Year Celebrations 2025	</a>
+<p><a href="/chinese-new-year-celebrations-2025/" rel="noopener nofollow" target="_blank">Chinese New Year Celebrations 2025</a>
 </p>
 </td>
 </tr>
