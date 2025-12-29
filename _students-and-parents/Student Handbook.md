@@ -47,37 +47,36 @@ MJR Cheer</p>
 
 | Content | Page | 
 | -------- | -------- | 
-|Our History	|1|
-|School Vision, Mission, Crest, Motto	|3|
-|School Values	|4|
-|School Song, Morning Recital	|5|
-|School Cheer	|6|
-|Our Country page	|7|
-|Desired Outcomes of Education / National Education Dispositions	|8|
-|21st Century Competencies	|9|
-|Co-Curricular Activities	|10|
-|Values-In-Action Programme	|11|
-|Mindfulness for Learning Programme	|12|
-|National Digital Literacy Programme (NDLP)	|13|
-|Cyber Wellness and Security	|14|
-|Mental Health	|17|
-|School Rules and Regulations	|18|
-|Student Holistic Development Profile	|24|
-|Full Subject-Based Banding (Full SBB)	|26|
-|Assessment and Progression	|29|
-|Examination Rules &amp; Regulations	|30|
-|School Safety	|32|
-|Academic &amp; Non-Academic Awards (Scholarships,Prizes &amp; Awards)	|37|
-|MOE Financial Assistance Scheme	|41|
-|lnfocomm Media Development Authority (IMDA) DigitalAccess@Home	|43|
-|The School Library	|44|
-|School Counsellors	|45|
-|General Office, ICT Helpdesk,Bookshop &amp; Uniform and School Gate	|46|
-|Diary 2025	|47|
+|Our History | 3|
+|School Vision, Mission, Crest, Motto | 5|
+|School Values |6|
+|School Song, Morning Recital |7|
+|The MJR School Cheers |8|
+|Our Country page  |9|
+|Desired Outcomes of Education / National Education Dispositions  |10|
+|21st Century Competencies  |11|
+|Co-Curricular Activities|12|
+|Values-In-Action Programme  |13|
+|Mindfulness for Learning Programme  |14|
+|National Digital Literacy Programme (NDLP)  |15|
+|Cyber Wellness and Security  |16|
+|Mental Health  |19|
+|School Rules and Regulations  |20|
+|Student Holistic Development Profile  |26|
+|Full Subject-Based Banding (Full SBB) |28|
+|Assessment and Progression  |31|
+|Examination Rules &amp; Regulations  |32|
+|School Safety  |34|
+|Academic &amp; Non-Academic Awards (Scholarships, Prizes &amp; Awards)  |39|
+|MOE Financial Assistance Scheme  |43|
+|lnfocomm Media Development Authority (IMDA) DigitalAccess@Home  |45|
+|The School Library  |46|
+|School Counsellors  |47|
+|General Office, ICT Helpdesk, Bookshop &amp; Uniform and School Gate  |48|
+|Study Tips for Success  |49|
+|Effective Time Management Strategies |51|
+|Diary 2026  |52|
 
-
-	
-	
 <table style="minWidth: 50px">
 <colgroup>
 <col>
