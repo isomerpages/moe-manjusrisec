@@ -15,38 +15,33 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2025 Semester 2 Timetable</strong>
+<p><strong>2026 Semester 1 Timetable</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Timetable &amp; Schedules/2025 TT/2025_Sec_3Extended_Student_TT_Final.pdf" rel="noopener nofollow" target="_blank">Sec 3 Extended Timetable</a>
-</p>
+<p>-</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Timetable &amp; Schedules/2025 TT/MJR_Semester_2_Secondary_1_Class_Timetable_26_June_2025.pdf" rel="noopener nofollow" target="_blank">Sec 1</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Timetable &amp; Schedules/2025 TT/MJR_Semester_2_Secondary_2_Class_Timetable_26_June_2025.pdf" rel="noopener nofollow" target="_blank">Sec 2</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Timetable &amp; Schedules/2025 TT/MJR_Semester_2_Secondary_3_Class_Timetable_26_June_2025.pdf" rel="noopener nofollow" target="_blank">Sec 3</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Timetable &amp; Schedules/2025 TT/MJR_Semester_2_Secondary_4_5_Class_Timetable_26_June_2025.pdf" rel="noopener nofollow" target="_blank">Sec 4 and 5</a>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -64,14 +59,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Timetable &amp; Schedules/2025 TT/2025_HBL_Timetable_SEM2___Sec_1_2.pdf" rel="noopener nofollow" target="_blank">Sec 1 and 2</a>
-</p>
+<p>-</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Timetable &amp; Schedules/2025 TT/2025_HBL_Timetable_SEM2_v6___Sec_3.pdf" rel="noopener nofollow" target="_blank">Sec 3</a>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -83,7 +76,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>2025 CCA Schedule</p>
+<p>2026 CCA Schedule</p>
 </th>
 </tr>
 <tr>
@@ -94,8 +87,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Timetable &amp; Schedules/2025 TT/2025_Nov_Dec_CCA_Schedule_Updated_23_Oct_v2.pdf" rel="noopener nofollow" target="_blank">Nov &amp; Dec CCA Schedule</a>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
