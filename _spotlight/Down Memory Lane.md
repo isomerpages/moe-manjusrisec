@@ -22,7 +22,7 @@ image: /images/memory_lane.jpg
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/joint-ewaste-collection-drive-in-ubi/" rel="noopener nofollow" target="_blank"> Joint eWaste Collection Drive in Ubi</a>
+<p><a href="/joint-ewaste-collection-drive-in-ubi/" rel="noopener nofollow" target="_blank">Joint eWaste Collection Drive in Ubi</a>
 </p>
 </td>
 </tr>
@@ -52,7 +52,7 @@ image: /images/memory_lane.jpg
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/visit-by-seki-city-junior-high-schools-japan/" rel="noopener nofollow" target="_blank">Visit by Seki City Junior High Schools (Japan)</a>
+<p><a href="/visit-by-seki-city-junior-high-schools-japan-2025/" rel="noopener nofollow" target="_blank">Visit by Seki City Junior High Schools (Japan)</a>
 </p>
 </td>
 </tr>
