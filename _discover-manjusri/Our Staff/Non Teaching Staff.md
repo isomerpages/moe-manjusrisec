@@ -12,13 +12,14 @@ variant: markdown
 
 | Name | Designation | 
 | -------- | -------- | 
-|Mdm Lim Boon Lian (Mrs Wang) |Administration Manager|
+|Seo Wei Lin, Sharon|Administration Manager|
 |Ms Oh Ai Li |Administration Manager|
-|Mr Han Baw Kuang David |Operations Manager 1|
-|Mr Lee Moon Loong|Operations Manager 2|
+|Mr Lee Moon Loong|Operations Manager 1|
+|Mr Cheng Poh Teck |Operations Manager 2|
 |Mr Kok Kean Weng Winston |ICT Manager|
 |Mdm Loh Kheng Hua Connie |Corporate Support Officer|
 |Mdm Ong Poh Hong Jennifer |Corporate Support Officer|
+|Ms Lee Yien Joo Christine | Adjunct CSO |
 |Ms Thivya d/o Nagarajan |Administrative Executive|
 |Mr Junaidi Bin Tarjol |Education Workshop Instructor|
 |Mr Azman Bin Kassim |Education Workshop Instructor|
