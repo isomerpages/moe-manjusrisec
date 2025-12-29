@@ -90,7 +90,7 @@ variant: markdown
 |Ms  Tan Ai Hua|tan_ai_hua@moe.edu.sg|
 |Ms Tan Hsiao Wey|tan_hsiao_wey@moe.edu.sg|
 |Ms Tan Tien Tien Victoria Lynn |victoria_lynn_tan_tien@moe.edu.sg|
-|Mdm Sun Guangpu (ST)|sun_guangpu@moe.edu.sg|
+|Mdm Sun Guangpu (Senior Teacher)|sun_guangpu@moe.edu.sg|
 |Mr Chan Boon Keat Andrew|chan_boon_keat@moe.edu.sg|
 |Ms Lee Wai Ying Winnie|winnie_lee_wai_ying_a@moe.edu.sg|
 |Ms Wong Sook Fong Shirley|wong_sook_fong@moe.edu.sg|
