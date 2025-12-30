@@ -20,7 +20,7 @@ sections:
         - title: Contact
           description: ""
           url: /contact-us/school-contact-details/
-      background: /images/s1_reg.png
+      background: /images/homepage3.gif
   - infopic:
       title: 2026 Secondary One Registration
       subtitle: spotlight
