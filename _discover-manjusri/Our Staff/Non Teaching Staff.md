@@ -12,13 +12,14 @@ variant: markdown
 
 | Name | Designation | 
 | -------- | -------- | 
-|Mdm Lim Boon Lian (Mrs Wang) |Administration Manager|
+|Ms Seo Wei Lin, Sharon|Administration Manager|
 |Ms Oh Ai Li |Administration Manager|
-|Mr Han Baw Kuang David |Operations Manager 1|
-|Mr Lee Moon Loong|Operations Manager 2|
+|Mr Lee Moon Loong|Operations Manager 1|
+|Mr Cheng Poh Teck |Operations Manager 2|
 |Mr Kok Kean Weng Winston |ICT Manager|
 |Mdm Loh Kheng Hua Connie |Corporate Support Officer|
 |Mdm Ong Poh Hong Jennifer |Corporate Support Officer|
+|Ms Lee Yien Joo Christine | Adjunct CSO |
 |Ms Thivya d/o Nagarajan |Administrative Executive|
 |Mr Junaidi Bin Tarjol |Education Workshop Instructor|
 |Mr Azman Bin Kassim |Education Workshop Instructor|
@@ -38,12 +39,13 @@ variant: markdown
 
 | Name | Designation | 
 | -------- | -------- | 
-|Mdm Chan Poh Yoke Doris |Receptionist|
-|Ms Lee Yien Joo Christine|Finance Admin Officer|
-|Mr Mashuqur Bin Rahman |Desktop Engineer (NCS)|
-|Mr Mohamad Syakir Bin Nor Azmi |Desktop Engineer (NCS)|
-|Mdm  Zuriah Bte Mohd Ali |Library Assistant|
-|Mdm Chan Dai Wei|OSO (Kitchen)|
+|Ms Shahrulbariah | Receptionist |
+|Mdm  Chan Daiwei  | OSO (Kitchen)|
+|Mr Mashuqur Bin Rahman |Desktop Engineer|
+|Mr Mohamad Syakir B Nor Azmi |Desktop Engineer|
+|Mdm  Zuriah Bte Mohd Ali | Library Assistant|
+
+
 
 ##### **Student Emotional and Learning Support**	
 
@@ -57,5 +59,4 @@ variant: markdown
 |Ms Lim Gek Ching Lyne |SENO|lim_gek_ching_lyne@moe.edu.sg|
 |Mdm  Suzila Binte Mohamed Sulaiman |Senior SENO|suzila_mohd_sulaiman@moe.edu.sg|
 |Ms Samantha Woo -|Senior ECG Counsellor |woo_wai_yeng@schools.gov.sg|
-|Ms Sarah Poh |FASC    |poh_shu_siang_sarah@moe.edu.sg|
 |Ms Lim Hui Ping |Student Welfare Officer |lim_hui_ping@moe.edu.sg |

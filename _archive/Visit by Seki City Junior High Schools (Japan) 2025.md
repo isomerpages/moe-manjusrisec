@@ -1,7 +1,7 @@
 ---
-title: Visit by Seki City Junior High Schools (Japan)
-permalink: /visit-by-seki-city-junior-high-schools-japan/
-variant: markdown
+title: Visit by Seki City Junior High Schools (Japan) 2025
+permalink: /visit-by-seki-city-junior-high-schools-japan-2025/
+variant: tiptap
 description: ""
 ---
 <p>MJR welcomed a delegation of Japanese students, teachers and officials
