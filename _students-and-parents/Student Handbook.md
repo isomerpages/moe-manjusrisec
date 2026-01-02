@@ -26,7 +26,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Click <a href="https://drive.google.com/file/d/1bE3S3KhUIhcxD0NCTeQBadj7AIh_aiOF/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">here</a> for
-the 2025 Student Handbook.</p>
+the 2026 Student Handbook.</p>
 </td>
 </tr>
 <tr>
