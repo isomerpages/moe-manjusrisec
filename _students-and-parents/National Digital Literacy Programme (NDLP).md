@@ -164,38 +164,6 @@ or Lenovo Service Centre regarding issues with PLD.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><sup>Acer Service Centre</sup>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><sup>29 International Business Park Singapore 609923 (1.1km from Jurong East MRT) <br>Service Centre Number: 6895 6278 <br>Service Centre Email: </sup>
-<a href="mailto:acercare.sg@acer.com" rel="noopener noreferrer nofollow" target="_blank"><sup>acercare.sg@acer.com</sup>
-</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><sup>Mon, Tue, Thu, Fri:</sup></strong><sup><br>0845 - 1715 <br><br></sup><strong><sup>Wed :</sup></strong><sup> 0845 - 1945 <br><br></sup><strong><sup>Sat :</sup></strong><sup> 0900 - 1200 <br><br></sup><strong><sup>Sun and Public Holiday:</sup></strong><sup><br>Closed</sup>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><sup>Acer Helpdesk</sup>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><sup>Help Desk Number: 6895 6278 <br>Help Desk Email: </sup><a href="mailto:acercare.sg@acer.com" rel="noopener noreferrer nofollow" target="_blank"><sup>acercare.sg@acer.com</sup></a><sup><br></sup><strong><sup>Online Shopping Portal</sup></strong><sup> <br></sup>
-<a href="https://secured.acer.com.sg/pld" rel="noopener noreferrer nofollow" target="_blank"><sup>https://secured.acer.com.sg/pld</sup>
-</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><sup>Mon, Tue, Thu, Fri :</sup></strong><sup><br>0845 – 1715 <br><br></sup><strong><sup>Wed :</sup></strong><sup> 0845 – 1945 <br><br></sup><strong><sup>Sat:</sup></strong><sup> 0900 – 1200 <br><br></sup><strong><sup>Sun and Public Holiday:</sup></strong><sup><br>Closed</sup>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
