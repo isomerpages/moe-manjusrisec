@@ -118,7 +118,7 @@ or Lenovo Service Centre regarding issues with PLD.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><sup>Walk-in Location: CTHUB 1, 2 Kallang Ave #09-01 S(339407) 3 mins walk from Bendemeer MRT </sup>
+<p><sup>Walk-in Location: CTHUB 1, 2 Kallang Ave #09-01 S(339407) 3 mins walk from Bendemeer MRT</sup>
 </p>
 <p><sup>Operation Hours: 9am – 6PM (Mon-Fri) 9am – 1PM (Sat) Closed on Sunday and Public Holidays</sup>
 </p>
