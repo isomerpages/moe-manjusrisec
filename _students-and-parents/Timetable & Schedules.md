@@ -25,7 +25,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Timetable &amp; Schedules/2026 TT/2026_MJR_Sem_1_TT__Odd_week__Sec_1.pdf" rel="noopener nofollow" target="_blank">2026 MJR Sem 1 TT (Odd week) Sec 1</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -33,7 +34,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Timetable &amp; Schedules/2026 TT/2026_MJR_Sem_1_TT__Odd_week__Sec_2.pdf" rel="noopener nofollow" target="_blank">2026 MJR Sem 1 TT (Odd week) Sec 2</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
