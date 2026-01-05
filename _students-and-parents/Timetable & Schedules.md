@@ -29,7 +29,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Timetable &amp; Schedules/2026 TT/2026_MJR_Sem_1_TT__Even_week__Sec_1.pdf" rel="noopener nofollow" target="_blank">2026 MJR Sem 1 TT (Even week) Sec 1</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -38,7 +39,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Timetable &amp; Schedules/2026 TT/2026_MJR_Sem_1_TT__Even_week__Sec_2.pdf" rel="noopener nofollow" target="_blank">2026 MJR Sem 1 TT (Even week) Sec 2</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -47,7 +49,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Timetable &amp; Schedules/2026 TT/2026_MJR_Sem_1_TT__Even_week__Sec_3.pdf" rel="noopener nofollow" target="_blank">2026 MJR Sem 1 TT (Even week) Sec 3</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -56,7 +59,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Timetable &amp; Schedules/2026 TT/2026_MJR_Sem_1_TT__Even_week__Sec_4.pdf" rel="noopener nofollow" target="_blank">2026 MJR Sem 1 TT (Even week) Sec 4</a>
+</p>
 </td>
 </tr>
 </tbody>
