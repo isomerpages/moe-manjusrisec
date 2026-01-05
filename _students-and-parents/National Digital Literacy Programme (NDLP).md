@@ -118,32 +118,13 @@ or Lenovo Service Centre regarding issues with PLD.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><sup>Servlink Technologies – Lenovo Authorised Service Centre</sup>
+<p><sup>Walk-in Location: CTHUB 1, 2 Kallang Ave #09-01 S(339407) 3 mins walk from Bendemeer MRT </sup>
 </p>
-<p><sup>Address: 2 Kallang Avenue #09-01, CTHub 1, Singapore 339407</sup>
-</p>
-<p></p>
-<p><sup>By MRT: The nearest MRT station is Bendemeer Station (Downtown Line). It’s about a 5-minute walk to CTHub from the station.</sup>
-</p>
-<p><sup>By Bus: Bus services 13, 23, 67, 125, and 133 stop near CTHub</sup>
-</p>
-<p><sup>By Car: CTHub offers parking facilities. Enter via Kallang Avenue, and parking is available at an hourly rate.</sup>
-</p>
-<p></p>
-<p><sup>Hotline: +65 6817 1435</sup>
-</p>
-<p><sup>Email: </sup><a href="mailto:Svcctr@servlink.com.sg" rel="noopener noreferrer nofollow" target="_blank"><sup>Svcctr@servlink.com.sg</sup></a>
+<p><sup>Operation Hours: 9am – 6PM (Mon-Fri) 9am – 1PM (Sat) Closed on Sunday and Public Holidays</sup>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><sup>Monday to Friday: 9:00 AM – 6:00 PM</sup>
-</p>
 <p></p>
-<p><sup>Saturday: 9:00 AM – 1:00 PM</sup>
-</p>
-<p></p>
-<p><sup>Closed on Sundays and Public Holidays</sup>
-</p>
 </td>
 </tr>
 <tr>
