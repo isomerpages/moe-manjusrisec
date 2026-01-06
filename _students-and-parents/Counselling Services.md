@@ -40,7 +40,7 @@ decisions for a&nbsp;smoother transition to further education or work.&nbsp;</p>
 <p>Students who would like to&nbsp;explore more about subject choices, ask
 about post-secondary education options, or find out more about&nbsp;their
 career interests, strengths and passions can make an appointment to have
-a chat with her every&nbsp;<strong>Monday</strong> and <strong>Thursday</strong>.&nbsp;</p>
+a chat with her every&nbsp;<strong>Monday</strong> and <strong>Wednesday</strong>.&nbsp;</p>
 <p>Please email her at&nbsp;<a href="mailto:Woo_WAI_YENG@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Woo_WAI_YENG@schools.gov.sg</a>&nbsp;and
 indicate your name, class and school in the email.</p>
 <p>Alternatively, you can book an appointment at&nbsp;<a href="https://go.gov.sg/mjr-ecg" rel="noopener nofollow" target="_blank">https://go.gov.sg/mjr-ecg</a>&nbsp;or
