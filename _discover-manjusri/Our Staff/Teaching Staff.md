@@ -97,7 +97,7 @@ variant: markdown
 |Mrs  Yong-Liow Chai Leng|liow_chai_leng@moe.edu.sg|
 |Mdm Zoe Yeo (Mrs Chu)|yeo_zoe@moe.edu.sg|
 |Mdm Neo Soh Cheng (Cheryl)|neo_soh_cheng_b@moe.edu.sg|
-|Mdm Fang Chunhua Helen|-|
-|Mr Jason Sin |-|
-|Mr Suresh |-|
-|Ms Liza SEM |-|
+|Mdm Fang Chunhua Helen|Fang_Chunhua_Helen_A@moe.edu.sg|
+|Mr Jason Sin |sin_joo_lee@moe.edu.sg|
+|Mr Suresh |Suresh_Oliver_Lakes_A@moe.edu.sg|
+|Ms Liza SEM |sem_bingyan_liza@moe.edu.sg|
