@@ -17,7 +17,7 @@ variant: markdown
 | |Mr Ong Boon Siong|ong_boon_siong@moe.edu.sg|
 | |Mr Han Ah Teck, Michael |han_ah_teck@moe.edu.sg|
 |1-3|Ms Salina Binte Abdul Majid (Senior Teacher)|salina_abdul_majid@moe.edu.sg|
-| |Mr  Suresh |-|
+| |Mr  Suresh |Suresh_Oliver_Lakes_A@moe.edu.sg|
 |1-4|Mr Lim Xu Yao|lim_xu_yao@moe.edu.sg|
 | |Ms Elna Shirin Binte Him Pon |elna_shirin_him_pon@moe.edu.sg|
 |1-5|Mr Ang Soon Hock Andrew|ang_soon_hock_andrew@moe.edu.sg|
@@ -31,7 +31,7 @@ variant: markdown
 |2-2|Ms Mabel Sim Yi Wei|sim_yi_wei_mabel@moe.edu.sg|
 | |Ms Chong Nyok Fang|chong_nyok_fang@moe.edu.sg|
 |2-3|Ms Siti Raudhah Bte Sukri|siti_raudhah_sukri@moe.edu.sg|
-| |Mr Jason Sin |-|
+| |Mr Jason Sin |sin_joo_lee@moe.edu.sg|
 |2-4|Ms Angeline Ng Yeou Chiann|ng_yeou_chiann_angeline@moe.edu.sg|
 | |Ms Chan Lian Yin (SEM 2)|-|
 |2-5|Ms Hajjah Haslinda Bte Yusof|haslinda_yusof@moe.edu.sg|
@@ -46,11 +46,11 @@ variant: markdown
 |3A|Mr Izham Bin Sidek|izham_sidek@moe.edu.sg|
 | |Ms  Goh Layna|goh_layna@moe.edu.sg|
 |3B1|Ms Oh Ee-Laine (Senior Teacher)|oh_ee-laine@moe.edu.sg|
-| | Ng Yuan Hui|-|
+| | Ng Yuan Hui|ng_yuan_hui@moe.edu.sg|
 |3B2|Ms Jurana Binte Abdul Rahim|jurana_abdul_rahim@moe.edu.sg|
 |3B3|Mdm Ernieyanty Hasan |ernieyanty_hasan@moe.edu.sg|
 | |Mdm Foo Siqi Michell|foo_siqi_michell@moe.edu.sg|
-|3C1|Ms Erica Reyes Rodriguez|erica_reyes_rodriguez@moe.edu.sg|
+|3C1|Ms Erica Reyes Rodriguez (Senior Teacher)|erica_reyes_rodriguez@moe.edu.sg|
 | | TBA|-|
 |3C2|Ms Ng Ning|ng_ning@moe.edu.sg|
 | |Mr Amit Kumar Sharma s/o Amber Nath|amit_kumar_sharma_amber@moe.edu.sg|
@@ -97,7 +97,7 @@ variant: markdown
 |Mrs  Yong-Liow Chai Leng|liow_chai_leng@moe.edu.sg|
 |Mdm Zoe Yeo (Mrs Chu)|yeo_zoe@moe.edu.sg|
 |Mdm Neo Soh Cheng (Cheryl)|neo_soh_cheng_b@moe.edu.sg|
-|Mdm Fang Chunhua Helen|-|
-|Mr Jason Sin |-|
-|Mr Suresh |-|
-|Ms Liza SEM |-|
+|Mdm Fang Chunhua Helen|Fang_Chunhua_Helen_A@moe.edu.sg|
+|Mr Jason Sin |sin_joo_lee@moe.edu.sg|
+|Mr Suresh |Suresh_Oliver_Lakes_A@moe.edu.sg|
+|Ms Liza SEM |sem_bingyan_liza@moe.edu.sg|
