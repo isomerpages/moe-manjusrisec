@@ -17,7 +17,7 @@ variant: markdown
 | |Mr Ong Boon Siong|ong_boon_siong@moe.edu.sg|
 | |Mr Han Ah Teck, Michael |han_ah_teck@moe.edu.sg|
 |1-3|Ms Salina Binte Abdul Majid (Senior Teacher)|salina_abdul_majid@moe.edu.sg|
-| |Mr  Suresh |-|
+| |Mr  Suresh |Suresh_Oliver_Lakes_A@moe.edu.sg|
 |1-4|Mr Lim Xu Yao|lim_xu_yao@moe.edu.sg|
 | |Ms Elna Shirin Binte Him Pon |elna_shirin_him_pon@moe.edu.sg|
 |1-5|Mr Ang Soon Hock Andrew|ang_soon_hock_andrew@moe.edu.sg|
@@ -46,7 +46,7 @@ variant: markdown
 |3A|Mr Izham Bin Sidek|izham_sidek@moe.edu.sg|
 | |Ms  Goh Layna|goh_layna@moe.edu.sg|
 |3B1|Ms Oh Ee-Laine (Senior Teacher)|oh_ee-laine@moe.edu.sg|
-| | Ng Yuan Hui|-|
+| | Ng Yuan Hui|ng_yuan_hui@moe.edu.sg|
 |3B2|Ms Jurana Binte Abdul Rahim|jurana_abdul_rahim@moe.edu.sg|
 |3B3|Mdm Ernieyanty Hasan |ernieyanty_hasan@moe.edu.sg|
 | |Mdm Foo Siqi Michell|foo_siqi_michell@moe.edu.sg|
