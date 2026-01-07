@@ -50,7 +50,7 @@ variant: markdown
 |3B2|Ms Jurana Binte Abdul Rahim|jurana_abdul_rahim@moe.edu.sg|
 |3B3|Mdm Ernieyanty Hasan |ernieyanty_hasan@moe.edu.sg|
 | |Mdm Foo Siqi Michell|foo_siqi_michell@moe.edu.sg|
-|3C1|Ms Erica Reyes Rodriguez|erica_reyes_rodriguez@moe.edu.sg|
+|3C1|Ms Erica Reyes Rodriguez (Senior Teacher)|erica_reyes_rodriguez@moe.edu.sg|
 | | TBA|-|
 |3C2|Ms Ng Ning|ng_ning@moe.edu.sg|
 | |Mr Amit Kumar Sharma s/o Amber Nath|amit_kumar_sharma_amber@moe.edu.sg|
