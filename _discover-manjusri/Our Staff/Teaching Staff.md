@@ -31,7 +31,7 @@ variant: markdown
 |2-2|Ms Mabel Sim Yi Wei|sim_yi_wei_mabel@moe.edu.sg|
 | |Ms Chong Nyok Fang|chong_nyok_fang@moe.edu.sg|
 |2-3|Ms Siti Raudhah Bte Sukri|siti_raudhah_sukri@moe.edu.sg|
-| |Mr Jason Sin |-|
+| |Mr Jason Sin |sin_joo_lee@moe.edu.sg|
 |2-4|Ms Angeline Ng Yeou Chiann|ng_yeou_chiann_angeline@moe.edu.sg|
 | |Ms Chan Lian Yin (SEM 2)|-|
 |2-5|Ms Hajjah Haslinda Bte Yusof|haslinda_yusof@moe.edu.sg|
