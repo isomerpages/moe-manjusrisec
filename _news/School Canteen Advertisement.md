@@ -72,7 +72,7 @@ email OR to the School's General Office.</p>
 <p>Email: manjusri_ss@moe.edu.sg</p>
 </li>
 <li>
-<p>Contact Person: Mrs Wang Boon Lian</p>
+<p>Contact Person: Ms Sharon Seo</p>
 </li>
 </ul>
 <p><strong>How to get there?</strong>
