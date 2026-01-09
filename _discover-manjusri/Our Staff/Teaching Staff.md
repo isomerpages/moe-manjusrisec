@@ -37,7 +37,7 @@ variant: markdown
 |2-5|Ms Hajjah Haslinda Bte Yusof|haslinda_yusof@moe.edu.sg|
 | |Mdm Bao Bingqing|bao_bingqing@moe.edu.sg|
 |2-6|Ms Mary Rose P Gonsalvez|mary_rose_p_gonsalvez@moe.edu.sg|
-| |Ms Chan Sock Cheng|chan_sock_cheng@moe.edu.sg|
+| |Ms Lui Yi Ling Candice|lui_yi_ling_candice@moe.edu.sg|
 | |Mr Edward Cheong Zhen Kuang|edward_cheong@moe.edu.sg|
 |2-7|Mdm Marliyana Binte Mohamad Noor|marliyana_mohamad_noor@moe.edu.sg|
 | |Mrs Lai-Mok Yee Wan |mok_yee_wan@moe.edu.sg|
