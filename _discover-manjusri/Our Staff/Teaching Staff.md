@@ -48,6 +48,7 @@ variant: markdown
 |3B1|Ms Oh Ee-Laine (Senior Teacher)|oh_ee-laine@moe.edu.sg|
 | | Ng Yuan Hui|ng_yuan_hui@moe.edu.sg|
 |3B2|Ms Jurana Binte Abdul Rahim|jurana_abdul_rahim@moe.edu.sg|
+||Ms Chan Sock Cheng|chan_sock_cheng@moe.edu.sg|
 |3B3|Mdm Ernieyanty Hasan |ernieyanty_hasan@moe.edu.sg|
 | |Mdm Foo Siqi Michell|foo_siqi_michell@moe.edu.sg|
 |3C1|Ms Erica Reyes Rodriguez (Senior Teacher)|erica_reyes_rodriguez@moe.edu.sg|
