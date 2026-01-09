@@ -31,7 +31,9 @@ the 2026 Student Handbook.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Students and Parents/Handbook/Year_Book_2025.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>Click <a href="https://heyzine.com/flip-book/2316174fb2.html" rel="noopener nofollow" target="_blank">here</a> for
