@@ -60,3 +60,4 @@ variant: markdown
 |Mdm  Suzila Binte Mohamed Sulaiman |Senior SENO|suzila_mohd_sulaiman@moe.edu.sg|
 |Ms Samantha Woo -|Senior ECG Counsellor |woo_wai_yeng@schools.gov.sg|
 |Ms Lim Hui Ping |Student Welfare Officer |lim_hui_ping@moe.edu.sg |
+|Tee Beng Lian Serene|Allied Educator (Admin Support) |tee_beng_lian@moe.edu.sg|
