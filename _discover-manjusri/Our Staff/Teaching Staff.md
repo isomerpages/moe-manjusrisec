@@ -54,7 +54,7 @@ variant: markdown
 |3C1|Ms Erica Reyes Rodriguez (Senior Teacher)|erica_reyes_rodriguez@moe.edu.sg|
 | | Ms Cao Ruijie|cao_ruijie@moe.edu.sg|
 |3C2|Ms Ng Ning|ng_ning@moe.edu.sg|
-| |Mr Amit Kumar Sharma s/o Amber Nath|amit_kumar_sharma_amber@moe.edu.sg|
+| ||lee_li_yun@moe.edu.sg|
 |3C3|Ms Lee Li Yun|lee_li_yun@moe.edu.sg|
 | |Ms Sunarti Mochtar|sunarti_mochtar@moe.edu.sg|
 |3C4|Ms Lui Yi Ling Candice|lui_yi_ling_candice@moe.edu.sg|
