@@ -30,10 +30,10 @@ variant: markdown
 |Ms Chen Chen Ada | HOD, EdTech|chen_chen_b@moe.edu.sg|
 |Mr Neo Wee Kian Travis | HOD, Special Educational Needs|neo_wee_kian@moe.edu.sg|
 |Mr Tan Kian Ann, Jacky | HOD, Student Management|tan_kian_ann@moe.edu.sg|
-|Mr Tan Thiam Meng | Year Head|tan_thiam_meng@moe.edu.sg|
-|Ms Tee Pei Pei | YH (Ag)|tee_pei_pei@moe.edu.sg|
-|Ms Nur Atiqah Binti Abdul Fattah | AYH|nur_atiqah_abdul_fattah@moe.edu.sg|
-|Ms Tan Shi Jia | AYH|tan_shi_jia@moe.edu.sg|
+|Mr Tan Thiam Meng | Year Head Sec 2|tan_thiam_meng@moe.edu.sg|
+|Ms Tee Pei Pei | Year Head Sec 3 (Ag)|tee_pei_pei@moe.edu.sg|
+|Ms Nur Atiqah Binti Abdul Fattah | AYH Sec 4/5|nur_atiqah_abdul_fattah@moe.edu.sg|
+|Ms Tan Shi Jia | AYH Sec 1|tan_shi_jia@moe.edu.sg|
 |Mrs Teh-Tay Hwee Cheng Angeline | SH, Aesthetics|tay_hwee_cheng@moe.edu.sg|
 |Mr Edward Cheong | SH, Curriculum Innovation (Ag)|edward_cheong@moe.edu.sg|
 |Ms Jurana Binte Abdul Rahim | SH, CCE|jurana_abdul_rahim@moe.edu.sg|
