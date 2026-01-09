@@ -31,7 +31,7 @@ variant: markdown
 |Mr Neo Wee Kian Travis | HOD, Special Educational Needs|neo_wee_kian@moe.edu.sg|
 |Mr Tan Kian Ann, Jacky | HOD, Student Management|tan_kian_ann@moe.edu.sg|
 |Mr Tan Thiam Meng | Year Head|tan_thiam_meng@moe.edu.sg|
-|Ms Tee Pei Pei | AYH|tee_pei_pei@moe.edu.sg|
+|Ms Tee Pei Pei | YH (Ag)|tee_pei_pei@moe.edu.sg|
 |Ms Nur Atiqah Binti Abdul Fattah | AYH|nur_atiqah_abdul_fattah@moe.edu.sg|
 |Ms Tan Shi Jia | AYH|tan_shi_jia@moe.edu.sg|
 |Mrs Teh-Tay Hwee Cheng Angeline | SH, Aesthetics|tay_hwee_cheng@moe.edu.sg|
@@ -41,6 +41,7 @@ variant: markdown
 |Mr Ting Kok Thiam | SH, EdTech|ting_kok_thiam@moe.edu.sg|
 |Ms  Foo Siqi Michell | SH, EL|foo_siqi_michell@moe.edu.sg|
 |Mr Lim Xu Yao | SH, Humanities|lim_xu_yao@moe.edu.sg|
+|Ms Ng Imei | SH, Chinese Language (Ag)|ng_imei@moe.edu.sg|
 |Ms  Amira Begum d/o Abdul Naseer | SH, Malay Language|amira_begum_abdul_naseer@moe.edu.sg|
 |Ms  Goh Pei Shan | SH, Mathematics|goh_pei_shan@moe.edu.sg|
 |Mr Han Ah Teck, Michael | SH, School Partnerships|han_ah_teck@moe.edu.sg|
