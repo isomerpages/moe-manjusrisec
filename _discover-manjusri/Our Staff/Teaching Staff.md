@@ -68,7 +68,7 @@ variant: markdown
 |4B3|Ms Loi Wee Kin|loi_wee_kin@moe.edu.sg|
 | |Mr Kaddy Koh|koh_kaddy@moe.edu.sg|
 |4C1|Ms Ng Imei|ng_imei@moe.edu.sg|
-| |Ms Mellissa Seow Xuemei|seow_xuemei_mellissa@moe.edu.sg|
+| |Mr Amit Kumar Sharma s/o Amber Nath|amit_kumar_sharma_amber@moe.edu.sg|
 |4C2|Mr Daniel Pflug|pflug_daniel@moe.edu.sg|
 | |Dr Lim Si Hui|lim_si_hui@moe.edu.sg|
 |4C3|Mr Lee Xinzhan Andrew|lee_xinzhan_andrew@moe.edu.sg|
@@ -84,15 +84,14 @@ variant: markdown
 | -------- | -------- |
 |Mr Huang Yuanpeng|huang_yuanpeng@moe.edu.sg|
 |Ms  Kang Ching Choon Bryan |kang_ching_choon@moe.edu.sg|
-|Mdm Kok Jia En Yvonne|jia_en_yvonne_kok@moe.edu.sg|
 |Ms  Nurul A'mirah Binte Mohd Kamal|nurul_amirah_mohd_kamal@moe.edu.sg|
 |Mdm Pan Ping|pan_ping@moe.edu.sg|
 |Ms Pang Chiaw Yong|pang_chiaw_yong_a@moe.edu.sg|
 |Ms  Tan Ai Hua|tan_ai_hua@moe.edu.sg|
 |Ms Tan Hsiao Wey|tan_hsiao_wey@moe.edu.sg|
 |Ms Tan Tien Tien Victoria Lynn |victoria_lynn_tan_tien@moe.edu.sg|
-|Mdm Sun Guangpu (Senior Teacher)|sun_guangpu@moe.edu.sg|
-|Mr Chan Boon Keat Andrew|chan_boon_keat@moe.edu.sg|
+|Mdm Mok Yee Wan (Mrs Lai)|mok_yee_wan@moe.edu.sg|
+|Mdm Fang Chunhua Helen|Fang_Chunhua_Helen_A@moe.edu.sg|
 |Ms Lee Wai Ying Winnie|winnie_lee_wai_ying_a@moe.edu.sg|
 |Ms Wong Sook Fong Shirley|wong_sook_fong@moe.edu.sg|
 |Mrs  Yong-Liow Chai Leng|liow_chai_leng@moe.edu.sg|
