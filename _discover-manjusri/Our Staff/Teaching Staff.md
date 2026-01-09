@@ -25,7 +25,7 @@ variant: markdown
 |1-6|Mr Hafiz Emran Khan|hafiz_emran_khan@moe.edu.sg|
 | |Ms Lee Shi Hua Candice (Senior Teacher)|lee_shi_hua_candice@moe.edu.sg|
 |1-7|Mr Goh Young Koon, Francis|Goh_Young_Koon@moe.edu.sg|
-| |- -|-|
+| |Mr Wong Jia Wei Wesley|wong_jia_wei_wesley@moe.edu.sg|
 |2-1|Ms Seah Yi Fan|seah_yi_fan@moe.edu.sg|
 | |Mr Mohd Jawahir B Ahmat|mohd_jawahir_ahmat@moe.edu.sg|
 |2-2|Ms Mabel Sim Yi Wei|sim_yi_wei_mabel@moe.edu.sg|
