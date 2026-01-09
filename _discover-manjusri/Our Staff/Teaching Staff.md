@@ -53,12 +53,12 @@ variant: markdown
 | |Mdm Foo Siqi Michell|foo_siqi_michell@moe.edu.sg|
 |3C1|Ms Erica Reyes Rodriguez (Senior Teacher)|erica_reyes_rodriguez@moe.edu.sg|
 | | Ms Cao Ruijie|cao_ruijie@moe.edu.sg|
-|3C2|Ms Ng Ning|ng_ning@moe.edu.sg|
-| ||lee_li_yun@moe.edu.sg|
-|3C3|Ms Lee Li Yun|lee_li_yun@moe.edu.sg|
+|3C2 |Ms Lee Li Yun|lee_li_yun@moe.edu.sg|
+||Ms Ng Ning|ng_ning@moe.edu.sg|
+|3C3|Mr Lee Zhong Shun|lee_zhong_shun@moe.edu.sg|
 | |Ms Sunarti Mochtar|sunarti_mochtar@moe.edu.sg|
-|3C4|Ms Lui Yi Ling Candice|lui_yi_ling_candice@moe.edu.sg|
-| |Mr Lee Zhong Shun|lee_zhong_shun@moe.edu.sg|
+|3C4|Mdm Sun Guangpu|sun_guangpu@moe.edu.sg|
+| |Mr Chan Boon Keat Andrew|chan_boon_keat@moe.edu.sg|
 |4A|Mr Ahmad Nabil Bin Ahmad Al-Kastalani|ahmad_nabil_ahmad_al-kastalani@moe.edu.sg|
 | |Mdm Nur-Ashiqin Binte Hasbollah|nurashiqin_hasbollah_a@moe.edu.sg|
 |4B1|Ms Rose Binte Ibrahim|rose_ibrahim@moe.edu.sg|
