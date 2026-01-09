@@ -93,11 +93,15 @@ variant: markdown
 |Mdm Mok Yee Wan (Mrs Lai)|mok_yee_wan@moe.edu.sg|
 |Mdm Fang Chunhua Helen|Fang_Chunhua_Helen_A@moe.edu.sg|
 |Ms Lee Wai Ying Winnie|winnie_lee_wai_ying_a@moe.edu.sg|
+|Mdm Elna Shirin Binte Him Pon|elna_shirin_him_pon@moe.edu.sg|
+|Mr Suresh Oliver Lakes|Suresh_Oliver_Lakes_A@moe.edu.sg|
+|Ms Koh Siew Kian Kelly |koh_siew_kian_kelly@moe.edu.sg|
 |Ms Wong Sook Fong Shirley|wong_sook_fong@moe.edu.sg|
 |Mrs  Yong-Liow Chai Leng|liow_chai_leng@moe.edu.sg|
-|Mdm Zoe Yeo (Mrs Chu)|yeo_zoe@moe.edu.sg|
+|Mr Sin Joo Lee Jason |sin_joo_lee@moe.edu.sg|
+|Ms Yeo Yam Cher|yeo_yam_cher_c@moe.edu.sg|
+|Ms Chiew Chan Ping Eunice|Chiew_Chan_Ping_Eunice@moe.edu.sg|
+|Ms Sem Bingyan Liza|sem_bingyan_liza@moe.edu.sg|
+|Mdm Yeo Zoe (Mrs Chu)|yeo_zoe@moe.edu.sg|
 |Mdm Neo Soh Cheng (Cheryl)|neo_soh_cheng_b@moe.edu.sg|
-|Mdm Fang Chunhua Helen|Fang_Chunhua_Helen_A@moe.edu.sg|
-|Mr Jason Sin |sin_joo_lee@moe.edu.sg|
-|Mr Suresh |Suresh_Oliver_Lakes_A@moe.edu.sg|
-|Ms Liza SEM |sem_bingyan_liza@moe.edu.sg|
+|Mr Khaw Hock Keat Raymond  |raymond_khaw_hock_keat@moe.edu.sg|
