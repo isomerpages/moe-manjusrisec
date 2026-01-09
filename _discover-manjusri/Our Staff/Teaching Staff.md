@@ -33,7 +33,7 @@ variant: markdown
 |2-3|Ms Siti Raudhah Bte Sukri|siti_raudhah_sukri@moe.edu.sg|
 | |Mr Jason Sin |sin_joo_lee@moe.edu.sg|
 |2-4|Ms Angeline Ng Yeou Chiann|ng_yeou_chiann_angeline@moe.edu.sg|
-| |Ms Chan Lian Yin (SEM 2)|-|
+| |Mdm Kok Jia En Yvonne|Jia_En_Yvonne_Kok@moe.edu.sg|
 |2-5|Ms Hajjah Haslinda Bte Yusof|haslinda_yusof@moe.edu.sg|
 | |Mdm Bao Bingqing|bao_bingqing@moe.edu.sg|
 |2-6|Ms Mary Rose P Gonsalvez|mary_rose_p_gonsalvez@moe.edu.sg|
