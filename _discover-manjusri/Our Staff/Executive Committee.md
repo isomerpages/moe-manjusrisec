@@ -31,7 +31,7 @@ variant: markdown
 |Mr Neo Wee Kian Travis | HOD, Special Educational Needs|neo_wee_kian@moe.edu.sg|
 |Mr Tan Kian Ann, Jacky | HOD, Student Management|tan_kian_ann@moe.edu.sg|
 |Mr Tan Thiam Meng | Year Head|tan_thiam_meng@moe.edu.sg|
-|Ms Tee Pei Pei | AYH|tee_pei_pei@moe.edu.sg|
+|Ms Tee Pei Pei | YH (Ag)|tee_pei_pei@moe.edu.sg|
 |Ms Nur Atiqah Binti Abdul Fattah | AYH|nur_atiqah_abdul_fattah@moe.edu.sg|
 |Ms Tan Shi Jia | AYH|tan_shi_jia@moe.edu.sg|
 |Mrs Teh-Tay Hwee Cheng Angeline | SH, Aesthetics|tay_hwee_cheng@moe.edu.sg|
