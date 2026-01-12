@@ -4,10 +4,34 @@ permalink: /parent-support-group/
 variant: tiptap
 description: ""
 ---
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students and Parents/PSG/psg_logo.png">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Students and Parents/PSG/psg_logo.png">
 </div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students and Parents/PSG/mjr_logo.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <h4><strong>Manjusri Parent Support Group</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students and Parents/PSG/Group_Photo.png">
