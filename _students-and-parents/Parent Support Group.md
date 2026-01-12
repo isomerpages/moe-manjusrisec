@@ -21,7 +21,7 @@ description: ""
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students and Parents/PSG/Jason_Leong.jpg">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Students and Parents/PSG/Jason_Leong.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
@@ -40,58 +40,33 @@ description: ""
 </div>
 </th>
 </tr>
-</tbody>
-</table>
-<table style="minWidth: 100px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Students and Parents/PSG/Janette_He.png">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Students and Parents/PSG/Janette_He.png">
 </div>
-</th>
-<th rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students and Parents/PSG/Ng_Kai_Lee.jpg">
 </div>
-</th>
-<th rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students and Parents/PSG/Norizan.jpg">
 </div>
-</th>
-<th rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students and Parents/PSG/Joe_Toh.jpg">
+<img style="width: 52%;" height="auto" width="100%" alt="" src="/images/Students and Parents/PSG/Joe_Toh.jpg">
 </div>
-</th>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Students and Parents/PSG/Lim_Yew_Kuan.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Students and Parents/PSG/Lim_Yew_Kuan.jpg">
 </div>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
