@@ -6,6 +6,9 @@ description: ""
 ---
 <h4></h4>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students and Parents/PSG/MJR_Parent_Support_Group.png">
+</div>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students and Parents/PSG/Group_Photo.png">
 </div>
 <h4><strong>MJR PSG EXCO (2026)</strong></h4>
