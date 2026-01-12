@@ -5,7 +5,10 @@ variant: tiptap
 description: ""
 ---
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students and Parents/PSG/psg_logo.png">
+</div>
+<h4><strong>Manjusri Parent Support Group</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students and Parents/PSG/Group_Photo.png">
 </div>
