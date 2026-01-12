@@ -34,7 +34,8 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students and Parents/PSG/Group_Photo.png">
 </div>
-<p>MJR PSG Family</p>
+<p><sup>MJR PSG Family</sup>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
