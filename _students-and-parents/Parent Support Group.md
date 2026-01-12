@@ -84,7 +84,7 @@ description: ""
 </table>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students and Parents/PSG/QR_Code.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Students and Parents/PSG/QR_Code.png">
 </div>
 <p>You can join the PSG team by registering yourself by scanning the QR code
 above.</p>
