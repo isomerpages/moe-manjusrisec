@@ -8,17 +8,36 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students and Parents/PSG/MJR_Parent_Support_Group.png">
 </div>
-<table style="minWidth: 25px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
+<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students and Parents/PSG/Group_Photo.png">
 </div>
 <p>MJR PSG Family</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -109,25 +128,19 @@ and ideas to improve the school and PSG&nbsp;&nbsp;</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 78%;" height="auto" width="100%" alt="" src="/images/Students and Parents/PSG/Picture1.jpg">
 </div>
-<p>MJR Road Run</p>
+<p><sup>MJR Road Run</sup>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students and Parents/PSG/Picture2.png">
 </div>
-<p>MJR PSG Welcome Tea</p>
+<p><sup>MJR PSG Welcome Tea</sup>
+</p>
 </td>
 </tr>
 <tr>
@@ -135,13 +148,15 @@ and ideas to improve the school and PSG&nbsp;&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 78%;" height="auto" width="100%" alt="" src="/images/Students and Parents/PSG/Picture3.jpg">
 </div>
-<p>Vesak Day Observance Ceremony</p>
+<p><sup>Vesak Day Observance Ceremony</sup>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students and Parents/PSG/Picture4.jpg">
 </div>
-<p>Racial Harmony Day Celebrations</p>
+<p><sup>Racial Harmony Day Celebrations</sup>
+</p>
 </td>
 </tr>
 <tr>
@@ -150,13 +165,15 @@ and ideas to improve the school and PSG&nbsp;&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students and Parents/PSG/Picture5.png">
 </div>
-<p>Teachers' Day Celebrations</p>
+<p><sup>Teachers' Day Celebrations</sup>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students and Parents/PSG/Picture6.png">
 </div>
-<p>Graduation Day</p>
+<p><sup>Graduation Day</sup>
+</p>
 </td>
 </tr>
 <tr>
@@ -164,7 +181,8 @@ and ideas to improve the school and PSG&nbsp;&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students and Parents/PSG/Picture7.jpg">
 </div>
-<p>PSG Year-End Bonding Event</p>
+<p><sup>PSG Year-End Bonding Event</sup>
+</p>
 </td>
 </tr>
 </tbody>
