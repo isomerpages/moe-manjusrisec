@@ -94,7 +94,7 @@ above</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<h4><strong>Roles of the PSGs</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students and Parents/PSG/Role_1.png">
 </div>
@@ -102,7 +102,6 @@ above</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students and Parents/PSG/Role_2.png">
 </div>
 <h4><strong>School-Home Partnership</strong></h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students and Parents/PSG/partnership_1.png">
 </div>
