@@ -124,7 +124,7 @@ and ideas to improve the school and PSG&nbsp;&nbsp;</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students and Parents/PSG/Picture1.jpg">
+<img style="width: 78%;" height="auto" width="100%" alt="" src="/images/Students and Parents/PSG/Picture1.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
@@ -136,7 +136,7 @@ and ideas to improve the school and PSG&nbsp;&nbsp;</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students and Parents/PSG/Picture3.jpg">
+<img style="width: 78%;" height="auto" width="100%" alt="" src="/images/Students and Parents/PSG/Picture3.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -148,7 +148,7 @@ and ideas to improve the school and PSG&nbsp;&nbsp;</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students and Parents/PSG/Picture5.png">
+<img style="width: 78%;" height="auto" width="100%" alt="" src="/images/Students and Parents/PSG/Picture5.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
