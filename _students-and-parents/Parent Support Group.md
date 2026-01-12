@@ -141,7 +141,7 @@ and ideas to improve the school and PSG&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Students and Parents/PSG/Picture2.png">
+<img style="width: 92%;" height="auto" width="100%" alt="" src="/images/Students and Parents/PSG/Picture2.png">
 </div>
 <p><sup>MJR PSG Welcome Tea</sup>
 </p>
@@ -157,7 +157,7 @@ and ideas to improve the school and PSG&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Students and Parents/PSG/Picture4.jpg">
+<img style="width: 92%;" height="auto" width="100%" alt="" src="/images/Students and Parents/PSG/Picture4.jpg">
 </div>
 <p><sup>Racial Harmony Day Celebrations</sup>
 </p>
@@ -166,7 +166,7 @@ and ideas to improve the school and PSG&nbsp;&nbsp;</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 84%;" height="auto" width="100%" alt="" src="/images/Students and Parents/PSG/Picture5.png">
+<img style="width: 82%;" height="auto" width="100%" alt="" src="/images/Students and Parents/PSG/Picture5.png">
 </div>
 <p><sup>Teachers' Day Celebrations</sup>
 </p>
