@@ -16,9 +16,42 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students and Parents/PSG/psg_members.png">
 </div>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Students and Parents/PSG/QR_Code.png">
 </div>
+<p>You can join the PSG team by registering yourself by scanning the QR code
+above</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>You can join the PSG team by registering yourself by scanning the QR code
 above.</p>
 <div class="isomer-image-wrapper">
@@ -99,4 +132,5 @@ and ideas to improve the school and PSG&nbsp;&nbsp;</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
