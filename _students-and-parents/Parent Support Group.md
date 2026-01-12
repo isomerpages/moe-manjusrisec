@@ -8,11 +8,22 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students and Parents/PSG/MJR_Parent_Support_Group.png">
 </div>
-<p></p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students and Parents/PSG/Group_Photo.png">
 </div>
 <p>MJR PSG Family</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students and Parents/PSG/psg_members.png">
 </div>
@@ -29,15 +40,26 @@ description: ""
 <p></p>
 </th>
 <th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Students and Parents/PSG/QR_Code.png">
 </div>
 <p>You can join the PSG team by registering yourself by scanning the QR code
 above</p>
-</th>
-<th rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
-</th>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -52,8 +74,7 @@ above</p>
 </tr>
 </tbody>
 </table>
-<p>You can join the PSG team by registering yourself by scanning the QR code
-above.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students and Parents/PSG/Role_1.png">
 </div>
