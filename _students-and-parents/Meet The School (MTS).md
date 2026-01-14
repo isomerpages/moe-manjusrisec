@@ -53,13 +53,37 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Meet the school (mts)/2025 MTS/Sec_2_Subject_Selection_Briefing_MTS_2025.pdf" rel="noopener nofollow" target="_blank">Sec 2 Subject Selection Briefing_MTS 2025</a>
+<p><a href="/files/Meet the school (mts)/2026 MTS/2026_MTS___S2_Subject_Selection_Briefing.pdf" rel="noopener nofollow" target="_blank">2026 MTS - S2 Subject Selection Briefing</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Meet the school (mts)/2026 MTS/2026_MTS___S2_and_S3_YH_Address.pdf" rel="noopener nofollow" target="_blank">2026 MTS - S2 and S3 YH Address</a>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Secondary 3</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Meet the school (mts)/2026 MTS/2026_MTS___S2_and_S3_YH_Address.pdf" rel="noopener nofollow" target="_blank">2026 MTS - S2 and S3 YH Address</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
