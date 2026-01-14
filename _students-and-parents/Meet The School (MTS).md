@@ -16,32 +16,29 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Meet the school (mts)/2025 MTS/2025_01_11_P_s_MTS_presentation_slides_to_S1_parents__Jan_2025__v2.pdf" rel="noopener nofollow" target="_blank">Principal's MTS Presentation Slides to S1 Parents (Jan 2025)</a>
+<p><a href="/files/Meet the school (mts)/2026 MTS/2026_MTS___S1_CCA_Briefing_for_Parents.pdf" rel="noopener nofollow" target="_blank">2026 MTS - S1 CCA Briefing for Parents</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Meet the school (mts)/2025 MTS/2025_S1_MTS_YH_Address_11_Jan.pdf" rel="noopener nofollow" target="_blank">2025 S1 MTS YH Address_11 Jan</a>
+<p><a href="/files/Meet the school (mts)/2026 MTS/2026_MTS___S1_Full_SBB.pdf" rel="noopener nofollow" target="_blank">2026 MTS - S1 Full SBB</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Meet the school (mts)/2025 MTS/Full_SBB___Parents_Engagement_Deck__Sec_1_MTS_2025_.pdf" rel="noopener nofollow" target="_blank">Full SBB - Parents Engagement Deck (Sec 1 MTS 2025)</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Meet the school (mts)/2025 MTS/IP1_Chromebook____Parent_Engagement_Deck_2025__MJR_.pdf" rel="noopener nofollow" target="_blank">IP1(Chromebook) - Parent Engagement Deck 2025 (MJR)</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Meet the school (mts)/2025 MTS/Parents__Briefing_on_CCA_2025.pdf" rel="noopener nofollow" target="_blank">Parents' Briefing on CCA_2025</a>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
