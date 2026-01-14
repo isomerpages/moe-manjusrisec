@@ -1,6 +1,6 @@
 ---
-title: Student Handbook
-permalink: /students-and-parents/permalink/
+title: School Publications
+permalink: /students-and-parents/school-publications/
 variant: tiptap
 description: ""
 ---
