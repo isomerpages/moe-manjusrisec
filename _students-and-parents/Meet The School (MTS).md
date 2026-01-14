@@ -40,7 +40,6 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p></p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
