@@ -91,30 +91,18 @@ description: ""
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>All</p>
+<p>Secondary 4</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Meet the school (mts)/2025 MTS/2025_S2_to_S5_MTS_YH_Address.pdf" rel="noopener nofollow" target="_blank">2025 S2 to S5 MTS YH Address</a>
+<p><a href="/files/Meet the school (mts)/2026 MTS/2026_MTS___S45_Managing_stress___Mindfulness.pdf" rel="noopener nofollow" target="_blank">2026 MTS - S45 Managing stress - Mindfulness</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Meet the school (mts)/2025 MTS/Educational_Support.pdf" rel="noopener nofollow" target="_blank">Educational Support</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Meet the school (mts)/2025 MTS/PSG_MTS_2025_11_jan.pdf" rel="noopener nofollow" target="_blank">PSG MTS 2025 11 Jan</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Meet the school (mts)/2025 MTS/SH_SWB_Cyberwellness_MTS_2025.pdf" rel="noopener nofollow" target="_blank">SH SWB Cyberwellness MTS 2025</a>
+<p><a href="/files/Meet the school (mts)/2026 MTS/2026_MTS___S45_YH_Address.pdf" rel="noopener nofollow" target="_blank">2026 MTS - S45 YH Address</a>
 </p>
 </td>
 </tr>
