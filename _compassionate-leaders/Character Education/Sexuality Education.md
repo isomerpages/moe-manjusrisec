@@ -73,15 +73,9 @@ and expand their understanding and repertoire of skills to deal with various
 issues related to sexuality, which are of prime concern at this age.</p>
 <p><strong>At MANJUSRI Secondary School, the following lessons from the Sexuality Education Programme will be taught in&nbsp;<u>2026:</u></strong>
 </p>
-<p><a href="/files/SED/2025_Info_on_SEd___Sec_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 1</a>
+<p><a href="/files/SED/2025_Info_on_SEd___Sec_1.pdf" rel="noopener nofollow" target="_blank">Secondary 1</a>
 </p>
-<p><a href="/files/SED/2025_Info_on_SEd___Sec_2.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 2</a>
-</p>
-<p><a href="/files/SED/2025_Info_on_SEd___Sec_3.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 3</a>
-</p>
-<p><a href="/files/SED/2025_Info_on_SEd___Sec_4.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 4</a>
-</p>
-<p><a href="/files/SED/2025_Info_on_SEd___Sec_5.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 5</a>
+<p><a href="/files/SED/2026 SED/2026_SEXUALITY_EDUCATION_LESSONS_IN_CCE_Sec2.pdf" rel="noopener nofollow" target="_blank">Secondary 2</a>
 </p>
 <p><strong><em>eTeens</em></strong>&nbsp;<strong>Programme</strong>&nbsp;:</p>
 <p>8. eTeens is a programme developed by Health Promotion Board, in collaboration
