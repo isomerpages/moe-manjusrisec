@@ -128,8 +128,10 @@ help. Abstinence and upholding family values are the key messages.</p>
 <p>a)&nbsp;&nbsp;&nbsp; Infectious diseases (STIs and HIV): what it is, how
 it spreads, how to prevent infection mainly through ABC (abstinence, being
 faithful, correct, and consistent condom use).</p>
-<p>b)&nbsp;&nbsp;&nbsp; Managing relationships and risky situations in a
-healthy way.</p>
+<p>b)&nbsp;Skills for respecting boundaries (e.g. decision-making, assertiveness,
+negotiation to say ‘no’ to peer pressure)</p>
+<p>c)&nbsp;Managing relationships and risky situations in a healthy way,
+including avenues for help-seeking.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 3
@@ -146,7 +148,7 @@ of assertiveness and responsible decision-making</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 3
-<br>Week 7</p>
+<br>Week 8</p>
 </td>
 </tr>
 </tbody>
