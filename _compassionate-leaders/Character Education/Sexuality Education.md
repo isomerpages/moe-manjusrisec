@@ -52,9 +52,8 @@ more information on the scope of Sexuality Education in the school curriculum.</
 </ol>
 <p>a.&nbsp;Science</p>
 <p>b. Character and Citizenship Education (CCE)</p>
-<p><strong><u>Sexuality Education Lessons:</u></strong>
-</p>
-<p>6. The values and attitudes of our youth towards sexuality are increasingly
+<p><strong><u>Sexuality Education Lessons</u></strong>:</p>
+<p>6.&nbsp;The values and attitudes of our youth towards sexuality are increasingly
 shaped by their peers, exposure to the media, popular culture and the internet.
 Adolescence is a complex stage in life as the adolescent attempts to find
 his or her own identity and often struggles with new social relationships.
@@ -64,16 +63,15 @@ maturity may result in a tendency to act on impulse, experiment with various
 activities (including sexual activities), sometimes without understanding
 the unpleasant consequences that may arise from such experimentation. The
 need for peer acceptance can be overwhelmingly strong and hinder one’s
-ability to act responsibly. Given the pressures faced by the middle adolescent
-from within themselves and from peers, it is important to build a strong
-sense of self-worth, personal conviction and an understanding of the possible
-consequences of sexual behaviour.</p>
-<p>7. Through the Sexuality Education lessons, secondary students will have
-the opportunity to develop a positive self-esteem, develop their character,
+ability to act responsibly.&nbsp; Given the pressures faced by the middle
+adolescent from within themselves and from peers, it is important to build
+a strong sense of self-worth, personal conviction and an understanding
+of the possible consequences of sexual behaviour.</p>
+<p>7.&nbsp;Through the Sexuality Education lessons, secondary students will
+have the opportunity to develop a positive self-esteem, develop their character,
 and expand their understanding and repertoire of skills to deal with various
 issues related to sexuality, which are of prime concern at this age.</p>
-<p></p>
-<p><strong>At MANJUSRI Secondary School, the following lessons from the Sexuality Education Programme will be taught in&nbsp;<u>2025:</u></strong>
+<p><strong>At MANJUSRI Secondary School, the following lessons from the Sexuality Education Programme will be taught in&nbsp;<u>2026:</u></strong>
 </p>
 <p><a href="/files/SED/2025_Info_on_SEd___Sec_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 1</a>
 </p>
