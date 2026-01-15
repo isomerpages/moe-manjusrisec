@@ -77,6 +77,12 @@ issues related to sexuality, which are of prime concern at this age.</p>
 </p>
 <p><a href="/files/SED/2026 SED/2026_SEXUALITY_EDUCATION_LESSONS_IN_CCE_Sec2.pdf" rel="noopener nofollow" target="_blank">Secondary 2</a>
 </p>
+<p><a href="/files/SED/2026 SED/2026_SEXUALITY_EDUCATION_LESSONS_IN_CCE_Sec3.pdf" rel="noopener nofollow" target="_blank">Secondary 3</a>
+</p>
+<p><a href="/files/SED/2025_Info_on_SEd___Sec_4.pdf" rel="noopener nofollow" target="_blank">Secondary 4</a>
+</p>
+<p><a href="/files/SED/2026 SED/2026_SEXUALITY_EDUCATION_LESSONS_IN_CCE_Sec5.pdf" rel="noopener nofollow" target="_blank">Secondary 5</a>
+</p>
 <p><strong><em>eTeens</em></strong>&nbsp;<strong>Programme</strong>&nbsp;:</p>
 <p>8. eTeens is a programme developed by Health Promotion Board, in collaboration
 with the Ministry of Education, to provide Secondary 3 students with accurate
