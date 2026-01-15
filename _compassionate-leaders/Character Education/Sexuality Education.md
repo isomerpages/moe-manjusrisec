@@ -155,18 +155,24 @@ of assertiveness and responsible decision-making</p>
 </table>
 <p><strong>Information for Parents</strong>
 </p>
-<p>10. Parents may opt their children out of the Sexuality Education lessons,
-eTeens and/or supplementary sexuality education programmes by MOE-approved
-external providers.</p>
-<p>11. Parents who wish to opt their children out of the <strong>Sexuality Education lessons</strong> need
-to complete an opt-out form. This form will be communicated to parents
-at the start of the year and is also downloadable <a href="/files/SED/SEd_Website_Annex_A.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>. The completed form
-is to be submitted by 07/02/2025.</p>
-<p>12. Parents who wish to opt their children out of the <strong>eTeens programme</strong> need
-to complete an opt-out form. This form will be communicated to parents
-at the start of the year and is also downloadable <a href="/files/SED/SEd_Website_Annex_B.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>. The completed form
-is to be submitted by 07/02/2025.</p>
-<p>13. Parents can contact the school at 6842 4558 or email us at manjusri_ss@moe.edu.sg
-for discussion or to seek clarification about the school’s Sexuality Education
+<p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their children out of
+the Sexuality Education lessons, <em>eTeens</em> and/or supplementary sexuality
+education programmes by MOE-approved external providers.</p>
+<p>11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
+out of the <strong>Sexuality Education lessons</strong> need to complete
+an opt-out form. This form will be communicated to parents at the start
+of the year and is also available <u>here</u> (please upload parents opt-out
+form found in <strong>Annex</strong>  <strong>A</strong> and insert a hyperlink
+for parents to access the form). The completed form is to be submitted
+by 06/02/2026.</p>
+<p>12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
+out of the <strong><em>eTeens</em> programme</strong> need to complete an
+opt-out form. This form will be communicated to parents at the start of
+the year and is also available <u>here</u> (please upload parents opt-out
+form found in <strong>Annex</strong>  <strong>B</strong> and insert a hyperlink
+for parents to access the form). &nbsp;The completed form is to be submitted
+by 06/02/2026.</p>
+<p>13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at 6842
+4558 or email us at <a rel="noopener noreferrer nofollow" target="_blank">manjusri_ss@moe.edu.sg</a> for
+discussion or to seek clarification about the school’s Sexuality Education
 programme.</p>
-<p></p>
