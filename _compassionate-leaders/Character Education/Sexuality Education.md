@@ -161,10 +161,8 @@ education programmes by MOE-approved external providers.</p>
 <p>11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
 out of the <strong>Sexuality Education lessons</strong> need to complete
 an opt-out form. This form will be communicated to parents at the start
-of the year and is also available <u>here</u> (please upload parents opt-out
-form found in <strong>Annex</strong>  <strong>A</strong> and insert a hyperlink
-for parents to access the form). The completed form is to be submitted
-by 06/02/2026.</p>
+of the year and is also available <a href="/files/SED/SEd_Website_Annex_A.pdf" rel="noopener nofollow" target="_blank">here</a>. The completed form
+is to be submitted by 06/02/2026.</p>
 <p>12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
 out of the <strong><em>eTeens</em> programme</strong> need to complete an
 opt-out form. This form will be communicated to parents at the start of
