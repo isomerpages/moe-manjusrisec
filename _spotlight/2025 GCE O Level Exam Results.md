@@ -30,68 +30,55 @@ were:</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://mjss.commontown.net/cos/o.x?c=/ca3_mjss/ra_sec&amp;ptid=&amp;func=stats&amp;output=html&amp;func=stats&amp;sarg%5bscode%5d=stu_detail&amp;&amp;sarg%5buid%5d=37998&amp;sarg%5byear%5d=2025&amp;sarg%5bstream%5d=GCEO" rel="noopener noreferrer nofollow" target="_blank">TAY QI XUAN</a>
-</p>
+<p>TAY QI XUAN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://mjss.commontown.net/cos/o.x?c=/ca3_mjss/ra_sec&amp;ptid=&amp;func=stats&amp;output=html&amp;func=stats&amp;sarg%5bscode%5d=stu_detail&amp;&amp;sarg%5buid%5d=38001&amp;sarg%5byear%5d=2025&amp;sarg%5bstream%5d=GCEO" rel="noopener noreferrer nofollow" target="_blank">YANG RUONING</a>
-</p>
+<p>YANG RUONING</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://mjss.commontown.net/cos/o.x?c=/ca3_mjss/ra_sec&amp;ptid=&amp;func=stats&amp;output=html&amp;func=stats&amp;sarg%5bscode%5d=stu_detail&amp;&amp;sarg%5buid%5d=37987&amp;sarg%5byear%5d=2025&amp;sarg%5bstream%5d=GCEO" rel="noopener noreferrer nofollow" target="_blank">LING ZHI XIAN</a>
-</p>
+<p>LING ZHI XIAN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://mjss.commontown.net/cos/o.x?c=/ca3_mjss/ra_sec&amp;ptid=&amp;func=stats&amp;output=html&amp;func=stats&amp;sarg%5bscode%5d=stu_detail&amp;&amp;sarg%5buid%5d=37994&amp;sarg%5byear%5d=2025&amp;sarg%5bstream%5d=GCEO" rel="noopener noreferrer nofollow" target="_blank">&nbsp;QI GE</a>
-</p>
+<p>QI GE</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://mjss.commontown.net/cos/o.x?c=/ca3_mjss/ra_sec&amp;ptid=&amp;func=stats&amp;output=html&amp;func=stats&amp;sarg%5bscode%5d=stu_detail&amp;&amp;sarg%5buid%5d=37966&amp;sarg%5byear%5d=2025&amp;sarg%5bstream%5d=GCEO" rel="noopener noreferrer nofollow" target="_blank">ALLAM RITHWIK REDDY</a>
-</p>
+<p>ALLAM RITHWIK REDDY</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://mjss.commontown.net/cos/o.x?c=/ca3_mjss/ra_sec&amp;ptid=&amp;func=stats&amp;output=html&amp;func=stats&amp;sarg%5bscode%5d=stu_detail&amp;&amp;sarg%5buid%5d=37995&amp;sarg%5byear%5d=2025&amp;sarg%5bstream%5d=GCEO" rel="noopener noreferrer nofollow" target="_blank">&nbsp;RAINIERN ANG YUN XIANG</a>
-</p>
+<p>RAINIERN ANG YUN XIANG</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://mjss.commontown.net/cos/o.x?c=/ca3_mjss/ra_sec&amp;ptid=&amp;func=stats&amp;output=html&amp;func=stats&amp;sarg%5bscode%5d=stu_detail&amp;&amp;sarg%5buid%5d=37984&amp;sarg%5byear%5d=2025&amp;sarg%5bstream%5d=GCEO" rel="noopener noreferrer nofollow" target="_blank">LIAN LINGZHI</a>
-</p>
+<p>LIAN LINGZHI</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://mjss.commontown.net/cos/o.x?c=/ca3_mjss/ra_sec&amp;ptid=&amp;func=stats&amp;output=html&amp;func=stats&amp;sarg%5bscode%5d=stu_detail&amp;&amp;sarg%5buid%5d=37974&amp;sarg%5byear%5d=2025&amp;sarg%5bstream%5d=GCEO" rel="noopener noreferrer nofollow" target="_blank">&nbsp;CHEN YINGJIA ELISABETH</a>
-</p>
+<p>CHEN YINGJIA ELISABETH</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://mjss.commontown.net/cos/o.x?c=/ca3_mjss/ra_sec&amp;ptid=&amp;func=stats&amp;output=html&amp;func=stats&amp;sarg%5bscode%5d=stu_detail&amp;&amp;sarg%5buid%5d=37997&amp;sarg%5byear%5d=2025&amp;sarg%5bstream%5d=GCEO" rel="noopener noreferrer nofollow" target="_blank">SONG SIXUAN</a>
-</p>
+<p>SONG SIXUAN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://mjss.commontown.net/cos/o.x?c=/ca3_mjss/ra_sec&amp;ptid=&amp;func=stats&amp;output=html&amp;func=stats&amp;sarg%5bscode%5d=stu_detail&amp;&amp;sarg%5buid%5d=37972&amp;sarg%5byear%5d=2025&amp;sarg%5bstream%5d=GCEO" rel="noopener noreferrer nofollow" target="_blank">&nbsp;CHEAH YU XUN</a>
-</p>
+<p>CHEAH YU XUN</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://mjss.commontown.net/cos/o.x?c=/ca3_mjss/ra_sec&amp;ptid=&amp;func=stats&amp;output=html&amp;func=stats&amp;sarg%5bscode%5d=stu_detail&amp;&amp;sarg%5buid%5d=38068&amp;sarg%5byear%5d=2025&amp;sarg%5bstream%5d=GCEO" rel="noopener noreferrer nofollow" target="_blank">ZENG HANJIN</a>
-</p>
+<p>ZENG HANJIN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://mjss.commontown.net/cos/o.x?c=/ca3_mjss/ra_sec&amp;ptid=&amp;func=stats&amp;output=html&amp;func=stats&amp;sarg%5bscode%5d=stu_detail&amp;&amp;sarg%5buid%5d=37968&amp;sarg%5byear%5d=2025&amp;sarg%5bstream%5d=GCEO" rel="noopener noreferrer nofollow" target="_blank">&nbsp;ANDREW CHUNG ZI YANG</a>
-</p>
+<p>ANDREW CHUNG ZI YANG</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;We wish our graduates the best in their further studies and future
-endeavours.</p>
+<p>We wish our graduates the best in their further studies and future endeavours.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2025 O Level Exam/G1.jpg">
