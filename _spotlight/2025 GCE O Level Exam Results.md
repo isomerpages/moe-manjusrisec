@@ -20,7 +20,6 @@ with 50% distinctions.&nbsp; Higher Chinese students also scored 100% passes
 and 55% distinctions.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Concurrently, about 83% of S5 Normal
 candidates qualified to progress to polytechnic education.</p>
-<p>&nbsp;</p>
 <p>The top performing students who obtained between 6 to 8 subject distinctions
 were:</p>
 <table style="minWidth: 50px">
