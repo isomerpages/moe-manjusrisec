@@ -22,6 +22,16 @@ sections:
           url: /contact-us/school-contact-details/
       background: /images/homepage3.gif
   - infopic:
+      title: 2025 GCE O Level Exam Results
+      subtitle: spotlight
+      id: infopic
+      description: The school’s 2025 GCE O level exam results were released on Wed 14
+        January and were highly satisfactory...
+      button: click here to read more
+      url: /2025-gce-o-level-exam-results/
+      alt: Image alt text
+      image: /images/Spotlight/2025 O Level Exam/G3.jpg
+  - infopic:
       title: 2026 Secondary One Registration
       subtitle: spotlight
       id: infopic
