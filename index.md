@@ -30,6 +30,7 @@ sections:
       button: click here to read more
       url: /2025-GCE-O-Level-Exam-Results/
       alt: Image alt text
+      image: /images/Spotlight/2025 O Level Exam/G3.jpg
   - infopic:
       title: 2026 Secondary One Registration
       subtitle: spotlight
