@@ -105,7 +105,7 @@ endeavours.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2025 O Level Exam/G2.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Spotlight/2025 O Level Exam/G2.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -117,7 +117,7 @@ endeavours.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2025 O Level Exam/G4.jpg">
+<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/Spotlight/2025 O Level Exam/G4.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
