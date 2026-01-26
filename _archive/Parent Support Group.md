@@ -124,6 +124,160 @@ and ideas to improve the school and PSG&nbsp;&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students and Parents/PSG/HAPPY.jpg">
 </div>
+<p></p>
+<h4><strong>2026 Events Calendar </strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10-Jan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Meet the Parents Session (MTS)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>26-Jan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Project SAGE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>31-Jan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PSG Welcome Tea (https//go.gov.sg/psg-welcome-tea)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>16-Feb</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CNY Celebrations</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>13-Mar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PSG Term 1 Meeting</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2-Apr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Anniversary</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9-Apr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>International Friendship Day</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8-May</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MJR Annual Road Run</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>22-May</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vesak Day Observance Ceremony</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>23-May</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PSG Term 2 Meeting</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7–10 Jul&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PE Wellness Week</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>24-Jul</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Racial Harmony Day</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7-Aug</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Day Celebrations</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3-Sept</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teachers’ Day</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TBC&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PSG Term 3 Meeting</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>25-Sept</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Graduation Day</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>17-Oct</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Year-End PSG Outing</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>21-Nov</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MJR Open House</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4><strong>PSG Activities</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
