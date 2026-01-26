@@ -124,8 +124,7 @@ and ideas to improve the school and PSG&nbsp;&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students and Parents/PSG/HAPPY.jpg">
 </div>
-<p></p>
-<h4><strong>2026 Events Calendar </strong></h4>
+<h4><strong>2026 Events Calendar</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
