@@ -2,6 +2,7 @@ collections:
   spotlight:
     output: true
     order:
+      - Arts Fiesta III 2026.md
       - 2025 GCE O Level Exam Results.md
       - 2026 Secondary One Registration.md
       - Down Memory Lane.md
