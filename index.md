@@ -22,6 +22,16 @@ sections:
           url: /contact-us/school-contact-details/
       background: /images/homepage3.gif
   - infopic:
+      title: 2026 Art Fiesta III
+      subtitle: spotlight
+      id: infopic
+      description: Manjusri Secondary School warmly invites parents, alumni and our
+        other stakeholders to Arts Fiesta III...
+      button: click here to read more
+      url: /2026-arts-fiesta-iii/
+      image: /images/Spotlight/2026 Art Fiesta/Arts_Fiesta_III_Poster_small.png
+      alt: Image alt text
+  - infopic:
       title: 2025 GCE O Level Exam Results
       subtitle: spotlight
       id: infopic
