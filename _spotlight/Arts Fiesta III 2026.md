@@ -21,6 +21,6 @@ dance and martial arts performance.&nbsp; The details are:</p>
 <p>Each ticket costs $15. EARLY BIRD SPECIAL: Buy 5 tickets and get 1 free,
 ending <strong>13 Mar 2026</strong>. So invite family members and friends
 along!&nbsp; Please access the ticket purchase link in the poster above
-(link or QR code).</p>
+or <a href="https://hitpay.shop/manjusri-secondary-school" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p></p>
 <p>We look forward to seeing you!</p>
