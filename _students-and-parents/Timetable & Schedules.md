@@ -120,7 +120,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Timetable &amp; Schedules/2026 TT/March_Holiday_CCA_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">March Holiday CCA Schedule</a>
+</p>
 </td>
 </tr>
 </tbody>
