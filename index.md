@@ -28,7 +28,7 @@ sections:
       description: Graduated students who have been informed to collect their
         graduation certificates may do so at the school’s General Office...
       button: click here to read more
-      url: u
+      url: /collection-of-graduation-certificates/
   - infopic:
       title: 2026 Art Fiesta III
       subtitle: spotlight
