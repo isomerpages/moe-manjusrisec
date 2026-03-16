@@ -21,6 +21,14 @@ sections:
           description: ""
           url: /contact-us/school-contact-details/
       background: /images/homepage3.gif
+  - infobar:
+      title: Collection of Graduation Certificates
+      subtitle: spotlight
+      id: infobar
+      description: Graduated students who have been informed to collect their
+        graduation certificates may do so at the school’s General Office...
+      button: click here to read more
+      url: u
   - infopic:
       title: 2026 Art Fiesta III
       subtitle: spotlight
