@@ -57,7 +57,7 @@ We train tirelessly and passionately. United we Stand!</p>
 <p>Ms Salina</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>salina_abdul_majid@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -65,7 +65,7 @@ We train tirelessly and passionately. United we Stand!</p>
 <p>Ms Liza Sem</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>sem_bingyan_liza@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
