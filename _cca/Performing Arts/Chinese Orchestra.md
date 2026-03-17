@@ -35,7 +35,7 @@ received many positive feedbacks from the public.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Lee Li Yun</p>
+<p>Mdm Lee Li Yun (OIC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>lee_li_yun@moe.edu.sg</p>
@@ -43,7 +43,7 @@ received many positive feedbacks from the public.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Goh Pei Shan</p>
+<p>Ms Goh Pei Shan (2IC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>goh_pei_shan@moe.edu.sg</p>
@@ -394,4 +394,4 @@ Fiesta, MJR Jams, Open House and Chinese New Year Celebration.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>(</p>
