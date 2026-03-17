@@ -34,7 +34,7 @@ favourites, the band strives hard to achieve its vision of musical excellence.</
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Seah Yi Fan</p>
+<p>Ms Seah Yi Fan (OIC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>seah_yi_fan@moe.edu.sg</p>
@@ -42,7 +42,7 @@ favourites, the band strives hard to achieve its vision of musical excellence.</
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Sunarti</p>
+<p>Ms Sunarti (2IC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>sunarti_mochtar@moe.edu.sg</p>
