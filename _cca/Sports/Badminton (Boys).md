@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Sports
 variant: tiptap
 ---
-<h1><strong>Badminton (Boys)</strong></h1>
 <p>Badminton is a game of strategies, tactics and mental fitness that demonstrates
 speed, stamina, agility, power and delicate skills. The drills and games
 executed at each Badminton Training sessions also help reduce depression,
