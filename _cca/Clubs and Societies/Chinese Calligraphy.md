@@ -31,7 +31,7 @@ the free interchange of techniques.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Pan Ping</p>
+<p>Mdm Pan Ping (OIC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>pan_ping@moe.edu.sg</p>
@@ -39,7 +39,7 @@ the free interchange of techniques.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Bao Bingqing</p>
+<p>Ms Bao Bingqing (2IC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>bao_bingqing@moe.edu.sg</p>
