@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Uniformed Groups
 variant: tiptap
 ---
-<h1><strong>NPCC</strong></h1>
 <p>To develop our cadets into Caring and Responsible citizens.</p>
 <h3><strong>NPCC Vision</strong></h3>
 <p>To Mould the builders of a Safe &amp; Secure home.</p>
@@ -28,7 +27,7 @@ Republic of Singapore.</p>
 </li>
 </ul>
 <h3><strong>Training Schedule</strong></h3>
-<p>Monday and Wednesday&nbsp;3.00pm - 6.00pm</p>
+<p>Monday and Wednesday&nbsp;3.00pm - 6.00pm @Central Foyer</p>
 <h3><strong>Our Teachers</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
