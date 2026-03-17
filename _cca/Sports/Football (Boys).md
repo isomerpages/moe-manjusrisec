@@ -30,7 +30,7 @@ skills with teams all over Singapore.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Izham</p>
+<p>Mr Izham (OIC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>izham_sidek@moe.edu.sg</p>
@@ -38,7 +38,7 @@ skills with teams all over Singapore.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Sng Peng Han</p>
+<p>Mr Sng Peng Han (2IC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>sng_peng_han@moe.edu.sg</p>
@@ -52,6 +52,14 @@ skills with teams all over Singapore.</p>
 <p>mohd_jawahir_ahmat@moe.edu.sg
 <br>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Andrew Chan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>chan_boon_keat@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
