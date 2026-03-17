@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Performing Arts
 variant: tiptap
 ---
-<h1><strong>Chinese Dance</strong></h1>
 <p>Founded in 1983, our dance group’s repertoire consists a wide variety
 of dances, ranging from traditional folk dances, where in some, the technically
 demanding water-sleeves (Shui Xiu水袖) are used, to modern contemporary Chinese
@@ -13,7 +12,7 @@ dances.</p>
 <p>We are actively involved in many performances to provide platforms for
 our members to showcase their talents and creativity.</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/5Dk8OTTW2bI"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/5Dk8OTTW2bI"></iframe>
 </div>
 <h3><strong>Training Schedule</strong></h3>
 <p>Monday: 3.00pm - 6.00pm @ AVA</p>
