@@ -12,7 +12,7 @@ their skills by participating in various competitions such as the futsal
 tournament and the Inter- school competitions which allow them to pit their
 skills with teams all over Singapore.</p>
 <h3><strong>Training Schedule</strong></h3>
-<p>Mondays and Wednesday 3pm-6pm</p>
+<p>Monday and Thursday 3pm-6pm @Field</p>
 <h3><strong>Our Teachers</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
