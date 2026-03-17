@@ -30,7 +30,7 @@ We train tirelessly and passionately. United we Stand!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ken Goh</p>
+<p>Mr Ken Goh (OIC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>goh_keng_chuan@moe.edu.sg</p>
@@ -38,10 +38,10 @@ We train tirelessly and passionately. United we Stand!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Edward Cheong</p>
+<p>Ms Tee Pei Pei (2IC)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>edward_cheong@moe.edu.sg</p>
+<p>tee_pei_pei@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -54,10 +54,18 @@ We train tirelessly and passionately. United we Stand!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tee Pei Pei</p>
+<p>Ms Salina</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tee_pei_pei@moe.edu.sg</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Liza Sem</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
