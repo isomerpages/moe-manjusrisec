@@ -22,9 +22,9 @@ competition medalists.</p>
 <p><a href="https://www.youtube.com/watch?v=Cxa4Ba-4FCg" rel="noopener noreferrer nofollow" target="_blank">Wushu Video</a>
 </p>
 <h3><strong>Training days and time</strong></h3>
-<p>Tuesday : 3-6pm
-<br>Thursday : 3-6pm
-<br>Friday: 1-3pm</p>
+<p>Tuesday : 3-6pm @MPH (Selected days)
+<br>Thursday : 3-6pm @ISH
+<br>Friday: 1-3pm @ISH</p>
 <h3><strong>Our Teachers</strong></h3>
 <p></p>
 <table style="minWidth: 50px">
@@ -43,18 +43,18 @@ competition medalists.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Sun Guangpu</p>
+<p>Mr Francis Goh (OIC)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>sun_guangpu@moe.edu.sg</p>
+<p>goh_young_koon@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Francis Goh</p>
+<p>Ms Sun Guangpu (2IC)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>goh_young_koon@moe.edu.sg</p>
+<p>sun_guangpu@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
