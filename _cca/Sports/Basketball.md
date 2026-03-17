@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Sports
 variant: tiptap
 ---
-<h1><strong>Basketball</strong></h1>
 <p>We believe in striving for excellence in every match and we aspire to
 instil this value in our students. To boost the passion in the sport for
 our students, we had organized several friendly matches with other schools.
