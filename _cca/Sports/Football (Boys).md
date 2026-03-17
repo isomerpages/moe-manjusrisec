@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Sports
 variant: tiptap
 ---
-<h1><strong>Football (Boys)</strong></h1>
 <p>In the Football team, students learn to play better through creative drills
 which infuse technical skills and the element of fun. Students also improve
 their skills by participating in various competitions such as the futsal
