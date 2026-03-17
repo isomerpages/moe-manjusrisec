@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Sports
 variant: tiptap
 ---
-<h1><strong>Table Tennis</strong></h1>
 <p><strong>Vision</strong>: Spinning towards excellence and sportsmanship.</p>
 <p><strong>Mission</strong>: To develop mental strength and resilience of
 MJR players.</p>
