@@ -32,18 +32,26 @@ stress and anxiety.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ong Boon Siong</p>
+<p>Ms Haslinda (OIC)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ong_boon_siong@moe.edu.sg</p>
+<p>haslinda_yusof@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Haslinda</p>
+<p>Mr Kaddy Koh (2IC)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>haslinda_yusof@moe.edu.sg</p>
+<p>koh_kaddy@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Ong Boon Siong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ong_boon_siong@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
