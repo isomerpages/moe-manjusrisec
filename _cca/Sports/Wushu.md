@@ -67,18 +67,10 @@ competition medalists.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Shahirah</p>
+<p>Mdm Marliyana</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>siti_shahirah_haider_bagesher@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Tuan Chui Lin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>tuan_chui_lin@moe.edu.sg</p>
+<p>marliyana_mohamad_noor@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
