@@ -21,8 +21,8 @@ We also create various leadership positions and opportunities to empower
 our players to lead their peers in bonding and house-keeping activities,
 Open-House outreach and Values-In-Action activities.&nbsp;</p>
 <h3><strong>Training Schedule</strong></h3>
-<p>Boys: Mon and Wed 3pm – 6pm
-<br>Girls: Tue and Thu 3pm – 6pm</p>
+<p>Boys: Mon and Wed 3pm – 6pm @TT Room
+<br>Girls: Tue and Thu 3pm – 6pm @TT Room</p>
 <h3><strong>Our Teachers</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
@@ -40,7 +40,7 @@ Open-House outreach and Values-In-Action activities.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Ai Hua</p>
+<p>Ms Tan Ai Hua (OIC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>tan_ai_hua@moe.edu.sg</p>
@@ -48,7 +48,7 @@ Open-House outreach and Values-In-Action activities.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ting Kok Thiam</p>
+<p>Mr Ting Kok Thiam (2IC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ting_kok_thiam@moe.edu.sg</p>
