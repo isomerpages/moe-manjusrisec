@@ -34,7 +34,7 @@ our members to showcase their talents and creativity.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Candice Lui</p>
+<p>Ms Candice Lui (OIC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>lui_yi_ling_candice@moe.edu.sg</p>
@@ -42,7 +42,7 @@ our members to showcase their talents and creativity.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Ng Ning</p>
+<p>Ms Ng Ning (2IC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ng_ning@moe.edu.sg</p>
@@ -58,10 +58,10 @@ our members to showcase their talents and creativity.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Natasha Loh</p>
+<p>Ms Candice Lee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>loh_tzi_wui_natasha@moe.edu.sg</p>
+<p>lee_shi_hua_candice@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
