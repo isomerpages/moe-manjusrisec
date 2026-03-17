@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Uniformed Groups
 variant: tiptap
 ---
-<h1><strong>NCC (land)</strong></h1>
 <p>A National Uniformed Group, the NCC boys unit has been a pillar of strength
 and the epitome of discipline for the Uniformed Groups in Manjusri Secondary
 School. The passion of the cadets and the dedication of the officers contributed
@@ -14,7 +13,7 @@ to the students for leadership training and character development, the
 cadets are constantly morphing into strong leaders with discipline, enabling
 them to also prepare for their National Service.</p>
 <h3><strong>Training Schedule</strong></h3>
-<p>Monday and Wednesday&nbsp;3.00pm - 6.00pm</p>
+<p>Monday and Wednesday&nbsp;3.00pm - 6.00pm @ Classrooms(2nd floor)</p>
 <h3><strong>Our Teachers</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
@@ -32,15 +31,7 @@ them to also prepare for their National Service.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Chan Ze Wei</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>chan_ze_wei@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms A'mirah</p>
+<p>Ms A'mirah (OIC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>nurul_amirah_mohd_kamal@moe.edu.sg</p>
@@ -48,7 +39,7 @@ them to also prepare for their National Service.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Bryan Kang</p>
+<p>Mr Bryan Kang (2IC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>kang_ching_choon@moe.edu.sg</p>
@@ -68,6 +59,15 @@ them to also prepare for their National Service.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>goh_layna@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Yvonne Kok</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>
+<br>Jia_En_Yvonne_Kok@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>

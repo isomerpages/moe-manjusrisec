@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Performing Arts
 variant: tiptap
 ---
-<h1><strong>Chinese Orchestra</strong></h1>
 <p>文华合奏曲绕梁，殊乐共享声飞扬&nbsp;</p>
 <p>文殊中学华乐团齐聚了热爱音乐的莘莘学子，学生们凭借勤奋，怀揣热忱，在追求卓越与梦想的过程中联合演奏出一首首美妙绕梁的乐曲。乐声飞扬，欢乐共享。</p>
 <p>The Manjusri Chinese Orchestra was formed in 1982. In Chinese Orchestra,
@@ -14,7 +13,7 @@ young members. Besides being actively involved in various school functions,
 we also organize and participate in various public performances and have
 received many positive feedbacks from the public.</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/vIJ8jiSN7sg"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/vIJ8jiSN7sg"></iframe>
 </div>
 <p>Training Schedule</p>
 <p>Wednesday: 3.00pm - 6.00pm @ CO Room
@@ -36,7 +35,7 @@ received many positive feedbacks from the public.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Lee Li Yun</p>
+<p>Mdm Lee Li Yun (OIC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>lee_li_yun@moe.edu.sg</p>
@@ -44,7 +43,7 @@ received many positive feedbacks from the public.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Goh Pei Shan</p>
+<p>Ms Goh Pei Shan (2IC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>goh_pei_shan@moe.edu.sg</p>
@@ -395,4 +394,4 @@ Fiesta, MJR Jams, Open House and Chinese New Year Celebration.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>(</p>

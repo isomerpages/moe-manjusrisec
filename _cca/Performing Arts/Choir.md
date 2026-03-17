@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Performing Arts
 variant: tiptap
 ---
-<h1><strong>Choir</strong></h1>
 <p>The main aim of Choir is to develop a lifelong love for singing and to
 create lasting friendships among members. The CCA develops sound choral
 techniques and music literacy in each member via breathing techniques,
@@ -13,7 +12,7 @@ voice projection, scale-singing and harmonic blending with part-singing.
 In addition to vocal training, we aim to instil perseverance among our
 members and creativity in expression.</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/6GmgW5g8LnE"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/6GmgW5g8LnE"></iframe>
 </div>
 <h3><strong>Training Schedule</strong></h3>
 <p>Every Monday and Wednesday</p>
@@ -35,7 +34,7 @@ members and creativity in expression.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Ellia</p>
+<p>Ms Ellia (OIC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>darul_ellia_zulkarnain@moe.edu.sg</p>
@@ -43,7 +42,7 @@ members and creativity in expression.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Siew Boon Vivian</p>
+<p>Ms Tan Siew Boon Vivian (2IC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>tan_siew_boon_vivian@moe.edu.sg</p>
@@ -59,18 +58,10 @@ members and creativity in expression.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Ahadiyah Rosmani</p>
+<p>Ms Tan Shi Jia</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ahadiyah_rosmani@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Michelle Foo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>foo_siqi_michell@moe.edu.sg</p>
+<p>tan_shi_jia@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>

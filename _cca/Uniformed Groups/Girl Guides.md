@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Uniformed Groups
 variant: tiptap
 ---
-<h1><strong>Girl Guides</strong></h1>
 <p>The motto of&nbsp;Manjusri Girl Guides is “Be Prepared” as we hope our
 girls can be independent problem solvers who are able to think and respond
 promptly in everyday life situations. Manjusri Girl Guides is also part
@@ -26,7 +25,7 @@ the challenges and obstacles that they may face in future.</p>
 Aishah Award from 2018 till present.</p>
 <h3><strong>Training Schedule</strong></h3>
 <p>Every Monday and Wednesday
-<br>3.15pm – 5.45pm @ Recycling corner</p>
+<br>3.00pm – 6.00pm @ Recycling Area</p>
 <h3><strong>Our Teachers</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
@@ -44,7 +43,7 @@ Aishah Award from 2018 till present.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Amira Begum d/o Abdul Naseer</p>
+<p>Ms Amira Begum d/o Abdul Naseer (OIC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>amira_begum_abdul_naseer@moe.edu.sg</p>
@@ -52,18 +51,18 @@ Aishah Award from 2018 till present.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Nur Atiqah Binti Abdul Fattah</p>
+<p>Ms Angeline Ng (2IC)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>nur_atiqah_abdul_fattah@moe.edu.sg</p>
+<p>ng_yeou_chiann_angeline@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Angeline Ng</p>
+<p>Ms Siti Raudhah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ng_yeou_chiann_angeline@moe.edu.sg</p>
+<p>siti_raudhah_sukri@moe.edu.sg</p>
 </td>
 </tr>
 <tr>

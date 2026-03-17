@@ -5,13 +5,12 @@ description: ""
 third_nav_title: Clubs and Societies
 variant: tiptap
 ---
-<h1><strong>Buddhist Interact Club</strong></h1>
 <p>Buddhist Interact Club aims to nurture responsible Youth leaders. Members
 are given opportunities to learn Buddhist values, acquire leadership and
 other 21&nbsp;st&nbsp;century life skills through planning and organising
 events and taking part in competitions.</p>
 <h3><strong>Training Schedule</strong></h3>
-<p>Monday &amp; Wednesday 3pm-6pm</p>
+<p>Monday &amp; Wednesday 3pm-6pm @Reflection Hall</p>
 <h3><strong>Our Teachers</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
@@ -29,7 +28,7 @@ events and taking part in competitions.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Alexandra Pang</p>
+<p>Ms Alexandra Pang (OIC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>pang_yanfeng_alexandra@moe.edu.sg</p>
@@ -37,7 +36,7 @@ events and taking part in competitions.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Lau Hui Cheng</p>
+<p>Mr Lau Hui Cheng (2IC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>lau_hui_cheng@moe.edu.sg</p>

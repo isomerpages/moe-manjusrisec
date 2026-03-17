@@ -5,17 +5,15 @@ description: ""
 third_nav_title: Clubs and Societies
 variant: tiptap
 ---
-<h1><strong>Chinese Calligraphy</strong></h1>
 <p>The Manjusri Chinese Calligraphy club was set-up with the aim of embellishing
 the calligraphic skills in our students. We will foster a wider appreciation
 and a deeper understanding of calligraphy and its applications through
 the free interchange of techniques.</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/lTp5SRdBpBU"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/lTp5SRdBpBU"></iframe>
 </div>
 <h3><strong>Training Schedule</strong></h3>
-<p>Monday: 3.00pm – 5.00 pm&nbsp;
-<br>Wednesday 3.00 – 5.00 pm</p>
+<p>Monday and Wednesday: 3.00pm – 6.00 pm&nbsp; @Art Room 1</p>
 <h3><strong>Our Teachers</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
@@ -33,7 +31,7 @@ the free interchange of techniques.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Pan Ping</p>
+<p>Mdm Pan Ping (OIC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>pan_ping@moe.edu.sg</p>
@@ -41,7 +39,7 @@ the free interchange of techniques.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Bao Bingqing</p>
+<p>Ms Bao Bingqing (2IC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>bao_bingqing@moe.edu.sg</p>
@@ -53,6 +51,14 @@ the free interchange of techniques.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>mary_rose_p_gonsalvez@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Cao Ruijie</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>cao_ruijie@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>

@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Performing Arts
 variant: tiptap
 ---
-<h1><strong>Chinese Dance</strong></h1>
 <p>Founded in 1983, our dance group’s repertoire consists a wide variety
 of dances, ranging from traditional folk dances, where in some, the technically
 demanding water-sleeves (Shui Xiu水袖) are used, to modern contemporary Chinese
@@ -13,7 +12,7 @@ dances.</p>
 <p>We are actively involved in many performances to provide platforms for
 our members to showcase their talents and creativity.</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/5Dk8OTTW2bI"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/5Dk8OTTW2bI"></iframe>
 </div>
 <h3><strong>Training Schedule</strong></h3>
 <p>Monday: 3.00pm - 6.00pm @ AVA</p>
@@ -35,7 +34,7 @@ our members to showcase their talents and creativity.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Candice Lui</p>
+<p>Ms Candice Lui (OIC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>lui_yi_ling_candice@moe.edu.sg</p>
@@ -43,7 +42,7 @@ our members to showcase their talents and creativity.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Ng Ning</p>
+<p>Ms Ng Ning (2IC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ng_ning@moe.edu.sg</p>
@@ -59,10 +58,10 @@ our members to showcase their talents and creativity.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Natasha Loh</p>
+<p>Ms Candice Lee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>loh_tzi_wui_natasha@moe.edu.sg</p>
+<p>lee_shi_hua_candice@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>

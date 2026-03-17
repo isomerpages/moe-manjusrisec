@@ -13,10 +13,10 @@ expressing themselves through music. With a comprehensive music curriculum
 ranging from band classics and symphonic masterpieces to well-loved popular
 favourites, the band strives hard to achieve its vision of musical excellence.</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ovvRhOLCTAY"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ovvRhOLCTAY"></iframe>
 </div>
 <h3><strong>Training Schedule</strong></h3>
-<p>Monday and Thursday 3-6pm (Combined)</p>
+<p>Monday and Thursday 3-6pm @Band Room</p>
 <h3><strong>Our Teachers</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
@@ -34,7 +34,7 @@ favourites, the band strives hard to achieve its vision of musical excellence.</
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Seah Yi Fan</p>
+<p>Ms Seah Yi Fan (OIC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>seah_yi_fan@moe.edu.sg</p>
@@ -42,18 +42,10 @@ favourites, the band strives hard to achieve its vision of musical excellence.</
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Sunarti</p>
+<p>Ms Sunarti (2IC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>sunarti_mochtar@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Siti Raudhah</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>siti_raudhah_sukri@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -62,6 +54,14 @@ favourites, the band strives hard to achieve its vision of musical excellence.</
 </td>
 <td rowspan="1" colspan="1">
 <p>chong_nyok_fang@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Wesley Wong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>wong_jia_wei_wesley@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>

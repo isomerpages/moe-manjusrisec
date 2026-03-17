@@ -1,18 +1,17 @@
 ---
-title: Football (Boys)
+title: Football
 permalink: /cca/sports/football-boys/
 description: ""
 third_nav_title: Sports
 variant: tiptap
 ---
-<h1><strong>Football (Boys)</strong></h1>
 <p>In the Football team, students learn to play better through creative drills
 which infuse technical skills and the element of fun. Students also improve
 their skills by participating in various competitions such as the futsal
 tournament and the Inter- school competitions which allow them to pit their
 skills with teams all over Singapore.</p>
 <h3><strong>Training Schedule</strong></h3>
-<p>Mondays and Wednesday 3pm-6pm</p>
+<p>Monday and Thursday 3pm-6pm @Field</p>
 <h3><strong>Our Teachers</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
@@ -30,7 +29,7 @@ skills with teams all over Singapore.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Izham</p>
+<p>Mr Izham (OIC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>izham_sidek@moe.edu.sg</p>
@@ -38,7 +37,7 @@ skills with teams all over Singapore.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Sng Peng Han</p>
+<p>Mr Sng Peng Han (2IC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>sng_peng_han@moe.edu.sg</p>
@@ -52,6 +51,14 @@ skills with teams all over Singapore.</p>
 <p>mohd_jawahir_ahmat@moe.edu.sg
 <br>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Andrew Chan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>chan_boon_keat@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>

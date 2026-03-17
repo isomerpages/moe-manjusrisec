@@ -5,14 +5,13 @@ description: ""
 third_nav_title: Sports
 variant: tiptap
 ---
-<h1><strong>Basketball</strong></h1>
 <p>We believe in striving for excellence in every match and we aspire to
 instil this value in our students. To boost the passion in the sport for
 our students, we had organized several friendly matches with other schools.
 We train tirelessly and passionately. United we Stand!</p>
 <h3><strong>Training Schedule</strong></h3>
-<p>Girl’s training days: Monday &amp; Wednesday (3 – 6pm)
-<br>Boy’s training days: Tuesday &amp; Thursday (3 – 6pm)</p>
+<p>Girl’s training days: Monday &amp; Wednesday (3 – 6pm) @ISH
+<br>Boy’s training days: Tuesday &amp; Thursday (3 – 6pm) @ISH/Outdoor Court</p>
 <h3><strong>Our Teachers</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
@@ -30,7 +29,7 @@ We train tirelessly and passionately. United we Stand!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ken Goh</p>
+<p>Mr Ken Goh (OIC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>goh_keng_chuan@moe.edu.sg</p>
@@ -38,10 +37,10 @@ We train tirelessly and passionately. United we Stand!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Edward Cheong</p>
+<p>Ms Tee Pei Pei (2IC)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>edward_cheong@moe.edu.sg</p>
+<p>tee_pei_pei@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -54,10 +53,18 @@ We train tirelessly and passionately. United we Stand!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tee Pei Pei</p>
+<p>Ms Salina</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tee_pei_pei@moe.edu.sg</p>
+<p>salina_abdul_majid@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Liza Sem</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>sem_bingyan_liza@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>

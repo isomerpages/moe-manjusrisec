@@ -5,11 +5,10 @@ description: ""
 third_nav_title: Uniformed Groups
 variant: tiptap
 ---
-<h1><strong>Scouts</strong></h1>
 <p>The Manjusri Red Fox Scout Group was founded in 1983 and seeks to nurture
 scouts who uphold the motto of ‘Be Prepared’ at all times.</p>
 <h3><strong>Training Schedule</strong></h3>
-<p>Every Monday and Wednesday&nbsp;3.00pm - 6.00pm</p>
+<p>Every Monday and Wednesday&nbsp;3.00pm - 6.00pm @PE Room</p>
 <h3><strong>Our Teachers</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
@@ -27,7 +26,7 @@ scouts who uphold the motto of ‘Be Prepared’ at all times.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Nabil</p>
+<p>Mr Nabil (OIC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ahmad_nabil_ahmad_al-kastalani@moe.edu.sg</p>
@@ -35,7 +34,7 @@ scouts who uphold the motto of ‘Be Prepared’ at all times.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Andrew Lee</p>
+<p>Mr Andrew Lee (2IC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>lee_xinzhan_andrew@moe.edu.sg</p>

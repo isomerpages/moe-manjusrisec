@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Uniformed Groups
 variant: tiptap
 ---
-<h1><strong>NPCC</strong></h1>
 <p>To develop our cadets into Caring and Responsible citizens.</p>
 <h3><strong>NPCC Vision</strong></h3>
 <p>To Mould the builders of a Safe &amp; Secure home.</p>
@@ -28,7 +27,7 @@ Republic of Singapore.</p>
 </li>
 </ul>
 <h3><strong>Training Schedule</strong></h3>
-<p>Monday and Wednesday&nbsp;3.00pm - 6.00pm</p>
+<p>Monday and Wednesday&nbsp;3.00pm - 6.00pm @Central Foyer</p>
 <h3><strong>Our Teachers</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
@@ -46,18 +45,18 @@ Republic of Singapore.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Erica</p>
+<p>Mr Huang Yuanpeng (OIC)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>erica_reyes_rodriguez@moe.edu.sg</p>
+<p>huang_yuanpeng@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Huang Yuanpeng</p>
+<p>Mr Hafiz Khan (2IC)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>huang_yuanpeng@moe.edu.sg</p>
+<p>hafiz_emran_khan@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -70,10 +69,18 @@ Republic of Singapore.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Hafiz Khan</p>
+<p>Ms Erica</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>hafiz_emran_khan@moe.edu.sg</p>
+<p>erica_reyes_rodriguez@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Oh Ee-Laine</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>oh_ee-laine@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
