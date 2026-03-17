@@ -14,7 +14,34 @@ our players become skillfully better after every session, we also try to
 infiltrate fun and laughter to help relieve our players of their daily
 stress and anxiety.&nbsp;</p>
 <h3><strong>Training Schedule</strong></h3>
-<p>Monday and Wednesday 2.30pm – 5.30pm</p>
+<p>Mon @ MPH</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3pm – 5pm (C Div)</p>
+<p>4pm – 6pm (B Div)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Wed @ MPH</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3pm – 5pm (C Div)</p>
+<p>4pm – 6pm (B Div)</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h3><strong>Our Teachers</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
