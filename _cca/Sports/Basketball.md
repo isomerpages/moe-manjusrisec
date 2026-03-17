@@ -11,8 +11,8 @@ instil this value in our students. To boost the passion in the sport for
 our students, we had organized several friendly matches with other schools.
 We train tirelessly and passionately. United we Stand!</p>
 <h3><strong>Training Schedule</strong></h3>
-<p>Girl’s training days: Monday &amp; Wednesday (3 – 6pm)
-<br>Boy’s training days: Tuesday &amp; Thursday (3 – 6pm)</p>
+<p>Girl’s training days: Monday &amp; Wednesday (3 – 6pm) @ISH
+<br>Boy’s training days: Tuesday &amp; Thursday (3 – 6pm) @ISH/Outdoor Court</p>
 <h3><strong>Our Teachers</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
