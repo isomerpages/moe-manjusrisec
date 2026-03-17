@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Clubs and Societies
 variant: tiptap
 ---
-<h1><strong>Media Club</strong></h1>
 <p>Have you wondered where the photo montages in presentations come from,
 how the cool effects in a video are made, or who keeps the mics and audio
 running during morning assembly? We are the ones creating photo montages
@@ -23,7 +22,8 @@ crew.</p>
 and audience sound-pleasing, visually-stimulating, mesmerising and memorable
 experiences</p>
 <h3><strong>Training Schedule</strong></h3>
-<p>Monday and Wednesday – 3pm–6pm</p>
+<p>Monday to Friday : 7.15 - 8am @ Assembly Area</p>
+<p>Monday and Wednesday : 3 – 6pm @ Comp Lab 3 &amp; 4</p>
 <h3><strong>Our Teachers</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
@@ -41,7 +41,7 @@ experiences</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Tan Hsiao Wey</p>
+<p>Mdm Tan Hsiao Wey (OIC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>tan_hsiao_wey@moe.edu.sg</p>
@@ -49,7 +49,7 @@ experiences</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Daniel Tay</p>
+<p>Mr Daniel Tay (2IC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>tay_tse_min_daniel@moe.edu.sg</p>
