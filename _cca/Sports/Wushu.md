@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Sports
 variant: tiptap
 ---
-<h2><strong>Wushu</strong></h2>
 <p>Our Vision:&nbsp;We develop every individual to be a confident, disciplined
 and focused sportsman.</p>
 <p>Our Mission:&nbsp;To develop a passion for the sport and instil self-discipline.</p>
