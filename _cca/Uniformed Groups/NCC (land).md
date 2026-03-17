@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Uniformed Groups
 variant: tiptap
 ---
-<h1><strong>NCC (land)</strong></h1>
+<p></p>
 <p>A National Uniformed Group, the NCC boys unit has been a pillar of strength
 and the epitome of discipline for the Uniformed Groups in Manjusri Secondary
 School. The passion of the cadets and the dedication of the officers contributed
