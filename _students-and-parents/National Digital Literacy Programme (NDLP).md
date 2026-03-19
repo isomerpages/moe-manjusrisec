@@ -102,11 +102,11 @@ or Lenovo Service Centre regarding issues with PLD.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><sup>Manjusri Secondary school Library Level 4 <br><br></sup><strong><sup>ICT Manager/DMA Administrator:</sup></strong><sup> <br><br>Mr Winston Kok <br><br></sup><strong><sup>Desktop Engineer:</sup></strong><sup> <br><br>Mr Mohd Syakir <br>Mr Mashuqur</sup>
+<p><sup>Manjusri Secondary school Library Level 4 <br><br></sup><strong><sup>ICT Manager/DMA Administrator:</sup></strong><sup> <br><br>Mr Winston Kok <br><br></sup><strong><sup>Desktop Engineer:</sup></strong><sup> <br><br>Mr Mohd Syakir <br>Mr Kesavan</sup>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><sup>Mon–Fri:</sup></strong><sup> 7:45 – 8:15</sup>
+<p><strong><sup>Mon–Fri:</sup></strong><sup> 8:00 – 8:15</sup>
 </p>
 <p><sup><br></sup><strong><sup>Mon-Thu:</sup></strong><sup> 13:50 – 15:00 <br></sup><strong><sup>Fri :</sup></strong><sup> 12:40- 14:00 <br></sup>
 </p>
