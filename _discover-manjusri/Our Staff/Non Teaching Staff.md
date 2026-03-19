@@ -41,7 +41,7 @@ variant: markdown
 | -------- | -------- | 
 |Ms Shahrulbariah | Receptionist |
 |Mdm  Chan Daiwei  | OSO (Kitchen)|
-|Mr Kesavan |Desktop Engineer|
+|Mr Kesavan Muniandy |Desktop Engineer|
 |Mr Mohamad Syakir B Nor Azmi |Desktop Engineer|
 |Mdm  Zuriah Bte Mohd Ali | Library Assistant|
 
