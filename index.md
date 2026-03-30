@@ -25,8 +25,9 @@ sections:
       title: Collection of Graduation Certificates
       subtitle: spotlight
       id: infobar
-      description: Graduated students who have been informed to collect their
-        graduation certificates may do so at the school’s General Office...
+      description: 4NT/4EXP/5N Graduated students who have been informed to collect
+        their graduation certificates may do so at the school’s General
+        Office...
       button: click here to read more
       url: /collection-of-graduation-certificates/
   - infopic:
