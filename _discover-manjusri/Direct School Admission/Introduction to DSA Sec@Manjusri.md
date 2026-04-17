@@ -15,21 +15,33 @@ on their PSLE results through the Secondary 1 (S1) Posting.</p>
 <p>Manjusri Secondary School admits students through the Direct School Admission
 – Secondary (DSA-Sec) Schools exercise. Our DSA-Sec selection criteria
 are premised on the applicants’ aptitude and interests in either:</p>
-<p><strong>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="/cca/performing-arts/chinese-dance/" rel="noopener noreferrer nofollow" target="_blank">Chinese Dance</a>&nbsp;</strong>
-</p>
-<p><strong>2.&nbsp;&nbsp;&nbsp;&nbsp; <a href="/cca/performing-arts/chinese-orchestra/" rel="noopener noreferrer nofollow" target="_blank">Chinese Orchestra</a></strong>
-</p>
-<p><strong>3.&nbsp;&nbsp;&nbsp;&nbsp; <a href="/cca/performing-arts/choir/" rel="noopener noreferrer nofollow" target="_blank">Choir</a></strong>
-</p>
-<p><strong>4.&nbsp;&nbsp;&nbsp;&nbsp; <a href="/cca/performing-arts/concert-band/" rel="noopener noreferrer nofollow" target="_blank">Concert Band</a></strong>
-</p>
-<p><strong>5.&nbsp;&nbsp;&nbsp;&nbsp; <a href="/cca/sports/wushu/" rel="noopener noreferrer nofollow" target="_blank">Wushu</a> or</strong>
-</p>
-<p><strong>6.&nbsp;&nbsp;&nbsp;&nbsp; <a href="/cca/clubs-and-societies/chinese-calligraphy/" rel="noopener noreferrer nofollow" target="_blank">Chinese Calligraphy</a></strong>
-</p>
-<ol start="7" data-tight="true" class="tight">
+<ol data-tight="true" class="tight">
 <li>
-<p> <strong> <a href="https://cms.isomer.gov.sg/cca/sports/table-tennis" rel="noopener nofollow" target="_blank">Table Tennis</a> </strong>
+<p><strong><a href="/cca/performing-arts/chinese-dance/" rel="noopener noreferrer nofollow" target="_blank">Chinese Dance</a>&nbsp;</strong>
+</p>
+</li>
+<li>
+<p><strong><a href="/cca/performing-arts/chinese-orchestra/" rel="noopener noreferrer nofollow" target="_blank">Chinese Orchestra</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="/cca/performing-arts/choir/" rel="noopener noreferrer nofollow" target="_blank">Choir</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="/cca/performing-arts/concert-band/" rel="noopener noreferrer nofollow" target="_blank">Concert Band</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="/cca/sports/wushu/" rel="noopener noreferrer nofollow" target="_blank">Wushu</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="/cca/clubs-and-societies/chinese-calligraphy/" rel="noopener noreferrer nofollow" target="_blank">Chinese Calligraphy</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="https://cms.isomer.gov.sg/cca/sports/table-tennis" rel="noopener nofollow" target="_blank">Table Tennis</a></strong>
 </p>
 </li>
 </ol>
