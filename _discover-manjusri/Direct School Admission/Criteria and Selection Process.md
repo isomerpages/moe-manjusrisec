@@ -11,8 +11,8 @@ the student’s aptitudes and strengths, bearing in mind the schools’ academic
 and non-academic requirements, and the programmes available to develop
 the area of talent.</p>
 <p>Students who are successfully admitted to the school via DSA are expected
-to honour their commitment to the school, and participate in the activities
-related to the talent they are selected for from year 1-4.</p>
+to honour their commitment to the school and participate in the activities
+related to the talent they are selected for from Secondary 1 to 4.</p>
 <h3><strong>Chinese Dance, Chinese Orchestra, Choir or Concert Band</strong></h3>
 <p>Applicants must be able to demonstrate an aptitude and interest in <strong>Chinese Dance</strong>, <strong>Chinese Orchestra</strong>, <strong>Choir or Concert Band</strong> through
 one or more of the following ways:</p>
