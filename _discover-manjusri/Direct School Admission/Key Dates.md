@@ -53,13 +53,20 @@ application (between 17- 28 Aug 2026)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>27 Oct – 31 Oct 2025</p>
+<p>19 Oct 2026, 9am –</p>
+<p>23 Oct 2026, 4.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Applicants with CO or WL will receive email and SMS notification via Postman.gov.sg
-on the School Preference Submission.</p>
-<p>Applicants are to submit school preference form via the online DSA-Sec
-Portal or at their Primary Schools.</p>
+<p>School Preference Submission</p>
+<p>(a)&nbsp;&nbsp; Students who receive at least one DSA-Sec offer (including
+from SOTA) will receive SMS and email from Postman.gov.sg in mid-Oct.</p>
+<p>&nbsp;</p>
+<p>(b)&nbsp;&nbsp; [New] From 2026, only one parent is required to log in
+to the DSA-Sec Portal to submit school preferences. If parents are unable
+to submit online, they can approach primary school for assistance.</p>
+<p>&nbsp;</p>
+<p>(c)&nbsp;&nbsp; Applicants are to submit school preference form via the
+online DSA-Sec Portal or at their Primary Schools.</p>
 </td>
 </tr>
 <tr>
