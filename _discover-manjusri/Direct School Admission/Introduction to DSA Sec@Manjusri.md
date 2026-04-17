@@ -41,7 +41,7 @@ are premised on the applicants’ aptitude and interests in either:</p>
 </p>
 </li>
 <li>
-<p><strong><a href="https://cms.isomer.gov.sg/cca/sports/table-tennis" rel="noopener nofollow" target="_blank">Table Tennis</a></strong>
+<p><strong><a href="/cca/sports/table-tennis" rel="noopener nofollow" target="_blank">Table Tennis</a></strong>
 </p>
 </li>
 </ol>
