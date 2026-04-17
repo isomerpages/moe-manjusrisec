@@ -73,8 +73,10 @@ online DSA-Sec Portal or at their Primary Schools.</p>
 <p>Late-Nov 2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>(a)&nbsp;&nbsp; Students studying in MOE mainstream primary schools will
-receive their DSA-Sec results together with their PSLE results by end-Nov.</p>
+<p>(a)&nbsp;Students studying in MOE mainstream primary schools will receive
+their DSA-Sec results together with their PSLE results by end-Nov.</p>
+<p>(b) Students who are not studying in mainstream Primary Schools will receive
+their DSA-Sec results via email.</p>
 </td>
 </tr>
 </tbody>
