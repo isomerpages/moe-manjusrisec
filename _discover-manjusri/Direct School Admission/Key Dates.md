@@ -22,7 +22,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2 May 2025</p>
+<p>20 Apr 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>DSA-Sec @ Manjusri Launched</p>
@@ -30,7 +30,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>7 May 2025 - 3 Jun 2025, 3pm</p>
+<p>6 May 2026 - 2 Jun 2026, 4.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Submission of Application via the online DSA-Sec Portal.
@@ -40,12 +40,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>30 Jun – 4 Sep 2025</p>
+<p>29 Jun – 28 Aug 2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Selection and interview of shortlisted applicants. School will email or
-issue a letter stating the outcome of the application, (i) Confirmed Offer
-(CO), (ii) Wait List (WL) or (iii) Unsuccessful, by 4 Sep 2025.</p>
+<p>(a)&nbsp;&nbsp; Selection and interview of shortlisted applicants.</p>
+<p>(b)&nbsp; School will email or issue a letter stating the outcome of the
+application (between 17- 28 Aug 2026)</p>
+<p>(i) Confirmed Offer (CO)</p>
+<p>(ii)&nbsp;Wait List (WL)</p>
+<p>(iii) Unsuccessful</p>
 </td>
 </tr>
 <tr>
