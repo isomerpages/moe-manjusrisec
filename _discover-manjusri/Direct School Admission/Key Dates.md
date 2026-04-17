@@ -22,7 +22,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2 May 2025</p>
+<p>20 Apr 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>DSA-Sec @ Manjusri Launched</p>
@@ -30,7 +30,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>7 May 2025 - 3 Jun 2025, 3pm</p>
+<p>6 May 2026 - 2 Jun 2026, 4.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Submission of Application via the online DSA-Sec Portal.
@@ -40,34 +40,42 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>30 Jun – 4 Sep 2025</p>
+<p>29 Jun – 28 Aug 2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Selection and interview of shortlisted applicants. School will email or
-issue a letter stating the outcome of the application, (i) Confirmed Offer
-(CO), (ii) Wait List (WL) or (iii) Unsuccessful, by 4 Sep 2025.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>27 Oct – 31 Oct 2025</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Applicants with CO or WL will receive email and SMS notification via Postman.gov.sg
-on the School Preference Submission.</p>
-<p>Applicants are to submit school preference form via the online DSA-Sec
-Portal or at their Primary Schools.</p>
+<p>(a)&nbsp;&nbsp; Selection and interview of shortlisted applicants.</p>
+<p>(b)&nbsp; School will email or issue a letter stating the outcome of the
+application (between 17- 28 Aug 2026)</p>
+<p>(i) Confirmed Offer (CO)</p>
+<p>(ii)&nbsp;Wait List (WL)</p>
+<p>(iii) Unsuccessful</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Late-Nov 2025</p>
+<p>19 Oct 2026, 9am –</p>
+<p>23 Oct 2026, 4.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>The results of the DSA-Sec Exercise will be released to the students through
-their Primary Schools together with PSLE results.
-<br>
-<br>Students who are not studying in mainstream Primary Schools will receive
+<p>School Preference Submission</p>
+<p>(a)&nbsp;&nbsp; Students who receive at least one DSA-Sec offer (including
+from SOTA) will receive SMS and email from Postman.gov.sg in mid-Oct.</p>
+<p>(b) From 2026, only one parent is required to log in to the DSA-Sec Portal
+to submit school preferences. If parents are unable to submit online, they
+can approach primary school for assistance.</p>
+<p></p>
+<p>(c)&nbsp;&nbsp; Applicants are to submit school preference form via the
+online DSA-Sec Portal or at their Primary Schools.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Late-Nov 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>(a)&nbsp;Students studying in MOE mainstream primary schools will receive
+their DSA-Sec results together with their PSLE results by end-Nov.</p>
+<p>(b) Students who are not studying in mainstream Primary Schools will receive
 their DSA-Sec results via email.</p>
 </td>
 </tr>
