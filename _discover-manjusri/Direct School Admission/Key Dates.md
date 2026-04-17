@@ -60,11 +60,10 @@ application (between 17- 28 Aug 2026)</p>
 <p>School Preference Submission</p>
 <p>(a)&nbsp;&nbsp; Students who receive at least one DSA-Sec offer (including
 from SOTA) will receive SMS and email from Postman.gov.sg in mid-Oct.</p>
-<p>&nbsp;</p>
 <p>(b)&nbsp;&nbsp; [New] From 2026, only one parent is required to log in
 to the DSA-Sec Portal to submit school preferences. If parents are unable
 to submit online, they can approach primary school for assistance.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>(c)&nbsp;&nbsp; Applicants are to submit school preference form via the
 online DSA-Sec Portal or at their Primary Schools.</p>
 </td>
