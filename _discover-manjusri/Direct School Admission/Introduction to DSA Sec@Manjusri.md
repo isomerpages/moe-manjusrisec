@@ -48,7 +48,7 @@ are premised on the applicants’ aptitude and interests in either:</p>
 <p>For more information in the DSA-Sec talent area, please click on the respective
 above link.</p>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
-The application is free-of-charge and will be opened from <strong>6 May 2026 to 2 Jun 2026, 3pm.</strong>
+The application is free-of-charge and will be opened from <strong>6 May 2026 to 2 Jun 2026, 4.30pm.</strong>
 </p>
 <p>For more details, please refer to MOE website – <a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>
 </p>
