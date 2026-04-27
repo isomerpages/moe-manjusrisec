@@ -111,12 +111,14 @@ members and creativity in expression.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Name</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Position</p>
-</th>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Position</strong>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -129,9 +131,9 @@ members and creativity in expression.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>
-<br>
-</p>
+<p>LI ZHEN HAO
+<br>NG HWEE HIM</p>
+<p>SITI AISHAH MAISARAH BINTE RUSLIGHANI ISKANDAR</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Alto</p>
@@ -139,9 +141,8 @@ members and creativity in expression.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>
-<br>
-</p>
+<p>JAY KOH</p>
+<p>CHEONG ZI TONG</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Bass</p>
@@ -149,19 +150,19 @@ members and creativity in expression.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>KOH JIE MING AVRIL
+<br>WONG SHI LING, DANIELLE</p>
+<p>QIN XIN</p>
+<p>LAW YU JIAN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Quarter Master/Mistress</p>
+<p>Quarter Mistress/Master</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Young Jun Ting
-<br>Andes Quek Chee Hao
-<br>Gareth Yip
-<br>
-</p>
+<p>GOH CHING YU</p>
+<p>KHLOE TOH EN RU</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Student Conductor</p>
