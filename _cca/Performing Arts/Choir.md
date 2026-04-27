@@ -85,7 +85,7 @@ members and creativity in expression.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Renji Hoo Zhe Jia</p>
+<p>NAW MAY SAY PAW KAW</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chairperson</p>
@@ -93,10 +93,8 @@ members and creativity in expression.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Kok Zhi Yao
-<br>Lim Liew Le Estella
-<br>
-</p>
+<p>WEE KAI WEN PHOEBE
+<br>SHEN XI'EN, NICOLE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice – Chairperson</p>
@@ -122,8 +120,8 @@ members and creativity in expression.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tan Jing Xuan Jacelyn
-<br>Eunice Tan Jia Yi</p>
+<p>AVRIL SIM EN XUAN</p>
+<p>MATTAYASINCHAI KANYAKORN</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Soprano</p>
@@ -131,8 +129,7 @@ members and creativity in expression.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Poon Zhi Yao
-<br>Charlene Cheok Eu Xing
+<p>
 <br>
 </p>
 </td>
@@ -142,8 +139,7 @@ members and creativity in expression.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chua Zhuo Yao
-<br>Toh Jun Le Xavier
+<p>
 <br>
 </p>
 </td>
@@ -153,12 +149,7 @@ members and creativity in expression.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chua Yang Chen
-<br>Ching Shi Jin Jardyne
-<br>Conrad Ong
-<br>Pang Rui Yi, Valerie
-<br>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Quarter Master/Mistress</p>
