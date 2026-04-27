@@ -85,7 +85,7 @@ members and creativity in expression.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Renji Hoo Zhe Jia</p>
+<p>NAW MAY SAY PAW KAW</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chairperson</p>
@@ -93,10 +93,8 @@ members and creativity in expression.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Kok Zhi Yao
-<br>Lim Liew Le Estella
-<br>
-</p>
+<p>WEE KAI WEN PHOEBE
+<br>SHEN XI'EN, NICOLE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice – Chairperson</p>
@@ -113,17 +111,19 @@ members and creativity in expression.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Name</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Position</p>
-</th>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Position</strong>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tan Jing Xuan Jacelyn
-<br>Eunice Tan Jia Yi</p>
+<p>AVRIL SIM EN XUAN</p>
+<p>MATTAYASINCHAI KANYAKORN</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Soprano</p>
@@ -131,10 +131,9 @@ members and creativity in expression.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Poon Zhi Yao
-<br>Charlene Cheok Eu Xing
-<br>
-</p>
+<p>LI ZHEN HAO
+<br>NG HWEE HIM</p>
+<p>SITI AISHAH MAISARAH BINTE RUSLIGHANI ISKANDAR</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Alto</p>
@@ -142,10 +141,8 @@ members and creativity in expression.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chua Zhuo Yao
-<br>Toh Jun Le Xavier
-<br>
-</p>
+<p>JAY KOH</p>
+<p>CHEONG ZI TONG</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Bass</p>
@@ -153,24 +150,19 @@ members and creativity in expression.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chua Yang Chen
-<br>Ching Shi Jin Jardyne
-<br>Conrad Ong
-<br>Pang Rui Yi, Valerie
-<br>
-</p>
+<p>KOH JIE MING AVRIL
+<br>WONG SHI LING, DANIELLE</p>
+<p>QIN XIN</p>
+<p>LAW YU JIAN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Quarter Master/Mistress</p>
+<p>Quarter Mistress/Master</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Young Jun Ting
-<br>Andes Quek Chee Hao
-<br>Gareth Yip
-<br>
-</p>
+<p>GOH CHING YU</p>
+<p>KHLOE TOH EN RU</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Student Conductor</p>
