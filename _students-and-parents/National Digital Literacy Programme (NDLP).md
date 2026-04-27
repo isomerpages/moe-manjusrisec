@@ -204,6 +204,8 @@ or Lenovo Service Centre regarding issues with PLD.</p>
 <td rowspan="1" colspan="1">
 <p><a href="/files/Ndlp/Microsoft_365_Teams_Quick_Guide__Student_.pdf" rel="noopener nofollow" target="_blank"><sup>Microsoft 365 Teams Quick Guide</sup></a>
 </p>
+<p><a href="/files/Ndlp/Microsoft_Office_365_ProPlus_Apps_Student_Guide.pdf" rel="noopener nofollow" target="_blank"><sup>Microsoft Office 365 Guide</sup></a>
+</p>
 </td>
 </tr>
 <tr>
