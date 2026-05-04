@@ -186,6 +186,14 @@ Aishah Award from 2018 till present.</p>
 <p>Hibiscus PS</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHUA RUI XUAN RENEE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MEDIA OUTREACH</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h3><strong>Our Programmes</strong></h3>
