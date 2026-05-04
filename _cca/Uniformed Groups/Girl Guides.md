@@ -92,7 +92,7 @@ Aishah Award from 2018 till present.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SIK YEE SIN</p>
+<p>LIM HUI XIN</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Exco Company Leader</p>
@@ -100,7 +100,7 @@ Aishah Award from 2018 till present.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>LIM ZI ROU</p>
+<p>NUR ALISYAH BINTE LATIFF</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Exco ACL</p>
@@ -108,7 +108,7 @@ Aishah Award from 2018 till present.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ADELE NG JING XUAN</p>
+<p>BAKSHISH KAUR BAJAJ</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Exco QM</p>
@@ -116,7 +116,7 @@ Aishah Award from 2018 till present.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>CHEE YUHAN REI</p>
+<p>CAYLEE LIM YI XUAN</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Exco AQM</p>
