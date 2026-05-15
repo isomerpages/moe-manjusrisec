@@ -31,16 +31,6 @@ sections:
       button: click here to read more
       url: /collection-of-graduation-certificates/
   - infopic:
-      title: 2026 Art Fiesta III
-      subtitle: spotlight
-      id: infopic
-      description: Manjusri Secondary School warmly invites parents, alumni and our
-        other stakeholders to Arts Fiesta III...
-      button: click here to read more
-      url: /2026-arts-fiesta-iii/
-      image: /images/Spotlight/2026 Art Fiesta/Arts_Fiesta_III_Poster_small.png
-      alt: Image alt text
-  - infopic:
       title: 2025 GCE O Level Exam Results
       subtitle: spotlight
       id: infopic
@@ -50,16 +40,6 @@ sections:
       url: /2025-gce-o-level-exam-results/
       alt: Image alt text
       image: /images/Spotlight/2025 O Level Exam/G3.jpg
-  - infopic:
-      title: 2026 Secondary One Registration
-      subtitle: spotlight
-      id: infopic
-      description: Congratulations on your posting to Manjusri Secondary School to
-        begin your secondary school education...
-      button: click here to read more
-      url: /2026-secondary-one-registration/
-      image: /images/s1_reg.png
-      alt: Image alt text
   - infopic:
       title: Corporate Video
       subtitle: spotlight
