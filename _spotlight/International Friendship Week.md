@@ -33,7 +33,7 @@ High School through an online virtual exchange on 10 April.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2026 Friendship/IFD02.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Spotlight/2026 Friendship/IFD02.jpg">
 </div>
 </th>
 </tr>
@@ -47,7 +47,7 @@ High School through an online virtual exchange on 10 April.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2026 Friendship/IFD04.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Spotlight/2026 Friendship/IFD04.jpg">
 </div>
 </td>
 </tr>
