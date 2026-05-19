@@ -22,6 +22,16 @@ sections:
           url: /contact-us/school-contact-details/
       background: /images/homepage3.gif
   - infopic:
+      title: International Friendship Week
+      subtitle: spotlight
+      id: infopic
+      description: The school celebrated international friendship during the week of
+        6-10 April...
+      button: click here to read more
+      url: /international-friendship-week/
+      alt: Image alt text
+      image: /images/Spotlight/2026 Friendship/IFD04.jpg
+  - infopic:
       title: 44th School Anniversary & Award Presentation Day
       subtitle: spotlight
       id: infopic
@@ -58,14 +68,4 @@ sections:
       url: https://www.youtube.com/watch?v=zc1JGWRg3lY
       alt: Image alt text
       image: /images/Open House/corporate_video_on_youtube.png
-  - infopic:
-      title: International Friendship Week
-      subtitle: spotlight
-      id: infopic
-      description: The school celebrated international friendship during the week of
-        6-10 April...
-      button: click here to read more
-      url: /international-friendship-week/
-      alt: Image alt text
-      image: /images/Spotlight/2026 Friendship/IFD04.jpg
 ---
