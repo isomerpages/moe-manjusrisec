@@ -48,4 +48,14 @@ sections:
       url: https://www.youtube.com/watch?v=zc1JGWRg3lY
       alt: Image alt text
       image: /images/Open House/corporate_video_on_youtube.png
+  - infopic:
+      title: 44th School Anniversary & Award Presentation Day
+      subtitle: spotlight
+      id: infopic
+      description: On 2 April 2026, the school celebrated its 43rd anniversary at an
+        event graced by Venerable Dr. Shi Chuan Sheng ...
+      button: click here to read more
+      url: /44th-school-anniversary-award-presentation-day/
+      image: /images/Spotlight/2026 44 Anniversary/MJR10.jpg
+      alt: Image alt text
 ---
