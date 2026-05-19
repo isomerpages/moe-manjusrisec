@@ -57,7 +57,7 @@ every fulfilment in their continuing educational pursuits and future endeavours.
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2026 44 Anniversary/MJR03.jpg">
+<img style="width: 96%;" height="auto" width="100%" alt="" src="/images/Spotlight/2026 44 Anniversary/MJR03.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -69,7 +69,7 @@ every fulfilment in their continuing educational pursuits and future endeavours.
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2026 44 Anniversary/MJR05.jpg">
+<img style="width: 96%;" height="auto" width="100%" alt="" src="/images/Spotlight/2026 44 Anniversary/MJR05.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -81,7 +81,7 @@ every fulfilment in their continuing educational pursuits and future endeavours.
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2026 44 Anniversary/MJR07.jpg">
+<img style="width: 96%;" height="auto" width="100%" alt="" src="/images/Spotlight/2026 44 Anniversary/MJR07.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -93,7 +93,7 @@ every fulfilment in their continuing educational pursuits and future endeavours.
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2026 44 Anniversary/MJR09.jpg">
+<img style="width: 96%;" height="auto" width="100%" alt="" src="/images/Spotlight/2026 44 Anniversary/MJR09.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
