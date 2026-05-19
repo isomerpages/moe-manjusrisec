@@ -67,4 +67,5 @@ sections:
       button: click here to read more
       url: /international-friendship-week/
       alt: Image alt text
+      image: /images/Spotlight/2026 Friendship/IFD04.jpg
 ---
