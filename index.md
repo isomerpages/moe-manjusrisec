@@ -21,6 +21,16 @@ sections:
           description: ""
           url: /contact-us/school-contact-details/
       background: /images/homepage3.gif
+  - infopic:
+      title: 44th School Anniversary & Award Presentation Day
+      subtitle: spotlight
+      id: infopic
+      description: On 2 April 2026, the school celebrated its 43rd anniversary at an
+        event graced by Venerable Dr. Shi Chuan Sheng ...
+      button: click here to read more
+      url: /44th-school-anniversary-award-presentation-day/
+      image: /images/Spotlight/2026 44 Anniversary/MJR10.jpg
+      alt: Image alt text
   - infobar:
       title: Collection of Graduation Certificates
       subtitle: spotlight
