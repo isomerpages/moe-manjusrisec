@@ -30,7 +30,7 @@ sections:
       button: click here to read more
       url: /international-friendship-week/
       alt: Image alt text
-      image: /images/Spotlight/2026 Friendship/IFD04.jpg
+      image: /images/Spotlight/2026 Friendship/IFD05.jpg
   - infopic:
       title: 44th School Anniversary & Award Presentation Day
       subtitle: spotlight
