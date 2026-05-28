@@ -24,13 +24,13 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chinese Mixed Rice Food Stall</p>
+<p>Chinese Noodle Food Stall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5 May 2026</p>
+<p>15 Jun 2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assorted Dishes</p>
+<p>-</p>
 </td>
 </tr>
 </tbody>
