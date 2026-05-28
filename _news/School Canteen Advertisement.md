@@ -102,7 +102,8 @@ set by the Health Promotion Board (HPB) under the "Healthy Meals in Schools
 Programme (HMSP)" guidelines (see <a href="https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme" rel="noopener noreferrer nofollow" target="_blank">link</a>).</p>
 </li>
 <li>
-<p>Able to maintain high standard of food safety and personal hygiene.</p>
+<p>Able to maintain high standard of food safety and personal hygiene. This
+includes complying with relevant authorities’ requirements and guidelines.</p>
 </li>
 <li>
 <p>Healthy and fit to operate the stall.</p>
