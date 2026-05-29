@@ -64,18 +64,14 @@ lights is known in Chinese as 供灯.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 95%;" height="auto" width="100%" alt="" src="/images/Spotlight/2026 Vesak/Vesak_03.jpg">
 </div>
+<p><strong><sup>Buddhist Interact Club members singing the Buddhist Hymn</sup></strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2026 Vesak/Vesak_04.jpg">
 </div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p><strong><sup>Left: Buddhist Interact Club members singing the Buddhist Hymn</sup></strong>
-</p>
-<p><strong><sup>Right: Monks led by Venerable Seck Kwang Phing chanting blessings</sup></strong>
+<p><strong><sup>Monks led by Venerable Seck Kwang Phing chanting blessings</sup></strong>
 </p>
 </td>
 </tr>
