@@ -19,7 +19,7 @@ joining the audience at the hall for the ceremony.&nbsp;&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2026 Vesak/Vesak_01.jpg">
 </div>
-<p><strong><sup>Teachers and venerable monks greeting seniors from 4S Active Aging Centre</sup></strong>
+<p style="font-size:14px" align="center"><strong><sup>Teachers and venerable monks greeting seniors from 4S Active Aging Centre</sup></strong>
 </p>
 </td>
 </tr>
@@ -40,7 +40,7 @@ can collaborate to benefit one another.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2026 Vesak/Vesak_02.jpg">
 </div>
-<p><strong><sup>Visiting student leaders of St Patrick’s School with their Manjusri buddies at Buddhist Reflection Hall</sup></strong>
+<p style="font-size:14px" align="center"><strong><sup>Visiting student leaders of St Patrick’s School with their Manjusri buddies at Buddhist Reflection Hall</sup></strong>
 </p>
 </td>
 </tr>
@@ -64,14 +64,14 @@ lights is known in Chinese as 供灯.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 97%;" height="auto" width="100%" alt="" src="/images/Spotlight/2026 Vesak/Vesak_03.jpg">
 </div>
-<p><strong><sup>Buddhist Interact Club members singing the Buddhist Hymn</sup></strong>
+<p style="font-size:14px" align="center"><strong><sup>Buddhist Interact Club members singing the Buddhist Hymn</sup></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2026 Vesak/Vesak_04.jpg">
 </div>
-<p><strong><sup>Monks led by Venerable Seck Kwang Phing chanting blessings</sup></strong>
+<p style="font-size:14px" align="center"><strong><sup>Monks led by Venerable Seck Kwang Phing chanting blessings</sup></strong>
 </p>
 </td>
 </tr>
@@ -89,7 +89,7 @@ lights is known in Chinese as 供灯.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong><sup>Offering of Lights by staff, parents and students</sup></strong>
+<p style="font-size:14px" align="center"><strong><sup>Offering of Lights by staff, parents and students</sup></strong>
 </p>
 </td>
 </tr>
@@ -121,7 +121,7 @@ statue of baby Prince Siddhartha by staff and students.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong><sup>Bathing of Prince Siddhartha by school community</sup></strong>
+<p style="font-size:14px" align="center"><strong><sup>Bathing of Prince Siddhartha by school community</sup></strong>
 </p>
 </td>
 </tr>
