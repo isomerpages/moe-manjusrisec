@@ -68,4 +68,14 @@ sections:
       url: https://www.youtube.com/watch?v=zc1JGWRg3lY
       alt: Image alt text
       image: /images/Open House/corporate_video_on_youtube.png
+  - infopic:
+      title: Vesak Day Observance Ceremony at Manjusri 2026
+      subtitle: spotlight
+      id: infopic
+      description: Manjusri Secondary held its annual Vesak observance ceremony at the
+        school hall on 22 May...
+      button: click here to read more
+      url: /vesak-day-observance-ceremony-at-manjusri-2026/
+      image: /images/Spotlight/2026 Vesak/Vesak_04.jpg
+      alt: Image alt text
 ---
