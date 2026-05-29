@@ -16,11 +16,76 @@ joining the audience at the hall for the ceremony.&nbsp;&nbsp;</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2026 Vesak/Vesak_01.jpg">
 </div>
 <p><strong><sup>Teachers and venerable monks greeting seniors from 4S Active Aging Centre</sup></strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>St Patrick’s School student leaders also visited that day to learn about
+customs and practices related to Vesak to promote inter-faith understanding.&nbsp;
+They too joined the assembly to witness the proceedings.&nbsp; &nbsp;This
+curated learning experience arose from an initiative on how different schools
+can collaborate to benefit one another.</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2026 Vesak/Vesak_02.jpg">
+</div>
+<p><strong><sup>Visiting student leaders of St Patrick’s School with their Manjusri buddies at Buddhist Reflection Hall</sup></strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>The ceremony began with a rendition of the 三宝歌 (Triple Gem Song) led by
+the members of the Buddhist Interact Club. &nbsp;Venerable Bhikkhu Mokkhadipa
+of the Singapore Buddhist Federation (SBF) in his address then gave an
+insightful sharing on the significance of Vesak Day.&nbsp; The programme
+continued with the offering of lights to Buddha to symbolize the light
+of wisdom dispelling the darkness of ignorance.&nbsp; This offering of
+lights is known in Chinese as 供灯.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong><sup>Left: Buddhist Interact Club members singing the Buddhist Hymn</sup></strong>
+</p>
+<p><strong><sup>Right: Monks led by Venerable Seck Kwang Phing chanting blessings</sup></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong><sup>Offering of Lights by staff, parents and students</sup></strong>
 </p>
 </td>
 </tr>
