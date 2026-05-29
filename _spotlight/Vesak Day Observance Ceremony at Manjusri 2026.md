@@ -91,4 +91,32 @@ lights is known in Chinese as 供灯.</p>
 </tr>
 </tbody>
 </table>
+<p>Following this, venerable monks in attendance led by Venerable Seck Kwang
+Phing, President of the Singapore Buddhist Federation, chanted prayers
+offering blessings to the assembled audience.&nbsp; On behalf of the school
+community, school leaders subsequently made Dana offerings to the Sangha.&nbsp;
+The final segment of the heartfelt ceremony witnessed the bathing of the
+statue of baby Prince Siddhartha by staff and students.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong><sup>Bathing of Prince Siddhartha by school community</sup></strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
