@@ -61,10 +61,14 @@ lights is known in Chinese as 供灯.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2026 Vesak/Vesak_03.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2026 Vesak/Vesak_04.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -78,12 +82,12 @@ lights is known in Chinese as 供灯.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2026 Vesak/Vesak_03.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2026 Vesak/Vesak_05.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2026 Vesak/Vesak_04.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2026 Vesak/Vesak_06.jpg">
 </div>
 </td>
 </tr>
@@ -109,10 +113,14 @@ statue of baby Prince Siddhartha by staff and students.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2026 Vesak/Vesak_07.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2026 Vesak/Vesak_08.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -123,4 +131,5 @@ statue of baby Prince Siddhartha by staff and students.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
