@@ -22,6 +22,16 @@ sections:
           url: /contact-us/school-contact-details/
       background: /images/homepage3.gif
   - infopic:
+      title: Vesak Day Observance Ceremony at Manjusri 2026
+      subtitle: spotlight
+      id: infopic
+      description: Manjusri Secondary held its annual Vesak observance ceremony at the
+        school hall on 22 May...
+      button: click here to read more
+      url: /vesak-day-observance-ceremony-at-manjusri-2026/
+      image: /images/Spotlight/2026 Vesak/Vesak_04.jpg
+      alt: Image alt text
+  - infopic:
       title: International Friendship Week
       subtitle: spotlight
       id: infopic
