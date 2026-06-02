@@ -29,7 +29,7 @@ sections:
         school hall on 22 May...
       button: click here to read more
       url: /vesak-day-observance-ceremony-at-manjusri-2026/
-      image: /images/Spotlight/2026 Vesak/Vesak_04.jpg
+      image: /images/Spotlight/2026 Vesak/Vesak_08.jpg
       alt: Image alt text
   - infopic:
       title: International Friendship Week
