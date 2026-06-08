@@ -184,6 +184,12 @@ or Lenovo Service Centre regarding issues with PLD.</p>
 </p>
 <p><a href="https://drive.google.com/file/d/1fDgG5Eclytk-Skz76C6P3m5JaD_sp9T4/view?usp=sharing" rel="noopener nofollow" target="_blank"><sup>AI Parent Info</sup></a>
 </p>
+<p><a href="/files/Ndlp/ChromeOS_DMA_Parent_Default_Option.pdf" rel="noopener nofollow" target="_blank"><sup>ChromeOS DMA_Parent Default Option</sup></a>
+</p>
+<p><a href="/files/Ndlp/ChromeOS_DMA_Parent_Option_A.pdf" rel="noopener nofollow" target="_blank"><sup>ChromeOS DMA_Parent Option A</sup></a>
+</p>
+<p><a href="/files/Ndlp/ChromeOS_DMA_Parent_Option_B.pdf" rel="noopener nofollow" target="_blank"><sup>ChromeOS DMA_Parent Option B</sup></a>
+</p>
 </td>
 </tr>
 <tr>
