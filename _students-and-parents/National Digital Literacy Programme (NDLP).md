@@ -190,6 +190,8 @@ or Lenovo Service Centre regarding issues with PLD.</p>
 </p>
 <p><a href="/files/Ndlp/ChromeOS_DMA_Parent_Option_B.pdf" rel="noopener nofollow" target="_blank"><sup>ChromeOS DMA_Parent Option B</sup></a>
 </p>
+<p><a href="https://go.gov.sg/mjrdma" rel="noopener nofollow" target="_blank"><sup>Indication of After-School DMA Parent Options for Chromebook PLDs</sup></a>
+</p>
 </td>
 </tr>
 <tr>
