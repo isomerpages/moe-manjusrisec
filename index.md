@@ -22,6 +22,17 @@ sections:
           url: /contact-us/school-contact-details/
       background: /images/homepage3.gif
   - infopic:
+      title: Singapore Silent Heroes Student Awards
+      subtitle: spotlight
+      id: infopic
+      description: The school is proud to announce that three MJR students were
+        conferred this award which recognizes students' altruistic actions by
+        the Civilians Association ...
+      button: click here to read more
+      url: /singapore-silent-heroes-student-awards/
+      image: /images/Spotlight/2026 Hero/20260523_120350.jpg
+      alt: Image alt text
+  - infopic:
       title: Vesak Day Observance Ceremony at Manjusri 2026
       subtitle: spotlight
       id: infopic
