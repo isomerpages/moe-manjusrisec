@@ -10,8 +10,9 @@ Association (Singapore).&nbsp; The awards were presented to them by Ms
 Jasmin Lau, Minister of State in the Ministry of Digital Development and
 Information, and Ministry of Education in a ceremony at former SPRING Singapore
 auditorium on 23 May 2026.</p>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2026 Hero/20260523_120350.jpg">
+</div>
 <p>Congratulations to our student recipients:</p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Alicia Chia Xin En</strong> for
 showing consistent support, care and concern to peers as a class leader</p>
@@ -21,7 +22,6 @@ several key school events that fostered awareness, unity, and appreciation
 for others.</p>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>You Tian Yi</strong> for championing
 integration efforts for newly arrived international students at the school</p>
-<p>&nbsp;</p>
 <p>By acknowledging their acts of kindness, the award aims to inspire more
 individuals to contribute positively, thereby nurturing a culture of generosity
 for future generations.&nbsp; Manjusri Sec was one of the first five schools
