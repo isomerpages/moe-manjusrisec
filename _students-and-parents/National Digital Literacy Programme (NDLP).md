@@ -178,7 +178,19 @@ or Lenovo Service Centre regarding issues with PLD.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Ndlp/Parent%20Handbook%20I%20on%20Learning%20with%20a%20PLD.pdf" rel="noopener noreferrer nofollow" target="_blank"><sup>Parent Handbook (I) on Learning with a PLD</sup></a>
+<p><a href="/files/Ndlp/IP2___Parent_Handbook__I__2026.pdf" rel="noopener nofollow" target="_blank"><sup>IP2 - Parent Handbook (I) 2026</sup></a>
+</p>
+<p><a href="/files/Ndlp/IP3___Parent_Handbook__II__2026.pdf" rel="noopener nofollow" target="_blank"><sup>IP3 - Parent Handbook (II) 2026</sup></a>
+</p>
+<p><a href="https://drive.google.com/file/d/1fDgG5Eclytk-Skz76C6P3m5JaD_sp9T4/view?usp=sharing" rel="noopener nofollow" target="_blank"><sup>AI Parent Info</sup></a>
+</p>
+<p><a href="/files/Ndlp/ChromeOS_DMA_Parent_Default_Option.pdf" rel="noopener nofollow" target="_blank"><sup>ChromeOS DMA_Parent Default Option</sup></a>
+</p>
+<p><a href="/files/Ndlp/ChromeOS_DMA_Parent_Option_A.pdf" rel="noopener nofollow" target="_blank"><sup>ChromeOS DMA_Parent Option A</sup></a>
+</p>
+<p><a href="/files/Ndlp/ChromeOS_DMA_Parent_Option_B.pdf" rel="noopener nofollow" target="_blank"><sup>ChromeOS DMA_Parent Option B</sup></a>
+</p>
+<p><a href="https://go.gov.sg/mjrdma" rel="noopener nofollow" target="_blank"><sup>Indication of After-School DMA Parent Options for Chromebook PLDs</sup></a>
 </p>
 </td>
 </tr>
