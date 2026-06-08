@@ -178,7 +178,11 @@ or Lenovo Service Centre regarding issues with PLD.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Ndlp/Parent%20Handbook%20I%20on%20Learning%20with%20a%20PLD.pdf" rel="noopener noreferrer nofollow" target="_blank"><sup>Parent Handbook (I) on Learning with a PLD</sup></a>
+<p><a href="/files/Ndlp/IP2___Parent_Handbook__I__2026.pdf" rel="noopener nofollow" target="_blank"><sup>IP2 - Parent Handbook (I) 2026</sup></a>
+</p>
+<p><a href="/files/Ndlp/IP3___Parent_Handbook__II__2026.pdf" rel="noopener nofollow" target="_blank"><sup>IP3 - Parent Handbook (II) 2026</sup></a>
+</p>
+<p><a href="https://drive.google.com/file/d/1fDgG5Eclytk-Skz76C6P3m5JaD_sp9T4/view?usp=sharing" rel="noopener nofollow" target="_blank"><sup>AI Parent Info</sup></a>
 </p>
 </td>
 </tr>
