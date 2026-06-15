@@ -22,6 +22,16 @@ sections:
           url: /contact-us/school-contact-details/
       background: /images/homepage3.gif
   - infopic:
+      title: Arts Fiesta III @ Singapore Conference Hall
+      subtitle: spotlight
+      id: infopic
+      description: The 3rd edition of Manjusri Secondary’s Arts Fiesta was staged at
+        the Singapore Conference Hall on 11 April 2026 ...
+      button: click here to read more
+      url: /arts-fiesta-iii-singapore-conference-hall/
+      image: /images/Spotlight/2026 Art Fiesta/AF21.jpg
+      alt: Image alt text
+  - infopic:
       title: Singapore Silent Heroes Student Awards
       subtitle: spotlight
       id: infopic
@@ -89,14 +99,4 @@ sections:
       url: https://www.youtube.com/watch?v=zc1JGWRg3lY
       alt: Image alt text
       image: /images/Open House/corporate_video_on_youtube.png
-  - infopic:
-      title: Arts Fiesta III @ Singapore Conference Hall
-      subtitle: spotlight
-      id: infopic
-      description: The 3rd edition of Manjusri Secondary’s Arts Fiesta was staged at
-        the Singapore Conference Hall on 11 April 2026 ...
-      button: click here to read more
-      url: /arts-fiesta-iii-singapore-conference-hall/
-      image: /images/Spotlight/2026 Art Fiesta/AF21.jpg
-      alt: Image alt text
 ---
