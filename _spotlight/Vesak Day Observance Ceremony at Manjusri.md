@@ -1,5 +1,5 @@
 ---
-title: Vesak Day Observance Ceremony at Manjusri 2026
+title: Vesak Day Observance Ceremony at Manjusri
 permalink: /vesak-day-observance-ceremony-at-manjusri-2026/
 variant: markdown
 description: ""
