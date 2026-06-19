@@ -91,4 +91,14 @@ sections:
       url: https://www.youtube.com/watch?v=zc1JGWRg3lY
       alt: Image alt text
       image: /images/Open House/corporate_video_on_youtube.png
+  - infopic:
+      title: 2025 GCE O Level Exam Results
+      subtitle: spotlight
+      id: infopic
+      description: The school’s 2025 GCE O level exam results were released on Wed 14
+        January and were highly satisfactory...
+      button: click here to read more
+      url: /2025-gce-o-level-exam-results/
+      image: /images/Spotlight/2025 O Level Exam/G3.jpg
+      alt: Image alt text
 ---
