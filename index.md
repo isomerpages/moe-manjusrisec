@@ -84,14 +84,6 @@ sections:
       image: /images/Spotlight/2026 44 Anniversary/MJR10.jpg
       alt: Image alt text
   - infopic:
-      title: Corporate Video
-      subtitle: spotlight
-      id: infopic
-      button: click here to watch
-      url: https://www.youtube.com/watch?v=zc1JGWRg3lY
-      alt: Image alt text
-      image: /images/Open House/corporate_video_on_youtube.png
-  - infopic:
       title: 2025 GCE O Level Exam Results
       subtitle: spotlight
       id: infopic
@@ -101,4 +93,12 @@ sections:
       url: /2025-gce-o-level-exam-results/
       image: /images/Spotlight/2025 O Level Exam/G3.jpg
       alt: Image alt text
+  - infopic:
+      title: Corporate Video
+      subtitle: spotlight
+      id: infopic
+      button: click here to watch
+      url: https://www.youtube.com/watch?v=zc1JGWRg3lY
+      alt: Image alt text
+      image: /images/Open House/corporate_video_on_youtube.png
 ---
