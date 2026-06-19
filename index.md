@@ -89,4 +89,14 @@ sections:
       url: https://www.youtube.com/watch?v=zc1JGWRg3lY
       alt: Image alt text
       image: /images/Open House/corporate_video_on_youtube.png
+  - infopic:
+      title: Excellence in Mathematics Teaching Award
+      subtitle: spotlight
+      id: infopic
+      description: The school is pleased to announce that Ms Anna Lee, our HOD
+        Mathematics, has been conferred the Excellence in Mathematics Teaching
+        Award 2026...
+      button: click here to read more
+      url: /excellence-in-mathematics-teaching-award/
+      alt: Image alt text
 ---
