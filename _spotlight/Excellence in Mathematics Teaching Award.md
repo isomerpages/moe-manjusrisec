@@ -13,7 +13,6 @@ their students to learn mathematics.&nbsp; It also aims to motivate teachers
 to learn and share with one another in their professional work.</p>
 <p>&nbsp;<em>“I believe every child can learn Mathematics, regardless of ability.&nbsp; By making learning accessible, relevant, and grounded in curiosity, while providing appropriate scaffolding, we empower students to experience success in Mathematics.&nbsp; These positive experiences build confidence, which in turn inspires them to explore, question, and learning more deeply.&nbsp; I strive to create a supportive environment where curiosity and confidence reinforce one another, nurturing resilient and motivated learners who see themselves as capable mathematicians.” – Anna Lee Kai Wen</em>
 </p>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -23,9 +22,15 @@ to learn and share with one another in their professional work.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2026 Excellence in Math/anna2.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2026 Excellence in Math/20260605_101116.jpg">
+</div>
 </td>
 </tr>
 </tbody>
