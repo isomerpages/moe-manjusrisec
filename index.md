@@ -44,7 +44,7 @@ sections:
       image: /images/Spotlight/2026 Hero/20260523_120350.jpg
       alt: Image alt text
   - infopic:
-      title: Vesak Day Observance Ceremony at Manjusri 2026
+      title: Vesak Day Observance Ceremony at Manjusri
       subtitle: spotlight
       id: infopic
       description: Manjusri Secondary held its annual Vesak observance ceremony at the
