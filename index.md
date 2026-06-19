@@ -99,4 +99,5 @@ sections:
       button: click here to read more
       url: /excellence-in-mathematics-teaching-award/
       alt: Image alt text
+      image: /images/Spotlight/2026 Excellence in Math/anna.png
 ---
