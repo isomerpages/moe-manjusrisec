@@ -22,6 +22,12 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/collection-of-graduation-certificates/" rel="noopener nofollow" target="_blank">Collection of Graduation Certificates</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
