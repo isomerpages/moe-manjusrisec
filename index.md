@@ -31,7 +31,7 @@ sections:
       button: click here to read more
       url: /excellence-in-mathematics-teaching-award/
       alt: Image alt text
-      image: /images/Spotlight/2026 Excellence in Math/anna.png
+      image: /images/Spotlight/2026 Excellence in Math/20260605_101116_crop.jpg
   - infopic:
       title: Singapore Silent Heroes Student Awards
       subtitle: spotlight
