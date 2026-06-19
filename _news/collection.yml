@@ -2,4 +2,5 @@ collections:
   news:
     output: true
     order:
+      - Collection of Graduation Certificates.md
       - School Canteen Advertisement.md
