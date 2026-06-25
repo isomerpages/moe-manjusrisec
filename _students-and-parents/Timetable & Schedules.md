@@ -34,10 +34,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Timetable &amp; Schedules/2026 TT/2026_Semester_2_Odd_Week_TT_Secondary_2.pdf" rel="noopener nofollow" target="_blank">2026 Semester 2 Odd Week TT Secondary 2</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Timetable &amp; Schedules/2026 TT/2026_Semester_2_Even_Week_TT_Secondary_2.pdf" rel="noopener nofollow" target="_blank">2026 Semester 2 Even Week TT Secondary 2</a>
+</p>
 </td>
 </tr>
 <tr>
