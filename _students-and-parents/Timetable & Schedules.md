@@ -46,7 +46,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Timetable &amp; Schedules/2026 TT/2026_Semester_2_Even_Week_TT_Secondary_3.pdf" rel="noopener nofollow" target="_blank">2026 Semester 2 Even Week TT Secondary 3</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -122,4 +123,5 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p></p>
+<p><a href="/files/Timetable &amp; Schedules/2026 TT/2026_Semester_2_Even_Week_TT_Secondary_3.pdf" rel="noopener nofollow" target="_blank">2026 Semester 2 Even Week TT Secondary 3</a>
+</p>
