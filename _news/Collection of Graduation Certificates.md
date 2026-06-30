@@ -8,7 +8,6 @@ description: ""
 <p>All graduates from the <strong>Class of 2025</strong>, as well as other
 graduated students who have been informed to collect their certificates,
 may do so at the school's General Office.</p>
-<p>&nbsp;</p>
 <p><strong><u>Collection Details</u></strong>
 </p>
 <p><strong>Venue:</strong> MJR General Office</p>
@@ -27,6 +26,5 @@ a representative to do so on your behalf. The representative must present:</p>
 person to collect your certificate on your behalf.</p>
 </li>
 </ul>
-<p>If you have any enquiries, please contact the school's General Office.</p>
-<p>
+<p>If you have any enquiries, please contact the school's General Office.
 <br>We look forward to welcoming you back to school!</p>
