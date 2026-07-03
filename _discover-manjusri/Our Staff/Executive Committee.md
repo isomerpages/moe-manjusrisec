@@ -31,7 +31,7 @@ variant: markdown
 |Mr Neo Wee Kian Travis | HOD, Special Educational Needs|neo_wee_kian@moe.edu.sg|
 |Mr Tan Kian Ann, Jacky | HOD, Student Management|tan_kian_ann@moe.edu.sg|
 |Mr Tan Thiam Meng | Year Head Sec 2|tan_thiam_meng@moe.edu.sg|
-|Ms Tee Pei Pei | Year Head Sec 3 (Ag)|tee_pei_pei@moe.edu.sg|
+|Ms Tee Pei Pei | Year Head, Upp Sec (Ag)|tee_pei_pei@moe.edu.sg|
 |Ms Nur Atiqah Binti Abdul Fattah | AYH Sec 4/5|nur_atiqah_abdul_fattah@moe.edu.sg|
 |Ms Tan Shi Jia | AYH Sec 1|tan_shi_jia@moe.edu.sg|
 |Mrs Teh-Tay Hwee Cheng Angeline | SH, Aesthetics|tay_hwee_cheng@moe.edu.sg|
@@ -45,5 +45,6 @@ variant: markdown
 |Ms  Goh Pei Shan | SH, Mathematics|goh_pei_shan@moe.edu.sg|
 |Mr Han Ah Teck, Michael | SH, School Partnerships|han_ah_teck@moe.edu.sg|
 |Ms Alexandra Pang Yan Feng | SH, Student Well-Being|PANG_Yanfeng_Alexandra@moe.edu.sg|
+|Mr Ahmad Nabil Bin Ahmad Al-Kastalani|SH, PE &amp; CCA (Ag)|ahmad\_nabil\_ahmad\_al-kastalani@moe.edu.sg|
 |Ms Seo Wei Lin, Sharon | Administration Manager|sharon_seo@moe.edu.sg|
 |Ms Oh Ai Li | Administration Manager |oh_ai_li@moe.edu.sg|
