@@ -71,31 +71,25 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong>2026 Semester 1 HBL Timetable</strong>
+<p><strong>2026 Semester 2 HBL Timetable</strong>
 </p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Hbl/2026 HBL/2026_SEM1_HBL_TT_Sec_1.pdf" rel="noopener nofollow" target="_blank">Sec 1</a>
+<p><a href="/files/Timetable &amp; Schedules/2026 TT/2026_HBL_Semester_2_TT___Sec_1.pdf" rel="noopener nofollow" target="_blank">Sec 1</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Hbl/2026 HBL/2026_SEM1_HBL_TT___Sec_2.pdf" rel="noopener nofollow" target="_blank">Sec 2</a>
+<p><a href="/files/Timetable &amp; Schedules/2026 TT/2026_HBL_Semester_2_TT___Sec_2.pdf" rel="noopener nofollow" target="_blank">Sec 2</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Hbl/2026 HBL/2026_SEM1_HBL_TT___Sec_3.pdf" rel="noopener nofollow" target="_blank">Sec 3</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Hbl/2026 HBL/2026_SEM1_HBL_TT___Sec_4_5.pdf" rel="noopener nofollow" target="_blank">Sec 4&amp;5</a>
+<p><a href="/files/Timetable &amp; Schedules/2026 TT/2026_HBL_Semester_2_TT___Sec_3.pdf" rel="noopener nofollow" target="_blank">Sec 3</a>
 </p>
 </td>
 </tr>
@@ -125,5 +119,4 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><a href="/files/Timetable &amp; Schedules/2026 TT/2026_Semester_2_Even_Week_TT_Secondary_3.pdf" rel="noopener nofollow" target="_blank">2026 Semester 2 Even Week TT Secondary 3</a>
-</p>
+<p></p>
