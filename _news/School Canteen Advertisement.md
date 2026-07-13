@@ -24,13 +24,24 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chinese Noodle Food Stall</p>
+<p>Chinese Mixed Rice Food Stall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>15 Jun 2026</p>
+<p>31 Jul 2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>Assorted Dishes</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Japanese Fusion Stall</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>31 Jul 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Rice and Noodles acceptable</p>
 </td>
 </tr>
 </tbody>
@@ -39,7 +50,7 @@ description: ""
 </p>
 <ol>
 <li>
-<p><a href="/files/News/application for canteen stall.pdf" rel="noopener nofollow" target="_blank">Download and complete the application form.</a> You
+<p><a href="/files/Application_for_canteen_stall_in_existing_school.pdf" rel="noopener nofollow" target="_blank">Download and complete the fileapplication form.</a> You
 may also request for a hardcopy from the School’s General Office.</p>
 </li>
 <li>
