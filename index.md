@@ -22,6 +22,17 @@ sections:
           url: /contact-us/school-contact-details/
       background: /images/homepage3.gif
   - infopic:
+      title: Goh Chok Tong NextGen Outstanding Student Leader Awards
+      subtitle: spotlight
+      id: infopic
+      description: We are proud to announce that five of our student leaders were each
+        conferred the prestigious award by the Marine Parade Leadership
+        Foundation...
+      button: click here to read more
+      url: /goh-chok-tong-nextgen-outstanding-student-leader-awards/
+      alt: Image alt text
+      image: /images/Spotlight/2026 gct/IMG_20260726_WA0001__2_.jpg
+  - infopic:
       title: Excellence in Mathematics Teaching Award
       subtitle: spotlight
       id: infopic
