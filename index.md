@@ -101,4 +101,14 @@ sections:
       url: https://www.youtube.com/watch?v=zc1JGWRg3lY
       alt: Image alt text
       image: /images/Open House/corporate_video_on_youtube.png
+  - infopic:
+      title: Goh Chok Tong NextGen Outstanding Student Leader Awards
+      subtitle: spotlight
+      id: infopic
+      description: We are proud to announce that five of our student leaders were each
+        conferred the prestigious award by the Marine Parade Leadership
+        Foundation...
+      button: click here to read more
+      url: /goh-chok-tong-nextgen-outstanding-student-leader-awards/
+      alt: Image alt text
 ---
