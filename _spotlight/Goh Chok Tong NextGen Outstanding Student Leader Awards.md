@@ -24,16 +24,18 @@ by Mr Seah Kian Peng, Singapore’s Speaker of Parliament.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2026 gct/NGLA1_01.jpg">
 </div>
+<p>Allam Rithwick Reddy</p>
+<p>(currently at Victoria JC)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2026 gct/NGLA1_02.jpg">
 </div>
+<p>Tay Qi Xuan</p>
+<p>(currently at Nanyang JC)</p>
 </td>
 </tr>
 <tr>
@@ -42,12 +44,16 @@ by Mr Seah Kian Peng, Singapore’s Speaker of Parliament.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2026 gct/NGLA1_03.jpg">
 </div>
+<p>Charlene Cheok Eu Xing</p>
+<p>(currently at Ngee Ann Polytechnic)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2026 gct/NGLA1_04.jpg">
 </div>
+<p>Lua En Qi Celine</p>
+<p>(currently at Tampines-Meridian JC)</p>
 </td>
 </tr>
 <tr>
@@ -56,12 +62,15 @@ by Mr Seah Kian Peng, Singapore’s Speaker of Parliament.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2026 gct/NGLA1_05.jpg">
 </div>
+<p>Yip Ler Quan Gareth</p>
+<p>(currently at Anderson-Serangoon JC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2026 gct/IMG_20260726_WA0001__2_.jpg">
 </div>
+<p>Recipients with Principal</p>
 </td>
 </tr>
 </tbody>
