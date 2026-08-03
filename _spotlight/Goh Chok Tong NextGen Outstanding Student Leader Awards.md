@@ -16,3 +16,37 @@ in school and/or community activities in the past year; and comes with
 a certificate, plaque and cash cheque.&nbsp; The awards are named for Singapore’s
 former Prime Minister Mr Goh Chok Tong; and the certificates were signed
 by Mr Seah Kian Peng, Singapore’s Speaker of Parliament.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
