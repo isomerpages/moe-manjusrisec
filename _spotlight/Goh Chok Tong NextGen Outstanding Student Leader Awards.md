@@ -27,15 +27,19 @@ by Mr Seah Kian Peng, Singapore’s Speaker of Parliament.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2026 gct/NGLA1_01.jpg">
 </div>
-<p>Allam Rithwick Reddy</p>
-<p>(currently at Victoria JC)</p>
+<p><sup>Allam Rithwick Reddy</sup>
+</p>
+<p><sup>(currently at Victoria JC)</sup>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2026 gct/NGLA1_02.jpg">
 </div>
-<p>Tay Qi Xuan</p>
-<p>(currently at Nanyang JC)</p>
+<p><sup>Tay Qi Xuan</sup>
+</p>
+<p><sup>(currently at Nanyang JC)</sup>
+</p>
 </td>
 </tr>
 <tr>
@@ -44,16 +48,20 @@ by Mr Seah Kian Peng, Singapore’s Speaker of Parliament.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2026 gct/NGLA1_03.jpg">
 </div>
-<p>Charlene Cheok Eu Xing</p>
-<p>(currently at Ngee Ann Polytechnic)</p>
+<p><sup>Charlene Cheok Eu Xing</sup>
+</p>
+<p><sup>(currently at Ngee Ann Polytechnic)</sup>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2026 gct/NGLA1_04.jpg">
 </div>
-<p>Lua En Qi Celine</p>
-<p>(currently at Tampines-Meridian JC)</p>
+<p><sup>Lua En Qi Celine</sup>
+</p>
+<p><sup>(currently at Tampines-Meridian JC)</sup>
+</p>
 </td>
 </tr>
 <tr>
@@ -62,15 +70,18 @@ by Mr Seah Kian Peng, Singapore’s Speaker of Parliament.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2026 gct/NGLA1_05.jpg">
 </div>
-<p>Yip Ler Quan Gareth</p>
-<p>(currently at Anderson-Serangoon JC)</p>
+<p><sup>Yip Ler Quan Gareth</sup>
+</p>
+<p><sup>(currently at Anderson-Serangoon JC)</sup>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2026 gct/IMG_20260726_WA0001__2_.jpg">
 </div>
-<p>Recipients with Principal</p>
+<p><sup>Recipients with Principal</sup>
+</p>
 </td>
 </tr>
 </tbody>
