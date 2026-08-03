@@ -31,6 +31,7 @@ sections:
       button: click here to read more
       url: /goh-chok-tong-nextgen-outstanding-student-leader-awards/
       alt: Image alt text
+      image: /images/Spotlight/2026 gct/IMG_20260726_WA0001__2_.jpg
   - infopic:
       title: Excellence in Mathematics Teaching Award
       subtitle: spotlight
