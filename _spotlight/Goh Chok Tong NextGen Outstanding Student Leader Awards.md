@@ -34,8 +34,8 @@ Allam Rithwick Reddy<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2026 gct/NGLA1_02.jpg">
 </div>
-<p>Tay Qi Xuan</p>
-<p>(currently at Nanyang JC)</p>
+<p style="font-size:12px" align="center">Tay Qi Xuan</p>
+<p style="font-size:14px" align="center">(currently at Nanyang JC)</p>
 </td>
 </tr>
 <tr>
