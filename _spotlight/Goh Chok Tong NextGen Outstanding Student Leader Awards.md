@@ -25,7 +25,7 @@ by Mr Seah Kian Peng, Singapore’s Speaker of Parliament.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2026 gct/NGLA1_01.jpg">
+<img style="width: 95%;" height="auto" width="100%" alt="" src="/images/Spotlight/2026 gct/NGLA1_01.jpg">
 </div>
 <p><sup>Allam Rithwick Reddy</sup>
 </p>
@@ -44,9 +44,8 @@ by Mr Seah Kian Peng, Singapore’s Speaker of Parliament.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2026 gct/NGLA1_03.jpg">
+<img style="width: 95%;" height="auto" width="100%" alt="" src="/images/Spotlight/2026 gct/NGLA1_03.jpg">
 </div>
 <p><sup>Charlene Cheok Eu Xing</sup>
 </p>
@@ -54,7 +53,6 @@ by Mr Seah Kian Peng, Singapore’s Speaker of Parliament.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2026 gct/NGLA1_04.jpg">
 </div>
@@ -66,9 +64,8 @@ by Mr Seah Kian Peng, Singapore’s Speaker of Parliament.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2026 gct/NGLA1_05.jpg">
+<img style="width: 95%;" height="auto" width="100%" alt="" src="/images/Spotlight/2026 gct/NGLA1_05.jpg">
 </div>
 <p><sup>Yip Ler Quan Gareth</sup>
 </p>
@@ -76,7 +73,6 @@ by Mr Seah Kian Peng, Singapore’s Speaker of Parliament.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2026 gct/IMG_20260726_WA0001__2_.jpg">
 </div>
