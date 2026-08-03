@@ -27,7 +27,8 @@ by Mr Seah Kian Peng, Singapore’s Speaker of Parliament.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 95%;" height="auto" width="100%" alt="" src="/images/Spotlight/2026 gct/NGLA1_01.jpg">
 </div>
-<p><sup>Allam Rithwick Reddy</sup>
+<p><sup>(currently at Anderson-Serangoon JC)</sup>
+</p><p><sup>Allam Rithwick Reddy</sup>
 </p>
 <p><sup>(currently at Victoria JC)</sup>
 </p>
