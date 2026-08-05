@@ -28,14 +28,13 @@ by Mr Seah Kian Peng, Singapore’s Speaker of Parliament.</p>
 <img style="width: 96%;" height="auto" width="100%" alt="" src="/images/Spotlight/2026 gct/NGLA1_01.jpg">
 </div>
 <p style="font-size:12px" align="center">Allam Rithwick Reddy (currently at Victoria JC)</p>
-<p style="font-size:12px" align="center">(currently at Victoria JC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2026 gct/NGLA1_02.jpg">
 </div>
 <p style="font-size:12px" align="center">Tay Qi Xuan (currently at Nanyang JC)</p>
-<p style="font-size:12px" align="center">(currently at Nanyang JC)</p>
+
 </td>
 </tr>
 <tr>
@@ -44,14 +43,13 @@ by Mr Seah Kian Peng, Singapore’s Speaker of Parliament.</p>
 <img style="width: 96%;" height="auto" width="100%" alt="" src="/images/Spotlight/2026 gct/NGLA1_03.jpg">
 </div>
 <p style="font-size:12px" align="center">Charlene Cheok Eu Xing (currently at Ngee Ann Polytechnic)</p>
-<p style="font-size:12px" align="center">(currently at Ngee Ann Polytechnic)</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spotlight/2026 gct/NGLA1_04.jpg">
 </div>
 <p style="font-size:12px" align="center">Lua En Qi Celine (currently at Tampines-Meridian JC)</p>
-<p style="font-size:12px" align="center">(currently at Tampines-Meridian JC)</p>
+
 </td>
 </tr>
 <tr>
@@ -60,7 +58,6 @@ by Mr Seah Kian Peng, Singapore’s Speaker of Parliament.</p>
 <img style="width: 96%;" height="auto" width="100%" alt="" src="/images/Spotlight/2026 gct/NGLA1_05.jpg">
 </div>
 <p style="font-size:12px" align="center">Yip Ler Quan Gareth (currently at Anderson-Serangoon JC)</p>
-<p style="font-size:12px" align="center">(currently at Anderson-Serangoon JC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
